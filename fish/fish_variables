@@ -1,0 +1,51 @@
+# This file contains fish universal variable definitions.
+# VERSION: 3.0
+SETUVAR ZO_CMD:zo
+SETUVAR Z_CMD:z
+SETUVAR Z_DATA:/home/lucas/\x2elocal/share/z/data
+SETUVAR Z_DATA_DIR:/home/lucas/\x2elocal/share/z
+SETUVAR Z_EXCLUDE:\x5e/home/lucas\x24
+SETUVAR --export __ABBR_TIPS_KEYS:ga\x1egac\x1egp\x1egs\x1epr\x1epss\x1epsy\x1epsyu\x1es\x1eys\x1eyyc\x1ea__\x1ea__\x2dx\x1ea__\x2dh
+SETUVAR --export __ABBR_TIPS_VALUES:git\x20add\x1egit\x20add\x20\x2dA\x3b\x20git\x20commit\x20\x2dm\x20\x22\x22\x1egit\x20push\x1egit\x20status\x1esudo\x20pacman\x20\x2dR\x1esudo\x20pacman\x20\x2dS\x1esudo\x20pacman\x20\x2dSyy\x1esudo\x20pacman\x20\x2dSyyu\x1esubl\x1eyay\x20\x2dS\x1eyay\x20\x2dYc\x1e
+SETUVAR --export __abbr_tips_run_once:1
+SETUVAR __fish_initialized:3100
+SETUVAR _fish_abbr_ga:git\x20add
+SETUVAR _fish_abbr_gac:git\x20add\x20\x2dA\x3b\x20git\x20commit\x20\x2dm\x20\x22\x22
+SETUVAR _fish_abbr_gp:git\x20push
+SETUVAR _fish_abbr_gs:git\x20status
+SETUVAR _fish_abbr_pr:sudo\x20pacman\x20\x2dR
+SETUVAR _fish_abbr_pss:sudo\x20pacman\x20\x2dS
+SETUVAR _fish_abbr_psy:sudo\x20pacman\x20\x2dSyy
+SETUVAR _fish_abbr_psyu:sudo\x20pacman\x20\x2dSyyu
+SETUVAR _fish_abbr_s:subl3
+SETUVAR _fish_abbr_ys:yay\x20\x2dS
+SETUVAR _fish_abbr_yyc:yay\x20\x2dYc
+SETUVAR fish_color_autosuggestion:555\x1ebrblack
+SETUVAR fish_color_cancel:\x2dr
+SETUVAR fish_color_command:005fd7
+SETUVAR fish_color_comment:990000
+SETUVAR fish_color_cwd:green
+SETUVAR fish_color_cwd_root:red
+SETUVAR fish_color_end:009900
+SETUVAR fish_color_error:ff0000
+SETUVAR fish_color_escape:00a6b2
+SETUVAR fish_color_history_current:\x2d\x2dbold
+SETUVAR fish_color_host:normal
+SETUVAR fish_color_host_remote:yellow
+SETUVAR fish_color_match:\x2d\x2dbackground\x3dbrblue
+SETUVAR fish_color_normal:normal
+SETUVAR fish_color_operator:00a6b2
+SETUVAR fish_color_param:00afff
+SETUVAR fish_color_quote:999900
+SETUVAR fish_color_redirection:00afff
+SETUVAR fish_color_search_match:bryellow\x1e\x2d\x2dbackground\x3dbrblack
+SETUVAR fish_color_selection:white\x1e\x2d\x2dbold\x1e\x2d\x2dbackground\x3dbrblack
+SETUVAR fish_color_status:red
+SETUVAR fish_color_user:brgreen
+SETUVAR fish_color_valid_path:\x2d\x2dunderline
+SETUVAR fish_greeting:
+SETUVAR fish_key_bindings:fish_default_key_bindings
+SETUVAR fish_pager_color_completion:\x1d
+SETUVAR fish_pager_color_description:B3A06D\x1eyellow
+SETUVAR fish_pager_color_prefix:white\x1e\x2d\x2dbold\x1e\x2d\x2dunderline
+SETUVAR fish_pager_color_progress:brwhite\x1e\x2d\x2dbackground\x3dcyan
