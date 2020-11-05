@@ -118,3 +118,5 @@ alias s="subl"
 alias update-grub
 
 alias gs="git status"
+
+alias fuck="proxychains"
