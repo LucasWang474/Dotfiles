@@ -35,27 +35,12 @@ set $HDMI1 HDMI-A-0 # My SAMSUNG screen
 set $firstMonitor $eDP
 set $secondMonitor $HDMI1
 
-########################################################################################################################
-### Deal with screen tearing
-# Since this might not always work, you may try this:
-################################################
-#vim /etc/X11/xorg.conf.d/20-amdgpu.conf
-#Section "Device"
-#    Identifier "AMD"
-#    Driver "amdgpu"
-#    Option "TearFree" "true"
-#EndSection
-################################################
-
-exec_always --no-startup-id xrandr --output $firstMonitor --set TearFree on
-exec_always --no-startup-id xrandr --output $secondMonitor --set TearFree on
-########################################################################################################################
 
 ########################################################################################################################
 set $screen_scripts $HOME/.config/screenlayout
 #exec $screen_scripts/init.sh
-#exec $screen_scripts/primary.sh
-exec --no-startup-id $screen_scripts/vertical.sh
+exec $screen_scripts/primary.sh
+#exec --no-startup-id $screen_scripts/vertical.sh
 
 bindsym $mod+i mode "$init"
 set $init (p)rimary, (o)ther, (v)ertiacal, (h)orizontal, (d)uplicate
@@ -218,7 +203,7 @@ bindsym $mod+Shift+Right move right
 ########################################################################################################################
 ### Workspace 1: Code
 assign [class="sublime-text|sublime_text|Sublime_text|subl|Subl|subl3|Subl3"] → $ws1
-bindsym $mod+Shift+s exec subl3
+bindsym $mod+Shift+s exec subl
 
 assign [class="jetbrains-idea|code-oss|jetbrains-pycharm"] → $ws1
 ########################################################################################################################
@@ -364,8 +349,8 @@ bindsym Shift+F12 exec --no-startup-id xfce4-terminal --drop-down; focus
 ########################################################################################################################
 # file manager
 bindsym $mod+F1 exec $terminal -e ranger
-#bindsym $mod+F3 exec pcmanfm
-bindsym $mod+F3 exec thunar
+bindsym $mod+F3 exec pcmanfm
+#bindsym $mod+F3 exec thunar
 ########################################################################################################################
 
 
@@ -556,7 +541,7 @@ bindsym XF86AudioPrev exec playerctl previous
 bindsym XF86MonBrightnessUp exec --no-startup-id brightnessctl -q s +3%
 bindsym XF86MonBrightnessDown exec --no-startup-id brightnessctl -q s 3%-
 
-exec brightnessctl set 15% &
+# exec brightnessctl set 15% &
 
 #########################################################################################################################
 #########################################################################################################################
@@ -592,6 +577,9 @@ floating_minimum_size 400 x 200
 #for_window <criteria> <command>
 for_window [class="Pamac-manager"] floating enable
 for_window [class="arandr|Arandr"] floating enable
+for_window [class="qt5ct"] floating enable
+
+for_window [class="gpartedbin|GParted"] floating enable
 for_window [class="netease-cloud-music"] border 4
 #for_window [class="netease-cloud-music"] floating enable border 4
 #for_window [class="netease-cloud-music"] resize set 500 500
@@ -823,7 +811,7 @@ client.urgent           $ubgcolor    $ubgcolor     $textcolor     $bgcolor
 ### i3 bar
 # Start i3bar to display a workspace bar (plus the system information i3status finds out, if available)
 bar {
-	font pango: Noto Sans, Font Awesome 5 Free, Font Awesome 5 Brands, FontAwesome 12
+    font pango: Noto Sans, Font Awesome 5 Free, Font Awesome 5 Brands, FontAwesome 12
 
     status_command i3status -c $HOME/.config/i3/i3status.conf
     #status_command i3status
@@ -882,10 +870,10 @@ exec_always --no-startup-id nitrogen --restore
 exec_always fcitx5
 
 # window compositor
-exec_always picom
+# exec picom
 
 # night mode
-exec --no-startup-id redshift -P -O 4800
+# exec --no-startup-id redshift -P -O 4800
 
 #exec clipit
 ########################################################################################################################
@@ -893,7 +881,7 @@ exec --no-startup-id redshift -P -O 4800
 
 ########################################################################################################################
 ### 1
-exec --no-startup-id subl3
+exec --no-startup-id subl
 ########################################################################################################################
 
 ########################################################################################################################
@@ -914,19 +902,17 @@ exec --no-startup-id okular
 
 ########################################################################################################################
 ### 5
-#exec --no-startup-id gnome-clocks
+exec --no-startup-id gnome-clocks
 ########################################################################################################################
 
 ########################################################################################################################
 ### 6
-#exec --no-startup-id vmware
+exec --no-startup-id vmware
 ########################################################################################################################
 
 ########################################################################################################################
 ### 7
 # proxy
-#exec ss-qt5
-
 #exec qv2ray
 exec --no-startup-id $HOME/.config/qv2ray/init.sh
 #exec v2ray -config $HOME/Tools/VPN/VPN_Configs/client/HK01.json
@@ -936,7 +922,6 @@ exec --no-startup-id $HOME/.config/qv2ray/init.sh
 ### 8
 # music
 exec --no-startup-id netease-cloud-music
-#exec --no-startup-id netease-cloud-music-gtk
 ########################################################################################################################
 
 
