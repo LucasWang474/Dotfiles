@@ -2,6 +2,10 @@
 # VERSION: 3.0
 SETUVAR --export ABBR_TIPS_PROMPT:\x5cn\U0001f4a1\x20\x5ce\x5b1m\x7b\x7b\x20\x2eabbr\x20\x7d\x7d\x5ce\x5b0m\x20\x3d\x3e\x20\x7b\x7b\x20\x2ecmd\x20\x7d\x7d
 SETUVAR --export ABBR_TIPS_REGEXES:\x28\x5e\x28\x5cw\x2b\x5cs\x2b\x29\x2b\x28\x2d\x7b1\x2c2\x7d\x29\x5cw\x2b\x29\x28\x5cs\x5cS\x2b\x29\x1e\x28\x5e\x28\x5cs\x3f\x28\x5cw\x2d\x3f\x29\x2b\x29\x7b3\x7d\x29\x2e\x2a\x1e\x28\x5e\x28\x5cs\x3f\x28\x5cw\x2d\x3f\x29\x2b\x29\x7b2\x7d\x29\x2e\x2a\x1e\x28\x5e\x28\x5cs\x3f\x28\x5cw\x2d\x3f\x29\x2b\x29\x7b1\x7d\x29\x2e\x2a
+SETUVAR --export --path CMAKE_PREFIX_PATH:/home/lucas/Codes/Git\x2dRepositories/garfieldpp/install
+SETUVAR --export GARFIELD_HOME:/home/lucas/Codes/Git\x2dRepositories/garfieldpp/
+SETUVAR --export HEED_DATABASE:/home/lucas/Codes/Git\x2dRepositories/garfieldpp/Heed/heed\x2b\x2b/database
+SETUVAR --export TERM:xterm\x2d256color
 SETUVAR ZO_CMD:zo
 SETUVAR Z_CMD:z
 SETUVAR Z_DATA:/home/lucas/\x2elocal/share/z/data
@@ -10,11 +14,22 @@ SETUVAR Z_EXCLUDE:\x5e/home/lucas\x24
 SETUVAR --export __ABBR_TIPS_KEYS:fuck\x1epSn\x1epsn
 SETUVAR --export __ABBR_TIPS_VALUES:export\x20http_proxy\x3dhttp\x3a//127\x2e0\x2e0\x2e1\x3a1082/\x3b\x20export\x20https_proxy\x3d\x24http_proxy\x1esudo\x20pacman\x20\x2dS\x20\x2d\x2dneeded\x1esudo\x20pacman\x20\x2dS\x20\x2d\x2dneeded
 SETUVAR __fish_initialized:3100
+SETUVAR _fish_abbr_cfh:catfish\x20\x2e
 SETUVAR _fish_abbr_fuck:export\x20http_proxy\x3dhttp\x3a//127\x2e0\x2e0\x2e1\x3a1082/\x3b\x20export\x20https_proxy\x3d\x24http_proxy
+SETUVAR _fish_abbr_ga:git\x20add
+SETUVAR _fish_abbr_gal:git\x20add\x20\x2dA
+SETUVAR _fish_abbr_gb:git\x20branch
+SETUVAR _fish_abbr_gc:git\x20commit\x20\x2dm\x20\x22
+SETUVAR _fish_abbr_gk:git\x20checkout
+SETUVAR _fish_abbr_gl:git\x20log
+SETUVAR _fish_abbr_gp:git\x20push
 SETUVAR _fish_abbr_gs:git\x20status
 SETUVAR _fish_abbr_pSn:sudo\x20pacman\x20\x2dS\x20\x2d\x2dneeded
 SETUVAR _fish_abbr_psn:sudo\x20pacman\x20\x2dS\x20\x2d\x2dneeded
+SETUVAR _fish_abbr_t256:set\x20TERM\x20xterm\x2d256color
 SETUVAR _fish_abbr_ud:sudo\x20pacman\x20\x2dSyyu
+SETUVAR _fish_abbr_unzipg:unzip\x20\x2dO\x20gbk
+SETUVAR _fish_abbr_ysn:yay\x20\x2dS\x20\x2d\x2dneeded
 SETUVAR _fish_abbr_yyc:yay\x20\x2dYc
 SETUVAR _fisher_Gazorby_2F_fish_2D_abbreviation_2D_tips_files:/home/lucas/\x2econfig/fish/functions/__abbr_tips_bind_newline\x2efish\x1e/home/lucas/\x2econfig/fish/functions/__abbr_tips_bind_space\x2efish\x1e/home/lucas/\x2econfig/fish/functions/__abbr_tips_init\x2efish\x1e/home/lucas/\x2econfig/fish/conf\x2ed/abbr_tips\x2efish
 SETUVAR _fisher_jethrokuan_2F_z_files:/home/lucas/\x2econfig/fish/functions/__z\x2efish\x1e/home/lucas/\x2econfig/fish/functions/__z_add\x2efish\x1e/home/lucas/\x2econfig/fish/functions/__z_clean\x2efish\x1e/home/lucas/\x2econfig/fish/functions/__z_complete\x2efish\x1e/home/lucas/\x2econfig/fish/conf\x2ed/z\x2efish
