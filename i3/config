@@ -997,8 +997,8 @@ bar {
     # Second one is the standard statusbar with my personal settings
 
     #status_command i3status
-    # status_command i3status -c ~/.config/i3/i3status.conf
-    status_command i3status -c $HOME/Codes/Git-Repositories/Dotfiles/i3/i3status.conf
+    status_command i3status -c ~/.config/i3/i3status.conf
+    # status_command i3status -c $HOME/Codes/Git-Repositories/Dotfiles/i3/i3status.conf
 
 
     # OPTION 2 : i3blocks
