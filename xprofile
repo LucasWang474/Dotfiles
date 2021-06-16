@@ -1,9 +1,0 @@
-brightnessctl set 15% &
-redshift -P -O 4800 &
-picom &
-nitrogen --restore &
-
-xset -b &
-numlockx &
-
-export QT_QPA_PLATFORMTHEME=qt5ct
