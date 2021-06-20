@@ -1,0 +1,100 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/bin/node" />
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontScale" value="1.25" />
+    <option name="fontSize" value="18" />
+  </component>
+  <component name="ProjectPluginTrackerManager">
+    <trackers>
+      <map>
+        <entry key="1u2T01wQFHowddXjMfvCuAesAqn">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1u7cBlpjWSGk4cBbD3BiBUB9fdj">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1u86rov96RjIr4TdkwjkZpj47tc">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1u89bFHkPhqRcHQvw22bed0jX0W">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1uAqW6sta3urDeDURnI2b0L98R6">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1uAuTv74tGKFXlC3Bx6oT2gNYqk">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+      </map>
+    </trackers>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandEnvironmentPanel" value="false" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="IdeaUltimate.EnableRunTargetsOnce" value="true" />
+    <property name="InstalledPluginsSearchHistory" value="dracula&#10;dracular&#10;dracul&#10;dracu&#10;drac" />
+    <property name="KEYMAP" value="new file&#10;terminal&#10;Actions&#10;setting" />
+    <property name="LayoutCode.optimizeImports" value="true" />
+    <property name="LayoutCode.processChangedText" value="false" />
+    <property name="LayoutCode.rearrangeEntriesJava" value="false" />
+    <property name="LayoutCode.rearrangeEntriesPython" value="false" />
+    <property name="MarketplacePluginsSearchHistory" value="dracula&#10;material" />
+    <property name="NonModalCommitCustomization.IsApplied" value="true" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="ProjectStructure.TopLevelElements" value="0.21596247" />
+    <property name="PythonUnitTestRunnerSupport.hidePassedTests" value="false" />
+    <property name="SHOW_INHERITED.file.structure.state" value="true" />
+    <property name="ShowDocumentationInToolWindow" value="false" />
+    <property name="appcds.runOnSecondStart" value="IU-211.7442.40-a90a935ac68fc2c95be294ba9f6f8312f4088edeafa162b6a71aa68262f4ee31" />
+    <property name="build.toolwindow.Build Output.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Sources" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="defaultJdkConfigured" value="true" />
+    <property name="evlsprt3.211" value="12" />
+    <property name="experimentalFeature.run.targets" value="true" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/Codes/GitHub/Java-Learning/01_Java_Basics/Codes&#10;/home/lucas/Codes/GitHub/Java-Learning/01_Java_Basics/Codes/Day02&#10;/home/lucas/Codes/GitHub/My-LeetCode-Solutions/LinkedList-Stack-Queue&#10;/home/lucas/Codes/GitHub/My-LeetCode-Solutions" />
+    <property name="file.gist.reindex.count" value="6931" />
+    <property name="fileTypeChangedCounter" value="4" />
+    <property name="fileTypeDetectors" value="com.android.tools.idea.fileTypes.profiler.MemoryCaptureFileType$Detector:com.android.tools.idea.sqlite.fileType.SqliteFileTypeDetector:com.intellij.database.vfs.DbStorageFileType$Detector:com.intellij.ide.scratch.ScratchFileServiceImpl$Detector:com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector:com.intellij.profiler.ultimate.hprof.impl.HprofFileTypeDetector:com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector:com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector" />
+    <property name="got.it.tooltip.cwm.invitation.notification" value="1" />
+    <property name="got.it.tooltip.reader.mode.got.it" value="1" />
+    <property name="ide.memory.adjusted" value="true" />
+    <property name="ide.updates.previous.build.number" value="IU-211.7442.40" />
+    <property name="ide.updates.whats.new.shown.for" value="211" />
+    <property name="installed.kotlin.plugin.version" value="211-1.4.32-release-IJ7442.2" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="kotlin.lastUpdateCheck" value="1624080793297" />
+    <property name="lastSeenTip" value="neue-partial_git_commit.html" />
+    <property name="lastTimeTipsWereShown" value="1624066493597" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Codes/GitHub/Java-Learning/01_Java_Basics/Codes" />
+    <property name="log.trace.categories" value="#com.jetbrains.rdserver.requests&#10;#com.jetbrains.rd.ide.document&#10;#com.jetbrains.rdserver.document&#10;#com.jetbrains.rdserver.editors&#10;#com.jetbrains.rdserver.actions" />
+    <property name="mt.showStatisticsAgreement" value="true" />
+    <property name="packagesearch.endpoint.url.fulltext" value="https://package-search.services.jetbrains.com/api/search/idea/fulltext" />
+    <property name="packagesearch.endpoint.url.suggest" value="https://package-search.services.jetbrains.com/api/search/idea/suggest" />
+    <property name="packagesearch.status.updated.ts" value="1623862458916" />
+    <property name="project.wizard.group" value="JAVA_MODULE" />
+    <property name="quick.doc.font.size.v3" value="X_LARGE" />
+    <property name="run.configuration.edit.ad" value="true" />
+    <property name="seenTips" value="neue-WildcardsInNavigationPopups.html,neue-smart_selection.html,neue-partial_git_commit.html" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+    <property name="ts.lib.d.ts.version" value="4.2.2" />
+  </component>
+  <component name="ToolbarSettingsService">
+    <option name="NEW_TOOLBAR_SETTINGS" value="OLD_NAVBAR" />
+  </component>
+</application>

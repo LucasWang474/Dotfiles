@@ -296,11 +296,11 @@ bindsym $mod+Shift+Tab move container to workspace back_and_forth; workspace bac
 # move the whole workspace to the next output
 bindsym $mod+grave move workspace to output right
 # move current window to the next output
-bindsym $alt+grave move container to output right
+bindsym Mod1+grave move container to output right
 
 #navigate workspaces next / previous
-bindsym Mod1+Ctrl+Right workspace next
-bindsym Mod1+Ctrl+Left workspace prev
+# bindsym Mod1+Ctrl+Right workspace next
+# bindsym Mod1+Ctrl+Left workspace prev
 
 # switch to workspace with urgent window automatically
 for_window [urgent=latest] focus
@@ -430,7 +430,7 @@ assign [class="okular"] → 4
 #assign [class="Vlc|vlc"]                                                            → 6
 
 # Workspace 7 virtual machines and settings
-assign [class="Vmplayer|VirtualBox|Vmware"] → 7
+assign [class="Vmplayer|VirtualBox|Vmware|Virt-manager|virt-viewer"] → 7
 
 # Workspace 8 video, audio
 assign [class="netease-cloud-music"] → 8
@@ -440,7 +440,7 @@ assign [class="SimpleScreenRecorder"] → 8
 assign [class="baidunetdisk|thunder"] → 9
 
 # Workspace 10 education tools
-assign [class="Anki|Goldendict"] → 9
+assign [class="Anki|GoldenDict"] → 10
 
 
 
@@ -463,6 +463,10 @@ exec --no-startup-id fcitx
 
 # Typora
 exec --no-startup-id typora
+
+# Anki
+exec --no-startup-id goldendict
+exec --no-startup-id anki
 
 # ArcoLinux Welcome App
 # exec --no-startup-id dex $HOME/.config/autostart/arcolinux-welcome-app.desktop
@@ -529,7 +533,7 @@ exec_always --no-startup-id numlockx on
 #exec --no-startup-id xfce4-clipman
 
 #Conky
-exec --no-startup-id conky -c ~/.config/i3/system-overview
+# exec --no-startup-id conky -c ~/.config/i3/system-overview
 
 #feh sets wallpaper
 exec --no-startup-id feh --bg-fill /usr/share/backgrounds/arcolinux/arco-wallpaper.jpg &
@@ -625,7 +629,7 @@ bindsym $mod+F2 exec --no-startup-id google-chrome-stable;focus
 bindsym $mod+F3 exec --no-startup-id typora;focus
 
 #workspace 4 related
-bindsym $mod+F4 exec --no-startup-id okular;focus
+bindsym $mod+k exec --no-startup-id okular;focus
 
 #workspace 5 related
 # bindsym $mod+F5 exec --no-startup-id meld;focus
@@ -669,7 +673,7 @@ bindsym Control+Shift+Print exec --no-startup-id gnome-screenshot -i
 
 bindsym $mod+c mode "$screenshot"
 
-set $screenshot (alt+a)rea, (alt+s)ingle screen, a(alt+l) screens, save (Shift+s)ingle screen, save a(Shift+l)l screens  
+set $screenshot (alt+a)rea, (alt+s)ingle screen, a(alt+l) screens, save (Shift+s)ingle screen, save a(Shift+l)l screens, (alt+c)onfig
 mode "$screenshot" {
     # Some tools (such as import or xdotool) might be unable to run 
     # upon a KeyPress event, because the keyboard/pointer is still grabbed. 
@@ -683,6 +687,10 @@ mode "$screenshot" {
     
     bindsym mod1+l --release exec flameshot full -c
     bindsym Shift+l --release exec flameshot full -p ~/Pictures/
+    
+    bindsym Shift+l --release exec flameshot full -p ~/Pictures/
+
+    bindsym mod1+c --release exec flameshot config
     
     bindsym Return mode "default"
     bindsym Escape mode "default"
@@ -770,19 +778,19 @@ for_window [class="Terminator"] focus
 
 #Variety keybindings mod1 = ALT
 # trash wallpaper
-bindsym mod1+t exec --no-startup-id variety -t
+# bindsym mod1+t exec --no-startup-id variety -t
 # next wallpaper
-bindsym mod1+n exec --no-startup-id variety -n
-bindsym mod1+Right exec --no-startup-id variety -n
+# bindsym mod1+n exec --no-startup-id variety -n
+# bindsym mod1+Right exec --no-startup-id variety -n
 # previous wallpaper
-bindsym mod1+p exec --no-startup-id variety -p
-bindsym mod1+Left exec --no-startup-id variety -p
+# bindsym mod1+p exec --no-startup-id variety -p
+# bindsym mod1+Left exec --no-startup-id variety -p
 # favorite wallpaper
-bindsym mod1+f exec --no-startup-id variety -f
+# bindsym mod1+f exec --no-startup-id variety -f
 # pause wallpaper
-bindsym mod1+Up exec --no-startup-id variety --pause
+# bindsym mod1+Up exec --no-startup-id variety --pause
 # resume wallpaper
-bindsym mod1+Down exec --no-startup-id variety --resume
+# bindsym mod1+Down exec --no-startup-id variety --resume
 
 
 #####################################################################################################################
@@ -830,8 +838,8 @@ bindsym XF86AudioStop exec --no-startup-id playerctl stop
 # bindsym XF86MonBrightnessUp exec --no-startup-id xbacklight -inc 20 # increase screen brightness
 # bindsym XF86MonBrightnessDown exec --no-startup-id xbacklight -dec 20 # decrease screen brightness
 
-bindsym XF86MonBrightnessUp exec --no-startup-id brightnessctl -q s +5%
-bindsym XF86MonBrightnessDown exec --no-startup-id brightnessctl -q s 5%-
+# bindsym XF86MonBrightnessUp exec --no-startup-id brightnessctl -q s +5%
+# bindsym XF86MonBrightnessDown exec --no-startup-id brightnessctl -q s 5%-
 
 
 #####################################################################################################################
@@ -890,10 +898,10 @@ popup_during_fullscreen smart
 # want it
 
 
-for_window [class="^.*"] border pixel 2
-for_window [class="netease-cloud-music"] border pixel 2
-# for_window [class="Pamac-manager"] border pixel 2
-for_window [class="Org.gnome.clocks"] border pixel 2
+for_window [class="^.*"] border pixel 3
+for_window [class="netease-cloud-music"] border pixel 3
+# for_window [class="Pamac-manager"] border pixel 3
+for_window [class="Org.gnome.clocks"] border pixel 3
 
 
 # gaps inner 5
@@ -970,7 +978,7 @@ exec_always --no-startup-id picom --config ~/.config/i3/picom.conf
 
 bar {
 
-    height 28
+    height 29
     workspace_buttons yes
     font pango:Noto Sans 11, Font Awesome 5 Free 11, Font Awesome 5 Brands 11, FontAwesome 11
     # font pango:Noto Sans 11
@@ -1032,6 +1040,19 @@ bar {
     ## THEMING Tips
     # If you would like fully trasparent bar, you can add 00 to the end of background #?????? below
 
+    # Dracula
+    colors {
+        background #282A3600
+        statusline #F8F8F2
+        separator  #44475A
+
+        focused_workspace  #44475A #44475A #F8F8F2
+        active_workspace   #282A36 #44475A #F8F8F2
+        inactive_workspace #282A36 #282A36 #BFBFBF
+        urgent_workspace   #FF5555 #FF5555 #F8F8F2
+        binding_mode       #FF5555 #FF5555 #F8F8F2
+    }
+
 
     ##START THEMING BAR
     #Theme name : ArcoLinux Ruins
@@ -1039,17 +1060,17 @@ bar {
     # i3 bar colors
     # variable border background Text
 
-    colors {
-        background #30303000
-        statusline #d0e1d4
-        separator  #c1d0c1
+    # colors {
+    #     background #30303000
+    #     statusline #d0e1d4
+    #     separator  #c1d0c1
 
-        # colorclass           border  backgr. text
-        focused_workspace     #FF6F54 #FF6F54 #FFF2CE
-        active_workspace      #FF6F54 #FF6F54 #FFF2CE
-        inactive_workspace    #64635f #64635f #a7afa9
-        urgent_workspace      #e82951 #e82951 #FFF2CE
-        }
+    #     # colorclass           border  backgr. text
+    #     focused_workspace     #FF6F54 #FF6F54 #FFF2CE
+    #     active_workspace      #FF6F54 #FF6F54 #FFF2CE
+    #     inactive_workspace    #64635f #64635f #a7afa9
+    #     urgent_workspace      #e82951 #e82951 #FFF2CE
+    #     }
 
     }
     ##STOP THEMING BAR
@@ -1059,13 +1080,13 @@ bar {
 
     # Window color settings
     # class                 border  backgr. text    indicator
-    client.focused          #FF6F54 #FF6F54 #e5e5e5 #FF6F54
-    client.unfocused        #222222 #222222 #aaaaaa #222222
-    client.focused_inactive #222222 #222222 #aaaaaa #222222
-    client.placeholder      #222222 #222222 #aaaaaa #222222
-    client.urgent           #d42121 #d42121 #f7f7f7 #d42121
+    # client.focused          #FF6F54 #FF6F54 #e5e5e5 #FF6F54
+    # client.unfocused        #222222 #222222 #aaaaaa #222222
+    # client.focused_inactive #222222 #222222 #aaaaaa #222222
+    # client.placeholder      #222222 #222222 #aaaaaa #222222
+    # client.urgent           #d42121 #d42121 #f7f7f7 #d42121
 
-    client.background       #242424
+    # client.background       #242424
 
     ##STOP THEMING WM
 
@@ -1081,6 +1102,16 @@ bar {
 #####################################################################################################################
 #####################################################################################################################
 
+
+## Dracula
+# class                 border  bground text    indicator child_border
+client.focused          #6272A4 #6272A4 #F8F8F2 #6272A4   #6272A4
+client.focused_inactive #44475A #44475A #F8F8F2 #44475A   #44475A
+client.unfocused        #282A36 #282A36 #BFBFBF #282A36   #282A36
+client.urgent           #44475A #FF5555 #F8F8F2 #FF5555   #FF5555
+client.placeholder      #282A36 #282A36 #F8F8F2 #282A36   #282A36
+
+client.background       #F8F8F2
 
 
 #####################################################################################################################

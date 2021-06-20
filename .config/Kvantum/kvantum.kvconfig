@@ -1,0 +1,6 @@
+[General]
+theme=ArcDark
+
+[Applications]
+ArcDark=simplescreenrecorder, qbittorrent, vlc, flameshot, octopi, octopi-notifier, imagewriter, keepassxc, pcmanfm-qt, lxqt-leave, gammaray, sddm-config-editor
+Default=virtualbox

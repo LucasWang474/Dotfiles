@@ -1,0 +1,122 @@
+<project version="4">
+  <component name="FavoritesManager">
+    <favorites_list name="IdeaLearningProject" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Sample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/Sample.java" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="466000" />
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.50056434" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" sideWeight="0.49943566" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" sideWeight="0.49943566" side_tool="true" weight="0.25" />
+      <window_info id="Commit" order="3" />
+      <window_info id="Learn" order="4" sideWeight="0.50056434" weight="0.32993728" />
+      <window_info id="Pull Requests" order="5" />
+      <window_info id="Space Code Reviews" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32966506" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32966506" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="3" />
+      <window_info anchor="bottom" id="Problems View" order="3" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="File Transfer" order="4" />
+      <window_info anchor="bottom" id="Terminal" order="4" />
+      <window_info anchor="bottom" id="Profiler" order="5" />
+      <window_info anchor="bottom" id="Database Changes" order="6" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" order="6" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="6" />
+      <window_info anchor="bottom" id="Flow" order="6" />
+      <window_info anchor="bottom" id="Endpoints" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Packages" order="7" />
+      <window_info anchor="bottom" id="Services" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Space Automation" order="6" />
+      <window_info anchor="right" id="SciView" order="7" />
+    </layout>
+    <recentWindows>
+      <value>Structure</value>
+      <value>Find</value>
+      <value>Favorites</value>
+      <value>Project</value>
+      <value>Run</value>
+      <value>Learn</value>
+    </recentWindows>
+  </component>
+  <component name="Trusted.Project.Settings" hasCheckedIfOldProject="true" trusted="YES" />
+  <component name="WindowStateProjectService">
+    <state x="619" y="213" width="834" height="665" key="StructurePopup" timestamp="1624020352000">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="619" y="213" width="834" height="665" key="StructurePopup/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1624020352000" />
+    <state width="623" height="540" key="SwitcherDM" timestamp="1624020278688">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="623" height="540" key="SwitcherDM/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1624020278688" />
+    <state x="639" y="0" width="888" height="826" key="find.popup" timestamp="1624020174062">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="639" y="0" width="888" height="826" key="find.popup/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1624020174062" />
+    <state width="750" height="500" key="javadoc.popup" timestamp="1624020060436">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="750" height="500" key="javadoc.popup/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1624020060436" />
+    <state x="519" y="194" width="875" height="663" key="recent.locations.popup" timestamp="1624020301370">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="519" y="194" width="875" height="663" key="recent.locations.popup/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1624020301370" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Sample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

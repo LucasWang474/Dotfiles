@@ -1,5 +1,5 @@
 ! dpi settings
-Xft.dpi: 120
+Xft.dpi: 110
 
 ! These might also be useful depending on your monitor and personal preference:
 Xft.autohint: 0

@@ -1,15 +1,37 @@
-[Desktop Entry]
-FullScreen=false
-
-[MainWindow]
-RestorePositionForNextInstance=false
-State=AAAA/wAAAAD9AAAAAAAAB3oAAAPNAAAABAAAAAQAAAAIAAAACPwAAAACAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAAgAAAAEAAAAiAGEAbgBuAG8AdABhAHQAaQBvAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
-ToolBarsMovable=Disabled
+State=AAAA/wAAAAD9AAAAAAAAB3oAAAP3AAAABAAAAAQAAAAIAAAACPwAAAACAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAAAAAAAgAAAAEAAAAiAGEAbgBuAG8AdABhAHQAaQBvAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
 eDP HDMI-A-0 Height 1920x1080=1046
 eDP HDMI-A-0 Width 1920x1080=1914
 eDP HDMI-A-0 XPosition 1920x1080=3
 eDP HDMI-A-0 YPosition 1920x1080=31
-eDP Height 1920x1080=1046
-eDP Width 1920x1080=1914
-eDP XPosition 1920x1080=3
+
+[Desktop Entry]
+FullScreen=false
+
+[MainWindow]
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAB3oAAAQVAAAABAAAAAQAAAAIAAAACPwAAAACAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAAAAAAAgAAAAEAAAAiAGEAbgBuAG8AdABhAHQAaQBvAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+eDP HDMI-A-0 Height 1920x1080=1020
+eDP HDMI-A-0 Width 1920x1080=1914
+eDP HDMI-A-0 XPosition 1920x1080=3
+eDP HDMI-A-0 YPosition 1920x1080=57
+eDP Height 1920x1080=1047
+eDP Width 1920x1080=1916
+eDP XPosition 1920x1080=2
 eDP YPosition 1920x1080=31
+
+[Recent Files]
+File1[$e]=$HOME/Downloads/BaidunetdiskDownloads/尚硅谷JavaWeb_2020idea新版/资料/01-html&CSS/笔记/01_尚硅谷_html&CSS_王振国 - 课堂笔记.pdf
+File2[$e]=$HOME/Codes/GitHub/My-LeetCode-Solutions/Notes/13StacksAndQueues.pdf
+File3[$e]=$HOME/Documents/Computer_Science/Java/Core Java Volume I—Fundamentals Tenth Edition.pdf
+File4[$e]=$HOME/Documents/Computer_Science/Java/Core Java Volume II Advanced Features Tenth Edition.pdf
+File5[$e]=$HOME/Codes/GitHub/Java-Learning/01_Java_Basics/Notes/01尚硅谷_宋红康_第1章_Java语言概述.pdf
+File6[$e]=$HOME/Downloads/BaidunetdiskDownloads/尚硅谷宋红康Java核心基础_好评如潮/资料/2_项目/Project1（家庭收支记账软件）/1.1-需求说明/尚硅谷_宋红康_Project1.pdf
+File7[$e]=$HOME/Downloads/BaidunetdiskDownloads/尚硅谷宋红康Java核心基础_好评如潮/资料/2_项目/Project1（家庭收支记账软件）/1.2-参考实现/项目一详细实现过程.pdf
+Name1[$e]=01_尚硅谷_html&CSS_王振国 - 课堂笔记.pdf
+Name2[$e]=13StacksAndQueues.pdf
+Name3[$e]=Core Java Volume I—Fundamentals Tenth Edition.pdf
+Name4[$e]=Core Java Volume II Advanced Features Tenth Edition.pdf
+Name5[$e]=01尚硅谷_宋红康_第1章_Java语言概述.pdf
+Name6[$e]=尚硅谷_宋红康_Project1.pdf
+Name7[$e]=项目一详细实现过程.pdf
