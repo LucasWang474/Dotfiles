@@ -1,0 +1,31 @@
+
+-------- SESSION 2021-07-09T11:43:28.970Z (11.0.1+202106220606, linux, x64, 16175779840, XMind Ltd., vana_linux) --------
+[I 2021-07-09T11:43:29.095Z main:store:plugins:iap] The user is not allowed to make in-app purchase.
+[I 2021-07-09T11:43:29.464Z main:store:plugins:electron] Application will finish launching.
+[I 2021-07-09T11:43:29.466Z main:store:plugins:electron] Application arguments: ["/opt/XMind/xmind"]
+[I 2021-07-09T11:43:29.474Z main:store:plugins:electron] Application is ready.
+[I 2021-07-09T11:43:29.620Z main:store:plugins:electron] Device ID: ec86dd13-2088-4f9e-b4bf-e50e4290bf31
+[I 2021-07-09T11:43:31.720Z main:store:plugins:open-handler] Recover: Map {
+  '1' => [
+    {
+      source: 'new://workbook?theme=M01&template=map&title=Snowbrush&structure=org.xmind.ui.map.unbalanced',
+      editorId: '5f79d36e65e8be57650f78dcfd'
+    }
+  ]
+}
+[I 2021-07-09T11:43:31.724Z main:store:plugins:activation-updater] Start updating subscription information periodically.
+[I 2021-07-09T11:43:31.724Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-07-09T11:43:31.725Z main:store:plugins:activation-updater] Start updating per-machine license information periodically.
+[I 2021-07-09T11:43:31.725Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-07-09T11:43:51.012Z main:store:plugins:editors:EditorFrame] Frame 1 close
+[I 2021-07-09T11:43:51.077Z main:store:plugins:editors:EditorFrame] Not find editor view: undefined file:///opt/XMind/resources/app.asar/renderer/editor-frame.html?frameId=1&_apr=dark
+[I 2021-07-09T11:43:51.212Z main:store:plugins:editors:EditorFrame] Frame 1 close
+[I 2021-07-09T11:43:51.333Z main:store:plugins:electron] Application is intended to quit.
+[I 2021-07-09T11:43:51.333Z main:store:plugins:electron] Asking all editors to close their documents...
+[I 2021-07-09T11:43:51.392Z main:store:plugins:editors:EditorFrame] Frame 1 webContents destroyed
+[I 2021-07-09T11:43:51.432Z main:store:plugins:electron] All documents are closed.
+[I 2021-07-09T11:43:51.433Z main:store:plugins:activation-updater] Stop updating per-machine license information periodically.
+[I 2021-07-09T11:43:51.433Z main:store:plugins:activation-updater] Stop updating subscription information periodically.
+[I 2021-07-09T11:43:51.439Z main:store:plugins:electron] Application is intended to quit.
+[I 2021-07-09T11:43:51.439Z main:store:plugins:electron] Application will quit.
+[I 2021-07-09T11:43:51.439Z main:store:plugins:electron] Application quitted.

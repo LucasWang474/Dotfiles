@@ -1,0 +1,103 @@
+{
+    "000000000000": {
+        "connections": [
+        ],
+        "creationDate": 1623762211,
+        "displayName": "Default Group",
+        "isSubscription": false,
+        "lastUpdatedDate": 1623762211,
+        "routeConfigId": "rgvzckqyjzxp",
+        "subscriptionOption": {
+            "ExcludeKeywords": [
+            ],
+            "ExcludeRelation": 0,
+            "IncludeKeywords": [
+            ],
+            "IncludeRelation": 1,
+            "address": "",
+            "updateInterval": 10
+        }
+    },
+    "exnxbhivgamf": {
+        "connections": [
+        ],
+        "creationDate": 1627752148,
+        "displayName": "New Group - xvyzn",
+        "isSubscription": false,
+        "lastUpdatedDate": 1627752148,
+        "routeConfigId": "vfgueepjxglm",
+        "subscriptionOption": {
+            "ExcludeKeywords": [
+            ],
+            "ExcludeRelation": 0,
+            "IncludeKeywords": [
+            ],
+            "IncludeRelation": 1,
+            "address": "",
+            "updateInterval": 10
+        }
+    },
+    "syngbzommsou": {
+        "connections": [
+            "jugecgvxqibb",
+            "npexefirjmwy",
+            "nwkrnozgyiyb",
+            "azhdwhdcjids",
+            "chawwkihgzdv",
+            "wvdtmrdujsdh",
+            "ngndtoaveupb",
+            "qbozrxluvidh",
+            "ozykpibewotd",
+            "myftsrarpphx",
+            "llttwstewwyy",
+            "yrqmtqhyaxsw",
+            "bygvoihkkzok",
+            "jbxhlrytdzry",
+            "seexigqetdpu",
+            "mcivzvmvmtox",
+            "gczronrkroxc",
+            "gegdosbxghvr",
+            "abhvjtlvmzyb",
+            "afvgrxyizqrp",
+            "qoglwrxpldxz",
+            "jvkqkbvsexeo",
+            "abvornidnzqd",
+            "tfgptskufahz",
+            "xvfozmxczvvw",
+            "bssnkpqsgxbn",
+            "jufvrdpeiawu",
+            "tktgurkslatb",
+            "niwkvkxuzvql",
+            "hyputjygcxxf",
+            "xpyxpzdywsol",
+            "jrxxdfrewiwx",
+            "gzgukbbydtxa",
+            "dxqfykqfmdzi",
+            "fhtwsdncwgor",
+            "udhtdvyzwrqb",
+            "smcocuptncec",
+            "ivckcfxfgjse",
+            "nadtzwqlbstm",
+            "tcckszrkohgt",
+            "yumjyzqrqsmf",
+            "hqcsyfetyqpy",
+            "lurlehvcpxeh",
+            "kshxhylwveqx"
+        ],
+        "creationDate": 1623762250,
+        "displayName": "SoCloud",
+        "isSubscription": true,
+        "lastUpdatedDate": 1627649461,
+        "routeConfigId": "hvyopmzbxvhx",
+        "subscriptionOption": {
+            "ExcludeKeywords": [
+            ],
+            "ExcludeRelation": 0,
+            "IncludeKeywords": [
+            ],
+            "IncludeRelation": 1,
+            "address": "https://d.cloudso.club/link/gh527OTUbZW5bUEC?sub=3",
+            "updateInterval": 3
+        }
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "outbounds": [
+        {
+            "mux": {
+            },
+            "protocol": "vmess",
+            "sendThrough": "0.0.0.0",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "t3.b2cloud.xyz",
+                        "port": 11034,
+                        "users": [
+                            {
+                                "alterId": 2,
+                                "id": "680fcbf9-2ba5-3ddc-8573-df58f44d2a58",
+                                "level": 0,
+                                "security": "auto",
+                                "testsEnabled": "none"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "dsSettings": {
+                    "path": "/"
+                },
+                "httpSettings": {
+                    "host": [
+                    ],
+                    "path": "/"
+                },
+                "kcpSettings": {
+                    "congestion": false,
+                    "downlinkCapacity": 20,
+                    "header": {
+                        "type": "none"
+                    },
+                    "mtu": 1350,
+                    "readBufferSize": 1,
+                    "seed": "",
+                    "tti": 20,
+                    "uplinkCapacity": 5,
+                    "writeBufferSize": 1
+                },
+                "network": "ws",
+                "quicSettings": {
+                    "header": {
+                        "type": "none"
+                    },
+                    "key": "",
+                    "security": ""
+                },
+                "security": "none",
+                "sockopt": {
+                    "mark": 0,
+                    "tcpFastOpen": false,
+                    "tproxy": "off"
+                },
+                "tcpSettings": {
+                    "header": {
+                        "request": {
+                            "headers": {
+                            },
+                            "method": "GET",
+                            "path": [
+                            ],
+                            "version": "1.1"
+                        },
+                        "response": {
+                            "headers": {
+                            },
+                            "reason": "OK",
+                            "status": "200",
+                            "version": "1.1"
+                        },
+                        "type": "none"
+                    }
+                },
+                "tlsSettings": {
+                    "allowInsecure": false,
+                    "allowInsecureCiphers": false,
+                    "alpn": [
+                    ],
+                    "certificates": [
+                    ],
+                    "disableSessionResumption": true,
+                    "disableSystemRoot": false,
+                    "serverName": ""
+                },
+                "wsSettings": {
+                    "headers": {
+                        "Host": "jp1.b2cloud.xyz"
+                    },
+                    "path": "/v2ray"
+                }
+            },
+            "tag": "outBound_PROXY"
+        }
+    ]
+}

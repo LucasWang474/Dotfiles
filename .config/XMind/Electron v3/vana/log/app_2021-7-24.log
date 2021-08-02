@@ -1,0 +1,620 @@
+
+-------- SESSION 2021-07-23T21:14:39.022Z (10.3.1+202101132117, linux, x64, 16108658688, XMind Ltd., vana_linux_64) --------
+[I 2021-07-23T21:14:39.198Z main:store:plugins:iap] The user is not allowed to make in-app purchase.
+[I 2021-07-23T21:14:39.693Z main:store:plugins:electron] Application will finish launching.
+[I 2021-07-23T21:14:39.696Z main:store:plugins:electron] Application arguments: ["/opt/XMind/xmind"]
+[I 2021-07-23T21:14:39.728Z main:store:plugins:electron] Application is ready.
+[I 2021-07-23T21:14:39.753Z main:store:plugins:open-handler] Recover: Map {
+  '2' => [
+    {
+      source: 'file:///home/lucas/Documents/Records/Records.xmind',
+      editorId: '82db04226eeaecd53be05ba593'
+    }
+  ]
+}
+[I 2021-07-23T21:14:39.762Z main:store:plugins:activation-updater] Start updating subscription information periodically.
+[I 2021-07-23T21:14:39.762Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-07-23T21:14:39.762Z main:store:plugins:activation-updater] Start updating per-machine license information periodically.
+[I 2021-07-23T21:14:39.762Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-07-23T21:14:40.081Z main:store:plugins:electron] Device ID: ec86dd13-2088-4f9e-b4bf-e50e4290bf31
+[I 2021-07-23T21:14:58.704Z fonts] App Locale: en
+[I 2021-07-23T21:14:58.704Z fonts] start get system fonts
+[I 2021-07-23T21:15:00.172Z fonts] Consuming 1467 ms to get system fonts
+[I 2021-07-23T21:15:03.284Z main:store:plugins:editors:EditorFrame] Frame 1 close
+[I 2021-07-23T21:15:03.311Z main:store:plugins:editors:EditorFrame] Not find editor view: undefined file:///opt/XMind/resources/app.asar/renderer/editor-frame.html?frameId=1&_apr=dark
+[E 2021-07-23T21:15:03.387Z error:main] TypeError: this.view.destroy is not a function
+    at y.destroy (/opt/XMind/resources/app.asar/main/main.js:7:106494)
+    at async y.close (/opt/XMind/resources/app.asar/main/main.js:7:106148)
+    at async v.close (/opt/XMind/resources/app.asar/main/main.js:30:111567)
+[I 2021-07-23T21:15:11.713Z main:store:plugins:electron] Application receives arguments from another instance: ["xmind-2020"] /home/lucas
+[I 2021-07-23T21:15:39.763Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-23T21:15:39.764Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-23T21:16:13.692Z main:store:plugins:electron] Application receives arguments from another instance: ["xmind-2020"] /home/lucas
+[I 2021-07-23T21:16:16.173Z main:store:plugins:electron] Application is intended to quit.
+[I 2021-07-23T21:16:16.174Z main:store:plugins:electron] Asking all editors to close their documents...
+[W 2021-07-23T21:16:16.174Z main:store:plugins:editors:EditorView] Caught error on destroy: Error: No such API: "DESTROY /editors/82db04226eeaecd53be05ba593"
+    at Object.f [as fetch] (/opt/XMind/resources/app.asar/main/main.js:1:17670)
+    at y.destroy (/opt/XMind/resources/app.asar/main/main.js:7:106351)
+    at y.destroy (/opt/XMind/resources/app.asar/main/main.js:1:52188)
+    at /opt/XMind/resources/app.asar/main/main.js:30:107558
+    at /opt/XMind/resources/app.asar/main/main.js:1:17771
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async App.<anonymous> (/opt/XMind/resources/app.asar/main/main.js:30:81915) {
+  code: 'IPC_ENOAPI'
+}
+[E 2021-07-23T21:16:16.177Z error:main] TypeError: this.view.destroy is not a function
+    at y.destroy (/opt/XMind/resources/app.asar/main/main.js:7:106494)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async /opt/XMind/resources/app.asar/main/main.js:30:107550
+
+-------- SESSION 2021-07-23T21:16:26.327Z (10.3.1+202101132117, linux, x64, 16108658688, XMind Ltd., vana_linux_64) --------
+[I 2021-07-23T21:16:26.452Z main:store:plugins:iap] The user is not allowed to make in-app purchase.
+[I 2021-07-23T21:16:26.764Z main:store:plugins:electron] Application will finish launching.
+[I 2021-07-23T21:16:26.764Z main:store:plugins:electron] Application arguments: ["/opt/XMind/xmind"]
+[I 2021-07-23T21:16:26.770Z main:store:plugins:electron] Application is ready.
+[I 2021-07-23T21:16:26.785Z main:store:plugins:open-handler] Recover: Map {}
+[I 2021-07-23T21:16:26.789Z main:store:plugins:activation-updater] Start updating subscription information periodically.
+[I 2021-07-23T21:16:26.789Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-07-23T21:16:26.789Z main:store:plugins:activation-updater] Start updating per-machine license information periodically.
+[I 2021-07-23T21:16:26.789Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-07-23T21:16:26.927Z main:store:plugins:electron] Device ID: ec86dd13-2088-4f9e-b4bf-e50e4290bf31
+[I 2021-07-23T21:17:05.161Z fonts] App Locale: en
+[I 2021-07-23T21:17:05.162Z fonts] start get system fonts
+[I 2021-07-23T21:17:06.684Z fonts] Consuming 1522 ms to get system fonts
+[I 2021-07-23T21:17:26.791Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-23T21:17:26.792Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-23T21:17:28.362Z snowbrush] db write {
+  'text/plain': 'Day 1, Fri, 07-23\r\n' +
+    '\tThoughts\r\n' +
+    '\t\t你每日唯一的目标，就是突破昨日的自己。\n' +
+    '\n' +
+    '因此，首先突破了自己，再去想其它的事情。\r\n' +
+    '\t\t必须要做的事情\r\n' +
+    '\t\t\t睡前反思\r\n' +
+    '\t\t\t\t反思、总结、展望、未来计划\r\n' +
+    '\t\t\t\t这么多年的人生经历下来，我发现每日反思真的至关重要。\n' +
+    '就像是重复性练习和刻意练习。前者只会增加或者防止降低熟练度，而或者会突破当前舒适区，创造新的东西。\r\n' +
+    '\t\t\t运动\r\n' +
+    '\t\t\t\t运动带给你健康的身体\r\n' +
+    '\t\t\t\t运动带给你自信\r\n' +
+    '\t\t\t\t运动带来自律\r\n' +
+    '\t\t\t复习\r\n' +
+    '\t\t\t\t你至少要复习完之前学习的所有内容\r\n' +
+    '\t\t2021-07-23，牢记这个日子，从此刻开始，你将重获新生。\r\n' +
+    '\t\t在 Records.xmind 中详细地记录你的一切，既然你决定了不公开这个文件，那个完全记录又何妨？\r\n' +
+    '\t\tOthers\r\n' +
+    '\t\t\t一切皆工具，没有价值就抛弃，毕竟你也只能活不到 100 年。\r\n' +
+    '\t\t\t远离家庭，理念不合，他们太傻逼了。\r\n' +
+    '\t6:30 to 6:35\r\n' +
+    '\t\tReflection\r\n' +
+    '\t6:35 to 6:40\r\n' +
+    "\t\tMake today's plans\r\n" +
+    '\t6:40 to 8:20\r\n' +
+    '\t\t制定未来学习计划，尽可能地量化、具体化\r\n' +
+    '\t8:20 to 11:00\r\n' +
+    '\t\tEntertainment\r\n' +
+    '\t11:00 to 12:05\r\n' +
+    '\t\tLunch\r\n' +
+    '\t12:05 to 13:35\r\n' +
+    '\t\t制定未来学习计划，尽可能地量化、具体化\r\n' +
+    '\t13:35 to 16:40\r\n' +
+    '\t\tNoon break\r\n' +
+    '\t16:40 to 17:25\r\n' +
+    '\t\t制定未来学习计划，尽可能地量化、具体化\r\n' +
+    '\t17:25 to 18:35\r\n' +
+    '\t\t制定未来学习计划，尽可能地量化、具体化\r\n' +
+    '\t18:35 to \r\n' +
+    '\t\tDinner\r\n' +
+    '\t\tEntertainment\r\n' +
+    '\tTODO\r\n' +
+    '\t\tPE\r\n' +
+    '\t\t\tConvict Conditioning\r\n' +
+    '\t\t\t\tReq.\r\n' +
+    '\t\t\t\t\t训练时间\r\n' +
+    '\t\t\t\t\t\t固定时间\r\n' +
+    '\t\t\t\t\t\t\t固定 15-60 分钟，做 1-5 组训练。\r\n' +
+    '\t\t\t\t\t\t闲暇时间\r\n' +
+    '\t\t\t\t\t\t\t随便做\r\n' +
+    '\t\t\t\t\t今天是第一天，将是未来的基准，慢慢来。\r\n' +
+    '\t\t\t\tFull pull-ups\r\n' +
+    '\t\t\t\tFull push-ups\r\n' +
+    '\t\t\t\tFull squats\r\n' +
+    '\t\t\t\tFlat leg raises\r\n' +
+    '\t\tME\r\n' +
+    '\t\t\tReflection\r\n' +
+    '\t\t\t\tReq.\r\n' +
+    '\t\t\t\t\t这一项必须是在突破了昨日之后再做。\r\n' +
+    '\t\t\t\t反思\r\n' +
+    '\t\t\t\t\t反思今日不足之处\r\n' +
+    '\t\t\t\t\t反思今日优秀之处\r\n' +
+    '\t\t\t\t总结\r\n' +
+    '\t\t\t\t展望\r\n' +
+    '\t\t\t\t制定未来计划\r\n' +
+    '\t\t\tLearn\r\n' +
+    '\t\t\t\t制定未来学习计划，尽可能地量化、具体化',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '8d1adcb051882d554b955a4265'
+  },
+  xapInfoMap: {}
+}
+[I 2021-07-23T21:17:33.179Z snowbrush] db write {
+  'text/plain': 'Day 1, Fri, 07-23\r\n' +
+    '\tThoughts\r\n' +
+    '\t\t你每日唯一的目标，就是突破昨日的自己。\n' +
+    '\n' +
+    '因此，首先突破了自己，再去想其它的事情。\r\n' +
+    '\t\t必须要做的事情\r\n' +
+    '\t\t\t睡前反思\r\n' +
+    '\t\t\t\t反思、总结、展望、未来计划\r\n' +
+    '\t\t\t\t这么多年的人生经历下来，我发现每日反思真的至关重要。\n' +
+    '就像是重复性练习和刻意练习。前者只会增加或者防止降低熟练度，而或者会突破当前舒适区，创造新的东西。\r\n' +
+    '\t\t\t运动\r\n' +
+    '\t\t\t\t运动带给你健康的身体\r\n' +
+    '\t\t\t\t运动带给你自信\r\n' +
+    '\t\t\t\t运动带来自律\r\n' +
+    '\t\t\t复习\r\n' +
+    '\t\t\t\t你至少要复习完之前学习的所有内容\r\n' +
+    '\t\t2021-07-23，牢记这个日子，从此刻开始，你将重获新生。\r\n' +
+    '\t\t在 Records.xmind 中详细地记录你的一切，既然你决定了不公开这个文件，那个完全记录又何妨？\r\n' +
+    '\t\tOthers\r\n' +
+    '\t\t\t一切皆工具，没有价值就抛弃，毕竟你也只能活不到 100 年。\r\n' +
+    '\t\t\t远离家庭，理念不合，他们太傻逼了。\r\n' +
+    '\t6:30 to 6:35\r\n' +
+    '\t\tReflection\r\n' +
+    '\t6:35 to 6:40\r\n' +
+    "\t\tMake today's plans\r\n" +
+    '\t6:40 to 8:20\r\n' +
+    '\t\t制定未来学习计划，尽可能地量化、具体化\r\n' +
+    '\t8:20 to 11:00\r\n' +
+    '\t\tEntertainment\r\n' +
+    '\t11:00 to 12:05\r\n' +
+    '\t\tLunch\r\n' +
+    '\t12:05 to 13:35\r\n' +
+    '\t\t制定未来学习计划，尽可能地量化、具体化\r\n' +
+    '\t13:35 to 16:40\r\n' +
+    '\t\tNoon break\r\n' +
+    '\t16:40 to 17:25\r\n' +
+    '\t\t制定未来学习计划，尽可能地量化、具体化\r\n' +
+    '\t17:25 to 18:35\r\n' +
+    '\t\t制定未来学习计划，尽可能地量化、具体化\r\n' +
+    '\t18:35 to \r\n' +
+    '\t\tDinner\r\n' +
+    '\t\tEntertainment\r\n' +
+    '\tTODO\r\n' +
+    '\t\tPE\r\n' +
+    '\t\t\tConvict Conditioning\r\n' +
+    '\t\t\t\tReq.\r\n' +
+    '\t\t\t\t\t训练时间\r\n' +
+    '\t\t\t\t\t\t固定时间\r\n' +
+    '\t\t\t\t\t\t\t固定 15-60 分钟，做 1-5 组训练。\r\n' +
+    '\t\t\t\t\t\t闲暇时间\r\n' +
+    '\t\t\t\t\t\t\t随便做\r\n' +
+    '\t\t\t\t\t今天是第一天，将是未来的基准，慢慢来。\r\n' +
+    '\t\t\t\tFull pull-ups\r\n' +
+    '\t\t\t\tFull push-ups\r\n' +
+    '\t\t\t\tFull squats\r\n' +
+    '\t\t\t\tFlat leg raises\r\n' +
+    '\t\tME\r\n' +
+    '\t\t\tReflection\r\n' +
+    '\t\t\t\tReq.\r\n' +
+    '\t\t\t\t\t这一项必须是在突破了昨日之后再做。\r\n' +
+    '\t\t\t\t反思\r\n' +
+    '\t\t\t\t\t反思今日不足之处\r\n' +
+    '\t\t\t\t\t反思今日优秀之处\r\n' +
+    '\t\t\t\t总结\r\n' +
+    '\t\t\t\t展望\r\n' +
+    '\t\t\t\t制定未来计划\r\n' +
+    '\t\t\tLearn\r\n' +
+    '\t\t\t\t制定未来学习计划，尽可能地量化、具体化',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '8d1adcb051882d554b955a4265'
+  },
+  xapInfoMap: {}
+}
+[I 2021-07-23T21:21:51.699Z snowbrush] Export image time: from 1627075311699 to 1627075311699.
+[I 2021-07-23T21:25:37.128Z snowbrush] db write {
+  'text/plain': 'Reflection',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '8d1adcb051882d554b955a4265'
+  },
+  xapInfoMap: {}
+}
+[I 2021-07-23T21:26:26.750Z snowbrush] db write {
+  'text/plain': 'Entertainment',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '8d1adcb051882d554b955a4265'
+  },
+  xapInfoMap: {}
+}
+[I 2021-07-23T21:26:29.925Z snowbrush] db write {
+  'text/plain': 'Lunch',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '8d1adcb051882d554b955a4265'
+  },
+  xapInfoMap: {}
+}
+[I 2021-07-23T21:32:32.631Z snowbrush] Export image time: from 1627075952627 to 1627075952627.
+[I 2021-07-23T21:33:47.396Z snowbrush] db write {
+  'text/plain': "Make today's plans",
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '8d1adcb051882d554b955a4265'
+  },
+  xapInfoMap: {}
+}
+[I 2021-07-23T21:33:49.647Z snowbrush] Export image time: from 1627076029646 to 1627076029647.
+[I 2021-07-23T21:34:07.893Z snowbrush] db write {
+  'text/plain': 'Day 1, Fri, 07-23\r\n' +
+    '\tThoughts\r\n' +
+    '\t\t你每日唯一的目标，就是突破昨日的自己。\n' +
+    '\n' +
+    '因此，首先突破了自己，再去想其它的事情。\r\n' +
+    '\t\t必须要做的事情\r\n' +
+    '\t\t\t睡前反思\r\n' +
+    '\t\t\t\t反思、总结、展望、未来计划\r\n' +
+    '\t\t\t\t这么多年的人生经历下来，我发现每日反思真的至关重要。\n' +
+    '就像是重复性练习和刻意练习。前者只会增加或者防止降低熟练度，而或者会突破当前舒适区，创造新的东西。\r\n' +
+    '\t\t\t运动\r\n' +
+    '\t\t\t\t运动带给你健康的身体\r\n' +
+    '\t\t\t\t运动带给你自信\r\n' +
+    '\t\t\t\t运动带来自律\r\n' +
+    '\t\t\t复习\r\n' +
+    '\t\t\t\t你至少要复习完之前学习的所有内容\r\n' +
+    '\t\t2021-07-23，牢记这个日子，从此刻开始，你将重获新生。\r\n' +
+    '\t\t在 Records.xmind 中详细地记录你的一切，既然你决定了不公开这个文件，那个完全记录又何妨？\r\n' +
+    '\t\tOthers\r\n' +
+    '\t\t\t一切皆工具，没有价值就抛弃，毕竟你也只能活不到 100 年。\r\n' +
+    '\t\t\t远离家庭，理念不合，他们太傻逼了。\r\n' +
+    '\t6:30 to 6:35 (5)\r\n' +
+    '\t\tReflection\r\n' +
+    '\t6:35 to 6:40 (5)\r\n' +
+    "\t\tMake today's plans\r\n" +
+    '\t6:40 to 8:20 (100)\r\n' +
+    '\t\t制定未来学习计划，尽可能地量化、具体化\r\n' +
+    '\t8:20 to 11:00 (160)\r\n' +
+    '\t\tEntertainment\r\n' +
+    '\t11:00 to 12:05 (65)\r\n' +
+    '\t\tLunch\r\n' +
+    '\t12:05 to 13:35 (90)\r\n' +
+    '\t\t制定未来学习计划，尽可能地量化、具体化\r\n' +
+    '\t13:35 to 16:40 (185)\r\n' +
+    '\t\tNoon break\r\n' +
+    '\t16:40 to 18:35 (115)\r\n' +
+    '\t\t制定未来学习计划，尽可能地量化、具体化\r\n' +
+    '\t18:35 to 23:35 (300)\r\n' +
+    '\t\tDinner\r\n' +
+    '\t\tEntertainment\r\n' +
+    '\t23:35 to 4:55 (about 5 hours)\r\n' +
+    '\t\tSleep\r\n' +
+    '\tSummary\r\n' +
+    '\t\tFrom 6:30 to 4:55, 1345\r\n' +
+    '\t\tLearn (310, 30%)\r\n' +
+    '\t\t\tReflection\r\n' +
+    '\t\t\t\t5\r\n' +
+    '\t\t\tMake plans\r\n' +
+    '\t\t\t\t305\r\n' +
+    '\t\tOthers (1030, 70%)\r\n' +
+    '\t\t\tEntertainment\r\n' +
+    '\t\t\t\t370\r\n' +
+    '\t\t\tLunch\r\n' +
+    '\t\t\t\t65\r\n' +
+    '\t\t\tNoon break\r\n' +
+    '\t\t\t\t185\r\n' +
+    '\t\t\tDinner\r\n' +
+    '\t\t\t\t90\r\n' +
+    '\t\t\tSleep\r\n' +
+    '\t\t\t\t320',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '8d1adcb051882d554b955a4265'
+  },
+  xapInfoMap: {}
+}
+[I 2021-07-23T21:34:24.229Z snowbrush] db write {
+  'text/plain': 'Thoughts\r\n' +
+    '\t你每日唯一的目标，就是突破昨日的自己。\n' +
+    '\n' +
+    '因此，首先突破了自己，再去想其它的事情。\r\n' +
+    '\t必须要做的事情\r\n' +
+    '\t\t睡前反思\r\n' +
+    '\t\t\t反思、总结、展望、未来计划\r\n' +
+    '\t\t\t这么多年的人生经历下来，我发现每日反思真的至关重要。\n' +
+    '就像是重复性练习和刻意练习。前者只会增加或者防止降低熟练度，而或者会突破当前舒适区，创造新的东西。\r\n' +
+    '\t\t运动\r\n' +
+    '\t\t\t运动带给你健康的身体\r\n' +
+    '\t\t\t运动带给你自信\r\n' +
+    '\t\t\t运动带来自律\r\n' +
+    '\t\t复习\r\n' +
+    '\t\t\t你至少要复习完之前学习的所有内容\r\n' +
+    '\t2021-07-23，牢记这个日子，从此刻开始，你将重获新生。\r\n' +
+    '\t在 Records.xmind 中详细地记录你的一切，既然你决定了不公开这个文件，那个完全记录又何妨？\r\n' +
+    '\tOthers\r\n' +
+    '\t\t一切皆工具，没有价值就抛弃，毕竟你也只能活不到 100 年。\r\n' +
+    '\t\t远离家庭，理念不合，他们太傻逼了。',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '8d1adcb051882d554b955a4265'
+  },
+  xapInfoMap: {}
+}
+[I 2021-07-23T21:34:38.020Z snowbrush] Export image time: from 1627076078020 to 1627076078020.
+[I 2021-07-23T21:41:32.682Z snowbrush] Export image time: from 1627076492682 to 1627076492682.
+[I 2021-07-23T21:41:56.663Z snowbrush] db write {
+  'text/plain': 'Reflection',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '8d1adcb051882d554b955a4265'
+  },
+  xapInfoMap: {}
+}
+[I 2021-07-23T21:42:57.267Z snowbrush] db write {
+  'text/plain': 'Summary\r\n' +
+    '\tFrom 6:30 to 4:55, 1345\r\n' +
+    '\tLearn (310, 30%)\r\n' +
+    '\t\tReflection\r\n' +
+    '\t\t\t5\r\n' +
+    '\t\tMake plans\r\n' +
+    '\t\t\t305\r\n' +
+    '\tOthers (1030, 70%)\r\n' +
+    '\t\tEntertainment\r\n' +
+    '\t\t\t370\r\n' +
+    '\t\tLunch\r\n' +
+    '\t\t\t65\r\n' +
+    '\t\tNoon break\r\n' +
+    '\t\t\t185\r\n' +
+    '\t\tDinner\r\n' +
+    '\t\t\t90\r\n' +
+    '\t\tSleep\r\n' +
+    '\t\t\t320',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '8d1adcb051882d554b955a4265'
+  },
+  xapInfoMap: {}
+}
+[I 2021-07-23T21:49:20.484Z snowbrush] db write {
+  'text/plain': 'All Front-end -> 01HTML',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '8d1adcb051882d554b955a4265'
+  },
+  xapInfoMap: {}
+}
+[I 2021-07-23T21:49:30.340Z snowbrush] db write {
+  'text/plain': 'All Front-end -> 02CSS',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '8d1adcb051882d554b955a4265'
+  },
+  xapInfoMap: {}
+}
+[I 2021-07-23T21:59:23.302Z snowbrush] Export image time: from 1627077563301 to 1627077563302.
+[I 2021-07-23T22:17:26.851Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-23T22:17:26.851Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-23T22:20:07.192Z snowbrush] Export image time: from 1627078807184 to 1627078807185.
+[I 2021-07-23T22:20:35.960Z snowbrush] Export image time: from 1627078835960 to 1627078835960.
+[I 2021-07-23T22:25:49.030Z snowbrush] Export image time: from 1627079149030 to 1627079149030.
+[I 2021-07-23T22:59:49.958Z snowbrush] db write {
+  'text/plain': 'Anki Review',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '8d1adcb051882d554b955a4265'
+  },
+  xapInfoMap: {}
+}
+[I 2021-07-23T22:59:53.762Z snowbrush] Export image time: from 1627081193762 to 1627081193762.
+[I 2021-07-23T23:17:26.908Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-23T23:17:26.908Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-24T00:02:59.198Z snowbrush] Export image time: from 1627084979190 to 1627084979190.
+[I 2021-07-24T00:03:54.549Z snowbrush] db write {
+  'text/plain': 'Anki Review',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '8d1adcb051882d554b955a4265'
+  },
+  xapInfoMap: {}
+}
+[I 2021-07-24T00:03:56.418Z snowbrush] Export image time: from 1627085036418 to 1627085036418.
+[I 2021-07-24T00:17:26.962Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-24T00:17:26.963Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-24T00:56:18.299Z snowbrush] db write {
+  'text/plain': '国家有王朝周期律，“其兴也勃焉，其亡也忽焉”\n' +
+    '\n' +
+    '其实这个周期律也可以适用于人、集体、组织\r\n' +
+    '\t黄炎培：\n' +
+    '“我生六十多年，耳闻的不说，所亲眼看到的，真所谓‘其兴也勃焉’，‘其亡也忽焉’，一人，一家，一团体，一地方，乃至一国，不少单位都没有能跳出这周期律的支配力，大凡初时聚精会神，没有一事不用心，没有一人不卖力，也许那时艰难困苦，只有从万死中觅取一生。既而环境渐渐好转了，精神也就渐渐放下了。有的因为历时长久，自然地惰性发作，由少数演为多数，到风气养成，虽有大力，无法扭转，并且无法补救。也有为了区域一步步扩大了，它的扩大，有的出于自然发展，有的为功业欲所驱使，强求发展，到干部人才渐见竭蹶，艰于应付的时候，环境倒越加复杂起来了。控制力不免趋于薄弱了。一部历史，‘政怠宦成’的也有，‘人亡政息’的也有，‘求荣取辱’的也有。总之没有能跳出这周期律。中共诸君从过去到现在，我略略了解的了。就是希望找出一条新路，来跳出这周期律的支配。”',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '8d1adcb051882d554b955a4265'
+  },
+  xapInfoMap: {}
+}
+[I 2021-07-24T00:57:27.039Z snowbrush] Export image time: from 1627088247039 to 1627088247039.
+[I 2021-07-24T00:59:57.593Z snowbrush] db write {
+  'text/plain': 'Anki Review',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '8d1adcb051882d554b955a4265'
+  },
+  xapInfoMap: {}
+}
+[I 2021-07-24T00:59:59.720Z snowbrush] Export image time: from 1627088399720 to 1627088399720.
+[I 2021-07-24T01:17:27.012Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-24T01:17:27.012Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-24T01:59:19.443Z snowbrush] Export image time: from 1627091959439 to 1627091959439.
+[I 2021-07-24T02:17:27.062Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-24T02:17:27.062Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-24T02:41:28.716Z snowbrush] db write {
+  'text/plain': 'Anki Review',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '8d1adcb051882d554b955a4265'
+  },
+  xapInfoMap: {}
+}
+[I 2021-07-24T02:41:33.147Z snowbrush] Export image time: from 1627094493146 to 1627094493147.
+[I 2021-07-24T03:17:27.108Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-24T03:17:27.108Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-24T04:17:27.151Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-24T04:17:27.151Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-24T04:38:29.644Z snowbrush] db write {
+  'text/plain': 'Entertainment',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '8d1adcb051882d554b955a4265'
+  },
+  xapInfoMap: {}
+}
+[I 2021-07-24T04:38:52.507Z snowbrush] Export image time: from 1627101532506 to 1627101532507.
+[I 2021-07-24T05:17:27.192Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-24T05:17:27.192Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-24T06:17:27.229Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-24T06:17:27.230Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-24T07:17:27.264Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-24T07:17:27.264Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-24T08:17:27.296Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-24T08:17:27.296Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-24T09:17:27.326Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-24T09:17:27.328Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-24T09:22:00.665Z snowbrush] db write {
+  'text/plain': 'Anki Review',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '8d1adcb051882d554b955a4265'
+  },
+  xapInfoMap: {}
+}
+[I 2021-07-24T10:12:48.213Z snowbrush] db write {
+  'text/plain': 'Anki Review',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '8d1adcb051882d554b955a4265'
+  },
+  xapInfoMap: {}
+}
+[I 2021-07-24T10:17:27.355Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-24T10:17:27.356Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-24T11:17:27.379Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-24T11:17:27.380Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-24T11:19:01.699Z snowbrush] Export image time: from 1627125541696 to 1627125541696.
+[I 2021-07-24T11:25:43.965Z snowbrush] Export image time: from 1627125943962 to 1627125943962.
+[I 2021-07-24T11:44:34.258Z snowbrush] db write {
+  'text/plain': 'Entertainment',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '8d1adcb051882d554b955a4265'
+  },
+  xapInfoMap: {}
+}
+[I 2021-07-24T11:44:51.666Z snowbrush] Export image time: from 1627127091665 to 1627127091666.
+[I 2021-07-24T12:17:27.382Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-24T12:17:27.382Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-24T13:03:19.887Z snowbrush] db write {
+  'text/plain': 'Anki Review',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '8d1adcb051882d554b955a4265'
+  },
+  xapInfoMap: {}
+}
+[I 2021-07-24T13:06:35.526Z snowbrush] Export image time: from 1627131995526 to 1627131995526.
+[I 2021-07-24T13:17:27.398Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-24T13:17:27.399Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-24T14:17:27.414Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-24T14:17:27.416Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-24T15:17:27.427Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-24T15:17:27.428Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-24T15:32:05.917Z snowbrush] Export image time: from 1627140725916 to 1627140725916.

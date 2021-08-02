@@ -1,0 +1,62 @@
+
+-------- SESSION 2021-06-22T12:45:03.217Z (10.3.1+202101132117, linux, x64, 16175779840, XMind Ltd., vana_linux_64) --------
+[I 2021-06-22T12:45:03.354Z main:store:plugins:iap] The user is not allowed to make in-app purchase.
+[I 2021-06-22T12:45:03.803Z main:store:plugins:electron] Application will finish launching.
+[I 2021-06-22T12:45:03.804Z main:store:plugins:electron] Application arguments: ["/opt/XMind/xmind","/home/lucas/Codes/GitHub/Java-Learning/Java-Learning.xmind"]
+[I 2021-06-22T12:45:03.818Z main:store:plugins:electron] Application is ready.
+[I 2021-06-22T12:45:03.836Z main:store:plugins:open-handler] Recover: Map {}
+[I 2021-06-22T12:45:03.839Z main:store:plugins:activation-updater] Start updating subscription information periodically.
+[I 2021-06-22T12:45:03.840Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-06-22T12:45:03.840Z main:store:plugins:activation-updater] Start updating per-machine license information periodically.
+[I 2021-06-22T12:45:03.840Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-06-22T12:45:03.842Z main:store:plugins:open-handler] Open: file:///home/lucas/Codes/GitHub/Java-Learning/Java-Learning.xmind
+[I 2021-06-22T12:45:04.054Z main:store:plugins:electron] Device ID: ec86dd13-2088-4f9e-b4bf-e50e4290bf31
+[I 2021-06-22T12:45:05.870Z main:store:plugins:editors:EditorFrame] Frame 1 close
+[I 2021-06-22T12:45:06.610Z main:store:plugins:editors:EditorFrame] Not find editor view: undefined file:///opt/XMind/resources/app.asar/renderer/editor-frame.html?frameId=1&_apr=dark
+[E 2021-06-22T12:45:06.592Z workbook:document] Error when saving memento.json. {
+  name: 'Error',
+  message: "ENOENT: no such file or directory, open '/home/lucas/.config/XMind/Electron v3/vana/workbooks/546bf49a22f9db721aefe92859/.memento.json'",
+  stack: "Error: ENOENT: no such file or directory, open '/home/lucas/.config/XMind/Electron v3/vana/workbooks/546bf49a22f9db721aefe92859/.memento.json'\n" +
+    '    at Object.openSync (fs.js:440:3)\n' +
+    '    at Object.func [as openSync] (electron/js2c/asar.js:140:31)\n' +
+    '    at Object.writeFileSync (fs.js:1265:35)\n' +
+    '    at Proxy.<anonymous> (file:///opt/XMind/resources/app.asar/renderer/common.js:15:34169)\n' +
+    '    at updateMemento (file:///opt/XMind/resources/app.asar/renderer/editor.js:80:492848)\n' +
+    '    at Array.<anonymous> (file:///opt/XMind/resources/app.asar/renderer/common.js:21:5308)\n' +
+    '    at u.dispatch (file:///opt/XMind/resources/app.asar/renderer/common.js:21:6675)\n' +
+    '    at u.dispatch (file:///opt/XMind/resources/app.asar/renderer/common.js:21:2938)\n' +
+    '    at file:///opt/XMind/resources/app.asar/renderer/editor.js:148:178390',
+  code: 'ENOENT',
+  data: undefined
+}
+[I 2021-06-22T12:45:07.028Z main:store:plugins:editors:EditorFrame] Frame 1 close
+[I 2021-06-22T12:45:07.049Z main:store:plugins:electron] Application is intended to quit.
+[I 2021-06-22T12:45:07.049Z main:store:plugins:electron] Asking all editors to close their documents...
+[I 2021-06-22T12:45:07.104Z main:store:plugins:editors:EditorFrame] Frame 1 webContents destroyed
+[I 2021-06-22T12:45:07.136Z main:store:plugins:electron] All documents are closed.
+[I 2021-06-22T12:45:07.136Z main:store:plugins:activation-updater] Stop updating per-machine license information periodically.
+[I 2021-06-22T12:45:07.136Z main:store:plugins:activation-updater] Stop updating subscription information periodically.
+[I 2021-06-22T12:45:07.141Z main:store:plugins:electron] Application is intended to quit.
+[I 2021-06-22T12:45:07.141Z main:store:plugins:electron] Application will quit.
+[I 2021-06-22T12:45:07.141Z main:store:plugins:electron] Application quitted.
+
+-------- SESSION 2021-06-22T12:45:09.664Z (10.3.1+202101132117, linux, x64, 16175779840, XMind Ltd., vana_linux_64) --------
+[I 2021-06-22T12:45:09.777Z main:store:plugins:iap] The user is not allowed to make in-app purchase.
+[I 2021-06-22T12:45:10.055Z main:store:plugins:electron] Application will finish launching.
+[I 2021-06-22T12:45:10.056Z main:store:plugins:electron] Application arguments: ["/opt/XMind/xmind"]
+[I 2021-06-22T12:45:10.062Z main:store:plugins:electron] Application is ready.
+[I 2021-06-22T12:45:10.078Z main:store:plugins:open-handler] Recover: Map {}
+[I 2021-06-22T12:45:10.082Z main:store:plugins:activation-updater] Start updating subscription information periodically.
+[I 2021-06-22T12:45:10.082Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-06-22T12:45:10.082Z main:store:plugins:activation-updater] Start updating per-machine license information periodically.
+[I 2021-06-22T12:45:10.082Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-06-22T12:45:10.239Z main:store:plugins:electron] Device ID: ec86dd13-2088-4f9e-b4bf-e50e4290bf31
+[I 2021-06-22T12:46:10.091Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-06-22T12:46:10.095Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-06-22T13:15:34.173Z promotion] Event id: jun-2021-promotion
+[I 2021-06-22T13:46:10.097Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-06-22T13:46:10.098Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-06-22T14:46:10.137Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-06-22T14:46:10.150Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-06-22T15:46:10.205Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-06-22T15:46:10.207Z main:store:plugins:activation-updater] Schedule refresh timeout(null).

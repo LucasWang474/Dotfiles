@@ -2,18 +2,6 @@
   <component name="RecentProjectsManager">
     <option name="additionalInfo">
       <map>
-        <entry key="$USER_HOME$/Codes/GitHub/Java-Learning/01_Java_Basics/Codes">
-          <value>
-            <RecentProjectMetaInfo frameTitle="Day02" projectWorkspaceId="1u89bFHkPhqRcHQvw22bed0jX0W">
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="IU-211.7442.40" />
-              <option name="buildTimestamp" value="1622517476111" />
-              <frame x="1" y="29" width="1918" height="1050" />
-              <option name="productionCode" value="IU" />
-              <option name="projectOpenTimestamp" value="1624079857831" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
         <entry key="$USER_HOME$/Codes/GitHub/Java-Learning/01_Java_Basics/Codes/Day04">
           <value>
             <RecentProjectMetaInfo frameTitle="Day04 – Demo02.java" projectWorkspaceId="1uAqW6sta3urDeDURnI2b0L98R6">
@@ -37,15 +25,63 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="$USER_HOME$/Codes/GitHub/My-LeetCode-Solutions">
+        <entry key="$USER_HOME$/Codes/GitHub/My-LeetCode-Solutions/Learn">
           <value>
-            <RecentProjectMetaInfo frameTitle="My-LeetCode-Solutions – Q147.py" opened="true" projectWorkspaceId="1u2T01wQFHowddXjMfvCuAesAqn">
+            <RecentProjectMetaInfo frameTitle="Learn – MergeSort.java" projectWorkspaceId="1uJK69ujXzfJ3QHqDDZxuqvzvNz">
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="IU-211.7442.40" />
-              <option name="buildTimestamp" value="1622517477732" />
+              <option name="buildTimestamp" value="1622517437970" />
+              <frame x="1921" y="211" width="1918" height="1075" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1624603120497" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Codes/GitHub/Utils">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Utils – common.py" projectWorkspaceId="1uQm7dKWEXuAZsuQ97wcyh1sjDQ">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-211.7442.40" />
+              <option name="buildTimestamp" value="1622517469819" />
+              <frame x="1921" y="236" width="1918" height="1050" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1624606195632" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Codes/GitHub/Java-Learning/01_Java_Basics/Codes">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Day02" projectWorkspaceId="1u89bFHkPhqRcHQvw22bed0jX0W">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-211.7442.40" />
+              <option name="buildTimestamp" value="1622517424512" />
+              <frame x="1921" y="236" width="1918" height="1050" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1624608190433" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Codes/GitHub/Java-Learning/01_Java_Basics/MyProject03">
+          <value>
+            <RecentProjectMetaInfo frameTitle="MyProject03" projectWorkspaceId="1uQr68hKfW9quoB8u5RLO0b045Z">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-211.7442.40" />
+              <option name="buildTimestamp" value="1622517424512" />
+              <frame x="1" y="4" width="1918" height="1075" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1624608477715" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Codes/GitHub/My-LeetCode-Solutions">
+          <value>
+            <RecentProjectMetaInfo frameTitle="My-LeetCode-Solutions" opened="true" projectWorkspaceId="1u2T01wQFHowddXjMfvCuAesAqn">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-211.7628.21" />
+              <option name="buildTimestamp" value="1624953104824" />
               <frame x="1" y="29" width="1918" height="1050" />
               <option name="productionCode" value="IU" />
-              <option name="projectOpenTimestamp" value="1624151343976" />
+              <option name="projectOpenTimestamp" value="1627081631554" />
             </RecentProjectMetaInfo>
           </value>
         </entry>

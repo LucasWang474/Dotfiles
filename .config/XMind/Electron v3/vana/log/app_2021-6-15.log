@@ -1,0 +1,92 @@
+
+-------- SESSION 2021-06-15T14:50:40.669Z (10.3.1+202101132117, linux, x64, 16176345088, XMind Ltd., vana_linux_64) --------
+[I 2021-06-15T14:50:40.712Z main:store:plugins:memento] Migration start
+[I 2021-06-15T14:50:40.715Z main:store:plugins:memento] Migration stop, vud directory doesn't exist
+[I 2021-06-15T14:50:40.715Z main:store:plugins:memento] Migration completed [] . used time: 0.001 sec.
+[I 2021-06-15T14:50:40.716Z main:store:plugins:memento] Migration 2 start
+[I 2021-06-15T14:50:40.716Z main:store:plugins:memento] Migration 2 completed.
+[I 2021-06-15T14:50:40.716Z main:store:plugins:memento] Migration 3 start
+[I 2021-06-15T14:50:40.716Z main:store:plugins:memento] perMachineLicense.json Reading...
+[I 2021-06-15T14:50:40.716Z main:store:plugins:memento] Migration 3 completed.
+[I 2021-06-15T14:50:40.781Z main:store:plugins:iap] The user is not allowed to make in-app purchase.
+[I 2021-06-15T14:50:41.049Z main:store:plugins:electron] Application will finish launching.
+[I 2021-06-15T14:50:41.050Z main:store:plugins:electron] Application arguments: ["/opt/XMind/xmind"]
+[I 2021-06-15T14:50:41.056Z main:store:plugins:electron] Application is ready.
+[I 2021-06-15T14:50:41.229Z main:store:plugins:electron] Device ID: ec86dd13-2088-4f9e-b4bf-e50e4290bf31
+[I 2021-06-15T14:50:45.196Z main:store:plugins:open-handler] Recover: Map {}
+[I 2021-06-15T14:50:45.196Z main:store:plugins:activation-updater] Start updating subscription information periodically.
+[I 2021-06-15T14:50:45.197Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-06-15T14:50:45.197Z main:store:plugins:activation-updater] Start updating per-machine license information periodically.
+[I 2021-06-15T14:50:45.197Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+
+-------- SESSION 2021-06-15T14:50:54.161Z (10.3.1+202101132117, linux, x64, 16176345088, XMind Ltd., vana_linux_64) --------
+[I 2021-06-15T14:50:54.268Z main:store:plugins:iap] The user is not allowed to make in-app purchase.
+[I 2021-06-15T14:50:54.526Z main:store:plugins:electron] Application will finish launching.
+[I 2021-06-15T14:50:54.527Z main:store:plugins:electron] Application arguments: ["/opt/XMind/xmind"]
+[I 2021-06-15T14:50:54.534Z main:store:plugins:electron] Application is ready.
+[I 2021-06-15T14:50:54.547Z main:store:plugins:open-handler] Recover: Map {
+  '1' => [
+    {
+      source: 'new://workbook?theme=M01&template=map&title=Snowbrush&structure=org.xmind.ui.map.unbalanced',
+      editorId: 'e33867d7b9e96ad4ccd8598355'
+    }
+  ]
+}
+[I 2021-06-15T14:50:54.551Z main:store:plugins:activation-updater] Start updating subscription information periodically.
+[I 2021-06-15T14:50:54.551Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-06-15T14:50:54.551Z main:store:plugins:activation-updater] Start updating per-machine license information periodically.
+[I 2021-06-15T14:50:54.551Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-06-15T14:50:54.749Z main:store:plugins:electron] Device ID: ec86dd13-2088-4f9e-b4bf-e50e4290bf31
+[I 2021-06-15T14:51:01.030Z promotion] Event id: jun-2021-promotion
+[I 2021-06-15T14:51:01.329Z main:store:plugins:editors:EditorFrame] Frame 1 close
+[I 2021-06-15T14:51:01.344Z main:store:plugins:editors:EditorFrame] Not find editor view: undefined file:///opt/XMind/resources/app.asar/renderer/editor-frame.html?frameId=1&_apr=dark
+[I 2021-06-15T14:51:01.474Z main:store:plugins:editors:EditorFrame] Frame 1 close
+[I 2021-06-15T14:51:01.609Z main:store:plugins:electron] Application is intended to quit.
+[I 2021-06-15T14:51:01.610Z main:store:plugins:electron] Asking all editors to close their documents...
+[I 2021-06-15T14:51:01.679Z main:store:plugins:editors:EditorFrame] Frame 1 webContents destroyed
+[I 2021-06-15T14:51:01.709Z main:store:plugins:electron] All documents are closed.
+[I 2021-06-15T14:51:01.709Z main:store:plugins:activation-updater] Stop updating per-machine license information periodically.
+[I 2021-06-15T14:51:01.709Z main:store:plugins:activation-updater] Stop updating subscription information periodically.
+[I 2021-06-15T14:51:01.713Z main:store:plugins:electron] Application is intended to quit.
+[I 2021-06-15T14:51:01.713Z main:store:plugins:electron] Application will quit.
+[I 2021-06-15T14:51:01.713Z main:store:plugins:electron] Application quitted.
+
+-------- SESSION 2021-06-15T15:38:46.961Z (10.3.1+202101132117, linux, x64, 16176345088, XMind Ltd., vana_linux_64) --------
+[I 2021-06-15T15:38:47.113Z main:store:plugins:iap] The user is not allowed to make in-app purchase.
+[I 2021-06-15T15:38:47.523Z main:store:plugins:electron] Application will finish launching.
+[I 2021-06-15T15:38:47.524Z main:store:plugins:electron] Application arguments: ["/opt/XMind/xmind"]
+[I 2021-06-15T15:38:47.531Z main:store:plugins:electron] Application is ready.
+[I 2021-06-15T15:38:47.553Z main:store:plugins:open-handler] Recover: Map {}
+[I 2021-06-15T15:38:47.560Z main:store:plugins:activation-updater] Start updating subscription information periodically.
+[I 2021-06-15T15:38:47.560Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-06-15T15:38:47.561Z main:store:plugins:activation-updater] Start updating per-machine license information periodically.
+[I 2021-06-15T15:38:47.561Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-06-15T15:38:47.759Z main:store:plugins:electron] Device ID: ec86dd13-2088-4f9e-b4bf-e50e4290bf31
+[I 2021-06-15T15:39:08.582Z main:store:plugins:electron] Application is intended to quit.
+[I 2021-06-15T15:39:08.582Z main:store:plugins:electron] Asking all editors to close their documents...
+[I 2021-06-15T15:39:08.583Z main:store:plugins:electron] All documents are closed.
+[I 2021-06-15T15:39:08.584Z main:store:plugins:activation-updater] Stop updating per-machine license information periodically.
+[I 2021-06-15T15:39:08.584Z main:store:plugins:activation-updater] Stop updating subscription information periodically.
+[I 2021-06-15T15:39:08.648Z main:store:plugins:electron] Application is intended to quit.
+[I 2021-06-15T15:39:08.648Z main:store:plugins:electron] Application will quit.
+[I 2021-06-15T15:39:08.649Z main:store:plugins:electron] Application quitted.
+
+-------- SESSION 2021-06-15T15:39:13.460Z (10.3.1+202101132117, linux, x64, 16176345088, XMind Ltd., vana_linux_64) --------
+[I 2021-06-15T15:39:13.603Z main:store:plugins:iap] The user is not allowed to make in-app purchase.
+[I 2021-06-15T15:39:14.013Z main:store:plugins:electron] Application will finish launching.
+[I 2021-06-15T15:39:14.014Z main:store:plugins:electron] Application arguments: ["/opt/XMind/xmind"]
+[I 2021-06-15T15:39:14.021Z main:store:plugins:electron] Application is ready.
+[I 2021-06-15T15:39:14.040Z main:store:plugins:open-handler] Recover: Map {}
+[I 2021-06-15T15:39:14.045Z main:store:plugins:activation-updater] Start updating subscription information periodically.
+[I 2021-06-15T15:39:14.046Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-06-15T15:39:14.046Z main:store:plugins:activation-updater] Start updating per-machine license information periodically.
+[I 2021-06-15T15:39:14.046Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-06-15T15:39:14.238Z main:store:plugins:electron] Device ID: ec86dd13-2088-4f9e-b4bf-e50e4290bf31
+[I 2021-06-15T15:39:17.429Z main:store:plugins:electron] Application is intended to quit.
+[I 2021-06-15T15:39:17.430Z main:store:plugins:electron] Asking all editors to close their documents...
+[I 2021-06-15T15:39:17.430Z main:store:plugins:electron] All documents are closed.
+[I 2021-06-15T15:39:17.431Z main:store:plugins:activation-updater] Stop updating per-machine license information periodically.
+[I 2021-06-15T15:39:17.431Z main:store:plugins:activation-updater] Stop updating subscription information periodically.
+[I 2021-06-15T15:39:17.503Z main:store:plugins:electron] Application is intended to quit.
+[I 2021-06-15T15:39:17.503Z main:store:plugins:electron] Application will quit.
+[I 2021-06-15T15:39:17.503Z main:store:plugins:electron] Application quitted.

@@ -1,0 +1,26 @@
+{
+    "outbounds": [
+        {
+            "mux": {
+            },
+            "protocol": "shadowsocks",
+            "sendThrough": "0.0.0.0",
+            "settings": {
+                "servers": [
+                    {
+                        "address": "63.141.236.245",
+                        "email": "",
+                        "level": 0,
+                        "method": "aes-256-gcm",
+                        "ota": false,
+                        "password": "wEsFcHCvbL4eJkL4DZQa7RgR",
+                        "port": 45746
+                    }
+                ]
+            },
+            "streamSettings": {
+            },
+            "tag": "outBound_PROXY"
+        }
+    ]
+}

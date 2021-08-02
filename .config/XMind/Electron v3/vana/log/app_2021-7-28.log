@@ -1,0 +1,1225 @@
+[I 2021-07-28T00:08:36.678Z snowbrush] db write {
+  'text/plain': 'Template\r\n' +
+    '\tTODO\r\n' +
+    '\t\t今日最大目标\r\n' +
+    '\t\t\t在没有突破昨日和前日之前，不要分心\r\n' +
+    '\t\t\t在没有突破昨日和前日之前，不要分心\r\n' +
+    '\t\t\t在没有突破昨日和前日之前，不要分心\r\n' +
+    '\t\tME\r\n' +
+    '\t\t\tReview, Reflection, Plan\r\n' +
+    '\t\t\tPositive Psychology\r\n' +
+    '\t\tPE\r\n' +
+    '\t\t\tConvict Conditioning\r\n' +
+    '\t\t\t\tFull pull-ups\r\n' +
+    '\t\t\t\t\t5\r\n' +
+    '\t\t\t\t\t5\r\n' +
+    '\t\t\t\t\t5\r\n' +
+    '\t\t\t\t\t5\r\n' +
+    '\t\t\t\t\t5\r\n' +
+    '\t\t\t\t\t5\r\n' +
+    '\t\t\t\tFlat leg raises\r\n' +
+    '\t\t\t\t\t12\r\n' +
+    '\t\t\t\t\t12\r\n' +
+    '\t\t\t\t\t12\r\n' +
+    '\t\t\t\t\t12\r\n' +
+    '\t\t\t\t\t12\r\n' +
+    '\t\t\t\t\t12\r\n' +
+    '\t\t\t\tFull push-ups\r\n' +
+    '\t\t\t\t\t10\r\n' +
+    '\t\t\t\t\t10\r\n' +
+    '\t\t\t\t\t10\r\n' +
+    '\t\t\t\t\t10\r\n' +
+    '\t\t\t\t\t10\r\n' +
+    '\t\t\t\t\t10\r\n' +
+    '\t\t\t\tFull squats\r\n' +
+    '\t\t\t\t\t20\r\n' +
+    '\t\t\t\t\t20\r\n' +
+    '\t\t\t\t\t20\r\n' +
+    '\t\t\t\t\t20\r\n' +
+    '\t\t\t\t\t20\r\n' +
+    '\t\t\t\t\t20\r\n' +
+    '\t\tLearn\r\n' +
+    '\t\t\tAnki Review\r\n' +
+    '\t\t\t\tOthers + Linux + English\r\n' +
+    '\t\t\t\tAlgorithms\r\n' +
+    '\t\t\t\tFront-end\r\n' +
+    '\t\t\t\t\t01HTML\r\n' +
+    '\t\t\t\t\t02CSS\r\n' +
+    '\t\t\t\t\t03HTML5+CSS3\r\n' +
+    '\t\t\tAlgorithms\r\n' +
+    '\t\t\t\t2.3 Quicksort\r\n' +
+    '\t\t\t\t\tduplicate keys\r\n' +
+    '\t\t\t\t\tsystem sorts\r\n' +
+    '\t\t\t\tNew problems\r\n' +
+    '\t\t\t\t\thttps://leetcode.com/tag/stack/\r\n' +
+    '\t\t\tFront-end\r\n' +
+    '\t\t\t\t01第一阶段\r\n' +
+    '\t\t\t\t\tTBD\r\n' +
+    '\tSchedule\r\n' +
+    '\t\t9:10 to 10:00\r\n' +
+    '\t\t\tLearn\r\n' +
+    '\t\t10:00 to 10:10\r\n' +
+    '\t\t\tPE\r\n' +
+    '\t\t\tBreak\r\n' +
+    '\t\t10:10 to 11:00\r\n' +
+    '\t\t\tLearn\r\n' +
+    '\t\t11:00 to 12:00\r\n' +
+    '\t\t\tLunch\r\n' +
+    '\t\t\t搞快点，别浪费时间\r\n' +
+    '\t\t12:00 to 12:30\r\n' +
+    '\t\t\tWash up\r\n' +
+    '\t\t\tBreak\r\n' +
+    '\t\t12:30 to 13:20\r\n' +
+    '\t\t\tLearn\r\n' +
+    '\t\t13:20 to 13:30\r\n' +
+    '\t\t\tPE\r\n' +
+    '\t\t\tBreak\r\n' +
+    '\t\t13:30 to 14:20\r\n' +
+    '\t\t\tLearn\r\n' +
+    '\t\t14:20 to 14:30\r\n' +
+    '\t\t\tPE\r\n' +
+    '\t\t\tBreak\r\n' +
+    '\t\t14:30 to 15:20\r\n' +
+    '\t\t\tLearn\r\n' +
+    '\t\t15:20 to 15:30\r\n' +
+    '\t\t\tPE\r\n' +
+    '\t\t\tBreak\r\n' +
+    '\t\t15:30 to 16:20\r\n' +
+    '\t\t\tLearn\r\n' +
+    '\t\t16:20 to 16:30\r\n' +
+    '\t\t\tPE\r\n' +
+    '\t\t\tBreak\r\n' +
+    '\t\t16:30 to 17:20\r\n' +
+    '\t\t\tLearn\r\n' +
+    '\t\t17:20 to 18:20\r\n' +
+    '\t\t\tDinner\r\n' +
+    '\t\t\t搞快点，别浪费时间\r\n' +
+    '\t\t18:20 to 19:00\r\n' +
+    '\t\t\tWash up\r\n' +
+    '\t\t\tBreak\r\n' +
+    '\t\t\t收桂圆干\r\n' +
+    '\t\t19:00 to 19:50\r\n' +
+    '\t\t\tLearn\r\n' +
+    '\t\t19:50 to 20:00\r\n' +
+    '\t\t\t晚上了就别运动了\r\n' +
+    '\t\t\tBreak\r\n' +
+    '\t\t20:00 to 20:50\r\n' +
+    '\t\t\tLearn\r\n' +
+    '\t\t20:50 to 21:00\r\n' +
+    '\t\t\tBreak\r\n' +
+    '\t\t21:00 to 21:50\r\n' +
+    '\t\t\tLearn\r\n' +
+    '\t\t21:50 to 22:30\r\n' +
+    '\t\t\tBreak\r\n' +
+    '\t\t\t吃褪黑素\r\n' +
+    '\t\t\t喝热牛奶\r\n' +
+    '\t\t\tReflection, Review, Plan',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '8d1adcb051882d554b955a4265'
+  },
+  xapInfoMap: {}
+}
+[I 2021-07-28T00:14:09.245Z snowbrush] Export image time: from 1627431249244 to 1627431249245.
+[I 2021-07-28T00:15:04.138Z snowbrush] db write {
+  'text/plain': '7:30 to 8:00\r\n' +
+    '\tGet up\r\n' +
+    '\t晒桂圆\r\n' +
+    '\tWash up\r\n' +
+    '\tA cup of milk\r\n' +
+    '8:00 to \r\n' +
+    '\tReview, Reflection, Plans',
+  'text/x-array-json': [
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] }
+  ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '8d1adcb051882d554b955a4265'
+  },
+  xapInfoMap: {}
+}
+[I 2021-07-28T00:15:41.852Z snowbrush] db write {
+  'text/plain': 'Template\r\n' +
+    '\tRecords\r\n' +
+    '\t\tOthers\r\n' +
+    '\t\t\t7:30 to 8:00\r\n' +
+    '\t\t\t\tGet up\r\n' +
+    '\t\t\t\t晒桂圆\r\n' +
+    '\t\t\t\tWash up\r\n' +
+    '\t\t\t\tA cup of milk\r\n' +
+    '\t\t\t8:00 to \r\n' +
+    '\t\t\t\tReview, Reflection, Plans\r\n' +
+    '\t\tME\r\n' +
+    '\t\tPE\r\n' +
+    '\tTODO\r\n' +
+    '\t\t今日最大目标\r\n' +
+    '\t\t\t在没有突破昨日和前日之前，不要分心\r\n' +
+    '\t\t\t在没有突破昨日和前日之前，不要分心\r\n' +
+    '\t\t\t在没有突破昨日和前日之前，不要分心\r\n' +
+    '\t\tME\r\n' +
+    '\t\t\tReview, Reflection, Plan\r\n' +
+    '\t\t\tPositive Psychology\r\n' +
+    '\t\tPE\r\n' +
+    '\t\t\tConvict Conditioning\r\n' +
+    '\t\t\t\tFull pull-ups\r\n' +
+    '\t\t\t\t\t5\r\n' +
+    '\t\t\t\t\t5\r\n' +
+    '\t\t\t\t\t5\r\n' +
+    '\t\t\t\t\t5\r\n' +
+    '\t\t\t\t\t5\r\n' +
+    '\t\t\t\t\t5\r\n' +
+    '\t\t\t\tFlat leg raises\r\n' +
+    '\t\t\t\t\t12\r\n' +
+    '\t\t\t\t\t12\r\n' +
+    '\t\t\t\t\t12\r\n' +
+    '\t\t\t\t\t12\r\n' +
+    '\t\t\t\t\t12\r\n' +
+    '\t\t\t\t\t12\r\n' +
+    '\t\t\t\tFull push-ups\r\n' +
+    '\t\t\t\t\t10\r\n' +
+    '\t\t\t\t\t10\r\n' +
+    '\t\t\t\t\t10\r\n' +
+    '\t\t\t\t\t10\r\n' +
+    '\t\t\t\t\t10\r\n' +
+    '\t\t\t\t\t10\r\n' +
+    '\t\t\t\tFull squats\r\n' +
+    '\t\t\t\t\t20\r\n' +
+    '\t\t\t\t\t20\r\n' +
+    '\t\t\t\t\t20\r\n' +
+    '\t\t\t\t\t20\r\n' +
+    '\t\t\t\t\t20\r\n' +
+    '\t\t\t\t\t20\r\n' +
+    '\t\tLearn\r\n' +
+    '\t\t\tAnki Review\r\n' +
+    '\t\t\t\tOthers + Linux + English\r\n' +
+    '\t\t\t\tAlgorithms\r\n' +
+    '\t\t\t\tFront-end\r\n' +
+    '\t\t\t\t\t01HTML\r\n' +
+    '\t\t\t\t\t02CSS\r\n' +
+    '\t\t\t\t\t03HTML5+CSS3\r\n' +
+    '\t\t\tAlgorithms\r\n' +
+    '\t\t\t\t2.3 Quicksort\r\n' +
+    '\t\t\t\t\tduplicate keys\r\n' +
+    '\t\t\t\t\tsystem sorts\r\n' +
+    '\t\t\t\tNew problems\r\n' +
+    '\t\t\t\t\thttps://leetcode.com/tag/stack/\r\n' +
+    '\t\t\tFront-end\r\n' +
+    '\t\t\t\t01第一阶段\r\n' +
+    '\t\t\t\t\tTBD\r\n' +
+    '\tSchedule\r\n' +
+    '\t\t9:10 to 10:00\r\n' +
+    '\t\t\tLearn\r\n' +
+    '\t\t10:00 to 10:10\r\n' +
+    '\t\t\tPE\r\n' +
+    '\t\t\tBreak\r\n' +
+    '\t\t10:10 to 11:00\r\n' +
+    '\t\t\tLearn\r\n' +
+    '\t\t11:00 to 12:00\r\n' +
+    '\t\t\tLunch\r\n' +
+    '\t\t\t搞快点，别浪费时间\r\n' +
+    '\t\t12:00 to 12:30\r\n' +
+    '\t\t\tWash up\r\n' +
+    '\t\t\tBreak\r\n' +
+    '\t\t12:30 to 13:20\r\n' +
+    '\t\t\tLearn\r\n' +
+    '\t\t13:20 to 13:30\r\n' +
+    '\t\t\tPE\r\n' +
+    '\t\t\tBreak\r\n' +
+    '\t\t13:30 to 14:20\r\n' +
+    '\t\t\tLearn\r\n' +
+    '\t\t14:20 to 14:30\r\n' +
+    '\t\t\tPE\r\n' +
+    '\t\t\tBreak\r\n' +
+    '\t\t14:30 to 15:20\r\n' +
+    '\t\t\tLearn\r\n' +
+    '\t\t15:20 to 15:30\r\n' +
+    '\t\t\tPE\r\n' +
+    '\t\t\tBreak\r\n' +
+    '\t\t15:30 to 16:20\r\n' +
+    '\t\t\tLearn\r\n' +
+    '\t\t16:20 to 16:30\r\n' +
+    '\t\t\tPE\r\n' +
+    '\t\t\tBreak\r\n' +
+    '\t\t16:30 to 17:20\r\n' +
+    '\t\t\tLearn\r\n' +
+    '\t\t17:20 to 18:20\r\n' +
+    '\t\t\tDinner\r\n' +
+    '\t\t\t搞快点，别浪费时间\r\n' +
+    '\t\t18:20 to 19:00\r\n' +
+    '\t\t\tWash up\r\n' +
+    '\t\t\tBreak\r\n' +
+    '\t\t\t收桂圆干\r\n' +
+    '\t\t19:00 to 19:50\r\n' +
+    '\t\t\tLearn\r\n' +
+    '\t\t19:50 to 20:00\r\n' +
+    '\t\t\t晚上了就别运动了\r\n' +
+    '\t\t\tBreak\r\n' +
+    '\t\t20:00 to 20:50\r\n' +
+    '\t\t\tLearn\r\n' +
+    '\t\t20:50 to 21:00\r\n' +
+    '\t\t\tBreak\r\n' +
+    '\t\t21:00 to 21:50\r\n' +
+    '\t\t\tLearn\r\n' +
+    '\t\t21:50 to 22:30\r\n' +
+    '\t\t\tBreak\r\n' +
+    '\t\t\t吃褪黑素\r\n' +
+    '\t\t\t喝热牛奶\r\n' +
+    '\t\t\tReflection, Review, Plan',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '8d1adcb051882d554b955a4265'
+  },
+  xapInfoMap: {}
+}
+[I 2021-07-28T00:15:46.085Z snowbrush] db write {
+  'text/plain': 'Template\r\n' +
+    '\tRecords\r\n' +
+    '\t\tOthers\r\n' +
+    '\t\t\t7:30 to 8:00\r\n' +
+    '\t\t\t\tGet up\r\n' +
+    '\t\t\t\t晒桂圆\r\n' +
+    '\t\t\t\tWash up\r\n' +
+    '\t\t\t\tA cup of milk\r\n' +
+    '\t\t\t8:00 to \r\n' +
+    '\t\t\t\tReview, Reflection, Plans\r\n' +
+    '\t\tME\r\n' +
+    '\t\tPE\r\n' +
+    '\tTODO\r\n' +
+    '\t\t今日最大目标\r\n' +
+    '\t\t\t在没有突破昨日和前日之前，不要分心\r\n' +
+    '\t\t\t在没有突破昨日和前日之前，不要分心\r\n' +
+    '\t\t\t在没有突破昨日和前日之前，不要分心\r\n' +
+    '\t\tME\r\n' +
+    '\t\t\tReview, Reflection, Plan\r\n' +
+    '\t\t\tPositive Psychology\r\n' +
+    '\t\tPE\r\n' +
+    '\t\t\tConvict Conditioning\r\n' +
+    '\t\t\t\tFull pull-ups\r\n' +
+    '\t\t\t\t\t5\r\n' +
+    '\t\t\t\t\t5\r\n' +
+    '\t\t\t\t\t5\r\n' +
+    '\t\t\t\t\t5\r\n' +
+    '\t\t\t\t\t5\r\n' +
+    '\t\t\t\t\t5\r\n' +
+    '\t\t\t\tFlat leg raises\r\n' +
+    '\t\t\t\t\t12\r\n' +
+    '\t\t\t\t\t12\r\n' +
+    '\t\t\t\t\t12\r\n' +
+    '\t\t\t\t\t12\r\n' +
+    '\t\t\t\t\t12\r\n' +
+    '\t\t\t\t\t12\r\n' +
+    '\t\t\t\tFull push-ups\r\n' +
+    '\t\t\t\t\t10\r\n' +
+    '\t\t\t\t\t10\r\n' +
+    '\t\t\t\t\t10\r\n' +
+    '\t\t\t\t\t10\r\n' +
+    '\t\t\t\t\t10\r\n' +
+    '\t\t\t\t\t10\r\n' +
+    '\t\t\t\tFull squats\r\n' +
+    '\t\t\t\t\t20\r\n' +
+    '\t\t\t\t\t20\r\n' +
+    '\t\t\t\t\t20\r\n' +
+    '\t\t\t\t\t20\r\n' +
+    '\t\t\t\t\t20\r\n' +
+    '\t\t\t\t\t20\r\n' +
+    '\t\tLearn\r\n' +
+    '\t\t\tAnki Review\r\n' +
+    '\t\t\t\tOthers + Linux + English\r\n' +
+    '\t\t\t\tAlgorithms\r\n' +
+    '\t\t\t\tFront-end\r\n' +
+    '\t\t\t\t\t01HTML\r\n' +
+    '\t\t\t\t\t02CSS\r\n' +
+    '\t\t\t\t\t03HTML5+CSS3\r\n' +
+    '\t\t\tAlgorithms\r\n' +
+    '\t\t\t\t2.3 Quicksort\r\n' +
+    '\t\t\t\t\tduplicate keys\r\n' +
+    '\t\t\t\t\tsystem sorts\r\n' +
+    '\t\t\t\tNew problems\r\n' +
+    '\t\t\t\t\thttps://leetcode.com/tag/stack/\r\n' +
+    '\t\t\tFront-end\r\n' +
+    '\t\t\t\t01第一阶段\r\n' +
+    '\t\t\t\t\tTBD\r\n' +
+    '\tSchedule\r\n' +
+    '\t\t9:10 to 10:00\r\n' +
+    '\t\t\tLearn\r\n' +
+    '\t\t10:00 to 10:10\r\n' +
+    '\t\t\tPE\r\n' +
+    '\t\t\tBreak\r\n' +
+    '\t\t10:10 to 11:00\r\n' +
+    '\t\t\tLearn\r\n' +
+    '\t\t11:00 to 12:00\r\n' +
+    '\t\t\tLunch\r\n' +
+    '\t\t\t搞快点，别浪费时间\r\n' +
+    '\t\t12:00 to 12:30\r\n' +
+    '\t\t\tWash up\r\n' +
+    '\t\t\tBreak\r\n' +
+    '\t\t12:30 to 13:20\r\n' +
+    '\t\t\tLearn\r\n' +
+    '\t\t13:20 to 13:30\r\n' +
+    '\t\t\tPE\r\n' +
+    '\t\t\tBreak\r\n' +
+    '\t\t13:30 to 14:20\r\n' +
+    '\t\t\tLearn\r\n' +
+    '\t\t14:20 to 14:30\r\n' +
+    '\t\t\tPE\r\n' +
+    '\t\t\tBreak\r\n' +
+    '\t\t14:30 to 15:20\r\n' +
+    '\t\t\tLearn\r\n' +
+    '\t\t15:20 to 15:30\r\n' +
+    '\t\t\tPE\r\n' +
+    '\t\t\tBreak\r\n' +
+    '\t\t15:30 to 16:20\r\n' +
+    '\t\t\tLearn\r\n' +
+    '\t\t16:20 to 16:30\r\n' +
+    '\t\t\tPE\r\n' +
+    '\t\t\tBreak\r\n' +
+    '\t\t16:30 to 17:20\r\n' +
+    '\t\t\tLearn\r\n' +
+    '\t\t17:20 to 18:20\r\n' +
+    '\t\t\tDinner\r\n' +
+    '\t\t\t搞快点，别浪费时间\r\n' +
+    '\t\t18:20 to 19:00\r\n' +
+    '\t\t\tWash up\r\n' +
+    '\t\t\tBreak\r\n' +
+    '\t\t\t收桂圆干\r\n' +
+    '\t\t19:00 to 19:50\r\n' +
+    '\t\t\tLearn\r\n' +
+    '\t\t19:50 to 20:00\r\n' +
+    '\t\t\t晚上了就别运动了\r\n' +
+    '\t\t\tBreak\r\n' +
+    '\t\t20:00 to 20:50\r\n' +
+    '\t\t\tLearn\r\n' +
+    '\t\t20:50 to 21:00\r\n' +
+    '\t\t\tBreak\r\n' +
+    '\t\t21:00 to 21:50\r\n' +
+    '\t\t\tLearn\r\n' +
+    '\t\t21:50 to 22:30\r\n' +
+    '\t\t\tBreak\r\n' +
+    '\t\t\t吃褪黑素\r\n' +
+    '\t\t\t喝热牛奶\r\n' +
+    '\t\t\tReflection, Review, Plan',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '8d1adcb051882d554b955a4265'
+  },
+  xapInfoMap: {}
+}
+[I 2021-07-28T00:16:22.421Z snowbrush] Export image time: from 1627431382421 to 1627431382421.
+[I 2021-07-28T00:16:29.396Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-28T00:16:29.397Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-28T00:17:56.034Z snowbrush] db write {
+  'text/plain': '2.3 Quicksort\r\n\tduplicate keys\r\n\tsystem sorts',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '8d1adcb051882d554b955a4265'
+  },
+  xapInfoMap: {}
+}
+[I 2021-07-28T00:19:08.474Z snowbrush] Export image time: from 1627431548474 to 1627431548474.
+[I 2021-07-28T00:19:51.461Z snowbrush] Export image time: from 1627431591461 to 1627431591461.
+[I 2021-07-28T00:23:20.526Z snowbrush] db write {
+  'text/plain': 'TODO\r\n' +
+    '\t今日最大目标\r\n' +
+    '\t\t在没有突破昨日和前日之前，不要分心\r\n' +
+    '\t\t在没有突破昨日和前日之前，不要分心\r\n' +
+    '\t\t在没有突破昨日和前日之前，不要分心\r\n' +
+    '\tME\r\n' +
+    '\t\tReview, Reflection, Plan\r\n' +
+    '\t\tPositive Psychology\r\n' +
+    '\tPE\r\n' +
+    '\t\tConvict Conditioning\r\n' +
+    '\t\t\tFull pull-ups\r\n' +
+    '\t\t\t\t5\r\n' +
+    '\t\t\t\t5\r\n' +
+    '\t\t\t\t5\r\n' +
+    '\t\t\t\t5\r\n' +
+    '\t\t\t\t5\r\n' +
+    '\t\t\t\t5\r\n' +
+    '\t\t\tFlat leg raises\r\n' +
+    '\t\t\t\t12\r\n' +
+    '\t\t\t\t12\r\n' +
+    '\t\t\t\t12\r\n' +
+    '\t\t\t\t12\r\n' +
+    '\t\t\t\t12\r\n' +
+    '\t\t\t\t12\r\n' +
+    '\t\t\tFull push-ups\r\n' +
+    '\t\t\t\t10\r\n' +
+    '\t\t\t\t10\r\n' +
+    '\t\t\t\t10\r\n' +
+    '\t\t\t\t10\r\n' +
+    '\t\t\t\t10\r\n' +
+    '\t\t\t\t10\r\n' +
+    '\t\t\tFull squats\r\n' +
+    '\t\t\t\t20\r\n' +
+    '\t\t\t\t20\r\n' +
+    '\t\t\t\t20\r\n' +
+    '\t\t\t\t20\r\n' +
+    '\t\t\t\t20\r\n' +
+    '\t\t\t\t20\r\n' +
+    '\tLearn\r\n' +
+    '\t\tAnki Review\r\n' +
+    '\t\t\tOthers + Linux + English\r\n' +
+    '\t\t\tAlgorithms\r\n' +
+    '\t\t\tFront-end\r\n' +
+    '\t\t\t\t01HTML\r\n' +
+    '\t\t\t\t02CSS\r\n' +
+    '\t\t\t\t03HTML5+CSS3\r\n' +
+    '\t\tAlgorithms\r\n' +
+    '\t\t\t2.5 Priority Queues (Heap)\r\n' +
+    '\t\t\tNew problems\r\n' +
+    '\t\t\t\thttps://leetcode.com/tag/stack/\r\n' +
+    '\t\t\t\tN-ary Tree Preorder Traversal\r\n' +
+    '\t\t\t\tN-ary Tree Postorder Traversal\t\r\n' +
+    '\t\tFront-end\r\n' +
+    '\t\t\t01第一阶段\r\n' +
+    '\t\t\t\t20200829html+css\r\n' +
+    '\t\t\t\t20200831html+css\r\n' +
+    '\t\t\t\t20200901html+css\r\n' +
+    '\t\t\t\t20200902html+css\r\n' +
+    '\t\t\t\t20200904html+css',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '8d1adcb051882d554b955a4265'
+  },
+  xapInfoMap: {}
+}
+[I 2021-07-28T00:23:33.480Z snowbrush] Export image time: from 1627431813480 to 1627431813480.
+[I 2021-07-28T00:24:01.568Z snowbrush] Export image time: from 1627431841567 to 1627431841567.
+[I 2021-07-28T00:24:15.238Z snowbrush] db write {
+  'text/plain': 'Template\r\n' +
+    '\tRecords\r\n' +
+    '\t\t今日最大目标\r\n' +
+    '\t\t\t在没有突破昨日和前日之前，不要分心\r\n' +
+    '\t\t\t在没有突破昨日和前日之前，不要分心\r\n' +
+    '\t\t\t在没有突破昨日和前日之前，不要分心\r\n' +
+    '\t\tME\r\n' +
+    '\t\t\tReview, Reflection, Plan\r\n' +
+    '\t\t\tPositive Psychology\r\n' +
+    '\t\tPE\r\n' +
+    '\t\t\tConvict Conditioning\r\n' +
+    '\t\t\t\tFull pull-ups\r\n' +
+    '\t\t\t\t\t5\r\n' +
+    '\t\t\t\t\t5\r\n' +
+    '\t\t\t\t\t5\r\n' +
+    '\t\t\t\t\t5\r\n' +
+    '\t\t\t\t\t5\r\n' +
+    '\t\t\t\t\t5\r\n' +
+    '\t\t\t\tFlat leg raises\r\n' +
+    '\t\t\t\t\t12\r\n' +
+    '\t\t\t\t\t12\r\n' +
+    '\t\t\t\t\t12\r\n' +
+    '\t\t\t\t\t12\r\n' +
+    '\t\t\t\t\t12\r\n' +
+    '\t\t\t\t\t12\r\n' +
+    '\t\t\t\tFull push-ups\r\n' +
+    '\t\t\t\t\t10\r\n' +
+    '\t\t\t\t\t10\r\n' +
+    '\t\t\t\t\t10\r\n' +
+    '\t\t\t\t\t10\r\n' +
+    '\t\t\t\t\t10\r\n' +
+    '\t\t\t\t\t10\r\n' +
+    '\t\t\t\tFull squats\r\n' +
+    '\t\t\t\t\t20\r\n' +
+    '\t\t\t\t\t20\r\n' +
+    '\t\t\t\t\t20\r\n' +
+    '\t\t\t\t\t20\r\n' +
+    '\t\t\t\t\t20\r\n' +
+    '\t\t\t\t\t20\r\n' +
+    '\t\tLearn\r\n' +
+    '\t\t\tAnki Review\r\n' +
+    '\t\t\t\tOthers + Linux + English\r\n' +
+    '\t\t\t\tAlgorithms\r\n' +
+    '\t\t\t\tFront-end\r\n' +
+    '\t\t\t\t\t01HTML\r\n' +
+    '\t\t\t\t\t02CSS\r\n' +
+    '\t\t\t\t\t03HTML5+CSS3\r\n' +
+    '\t\t\tAlgorithms\r\n' +
+    '\t\t\t\t2.5 Priority Queues (Heap)\r\n' +
+    '\t\t\t\tNew problems\r\n' +
+    '\t\t\t\t\thttps://leetcode.com/tag/stack/\r\n' +
+    '\t\t\t\t\tN-ary Tree Preorder Traversal\r\n' +
+    '\t\t\t\t\tN-ary Tree Postorder Traversal\t\r\n' +
+    '\t\t\tFront-end\r\n' +
+    '\t\t\t\t01第一阶段\r\n' +
+    '\t\t\t\t\t20200829html+css\r\n' +
+    '\t\t\t\t\t20200831html+css\r\n' +
+    '\t\t\t\t\t20200901html+css\r\n' +
+    '\t\t\t\t\t20200902html+css\r\n' +
+    '\t\t\t\t\t20200904html+css\r\n' +
+    '\tTODO\r\n' +
+    '\t\t今日最大目标\r\n' +
+    '\t\t\t在没有突破昨日和前日之前，不要分心\r\n' +
+    '\t\t\t在没有突破昨日和前日之前，不要分心\r\n' +
+    '\t\t\t在没有突破昨日和前日之前，不要分心\r\n' +
+    '\t\tME\r\n' +
+    '\t\t\tReview, Reflection, Plan\r\n' +
+    '\t\t\tPositive Psychology\r\n' +
+    '\t\tPE\r\n' +
+    '\t\t\tConvict Conditioning\r\n' +
+    '\t\t\t\tFull pull-ups\r\n' +
+    '\t\t\t\t\t5\r\n' +
+    '\t\t\t\t\t5\r\n' +
+    '\t\t\t\t\t5\r\n' +
+    '\t\t\t\t\t5\r\n' +
+    '\t\t\t\t\t5\r\n' +
+    '\t\t\t\t\t5\r\n' +
+    '\t\t\t\tFlat leg raises\r\n' +
+    '\t\t\t\t\t12\r\n' +
+    '\t\t\t\t\t12\r\n' +
+    '\t\t\t\t\t12\r\n' +
+    '\t\t\t\t\t12\r\n' +
+    '\t\t\t\t\t12\r\n' +
+    '\t\t\t\t\t12\r\n' +
+    '\t\t\t\tFull push-ups\r\n' +
+    '\t\t\t\t\t10\r\n' +
+    '\t\t\t\t\t10\r\n' +
+    '\t\t\t\t\t10\r\n' +
+    '\t\t\t\t\t10\r\n' +
+    '\t\t\t\t\t10\r\n' +
+    '\t\t\t\t\t10\r\n' +
+    '\t\t\t\tFull squats\r\n' +
+    '\t\t\t\t\t20\r\n' +
+    '\t\t\t\t\t20\r\n' +
+    '\t\t\t\t\t20\r\n' +
+    '\t\t\t\t\t20\r\n' +
+    '\t\t\t\t\t20\r\n' +
+    '\t\t\t\t\t20\r\n' +
+    '\t\tLearn\r\n' +
+    '\t\t\tAnki Review\r\n' +
+    '\t\t\t\tOthers + Linux + English\r\n' +
+    '\t\t\t\tAlgorithms\r\n' +
+    '\t\t\t\tFront-end\r\n' +
+    '\t\t\t\t\t01HTML\r\n' +
+    '\t\t\t\t\t02CSS\r\n' +
+    '\t\t\t\t\t03HTML5+CSS3\r\n' +
+    '\t\t\tAlgorithms\r\n' +
+    '\t\t\t\t2.5 Priority Queues (Heap)\r\n' +
+    '\t\t\t\tNew problems\r\n' +
+    '\t\t\t\t\thttps://leetcode.com/tag/stack/\r\n' +
+    '\t\t\t\t\tN-ary Tree Preorder Traversal\r\n' +
+    '\t\t\t\t\tN-ary Tree Postorder Traversal\t\r\n' +
+    '\t\t\tFront-end\r\n' +
+    '\t\t\t\t01第一阶段\r\n' +
+    '\t\t\t\t\t20200829html+css\r\n' +
+    '\t\t\t\t\t20200831html+css\r\n' +
+    '\t\t\t\t\t20200901html+css\r\n' +
+    '\t\t\t\t\t20200902html+css\r\n' +
+    '\t\t\t\t\t20200904html+css\r\n' +
+    '\tSchedule\r\n' +
+    '\t\t9:10 to 10:00\r\n' +
+    '\t\t\tLearn\r\n' +
+    '\t\t10:00 to 10:10\r\n' +
+    '\t\t\tPE\r\n' +
+    '\t\t\tBreak\r\n' +
+    '\t\t10:10 to 11:00\r\n' +
+    '\t\t\tLearn\r\n' +
+    '\t\t11:00 to 12:00\r\n' +
+    '\t\t\tLunch\r\n' +
+    '\t\t\t搞快点，别浪费时间\r\n' +
+    '\t\t12:00 to 12:30\r\n' +
+    '\t\t\tWash up\r\n' +
+    '\t\t\tBreak\r\n' +
+    '\t\t12:30 to 13:20\r\n' +
+    '\t\t\tLearn\r\n' +
+    '\t\t13:20 to 13:30\r\n' +
+    '\t\t\tPE\r\n' +
+    '\t\t\tBreak\r\n' +
+    '\t\t13:30 to 14:20\r\n' +
+    '\t\t\tLearn\r\n' +
+    '\t\t14:20 to 14:30\r\n' +
+    '\t\t\tPE\r\n' +
+    '\t\t\tBreak\r\n' +
+    '\t\t14:30 to 15:20\r\n' +
+    '\t\t\tLearn\r\n' +
+    '\t\t15:20 to 15:30\r\n' +
+    '\t\t\tPE\r\n' +
+    '\t\t\tBreak\r\n' +
+    '\t\t15:30 to 16:20\r\n' +
+    '\t\t\tLearn\r\n' +
+    '\t\t16:20 to 16:30\r\n' +
+    '\t\t\tPE\r\n' +
+    '\t\t\tBreak\r\n' +
+    '\t\t16:30 to 17:20\r\n' +
+    '\t\t\tLearn\r\n' +
+    '\t\t17:20 to 18:20\r\n' +
+    '\t\t\tDinner\r\n' +
+    '\t\t\t搞快点，别浪费时间\r\n' +
+    '\t\t18:20 to 19:00\r\n' +
+    '\t\t\tWash up\r\n' +
+    '\t\t\tBreak\r\n' +
+    '\t\t\t收桂圆干\r\n' +
+    '\t\t19:00 to 19:50\r\n' +
+    '\t\t\tLearn\r\n' +
+    '\t\t19:50 to 20:00\r\n' +
+    '\t\t\t晚上了就别运动了\r\n' +
+    '\t\t\tBreak\r\n' +
+    '\t\t20:00 to 20:50\r\n' +
+    '\t\t\tLearn\r\n' +
+    '\t\t20:50 to 21:00\r\n' +
+    '\t\t\tBreak\r\n' +
+    '\t\t21:00 to 21:50\r\n' +
+    '\t\t\tLearn\r\n' +
+    '\t\t21:50 to 22:30\r\n' +
+    '\t\t\tBreak\r\n' +
+    '\t\t\t吃褪黑素\r\n' +
+    '\t\t\t喝热牛奶\r\n' +
+    '\t\t\tReflection, Review, Plan',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '8d1adcb051882d554b955a4265'
+  },
+  xapInfoMap: {}
+}
+[I 2021-07-28T00:24:17.795Z snowbrush] db write {
+  'text/plain': 'Template\r\n' +
+    '\tRecords\r\n' +
+    '\t\t今日最大目标\r\n' +
+    '\t\t\t在没有突破昨日和前日之前，不要分心\r\n' +
+    '\t\t\t在没有突破昨日和前日之前，不要分心\r\n' +
+    '\t\t\t在没有突破昨日和前日之前，不要分心\r\n' +
+    '\t\tME\r\n' +
+    '\t\t\tReview, Reflection, Plan\r\n' +
+    '\t\t\tPositive Psychology\r\n' +
+    '\t\tPE\r\n' +
+    '\t\t\tConvict Conditioning\r\n' +
+    '\t\t\t\tFull pull-ups\r\n' +
+    '\t\t\t\t\t5\r\n' +
+    '\t\t\t\t\t5\r\n' +
+    '\t\t\t\t\t5\r\n' +
+    '\t\t\t\t\t5\r\n' +
+    '\t\t\t\t\t5\r\n' +
+    '\t\t\t\t\t5\r\n' +
+    '\t\t\t\tFlat leg raises\r\n' +
+    '\t\t\t\t\t12\r\n' +
+    '\t\t\t\t\t12\r\n' +
+    '\t\t\t\t\t12\r\n' +
+    '\t\t\t\t\t12\r\n' +
+    '\t\t\t\t\t12\r\n' +
+    '\t\t\t\t\t12\r\n' +
+    '\t\t\t\tFull push-ups\r\n' +
+    '\t\t\t\t\t10\r\n' +
+    '\t\t\t\t\t10\r\n' +
+    '\t\t\t\t\t10\r\n' +
+    '\t\t\t\t\t10\r\n' +
+    '\t\t\t\t\t10\r\n' +
+    '\t\t\t\t\t10\r\n' +
+    '\t\t\t\tFull squats\r\n' +
+    '\t\t\t\t\t20\r\n' +
+    '\t\t\t\t\t20\r\n' +
+    '\t\t\t\t\t20\r\n' +
+    '\t\t\t\t\t20\r\n' +
+    '\t\t\t\t\t20\r\n' +
+    '\t\t\t\t\t20\r\n' +
+    '\t\tLearn\r\n' +
+    '\t\t\tAnki Review\r\n' +
+    '\t\t\t\tOthers + Linux + English\r\n' +
+    '\t\t\t\tAlgorithms\r\n' +
+    '\t\t\t\tFront-end\r\n' +
+    '\t\t\t\t\t01HTML\r\n' +
+    '\t\t\t\t\t02CSS\r\n' +
+    '\t\t\t\t\t03HTML5+CSS3\r\n' +
+    '\t\t\tAlgorithms\r\n' +
+    '\t\t\t\t2.5 Priority Queues (Heap)\r\n' +
+    '\t\t\t\tNew problems\r\n' +
+    '\t\t\t\t\thttps://leetcode.com/tag/stack/\r\n' +
+    '\t\t\t\t\tN-ary Tree Preorder Traversal\r\n' +
+    '\t\t\t\t\tN-ary Tree Postorder Traversal\t\r\n' +
+    '\t\t\tFront-end\r\n' +
+    '\t\t\t\t01第一阶段\r\n' +
+    '\t\t\t\t\t20200829html+css\r\n' +
+    '\t\t\t\t\t20200831html+css\r\n' +
+    '\t\t\t\t\t20200901html+css\r\n' +
+    '\t\t\t\t\t20200902html+css\r\n' +
+    '\t\t\t\t\t20200904html+css\r\n' +
+    '\tTODO\r\n' +
+    '\t\t今日最大目标\r\n' +
+    '\t\t\t在没有突破昨日和前日之前，不要分心\r\n' +
+    '\t\t\t在没有突破昨日和前日之前，不要分心\r\n' +
+    '\t\t\t在没有突破昨日和前日之前，不要分心\r\n' +
+    '\t\tME\r\n' +
+    '\t\t\tReview, Reflection, Plan\r\n' +
+    '\t\t\tPositive Psychology\r\n' +
+    '\t\tPE\r\n' +
+    '\t\t\tConvict Conditioning\r\n' +
+    '\t\t\t\tFull pull-ups\r\n' +
+    '\t\t\t\t\t5\r\n' +
+    '\t\t\t\t\t5\r\n' +
+    '\t\t\t\t\t5\r\n' +
+    '\t\t\t\t\t5\r\n' +
+    '\t\t\t\t\t5\r\n' +
+    '\t\t\t\t\t5\r\n' +
+    '\t\t\t\tFlat leg raises\r\n' +
+    '\t\t\t\t\t12\r\n' +
+    '\t\t\t\t\t12\r\n' +
+    '\t\t\t\t\t12\r\n' +
+    '\t\t\t\t\t12\r\n' +
+    '\t\t\t\t\t12\r\n' +
+    '\t\t\t\t\t12\r\n' +
+    '\t\t\t\tFull push-ups\r\n' +
+    '\t\t\t\t\t10\r\n' +
+    '\t\t\t\t\t10\r\n' +
+    '\t\t\t\t\t10\r\n' +
+    '\t\t\t\t\t10\r\n' +
+    '\t\t\t\t\t10\r\n' +
+    '\t\t\t\t\t10\r\n' +
+    '\t\t\t\tFull squats\r\n' +
+    '\t\t\t\t\t20\r\n' +
+    '\t\t\t\t\t20\r\n' +
+    '\t\t\t\t\t20\r\n' +
+    '\t\t\t\t\t20\r\n' +
+    '\t\t\t\t\t20\r\n' +
+    '\t\t\t\t\t20\r\n' +
+    '\t\tLearn\r\n' +
+    '\t\t\tAnki Review\r\n' +
+    '\t\t\t\tOthers + Linux + English\r\n' +
+    '\t\t\t\tAlgorithms\r\n' +
+    '\t\t\t\tFront-end\r\n' +
+    '\t\t\t\t\t01HTML\r\n' +
+    '\t\t\t\t\t02CSS\r\n' +
+    '\t\t\t\t\t03HTML5+CSS3\r\n' +
+    '\t\t\tAlgorithms\r\n' +
+    '\t\t\t\t2.5 Priority Queues (Heap)\r\n' +
+    '\t\t\t\tNew problems\r\n' +
+    '\t\t\t\t\thttps://leetcode.com/tag/stack/\r\n' +
+    '\t\t\t\t\tN-ary Tree Preorder Traversal\r\n' +
+    '\t\t\t\t\tN-ary Tree Postorder Traversal\t\r\n' +
+    '\t\t\tFront-end\r\n' +
+    '\t\t\t\t01第一阶段\r\n' +
+    '\t\t\t\t\t20200829html+css\r\n' +
+    '\t\t\t\t\t20200831html+css\r\n' +
+    '\t\t\t\t\t20200901html+css\r\n' +
+    '\t\t\t\t\t20200902html+css\r\n' +
+    '\t\t\t\t\t20200904html+css\r\n' +
+    '\tSchedule\r\n' +
+    '\t\t9:10 to 10:00\r\n' +
+    '\t\t\tLearn\r\n' +
+    '\t\t10:00 to 10:10\r\n' +
+    '\t\t\tPE\r\n' +
+    '\t\t\tBreak\r\n' +
+    '\t\t10:10 to 11:00\r\n' +
+    '\t\t\tLearn\r\n' +
+    '\t\t11:00 to 12:00\r\n' +
+    '\t\t\tLunch\r\n' +
+    '\t\t\t搞快点，别浪费时间\r\n' +
+    '\t\t12:00 to 12:30\r\n' +
+    '\t\t\tWash up\r\n' +
+    '\t\t\tBreak\r\n' +
+    '\t\t12:30 to 13:20\r\n' +
+    '\t\t\tLearn\r\n' +
+    '\t\t13:20 to 13:30\r\n' +
+    '\t\t\tPE\r\n' +
+    '\t\t\tBreak\r\n' +
+    '\t\t13:30 to 14:20\r\n' +
+    '\t\t\tLearn\r\n' +
+    '\t\t14:20 to 14:30\r\n' +
+    '\t\t\tPE\r\n' +
+    '\t\t\tBreak\r\n' +
+    '\t\t14:30 to 15:20\r\n' +
+    '\t\t\tLearn\r\n' +
+    '\t\t15:20 to 15:30\r\n' +
+    '\t\t\tPE\r\n' +
+    '\t\t\tBreak\r\n' +
+    '\t\t15:30 to 16:20\r\n' +
+    '\t\t\tLearn\r\n' +
+    '\t\t16:20 to 16:30\r\n' +
+    '\t\t\tPE\r\n' +
+    '\t\t\tBreak\r\n' +
+    '\t\t16:30 to 17:20\r\n' +
+    '\t\t\tLearn\r\n' +
+    '\t\t17:20 to 18:20\r\n' +
+    '\t\t\tDinner\r\n' +
+    '\t\t\t搞快点，别浪费时间\r\n' +
+    '\t\t18:20 to 19:00\r\n' +
+    '\t\t\tWash up\r\n' +
+    '\t\t\tBreak\r\n' +
+    '\t\t\t收桂圆干\r\n' +
+    '\t\t19:00 to 19:50\r\n' +
+    '\t\t\tLearn\r\n' +
+    '\t\t19:50 to 20:00\r\n' +
+    '\t\t\t晚上了就别运动了\r\n' +
+    '\t\t\tBreak\r\n' +
+    '\t\t20:00 to 20:50\r\n' +
+    '\t\t\tLearn\r\n' +
+    '\t\t20:50 to 21:00\r\n' +
+    '\t\t\tBreak\r\n' +
+    '\t\t21:00 to 21:50\r\n' +
+    '\t\t\tLearn\r\n' +
+    '\t\t21:50 to 22:30\r\n' +
+    '\t\t\tBreak\r\n' +
+    '\t\t\t吃褪黑素\r\n' +
+    '\t\t\t喝热牛奶\r\n' +
+    '\t\t\tReflection, Review, Plan',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '8d1adcb051882d554b955a4265'
+  },
+  xapInfoMap: {}
+}
+[I 2021-07-28T00:24:33.037Z snowbrush] Export image time: from 1627431873036 to 1627431873036.
+[I 2021-07-28T00:25:47.832Z snowbrush] Export image time: from 1627431947832 to 1627431947832.
+[I 2021-07-28T00:26:21.173Z snowbrush] Export image time: from 1627431981172 to 1627431981172.
+[I 2021-07-28T00:28:22.269Z snowbrush] db write {
+  'text/plain': 'Schedule\r\n' +
+    '\t8:10 to 9:00\r\n' +
+    '\t\tLearn\r\n' +
+    '\t9:00 to 9:10\r\n' +
+    '\t\tPE\r\n' +
+    '\t\tBreak\r\n' +
+    '\t9:10 to 10:00\r\n' +
+    '\t\tLearn\r\n' +
+    '\t10:00 to 10:10\r\n' +
+    '\t\tPE\r\n' +
+    '\t\tBreak\r\n' +
+    '\t10:10 to 11:00\r\n' +
+    '\t\tLearn\r\n' +
+    '\t11:00 to 12:00\r\n' +
+    '\t\tLunch\r\n' +
+    '\t\t搞快点，别浪费时间\r\n' +
+    '\t12:00 to 12:30\r\n' +
+    '\t\tWash up\r\n' +
+    '\t\tBreak\r\n' +
+    '\t12:30 to 13:20\r\n' +
+    '\t\tLearn\r\n' +
+    '\t13:20 to 13:30\r\n' +
+    '\t\tPE\r\n' +
+    '\t\tBreak\r\n' +
+    '\t13:30 to 14:20\r\n' +
+    '\t\tLearn\r\n' +
+    '\t14:20 to 14:30\r\n' +
+    '\t\tPE\r\n' +
+    '\t\tBreak\r\n' +
+    '\t14:30 to 15:20\r\n' +
+    '\t\tLearn\r\n' +
+    '\t15:20 to 15:30\r\n' +
+    '\t\tPE\r\n' +
+    '\t\tBreak\r\n' +
+    '\t15:30 to 16:20\r\n' +
+    '\t\tLearn\r\n' +
+    '\t16:20 to 16:30\r\n' +
+    '\t\tPE\r\n' +
+    '\t\tBreak\r\n' +
+    '\t16:30 to 17:20\r\n' +
+    '\t\tLearn\r\n' +
+    '\t17:20 to 18:20\r\n' +
+    '\t\tDinner\r\n' +
+    '\t\t搞快点，别浪费时间\r\n' +
+    '\t18:20 to 19:00\r\n' +
+    '\t\tWash up\r\n' +
+    '\t\tBreak\r\n' +
+    '\t\t收桂圆干\r\n' +
+    '\t19:00 to 19:50\r\n' +
+    '\t\tLearn\r\n' +
+    '\t19:50 to 20:00\r\n' +
+    '\t\t晚上了就别运动了\r\n' +
+    '\t\tBreak\r\n' +
+    '\t20:00 to 20:50\r\n' +
+    '\t\tLearn\r\n' +
+    '\t20:50 to 21:00\r\n' +
+    '\t\tBreak\r\n' +
+    '\t21:00 to 21:50\r\n' +
+    '\t\tLearn\r\n' +
+    '\t21:50 to 22:30\r\n' +
+    '\t\tBreak\r\n' +
+    '\t\t吃褪黑素\r\n' +
+    '\t\t喝热牛奶\r\n' +
+    '\t\tReflection, Review, Plan',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '8d1adcb051882d554b955a4265'
+  },
+  xapInfoMap: {}
+}
+[I 2021-07-28T00:28:32.818Z snowbrush] null
+[I 2021-07-28T00:28:38.873Z snowbrush] null
+[I 2021-07-28T00:28:49.372Z snowbrush] Export image time: from 1627432129372 to 1627432129372.
+[I 2021-07-28T00:28:53.156Z snowbrush] db write {
+  'text/plain': 'TODO\r\n' +
+    '\t今日最大目标\r\n' +
+    '\t\t在没有突破昨日和前日之前，不要分心\r\n' +
+    '\t\t在没有突破昨日和前日之前，不要分心\r\n' +
+    '\t\t在没有突破昨日和前日之前，不要分心\r\n' +
+    '\tME\r\n' +
+    '\t\tReview, Reflection, Plan\r\n' +
+    '\t\tPositive Psychology\r\n' +
+    '\tPE\r\n' +
+    '\t\tConvict Conditioning\r\n' +
+    '\t\t\tFull pull-ups\r\n' +
+    '\t\t\t\t5\r\n' +
+    '\t\t\t\t5\r\n' +
+    '\t\t\t\t5\r\n' +
+    '\t\t\t\t5\r\n' +
+    '\t\t\t\t5\r\n' +
+    '\t\t\t\t5\r\n' +
+    '\t\t\tFlat leg raises\r\n' +
+    '\t\t\t\t12\r\n' +
+    '\t\t\t\t12\r\n' +
+    '\t\t\t\t12\r\n' +
+    '\t\t\t\t12\r\n' +
+    '\t\t\t\t12\r\n' +
+    '\t\t\t\t12\r\n' +
+    '\t\t\tFull push-ups\r\n' +
+    '\t\t\t\t10\r\n' +
+    '\t\t\t\t10\r\n' +
+    '\t\t\t\t10\r\n' +
+    '\t\t\t\t10\r\n' +
+    '\t\t\t\t10\r\n' +
+    '\t\t\t\t10\r\n' +
+    '\t\t\tFull squats\r\n' +
+    '\t\t\t\t20\r\n' +
+    '\t\t\t\t20\r\n' +
+    '\t\t\t\t20\r\n' +
+    '\t\t\t\t20\r\n' +
+    '\t\t\t\t20\r\n' +
+    '\t\t\t\t20\r\n' +
+    '\tLearn\r\n' +
+    '\t\tAnki Review\r\n' +
+    '\t\t\tOthers + Linux + English\r\n' +
+    '\t\t\tAlgorithms\r\n' +
+    '\t\t\tFront-end\r\n' +
+    '\t\t\t\t01HTML\r\n' +
+    '\t\t\t\t02CSS\r\n' +
+    '\t\t\t\t03HTML5+CSS3\r\n' +
+    '\t\tAlgorithms\r\n' +
+    '\t\t\t2.5 Priority Queues (Heap)\r\n' +
+    '\t\t\tNew problems\r\n' +
+    '\t\t\t\thttps://leetcode.com/tag/stack/\r\n' +
+    '\t\t\t\tN-ary Tree Preorder Traversal\r\n' +
+    '\t\t\t\tN-ary Tree Postorder Traversal\t\r\n' +
+    '\t\tFront-end\r\n' +
+    '\t\t\t01第一阶段\r\n' +
+    '\t\t\t\t20200829html+css\r\n' +
+    '\t\t\t\t20200831html+css\r\n' +
+    '\t\t\t\t20200901html+css\r\n' +
+    '\t\t\t\t20200902html+css\r\n' +
+    '\t\t\t\t20200904html+css',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '8d1adcb051882d554b955a4265'
+  },
+  xapInfoMap: {}
+}
+[I 2021-07-28T01:13:03.961Z snowbrush] Export image time: from 1627434783953 to 1627434783953.
+[I 2021-07-28T01:16:29.934Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-28T01:16:29.934Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-28T01:35:56.601Z snowbrush] Export image time: from 1627436156601 to 1627436156601.
+[I 2021-07-28T01:36:05.085Z snowbrush] Export image time: from 1627436165085 to 1627436165085.
+[I 2021-07-28T01:45:16.641Z snowbrush] Export image time: from 1627436716640 to 1627436716641.
+[I 2021-07-28T02:04:55.060Z snowbrush] Export image time: from 1627437895060 to 1627437895060.
+[I 2021-07-28T02:16:29.994Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-28T02:16:29.994Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-28T02:19:21.693Z snowbrush] Export image time: from 1627438761692 to 1627438761693.
+[I 2021-07-28T02:20:05.794Z snowbrush] Export image time: from 1627438805793 to 1627438805793.
+[I 2021-07-28T02:54:35.948Z snowbrush] Export image time: from 1627440875948 to 1627440875948.
+[I 2021-07-28T02:56:28.609Z snowbrush] Export image time: from 1627440988609 to 1627440988609.
+[I 2021-07-28T02:57:00.929Z snowbrush] Export image time: from 1627441020929 to 1627441020929.
+[I 2021-07-28T03:16:30.048Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-28T03:16:30.049Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-28T04:16:30.102Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-28T04:16:30.103Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-28T04:26:01.472Z snowbrush] Export image time: from 1627446361472 to 1627446361472.
+[I 2021-07-28T04:33:47.810Z snowbrush] db write {
+  'text/plain': '01HTML\r\n\t12:25 to \r\n02CSS\r\n03HTML5+CSS3',
+  'text/x-array-json': [
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] }
+  ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '8d1adcb051882d554b955a4265'
+  },
+  xapInfoMap: {}
+}
+[I 2021-07-28T04:38:41.641Z snowbrush] db write {
+  'text/plain': '02CSS',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '8d1adcb051882d554b955a4265'
+  },
+  xapInfoMap: {}
+}
+[I 2021-07-28T04:38:44.611Z snowbrush] Export image time: from 1627447124611 to 1627447124611.
+[I 2021-07-28T04:59:58.747Z snowbrush] Export image time: from 1627448398738 to 1627448398739.
+[I 2021-07-28T05:02:02.381Z snowbrush] Export image time: from 1627448522381 to 1627448522381.
+[I 2021-07-28T05:02:06.167Z snowbrush] db write {
+  'text/plain': '13:05 to ',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '8d1adcb051882d554b955a4265'
+  },
+  xapInfoMap: {}
+}
+[I 2021-07-28T05:02:27.015Z snowbrush] Export image time: from 1627448547015 to 1627448547015.
+[I 2021-07-28T05:08:19.311Z snowbrush] Export image time: from 1627448899311 to 1627448899311.
+[I 2021-07-28T05:16:30.155Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-28T05:16:30.155Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-28T05:29:12.715Z snowbrush] Export image time: from 1627450152715 to 1627450152715.
+[I 2021-07-28T05:43:30.195Z snowbrush] Export image time: from 1627451010190 to 1627451010190.
+[I 2021-07-28T06:16:30.203Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-28T06:16:30.204Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-28T07:03:23.740Z snowbrush] Export image time: from 1627455803740 to 1627455803740.
+[I 2021-07-28T07:12:07.512Z snowbrush] Export image time: from 1627456327512 to 1627456327512.
+[I 2021-07-28T07:16:30.249Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-28T07:16:30.250Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-28T07:58:57.906Z snowbrush] Export image time: from 1627459137906 to 1627459137906.
+[I 2021-07-28T08:05:39.133Z snowbrush] Export image time: from 1627459539130 to 1627459539130.
+[I 2021-07-28T08:16:30.294Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-28T08:16:30.295Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-28T08:46:22.926Z snowbrush] Export image time: from 1627461982926 to 1627461982926.
+[I 2021-07-28T09:01:29.965Z snowbrush] Export image time: from 1627462889964 to 1627462889964.
+[I 2021-07-28T09:10:24.208Z snowbrush] Export image time: from 1627463424207 to 1627463424207.
+[I 2021-07-28T09:10:33.874Z main:store:plugins:editors:EditorFrame] Frame 1 close
+[I 2021-07-28T09:10:33.959Z main:store:plugins:editors:EditorFrame] Not find editor view: undefined file:///opt/XMind/resources/app.asar/renderer/editor-frame.html?frameId=1&_apr=dark
+[E 2021-07-28T09:10:34.114Z error:main] TypeError: this.view.destroy is not a function
+    at y.destroy (/opt/XMind/resources/app.asar/main/main.js:7:106494)
+    at async y.close (/opt/XMind/resources/app.asar/main/main.js:7:106148)
+    at async v.close (/opt/XMind/resources/app.asar/main/main.js:30:111567)
+[I 2021-07-28T09:10:37.840Z main:store:plugins:editors:EditorFrame] Frame 1 close
+[I 2021-07-28T09:10:37.841Z main:store:plugins:editors:EditorFrame] Frame 1 close
+[I 2021-07-28T09:10:37.917Z main:store:plugins:editors:EditorFrame] Frame 1 webContents destroyed
+[I 2021-07-28T09:10:40.912Z main:store:plugins:editors:EditorFrame] Frame 2 close
+[I 2021-07-28T09:10:40.929Z main:store:plugins:editors:EditorFrame] Not find editor view: undefined file:///opt/XMind/resources/app.asar/renderer/editor-frame.html?frameId=2&_apr=dark
+[E 2021-07-28T09:10:40.974Z error:main] TypeError: this.view.destroy is not a function
+    at y.destroy (/opt/XMind/resources/app.asar/main/main.js:7:106494)
+    at async y.close (/opt/XMind/resources/app.asar/main/main.js:7:106148)
+    at async v.close (/opt/XMind/resources/app.asar/main/main.js:30:111567)
+[I 2021-07-28T09:10:42.091Z main:store:plugins:editors:EditorFrame] Frame 2 close
+[I 2021-07-28T09:10:42.092Z main:store:plugins:editors:EditorFrame] Frame 2 close
+[I 2021-07-28T09:10:42.111Z main:store:plugins:electron] Application is intended to quit.
+[I 2021-07-28T09:10:42.112Z main:store:plugins:electron] Asking all editors to close their documents...
+[W 2021-07-28T09:10:42.112Z main:store:plugins:editors:EditorView] Caught error on destroy: Error: No such API: "DESTROY /editors/f9ba6fb9dc6b52d1b0e11b8c03"
+    at Object.f [as fetch] (/opt/XMind/resources/app.asar/main/main.js:1:17670)
+    at y.destroy (/opt/XMind/resources/app.asar/main/main.js:7:106351)
+    at y.destroy (/opt/XMind/resources/app.asar/main/main.js:1:52188)
+    at /opt/XMind/resources/app.asar/main/main.js:30:107558
+    at /opt/XMind/resources/app.asar/main/main.js:1:17771
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async App.<anonymous> (/opt/XMind/resources/app.asar/main/main.js:30:81915) {
+  code: 'IPC_ENOAPI'
+}
+[E 2021-07-28T09:10:42.115Z error:main] TypeError: this.view.destroy is not a function
+    at y.destroy (/opt/XMind/resources/app.asar/main/main.js:7:106494)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async /opt/XMind/resources/app.asar/main/main.js:30:107550
+[I 2021-07-28T09:10:42.273Z main:store:plugins:editors:EditorFrame] Frame 2 webContents destroyed
+[I 2021-07-28T09:10:44.166Z main:store:plugins:electron] Application is intended to quit.
+[I 2021-07-28T09:10:44.166Z main:store:plugins:electron] Asking all editors to close their documents...
+[W 2021-07-28T09:10:44.166Z main:store:plugins:editors:EditorView] Caught error on destroy: Error: No such API: "DESTROY /editors/f9ba6fb9dc6b52d1b0e11b8c03"
+    at Object.f [as fetch] (/opt/XMind/resources/app.asar/main/main.js:1:17670)
+    at y.destroy (/opt/XMind/resources/app.asar/main/main.js:7:106351)
+    at y.destroy (/opt/XMind/resources/app.asar/main/main.js:1:52188)
+    at /opt/XMind/resources/app.asar/main/main.js:30:107558
+    at /opt/XMind/resources/app.asar/main/main.js:1:17771
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async App.<anonymous> (/opt/XMind/resources/app.asar/main/main.js:30:81915) {
+  code: 'IPC_ENOAPI'
+}
+[E 2021-07-28T09:10:44.167Z error:main] TypeError: this.view.destroy is not a function
+    at y.destroy (/opt/XMind/resources/app.asar/main/main.js:7:106494)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async /opt/XMind/resources/app.asar/main/main.js:30:107550
+[I 2021-07-28T09:11:15.254Z main:store:plugins:electron] Application receives arguments from another instance: ["xmind-2020"] /home/lucas
+[I 2021-07-28T09:11:24.797Z main:store:plugins:electron] Application is intended to quit.
+[I 2021-07-28T09:11:24.797Z main:store:plugins:electron] Asking all editors to close their documents...
+[W 2021-07-28T09:11:24.798Z main:store:plugins:editors:EditorView] Caught error on destroy: Error: No such API: "DESTROY /editors/f9ba6fb9dc6b52d1b0e11b8c03"
+    at Object.f [as fetch] (/opt/XMind/resources/app.asar/main/main.js:1:17670)
+    at y.destroy (/opt/XMind/resources/app.asar/main/main.js:7:106351)
+    at y.destroy (/opt/XMind/resources/app.asar/main/main.js:1:52188)
+    at /opt/XMind/resources/app.asar/main/main.js:30:107558
+    at /opt/XMind/resources/app.asar/main/main.js:1:17771
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async App.<anonymous> (/opt/XMind/resources/app.asar/main/main.js:30:81915) {
+  code: 'IPC_ENOAPI'
+}
+[E 2021-07-28T09:11:24.798Z error:main] TypeError: this.view.destroy is not a function
+    at y.destroy (/opt/XMind/resources/app.asar/main/main.js:7:106494)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async /opt/XMind/resources/app.asar/main/main.js:30:107550
+
+-------- SESSION 2021-07-28T09:11:26.415Z (10.3.1+202101132117, linux, x64, 16108658688, XMind Ltd., vana_linux_64) --------
+[I 2021-07-28T09:11:32.193Z main:store:plugins:iap] The user is not allowed to make in-app purchase.
+[I 2021-07-28T09:11:32.529Z main:store:plugins:electron] Application will finish launching.
+[I 2021-07-28T09:11:32.530Z main:store:plugins:electron] Application arguments: ["/opt/XMind/xmind"]
+[I 2021-07-28T09:11:32.538Z main:store:plugins:electron] Application is ready.
+[I 2021-07-28T09:11:32.554Z main:store:plugins:open-handler] Recover: Map {}
+[I 2021-07-28T09:11:32.563Z main:store:plugins:activation-updater] Start updating subscription information periodically.
+[I 2021-07-28T09:11:32.564Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-07-28T09:11:32.564Z main:store:plugins:activation-updater] Start updating per-machine license information periodically.
+[I 2021-07-28T09:11:32.564Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+
+-------- SESSION 2021-07-28T09:11:41.116Z (10.3.1+202101132117, linux, x64, 16108658688, XMind Ltd., vana_linux_64) --------
+[I 2021-07-28T09:11:41.238Z main:store:plugins:iap] The user is not allowed to make in-app purchase.
+[I 2021-07-28T09:11:41.586Z main:store:plugins:electron] Application will finish launching.
+[I 2021-07-28T09:11:41.587Z main:store:plugins:electron] Application arguments: ["/opt/XMind/xmind"]
+[I 2021-07-28T09:11:41.596Z main:store:plugins:electron] Application is ready.
+[I 2021-07-28T09:11:41.614Z main:store:plugins:open-handler] Recover: Map {}
+[I 2021-07-28T09:11:41.617Z main:store:plugins:activation-updater] Start updating subscription information periodically.
+[I 2021-07-28T09:11:41.617Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-07-28T09:11:41.617Z main:store:plugins:activation-updater] Start updating per-machine license information periodically.
+[I 2021-07-28T09:11:41.617Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-07-28T09:11:41.762Z main:store:plugins:electron] Device ID: ec86dd13-2088-4f9e-b4bf-e50e4290bf31
+[I 2021-07-28T09:12:41.632Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-28T09:12:41.633Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-28T10:12:41.690Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-28T10:12:41.690Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-28T11:12:41.744Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-28T11:12:41.745Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-28T12:12:41.796Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-28T12:12:41.796Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-28T13:12:41.845Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-28T13:12:41.845Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-28T14:12:41.885Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-28T14:12:41.885Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-28T15:12:41.929Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-28T15:12:41.929Z main:store:plugins:activation-updater] Schedule refresh timeout(null).

@@ -1,0 +1,95 @@
+
+-------- SESSION 2021-06-17T16:19:20.018Z (10.3.1+202101132117, linux, x64, 16176345088, XMind Ltd., vana_linux_64) --------
+[I 2021-06-17T16:19:20.133Z main:store:plugins:iap] The user is not allowed to make in-app purchase.
+[I 2021-06-17T16:19:20.445Z main:store:plugins:electron] Application will finish launching.
+[I 2021-06-17T16:19:20.447Z main:store:plugins:electron] Application arguments: ["/opt/XMind/xmind","/home/lucas/Codes/GitHub/Java-Learning/Java-Learning.xmind"]
+[I 2021-06-17T16:19:20.460Z main:store:plugins:electron] Application is ready.
+[I 2021-06-17T16:19:20.476Z main:store:plugins:open-handler] Recover: Map {}
+[I 2021-06-17T16:19:20.479Z main:store:plugins:activation-updater] Start updating subscription information periodically.
+[I 2021-06-17T16:19:20.480Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-06-17T16:19:20.480Z main:store:plugins:activation-updater] Start updating per-machine license information periodically.
+[I 2021-06-17T16:19:20.480Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-06-17T16:19:20.482Z main:store:plugins:open-handler] Open: file:///home/lucas/Codes/GitHub/Java-Learning/Java-Learning.xmind
+[I 2021-06-17T16:19:20.676Z main:store:plugins:electron] Device ID: ec86dd13-2088-4f9e-b4bf-e50e4290bf31
+[I 2021-06-17T16:19:21.909Z main:store:plugins:editors:EditorFrame] Frame 1 close
+[I 2021-06-17T16:19:22.548Z main:store:plugins:editors:EditorFrame] Not find editor view: undefined file:///opt/XMind/resources/app.asar/renderer/editor-frame.html?frameId=1&_apr=dark
+[E 2021-06-17T16:19:22.622Z workbook:document] Error when saving memento.json. {
+  name: 'Error',
+  message: "ENOENT: no such file or directory, open '/home/lucas/.config/XMind/Electron v3/vana/workbooks/dcb8f1a7bc5b0cf8b9ef1b4b4f/.memento.json'",
+  stack: "Error: ENOENT: no such file or directory, open '/home/lucas/.config/XMind/Electron v3/vana/workbooks/dcb8f1a7bc5b0cf8b9ef1b4b4f/.memento.json'\n" +
+    '    at Object.openSync (fs.js:440:3)\n' +
+    '    at Object.func [as openSync] (electron/js2c/asar.js:140:31)\n' +
+    '    at Object.writeFileSync (fs.js:1265:35)\n' +
+    '    at Proxy.<anonymous> (file:///opt/XMind/resources/app.asar/renderer/common.js:15:34169)\n' +
+    '    at updateMemento (file:///opt/XMind/resources/app.asar/renderer/editor.js:80:492848)\n' +
+    '    at Array.<anonymous> (file:///opt/XMind/resources/app.asar/renderer/common.js:21:5308)\n' +
+    '    at u.dispatch (file:///opt/XMind/resources/app.asar/renderer/common.js:21:6675)\n' +
+    '    at u.dispatch (file:///opt/XMind/resources/app.asar/renderer/common.js:21:2938)\n' +
+    '    at file:///opt/XMind/resources/app.asar/renderer/editor.js:148:178390',
+  code: 'ENOENT',
+  data: undefined
+}
+[I 2021-06-17T16:19:22.859Z main:store:plugins:editors:EditorFrame] Frame 1 close
+[I 2021-06-17T16:19:22.882Z main:store:plugins:electron] Application is intended to quit.
+[I 2021-06-17T16:19:22.882Z main:store:plugins:electron] Asking all editors to close their documents...
+[E 2021-06-17T16:19:22.880Z ipc:proxy:] window has been destroyed, we should not invoke ipcRenderer.once with args (["ipc-api-reply:PATCH /store/state:10",null])
+[I 2021-06-17T16:19:22.927Z main:store:plugins:editors:EditorFrame] Frame 1 webContents destroyed
+[I 2021-06-17T16:19:22.960Z main:store:plugins:electron] All documents are closed.
+[I 2021-06-17T16:19:22.960Z main:store:plugins:activation-updater] Stop updating per-machine license information periodically.
+[I 2021-06-17T16:19:22.960Z main:store:plugins:activation-updater] Stop updating subscription information periodically.
+[I 2021-06-17T16:19:22.965Z main:store:plugins:electron] Application is intended to quit.
+[I 2021-06-17T16:19:22.965Z main:store:plugins:electron] Application will quit.
+[I 2021-06-17T16:19:22.965Z main:store:plugins:electron] Application quitted.
+
+-------- SESSION 2021-06-17T16:19:40.597Z (10.3.1+202101132117, linux, x64, 16176345088, XMind Ltd., vana_linux_64) --------
+[I 2021-06-17T16:19:40.710Z main:store:plugins:iap] The user is not allowed to make in-app purchase.
+[I 2021-06-17T16:19:40.997Z main:store:plugins:electron] Application will finish launching.
+[I 2021-06-17T16:19:40.998Z main:store:plugins:electron] Application arguments: ["/opt/XMind/xmind","/home/lucas/Codes/GitHub/Front-end-Learning/Front-end.xmind"]
+[I 2021-06-17T16:19:41.004Z main:store:plugins:electron] Application is ready.
+[I 2021-06-17T16:19:41.019Z main:store:plugins:open-handler] Recover: Map {}
+[I 2021-06-17T16:19:41.023Z main:store:plugins:activation-updater] Start updating subscription information periodically.
+[I 2021-06-17T16:19:41.023Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-06-17T16:19:41.023Z main:store:plugins:activation-updater] Start updating per-machine license information periodically.
+[I 2021-06-17T16:19:41.023Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-06-17T16:19:41.025Z main:store:plugins:open-handler] Open: file:///home/lucas/Codes/GitHub/Front-end-Learning/Front-end.xmind
+[I 2021-06-17T16:19:41.220Z main:store:plugins:electron] Device ID: ec86dd13-2088-4f9e-b4bf-e50e4290bf31
+[I 2021-06-17T16:19:48.075Z promotion] Event id: jun-2021-promotion
+[I 2021-06-17T16:20:00.429Z main:store:plugins:editors:EditorFrame] Frame 1 close
+[I 2021-06-17T16:20:00.462Z main:store:plugins:editors:EditorFrame] Not find editor view: undefined file:///opt/XMind/resources/app.asar/renderer/editor-frame.html?frameId=1&_apr=dark
+[I 2021-06-17T16:20:00.588Z main:store:plugins:editors:EditorFrame] Frame 1 close
+[I 2021-06-17T16:20:00.681Z main:store:plugins:electron] Application is intended to quit.
+[I 2021-06-17T16:20:00.681Z main:store:plugins:electron] Asking all editors to close their documents...
+[I 2021-06-17T16:20:00.731Z main:store:plugins:editors:EditorFrame] Frame 1 webContents destroyed
+[I 2021-06-17T16:20:00.762Z main:store:plugins:electron] All documents are closed.
+[I 2021-06-17T16:20:00.763Z main:store:plugins:activation-updater] Stop updating per-machine license information periodically.
+[I 2021-06-17T16:20:00.763Z main:store:plugins:activation-updater] Stop updating subscription information periodically.
+[I 2021-06-17T16:20:00.767Z main:store:plugins:electron] Application is intended to quit.
+[I 2021-06-17T16:20:00.767Z main:store:plugins:electron] Application will quit.
+[I 2021-06-17T16:20:00.767Z main:store:plugins:electron] Application quitted.
+
+-------- SESSION 2021-06-17T16:20:13.519Z (10.3.1+202101132117, linux, x64, 16176345088, XMind Ltd., vana_linux_64) --------
+[I 2021-06-17T16:20:13.633Z main:store:plugins:iap] The user is not allowed to make in-app purchase.
+[I 2021-06-17T16:20:13.906Z main:store:plugins:electron] Application will finish launching.
+[I 2021-06-17T16:20:13.907Z main:store:plugins:electron] Application arguments: ["/opt/XMind/xmind","Java-Learning.xmind"]
+[I 2021-06-17T16:20:13.913Z main:store:plugins:electron] Application is ready.
+[I 2021-06-17T16:20:13.929Z main:store:plugins:open-handler] Recover: Map {}
+[I 2021-06-17T16:20:13.932Z main:store:plugins:activation-updater] Start updating subscription information periodically.
+[I 2021-06-17T16:20:13.932Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-06-17T16:20:13.932Z main:store:plugins:activation-updater] Start updating per-machine license information periodically.
+[I 2021-06-17T16:20:13.932Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-06-17T16:20:13.934Z main:store:plugins:open-handler] Open: file:///home/lucas/Codes/GitHub/Java-Learning/Java-Learning.xmind
+[I 2021-06-17T16:20:14.137Z main:store:plugins:electron] Device ID: ec86dd13-2088-4f9e-b4bf-e50e4290bf31
+[I 2021-06-17T16:21:13.946Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-06-17T16:21:13.951Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-06-17T22:30:59.813Z main:store:plugins:editors:EditorFrame] Frame 1 close
+[I 2021-06-17T22:30:59.841Z main:store:plugins:editors:EditorFrame] Not find editor view: undefined file:///opt/XMind/resources/app.asar/renderer/editor-frame.html?frameId=1&_apr=dark
+[I 2021-06-17T22:31:00.034Z main:store:plugins:editors:EditorFrame] Frame 1 close
+[I 2021-06-17T22:31:00.258Z main:store:plugins:electron] Application is intended to quit.
+[I 2021-06-17T22:31:00.259Z main:store:plugins:electron] Asking all editors to close their documents...
+[I 2021-06-17T22:31:00.345Z main:store:plugins:editors:EditorFrame] Frame 1 webContents destroyed
+[I 2021-06-17T22:31:00.406Z main:store:plugins:electron] All documents are closed.
+[I 2021-06-17T22:31:00.408Z main:store:plugins:activation-updater] Stop updating per-machine license information periodically.
+[I 2021-06-17T22:31:00.409Z main:store:plugins:activation-updater] Stop updating subscription information periodically.
+[I 2021-06-17T22:31:00.416Z main:store:plugins:electron] Application is intended to quit.
+[I 2021-06-17T22:31:00.417Z main:store:plugins:electron] Application will quit.
+[I 2021-06-17T22:31:00.417Z main:store:plugins:electron] Application quitted.

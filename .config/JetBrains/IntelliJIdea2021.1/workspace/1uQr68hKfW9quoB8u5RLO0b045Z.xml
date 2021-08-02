@@ -1,0 +1,399 @@
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1" />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>TODO</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src/team/domain</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/team/service/Data.java" />
+      <option value="$PROJECT_DIR$/src/team/util/TSUtility.java" />
+      <option value="$PROJECT_DIR$/src/team/service/Service.java" />
+      <option value="$PROJECT_DIR$/src/team/service/Status.java" />
+      <option value="$PROJECT_DIR$/src/team/service/DataUtils.java" />
+      <option value="$PROJECT_DIR$/src/team/domain/Equipment.java" />
+      <option value="$PROJECT_DIR$/src/team/domain/Laptop.java" />
+      <option value="$PROJECT_DIR$/src/team/service/DataUtility.java" />
+      <option value="$PROJECT_DIR$/src/team/domain/Employee.java" />
+      <option value="$PROJECT_DIR$/src/team/domain/Designer.java" />
+      <option value="$PROJECT_DIR$/src/team/domain/Architect.java" />
+      <option value="$PROJECT_DIR$/src/team/domain/Programmer.java" />
+      <option value="$PROJECT_DIR$/src/team/domain/PC.java" />
+      <option value="$PROJECT_DIR$/src/team/domain/Printer.java" />
+      <option value="$PROJECT_DIR$/src/team/domain/NoteBook.java" />
+      <option value="$PROJECT_DIR$/src/team/service/TeamException.java" />
+      <option value="$PROJECT_DIR$/src/team/service/NameListService.java" />
+      <option value="$PROJECT_DIR$/src/team/service/TeamService.java" />
+      <option value="$PROJECT_DIR$/src/team/view/TeamView.java" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1" />
+    <panes />
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_NON_PUBLIC" />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="19141000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.35017422" weight="0.17842215" />
+      <window_info id="Structure" order="1" sideWeight="0.6498258" side_tool="true" weight="0.2191745" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" />
+      <window_info id="Learn" order="4" />
+      <window_info id="Pull Requests" order="5" />
+      <window_info id="Space Code Reviews" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" x="1923" y="57" width="1914" height="1020" id="Run" order="3" type="WINDOWED" visible="true" weight="0.32990196" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="Problems View" order="6" weight="0.32990196" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.32990196" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="File Transfer" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Profiler" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" order="13" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="14" />
+      <window_info anchor="bottom" id="Flow" order="15" />
+      <window_info anchor="bottom" id="Endpoints" order="16" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Packages" order="17" />
+      <window_info anchor="bottom" id="Services" order="18" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="Space Automation" order="1" />
+      <window_info anchor="right" id="SciView" order="2" />
+      <window_info anchor="right" id="Layout Validation" order="3" />
+    </layout>
+    <recentWindows>
+      <value>Run</value>
+      <value>Project</value>
+      <value>Build</value>
+      <value>Structure</value>
+      <value>Problems View</value>
+    </recentWindows>
+  </component>
+  <component name="Trusted.Project.Settings" hasCheckedIfOldProject="true" trusted="YES" />
+  <component name="WindowStateProjectService">
+    <state x="2207" y="238" width="1284" height="1049" key="#Project_Structure" timestamp="1624608482939">
+      <screen x="1920" y="207" width="1920" height="1080" />
+    </state>
+    <state x="2207" y="238" width="1284" height="1049" key="#Project_Structure/1920.207.1920.1080/0.0.1920.1080@1920.207.1920.1080" timestamp="1624608482939" />
+    <state x="655" y="233" width="706" height="728" key="#com.intellij.ide.util.MemberChooser" timestamp="1624629046059">
+      <screen x="0" y="99" width="1920" height="1080" />
+    </state>
+    <state x="655" y="233" key="#com.intellij.ide.util.MemberChooser/0.99.1920.1080/1920.0.1920.1080@0.99.1920.1080" timestamp="1624629046059" />
+    <state x="2577" y="369" width="706" height="728" key="#com.intellij.ide.util.MemberChooser/1920.207.1920.1080/0.0.1920.1080@1920.207.1920.1080" timestamp="1624622583901" />
+    <state x="2563" y="596" width="630" height="280" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1624624765390">
+      <screen x="1920" y="207" width="1920" height="1080" />
+    </state>
+    <state x="2563" y="596" width="630" height="280" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/1920.207.1920.1080/0.0.1920.1080@1920.207.1920.1080" timestamp="1624624765390" />
+    <state x="2371" y="210" width="1000" height="933" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1624615884687">
+      <screen x="1920" y="207" width="1920" height="1080" />
+    </state>
+    <state x="2371" y="210" width="1000" height="933" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/1920.207.1920.1080/0.0.1920.1080@1920.207.1920.1080" timestamp="1624615884687" />
+    <state width="1914" height="985" key="GridCell.Tab.0.bottom" timestamp="1624631382980">
+      <screen x="0" y="99" width="1920" height="1080" />
+    </state>
+    <state width="1914" height="985" key="GridCell.Tab.0.bottom/0.99.1920.1080/1920.0.1920.1080@0.99.1920.1080" timestamp="1624631382980" />
+    <state width="1914" height="1010" key="GridCell.Tab.0.bottom/1920.207.1920.1080/0.0.1920.1080@1920.207.1920.1080" timestamp="1624625765494" />
+    <state width="1914" height="985" key="GridCell.Tab.0.center" timestamp="1624631382979">
+      <screen x="0" y="99" width="1920" height="1080" />
+    </state>
+    <state width="1914" height="985" key="GridCell.Tab.0.center/0.99.1920.1080/1920.0.1920.1080@0.99.1920.1080" timestamp="1624631382979" />
+    <state width="1914" height="1010" key="GridCell.Tab.0.center/1920.207.1920.1080/0.0.1920.1080@1920.207.1920.1080" timestamp="1624625765493" />
+    <state width="1914" height="985" key="GridCell.Tab.0.left" timestamp="1624631382978">
+      <screen x="0" y="99" width="1920" height="1080" />
+    </state>
+    <state width="1914" height="985" key="GridCell.Tab.0.left/0.99.1920.1080/1920.0.1920.1080@0.99.1920.1080" timestamp="1624631382978" />
+    <state width="1914" height="1010" key="GridCell.Tab.0.left/1920.207.1920.1080/0.0.1920.1080@1920.207.1920.1080" timestamp="1624625765491" />
+    <state width="1914" height="985" key="GridCell.Tab.0.right" timestamp="1624631382979">
+      <screen x="0" y="99" width="1920" height="1080" />
+    </state>
+    <state width="1914" height="985" key="GridCell.Tab.0.right/0.99.1920.1080/1920.0.1920.1080@0.99.1920.1080" timestamp="1624631382979" />
+    <state width="1914" height="1010" key="GridCell.Tab.0.right/1920.207.1920.1080/0.0.1920.1080@1920.207.1920.1080" timestamp="1624625765493" />
+    <state x="2539" y="432" width="675" height="665" key="StructurePopup" timestamp="1624608773111">
+      <screen x="1920" y="207" width="1920" height="1080" />
+    </state>
+    <state x="2539" y="432" width="675" height="665" key="StructurePopup/1920.207.1920.1080/0.0.1920.1080@1920.207.1920.1080" timestamp="1624608773111" />
+    <state width="623" height="540" key="SwitcherDM" timestamp="1624613077379">
+      <screen x="1920" y="207" width="1920" height="1080" />
+    </state>
+    <state width="623" height="540" key="SwitcherDM/1920.207.1920.1080/0.0.1920.1080@1920.207.1920.1080" timestamp="1624613077379" />
+    <state x="2605" y="627" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1624613631696">
+      <screen x="1920" y="207" width="1920" height="1080" />
+    </state>
+    <state x="2605" y="627" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.207.1920.1080/0.0.1920.1080@1920.207.1920.1080" timestamp="1624613631696" />
+    <state x="2559" y="207" width="771" height="1080" key="find.popup" timestamp="1624609970904">
+      <screen x="1920" y="207" width="1920" height="1080" />
+    </state>
+    <state x="2559" y="207" width="771" height="1080" key="find.popup/1920.207.1920.1080/0.0.1920.1080@1920.207.1920.1080" timestamp="1624609970904" />
+    <state width="750" height="500" key="javadoc.popup" timestamp="1624613772962">
+      <screen x="1920" y="207" width="1920" height="1080" />
+    </state>
+    <state width="750" height="500" key="javadoc.popup/1920.207.1920.1080/0.0.1920.1080@1920.207.1920.1080" timestamp="1624613772962" />
+    <state x="2439" y="413" width="875" height="663" key="recent.locations.popup" timestamp="1624613075455">
+      <screen x="1920" y="207" width="1920" height="1080" />
+    </state>
+    <state x="2439" y="413" width="875" height="663" key="recent.locations.popup/1920.207.1920.1080/0.0.1920.1080@1920.207.1920.1080" timestamp="1624613075455" />
+    <state x="2458" y="354" key="run.anything.popup" timestamp="1624614138427">
+      <screen x="1920" y="207" width="1920" height="1080" />
+    </state>
+    <state x="2458" y="354" key="run.anything.popup/1920.207.1920.1080/0.0.1920.1080@1920.207.1920.1080" timestamp="1624614138427" />
+    <state x="2459" y="239" width="877" height="1047" key="search.everywhere.popup" timestamp="1624613011866">
+      <screen x="1920" y="207" width="1920" height="1080" />
+    </state>
+    <state x="2459" y="239" width="877" height="1047" key="search.everywhere.popup/1920.207.1920.1080/0.0.1920.1080@1920.207.1920.1080" timestamp="1624613011866" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/team/service/Status.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+          <folding>
+            <element signature="e#294#295#0" expanded="true" />
+            <element signature="e#326#327#0" expanded="true" />
+            <element signature="e#355#356#0" expanded="true" />
+            <element signature="e#382#383#0" expanded="true" />
+            <element signature="e#364#365#0" expanded="true" />
+            <element signature="e#391#392#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/team/service/DataUtility.java" />
+    <entry file="file://$PROJECT_DIR$/src/team/domain/Architect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/team/domain/Equipment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/team/domain/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1190">
+          <caret line="49" column="28" lean-forward="true" selection-start-line="49" selection-start-column="28" selection-end-line="49" selection-end-column="28" />
+          <folding>
+            <element signature="e#456#457#0" expanded="true" />
+            <element signature="e#483#484#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/team/domain/Designer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="18" column="13" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+          <folding>
+            <element signature="e#307#308#0" expanded="true" />
+            <element signature="e#335#336#0" expanded="true" />
+            <element signature="e#377#378#0" expanded="true" />
+            <element signature="e#411#412#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/team/domain/Printer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="502">
+          <caret line="34" column="33" selection-start-line="34" selection-start-column="33" selection-end-line="34" selection-end-column="33" />
+          <folding>
+            <element signature="e#647#648#0" expanded="true" />
+            <element signature="e#697#698#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/team/domain/PC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="38" lean-forward="true" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
+          <folding>
+            <element signature="e#442#443#0" expanded="true" />
+            <element signature="e#476#477#0" expanded="true" />
+            <element signature="e#670#671#0" expanded="true" />
+            <element signature="e#718#719#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/team/domain/NoteBook.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+          <folding>
+            <element signature="e#660#661#0" expanded="true" />
+            <element signature="e#710#711#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/team/domain/Programmer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-858">
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="22" />
+          <folding>
+            <element signature="e#380#381#0" expanded="true" />
+            <element signature="e#409#410#0" expanded="true" />
+            <element signature="e#453#454#0" expanded="true" />
+            <element signature="e#489#490#0" expanded="true" />
+            <element signature="e#519#520#0" expanded="true" />
+            <element signature="e#548#549#0" expanded="true" />
+            <element signature="e#589#590#0" expanded="true" />
+            <element signature="e#625#626#0" expanded="true" />
+            <element signature="e#664#665#0" expanded="true" />
+            <element signature="e#696#697#0" expanded="true" />
+            <element signature="e#749#750#0" expanded="true" />
+            <element signature="e#791#792#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar!/java/lang/RuntimeException.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="8" column="63" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/team/service/Data.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="25" column="45" selection-start-line="25" selection-start-column="45" selection-end-line="25" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/team/service/TeamException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+          <folding>
+            <element signature="e#177#178#0" expanded="true" />
+            <element signature="e#201#202#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/team/view/TeamView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="91" column="28" selection-start-line="91" selection-start-column="28" selection-end-line="91" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/team/service/NameListService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="126" column="20" selection-start-line="126" selection-start-column="20" selection-end-line="126" selection-end-column="20" />
+          <folding>
+            <element signature="e#150#151#0" expanded="true" />
+            <element signature="e#199#200#0" expanded="true" />
+            <element signature="method#makeAllEmployees#0;class#NameListService#0" />
+            <element signature="e#372#1088#1" />
+            <element signature="e#463#1078#0" />
+            <element signature="method#makeEmployee#0;class#NameListService#0" />
+            <element signature="method#makeProgrammer#0;class#NameListService#0" />
+            <element signature="method#makeDesigner#0;class#NameListService#0" />
+            <element signature="method#makeArchitect#0;class#NameListService#0" />
+            <element signature="method#makeEquipment#0;class#NameListService#0" />
+            <element signature="e#3074#3564#0" />
+            <element signature="e#3713#3714#0" expanded="true" />
+            <element signature="e#3742#3743#0" expanded="true" />
+            <element signature="e#3785#3786#0" expanded="true" />
+            <element signature="e#3838#3839#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/team/service/TeamService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="e#325#326#0" expanded="true" />
+            <element signature="e#352#353#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/team/view/TSUtility.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI" />
+      <state key="GlobalLibrariesConfigurable.UI" />
+      <state key="JdkListConfigurable.UI" />
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>MyProject03</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI" />
+    </states>
+  </component>
+</project>

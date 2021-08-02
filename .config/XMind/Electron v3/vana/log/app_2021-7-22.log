@@ -1,0 +1,310 @@
+
+-------- SESSION 2021-07-22T07:04:47.196Z (11.0.1+202106220606, linux, x64, 16175779840, XMind Ltd., vana_linux) --------
+[I 2021-07-22T07:04:47.308Z main:store:plugins:iap] The user is not allowed to make in-app purchase.
+[I 2021-07-22T07:04:47.701Z main:store:plugins:electron] Application will finish launching.
+[I 2021-07-22T07:04:47.702Z main:store:plugins:electron] Application arguments: ["/opt/XMind/xmind"]
+[I 2021-07-22T07:04:47.716Z main:store:plugins:electron] Application is ready.
+[I 2021-07-22T07:04:47.732Z main:store:plugins:open-handler] Recover: Map {}
+[I 2021-07-22T07:04:47.738Z main:store:plugins:activation-updater] Start updating subscription information periodically.
+[I 2021-07-22T07:04:47.738Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-07-22T07:04:47.738Z main:store:plugins:activation-updater] Start updating per-machine license information periodically.
+[I 2021-07-22T07:04:47.738Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-07-22T07:04:47.872Z main:store:plugins:electron] Device ID: ec86dd13-2088-4f9e-b4bf-e50e4290bf31
+[I 2021-07-22T07:05:34.853Z main:store:plugins:electron] Application receives arguments from another instance: ["xmind-2020","--version"] /home/lucas
+[I 2021-07-22T07:05:38.344Z main:store:plugins:electron] Application receives arguments from another instance: ["xmind-2020","--help"] /home/lucas
+[I 2021-07-22T07:05:47.739Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-22T07:05:47.740Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-22T07:09:23.318Z main:store:plugins:electron] Application receives arguments from another instance: ["xmind-2020"] /home/lucas
+[I 2021-07-22T07:12:23.003Z main:store:plugins:electron] Application receives arguments from another instance: ["xmind-2020"] /home/lucas
+[I 2021-07-22T07:12:30.263Z main:store:plugins:electron] Application receives arguments from another instance: ["xmind-2020"] /home/lucas
+[I 2021-07-22T07:12:34.677Z main:store:plugins:electron] Application receives arguments from another instance: ["xmind-2020"] /home/lucas
+[I 2021-07-22T07:13:20.017Z main:store:plugins:electron] Application receives arguments from another instance: ["xmind-2020"] /home/lucas
+[I 2021-07-22T07:13:24.386Z main:store:plugins:electron] Application receives arguments from another instance: ["xmind-2020"] /opt/XMind/resources
+[I 2021-07-22T07:13:49.272Z main:store:plugins:electron] Application receives arguments from another instance: ["xmind-2020"] /opt/XMind/resources
+
+-------- SESSION 2021-07-22T07:14:22.450Z (11.0.1+202106220606, linux, x64, 16175779840, XMind Ltd., vana_linux) --------
+[I 2021-07-22T07:14:22.564Z main:store:plugins:iap] The user is not allowed to make in-app purchase.
+[I 2021-07-22T07:14:22.935Z main:store:plugins:electron] Application will finish launching.
+[I 2021-07-22T07:14:22.936Z main:store:plugins:electron] Application arguments: ["/opt/XMind/xmind"]
+[I 2021-07-22T07:14:22.946Z main:store:plugins:electron] Application is ready.
+[I 2021-07-22T07:14:22.972Z main:store:plugins:open-handler] Recover: Map {
+  '1' => [
+    {
+      source: 'file:///home/lucas/Documents/Records/Records.xmind',
+      editorId: 'e12bc7fd1deb1ce393aa997ef3'
+    }
+  ]
+}
+[I 2021-07-22T07:14:22.983Z main:store:plugins:activation-updater] Start updating subscription information periodically.
+[I 2021-07-22T07:14:22.983Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-07-22T07:14:22.983Z main:store:plugins:activation-updater] Start updating per-machine license information periodically.
+[I 2021-07-22T07:14:22.983Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-07-22T07:14:23.176Z main:store:plugins:electron] Device ID: ec86dd13-2088-4f9e-b4bf-e50e4290bf31
+[I 2021-07-22T07:14:27.800Z main:store:plugins:editors:EditorFrame] Frame 1 close
+[I 2021-07-22T07:14:27.827Z main:store:plugins:editors:EditorFrame] Not find editor view: undefined file:///opt/XMind/resources/app.asar/renderer/editor-frame.html?frameId=1&_apr=dark
+[I 2021-07-22T07:14:27.955Z main:store:plugins:editors:EditorFrame] Frame 1 close
+[I 2021-07-22T07:14:28.087Z main:store:plugins:electron] Application is intended to quit.
+[I 2021-07-22T07:14:28.087Z main:store:plugins:electron] Asking all editors to close their documents...
+[I 2021-07-22T07:14:28.124Z main:store:plugins:editors:EditorFrame] Frame 1 webContents destroyed
+[I 2021-07-22T07:14:28.179Z main:store:plugins:electron] All documents are closed.
+[I 2021-07-22T07:14:28.180Z main:store:plugins:activation-updater] Stop updating per-machine license information periodically.
+[I 2021-07-22T07:14:28.180Z main:store:plugins:activation-updater] Stop updating subscription information periodically.
+[I 2021-07-22T07:14:28.189Z main:store:plugins:electron] Application is intended to quit.
+[I 2021-07-22T07:14:28.189Z main:store:plugins:electron] Application will quit.
+[I 2021-07-22T07:14:28.190Z main:store:plugins:electron] Application quitted.
+
+-------- SESSION 2021-07-22T07:15:38.675Z (10.3.1+202101132117, linux, x64, 16175779840, XMind Ltd., vana_linux_64) --------
+[I 2021-07-22T07:15:38.797Z main:store:plugins:iap] The user is not allowed to make in-app purchase.
+[I 2021-07-22T07:15:39.108Z main:store:plugins:electron] Application will finish launching.
+[I 2021-07-22T07:15:39.109Z main:store:plugins:electron] Application arguments: ["/opt/XMind/xmind"]
+[I 2021-07-22T07:15:39.115Z main:store:plugins:electron] Application is ready.
+[I 2021-07-22T07:15:39.129Z main:store:plugins:open-handler] Recover: Map {}
+[I 2021-07-22T07:15:39.132Z main:store:plugins:activation-updater] Start updating subscription information periodically.
+[I 2021-07-22T07:15:39.132Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-07-22T07:15:39.133Z main:store:plugins:activation-updater] Start updating per-machine license information periodically.
+[I 2021-07-22T07:15:39.133Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-07-22T07:15:39.251Z main:store:plugins:electron] Device ID: ec86dd13-2088-4f9e-b4bf-e50e4290bf31
+[I 2021-07-22T07:16:39.138Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-22T07:16:39.138Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-22T07:26:11.310Z snowbrush] Export image time: from 1626938771307 to 1626938771307.
+[I 2021-07-22T07:42:14.140Z snowbrush] Export image time: from 1626939734140 to 1626939734140.
+[I 2021-07-22T07:42:20.014Z snowbrush] db write {
+  'text/plain': 'HTML+CSS核心基础',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '8d1adcb051882d554b955a4265'
+  },
+  xapInfoMap: {}
+}
+[I 2021-07-22T07:42:34.938Z snowbrush] db write {
+  'text/plain': 'JavaScript',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '8d1adcb051882d554b955a4265'
+  },
+  xapInfoMap: {}
+}
+[I 2021-07-22T07:42:42.764Z snowbrush] db write {
+  'text/plain': 'PC端整栈开发',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '8d1adcb051882d554b955a4265'
+  },
+  xapInfoMap: {}
+}
+[I 2021-07-22T07:42:48.532Z snowbrush] db write {
+  'text/plain': 'ES6+Node+工程化',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '8d1adcb051882d554b955a4265'
+  },
+  xapInfoMap: {}
+}
+[I 2021-07-22T07:42:54.281Z snowbrush] db write {
+  'text/plain': 'React技术栈',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '8d1adcb051882d554b955a4265'
+  },
+  xapInfoMap: {}
+}
+[I 2021-07-22T07:42:59.768Z snowbrush] db write {
+  'text/plain': 'Vue技术栈',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '8d1adcb051882d554b955a4265'
+  },
+  xapInfoMap: {}
+}
+[I 2021-07-22T07:43:04.448Z snowbrush] db write {
+  'text/plain': '小程序',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '8d1adcb051882d554b955a4265'
+  },
+  xapInfoMap: {}
+}
+[I 2021-07-22T07:43:11.364Z snowbrush] db write {
+  'text/plain': '就业指导+面试精讲',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '8d1adcb051882d554b955a4265'
+  },
+  xapInfoMap: {}
+}
+[I 2021-07-22T07:43:14.195Z snowbrush] Export image time: from 1626939794195 to 1626939794195.
+[I 2021-07-22T07:43:21.493Z snowbrush] Export image time: from 1626939801493 to 1626939801493.
+[I 2021-07-22T07:45:02.211Z snowbrush] Export image time: from 1626939902211 to 1626939902211.
+[I 2021-07-22T07:45:21.113Z snowbrush] Export image time: from 1626939921113 to 1626939921113.
+[I 2021-07-22T07:45:42.221Z snowbrush] Export image time: from 1626939942221 to 1626939942221.
+[I 2021-07-22T07:45:58.839Z snowbrush] Export image time: from 1626939958839 to 1626939958839.
+[I 2021-07-22T07:46:17.296Z snowbrush] Export image time: from 1626939977296 to 1626939977296.
+[I 2021-07-22T07:46:58.884Z snowbrush] Export image time: from 1626940018877 to 1626940018877.
+[I 2021-07-22T07:47:15.620Z snowbrush] Export image time: from 1626940035620 to 1626940035620.
+[I 2021-07-22T08:06:47.141Z main:store:plugins:electron] Application receives arguments from another instance: ["/opt/XMind/xmind","/home/lucas/Downloads/BaidunetdiskDownloads/笔记/笔记.xmind"] /home/lucas/Downloads/BaidunetdiskDownloads/笔记
+[I 2021-07-22T08:06:47.143Z main:store:plugins:open-handler] Open: file:///home/lucas/Downloads/BaidunetdiskDownloads/%E7%AC%94%E8%AE%B0/%E7%AC%94%E8%AE%B0.xmind
+[I 2021-07-22T08:06:59.420Z main:store:plugins:editors:EditorFrame] Frame 2 close
+[I 2021-07-22T08:06:59.432Z main:store:plugins:editors:EditorFrame] Not find editor view: undefined file:///opt/XMind/resources/app.asar/renderer/editor-frame.html?frameId=2&_apr=dark
+[E 2021-07-22T08:06:59.532Z error:main] TypeError: this.view.destroy is not a function
+    at y.destroy (/opt/XMind/resources/app.asar/main/main.js:7:106494)
+    at async y.close (/opt/XMind/resources/app.asar/main/main.js:7:106148)
+    at async v.close (/opt/XMind/resources/app.asar/main/main.js:30:111567)
+[I 2021-07-22T08:07:02.109Z main:store:plugins:editors:EditorFrame] Frame 2 close
+[I 2021-07-22T08:07:02.110Z main:store:plugins:editors:EditorFrame] Frame 2 close
+[I 2021-07-22T08:07:02.209Z main:store:plugins:editors:EditorFrame] Frame 2 webContents destroyed
+[I 2021-07-22T08:16:39.194Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-22T08:16:39.195Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-22T08:18:00.139Z main:store:plugins:electron] Application receives arguments from another instance: ["/opt/XMind/xmind","/home/lucas/Downloads/BaidunetdiskDownloads/笔记/笔记.xmind"] /home/lucas/Downloads/BaidunetdiskDownloads/笔记
+[I 2021-07-22T08:18:00.142Z main:store:plugins:open-handler] Open: file:///home/lucas/Downloads/BaidunetdiskDownloads/%E7%AC%94%E8%AE%B0/%E7%AC%94%E8%AE%B0.xmind
+[I 2021-07-22T08:18:04.515Z main:store:plugins:electron] Application receives arguments from another instance: ["/opt/XMind/xmind","/home/lucas/Downloads/BaidunetdiskDownloads/笔记/笔记.xmind"] /home/lucas/Downloads/BaidunetdiskDownloads/笔记
+[I 2021-07-22T08:18:04.516Z main:store:plugins:open-handler] Open: file:///home/lucas/Downloads/BaidunetdiskDownloads/%E7%AC%94%E8%AE%B0/%E7%AC%94%E8%AE%B0.xmind
+[I 2021-07-22T08:44:55.939Z main:store:plugins:electron] Application is intended to quit.
+[I 2021-07-22T08:44:55.940Z main:store:plugins:electron] Asking all editors to close their documents...
+[I 2021-07-22T08:44:55.945Z main:store:plugins:editors:EditorFrame] Not find editor view: undefined file:///opt/XMind/resources/app.asar/renderer/editor-frame.html?frameId=1&_apr=dark
+
+-------- SESSION 2021-07-22T08:50:38.881Z (10.3.1+202101132117, linux, x64, 16108658688, XMind Ltd., vana_linux_64) --------
+[I 2021-07-22T08:50:39.056Z main:store:plugins:iap] The user is not allowed to make in-app purchase.
+[I 2021-07-22T08:50:39.500Z main:store:plugins:electron] Application will finish launching.
+[I 2021-07-22T08:50:39.502Z main:store:plugins:electron] Application arguments: ["/opt/XMind/xmind"]
+[I 2021-07-22T08:50:39.525Z main:store:plugins:electron] Application is ready.
+[I 2021-07-22T08:50:39.548Z main:store:plugins:open-handler] Recover: Map {
+  '1' => [
+    {
+      source: 'file:///home/lucas/Documents/Records/Records.xmind',
+      editorId: 'd4b8b3109e88ad88828f49d7f2'
+    }
+  ]
+}
+[I 2021-07-22T08:50:39.556Z main:store:plugins:activation-updater] Start updating subscription information periodically.
+[I 2021-07-22T08:50:39.557Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-07-22T08:50:39.557Z main:store:plugins:activation-updater] Start updating per-machine license information periodically.
+[I 2021-07-22T08:50:39.557Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-07-22T08:50:39.933Z main:store:plugins:electron] Device ID: ec86dd13-2088-4f9e-b4bf-e50e4290bf31
+[I 2021-07-22T08:51:39.558Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-22T08:51:39.559Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-22T09:51:39.586Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-22T09:51:39.586Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-22T10:51:39.641Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-22T10:51:39.642Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-22T11:35:56.081Z snowbrush] Export image time: from 1626953756080 to 1626953756081.
+[I 2021-07-22T11:43:00.653Z main:store:plugins:editors:EditorFrame] Frame 1 close
+[I 2021-07-22T11:43:00.672Z main:store:plugins:editors:EditorFrame] Not find editor view: undefined file:///opt/XMind/resources/app.asar/renderer/editor-frame.html?frameId=1&_apr=dark
+[E 2021-07-22T11:43:00.745Z error:main] TypeError: this.view.destroy is not a function
+    at y.destroy (/opt/XMind/resources/app.asar/main/main.js:7:106494)
+    at async y.close (/opt/XMind/resources/app.asar/main/main.js:7:106148)
+    at async v.close (/opt/XMind/resources/app.asar/main/main.js:30:111567)
+[I 2021-07-22T11:43:03.532Z main:store:plugins:editors:EditorFrame] Frame 1 close
+[I 2021-07-22T11:43:03.533Z main:store:plugins:editors:EditorFrame] Frame 1 close
+[I 2021-07-22T11:43:03.546Z main:store:plugins:electron] Application is intended to quit.
+[I 2021-07-22T11:43:03.547Z main:store:plugins:electron] Asking all editors to close their documents...
+[W 2021-07-22T11:43:03.547Z main:store:plugins:editors:EditorView] Caught error on destroy: Error: No such API: "DESTROY /editors/d4b8b3109e88ad88828f49d7f2"
+    at Object.f [as fetch] (/opt/XMind/resources/app.asar/main/main.js:1:17670)
+    at y.destroy (/opt/XMind/resources/app.asar/main/main.js:7:106351)
+    at y.destroy (/opt/XMind/resources/app.asar/main/main.js:1:52188)
+    at /opt/XMind/resources/app.asar/main/main.js:30:107558
+    at /opt/XMind/resources/app.asar/main/main.js:1:17771
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async App.<anonymous> (/opt/XMind/resources/app.asar/main/main.js:30:81915) {
+  code: 'IPC_ENOAPI'
+}
+[E 2021-07-22T11:43:03.550Z error:main] TypeError: this.view.destroy is not a function
+    at y.destroy (/opt/XMind/resources/app.asar/main/main.js:7:106494)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async /opt/XMind/resources/app.asar/main/main.js:30:107550
+[I 2021-07-22T11:43:03.696Z main:store:plugins:editors:EditorFrame] Frame 1 webContents destroyed
+[I 2021-07-22T11:43:05.722Z main:store:plugins:electron] Application is intended to quit.
+[I 2021-07-22T11:43:05.722Z main:store:plugins:electron] Asking all editors to close their documents...
+[W 2021-07-22T11:43:05.722Z main:store:plugins:editors:EditorView] Caught error on destroy: Error: No such API: "DESTROY /editors/d4b8b3109e88ad88828f49d7f2"
+    at Object.f [as fetch] (/opt/XMind/resources/app.asar/main/main.js:1:17670)
+    at y.destroy (/opt/XMind/resources/app.asar/main/main.js:7:106351)
+    at y.destroy (/opt/XMind/resources/app.asar/main/main.js:1:52188)
+    at /opt/XMind/resources/app.asar/main/main.js:30:107558
+    at /opt/XMind/resources/app.asar/main/main.js:1:17771
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async App.<anonymous> (/opt/XMind/resources/app.asar/main/main.js:30:81915) {
+  code: 'IPC_ENOAPI'
+}
+[E 2021-07-22T11:43:05.723Z error:main] TypeError: this.view.destroy is not a function
+    at y.destroy (/opt/XMind/resources/app.asar/main/main.js:7:106494)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async /opt/XMind/resources/app.asar/main/main.js:30:107550
+[I 2021-07-22T11:43:09.108Z main:store:plugins:electron] Application receives arguments from another instance: ["xmind-2020"] /home/lucas
+[I 2021-07-22T11:43:18.564Z main:store:plugins:electron] Application is intended to quit.
+[I 2021-07-22T11:43:18.564Z main:store:plugins:electron] Asking all editors to close their documents...
+[W 2021-07-22T11:43:18.565Z main:store:plugins:editors:EditorView] Caught error on destroy: Error: No such API: "DESTROY /editors/d4b8b3109e88ad88828f49d7f2"
+    at Object.f [as fetch] (/opt/XMind/resources/app.asar/main/main.js:1:17670)
+    at y.destroy (/opt/XMind/resources/app.asar/main/main.js:7:106351)
+    at y.destroy (/opt/XMind/resources/app.asar/main/main.js:1:52188)
+    at /opt/XMind/resources/app.asar/main/main.js:30:107558
+    at /opt/XMind/resources/app.asar/main/main.js:1:17771
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async App.<anonymous> (/opt/XMind/resources/app.asar/main/main.js:30:81915) {
+  code: 'IPC_ENOAPI'
+}
+[E 2021-07-22T11:43:18.566Z error:main] TypeError: this.view.destroy is not a function
+    at y.destroy (/opt/XMind/resources/app.asar/main/main.js:7:106494)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async /opt/XMind/resources/app.asar/main/main.js:30:107550
+
+-------- SESSION 2021-07-22T11:43:21.912Z (10.3.1+202101132117, linux, x64, 16108658688, XMind Ltd., vana_linux_64) --------
+[I 2021-07-22T11:43:23.547Z main:store:plugins:iap] The user is not allowed to make in-app purchase.
+[I 2021-07-22T11:43:23.890Z main:store:plugins:electron] Application will finish launching.
+[I 2021-07-22T11:43:23.892Z main:store:plugins:electron] Application arguments: ["/opt/XMind/xmind"]
+[I 2021-07-22T11:43:23.899Z main:store:plugins:electron] Application is ready.
+[I 2021-07-22T11:43:23.914Z main:store:plugins:open-handler] Recover: Map {}
+[I 2021-07-22T11:43:23.918Z main:store:plugins:activation-updater] Start updating subscription information periodically.
+[I 2021-07-22T11:43:23.918Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-07-22T11:43:23.918Z main:store:plugins:activation-updater] Start updating per-machine license information periodically.
+[I 2021-07-22T11:43:23.918Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-07-22T11:43:24.066Z main:store:plugins:electron] Device ID: ec86dd13-2088-4f9e-b4bf-e50e4290bf31
+[I 2021-07-22T11:43:35.400Z main:store:plugins:editors:EditorFrame] Frame 1 close
+[I 2021-07-22T11:43:35.415Z main:store:plugins:editors:EditorFrame] Not find editor view: undefined file:///opt/XMind/resources/app.asar/renderer/editor-frame.html?frameId=1&_apr=dark
+[E 2021-07-22T11:43:35.499Z error:main] TypeError: this.view.destroy is not a function
+    at y.destroy (/opt/XMind/resources/app.asar/main/main.js:7:106494)
+    at async y.close (/opt/XMind/resources/app.asar/main/main.js:7:106148)
+    at async v.close (/opt/XMind/resources/app.asar/main/main.js:30:111567)
+[I 2021-07-22T11:43:41.544Z main:store:plugins:editors:EditorFrame] Frame 1 close
+[I 2021-07-22T11:43:41.544Z main:store:plugins:editors:EditorFrame] Frame 1 close
+[I 2021-07-22T11:43:41.642Z main:store:plugins:editors:EditorFrame] Frame 1 webContents destroyed
+[I 2021-07-22T11:44:23.919Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-22T11:44:23.920Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-22T12:44:23.974Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-22T12:44:23.975Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-22T13:44:24.027Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-22T13:44:24.027Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-22T14:44:24.070Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-22T14:44:24.070Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-22T15:44:24.093Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-22T15:44:24.094Z main:store:plugins:activation-updater] Schedule refresh timeout(null).

@@ -1,0 +1,559 @@
+[I 2021-07-25T22:02:06.856Z snowbrush] db write {
+  'text/plain': 'Review of yesterday',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '8d1adcb051882d554b955a4265'
+  },
+  xapInfoMap: {}
+}
+[I 2021-07-25T22:06:38.032Z snowbrush] null
+[I 2021-07-25T22:09:47.436Z snowbrush] db write {
+  'text/plain': 'YouTube\r\n\t中共历史\r\nWiki\r\n\t中共历史',
+  'text/x-array-json': [
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] }
+  ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '8d1adcb051882d554b955a4265'
+  },
+  xapInfoMap: {}
+}
+[I 2021-07-25T22:10:53.304Z snowbrush] Export image time: from 1627251053304 to 1627251053304.
+[I 2021-07-25T22:11:09.420Z snowbrush] db write {
+  'text/plain': 'CC\r\n' +
+    '\tFull pull-ups\r\n' +
+    '\t\t4\r\n' +
+    '\tFlat leg raises\r\n' +
+    '\t\t12\r\n' +
+    '\tFull push-ups\r\n' +
+    '\tFull squats',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '8d1adcb051882d554b955a4265'
+  },
+  xapInfoMap: {}
+}
+[I 2021-07-25T22:11:11.343Z snowbrush] db write {
+  'text/plain': 'Steps\r\n' +
+    '\t2500\r\n' +
+    'CC\r\n' +
+    '\tFull pull-ups\r\n' +
+    '\t\t4\r\n' +
+    '\tFlat leg raises\r\n' +
+    '\t\t12\r\n' +
+    '\tFull push-ups\r\n' +
+    '\tFull squats',
+  'text/x-array-json': [
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] }
+  ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '8d1adcb051882d554b955a4265'
+  },
+  xapInfoMap: {}
+}
+[I 2021-07-25T22:11:40.266Z snowbrush] Export image time: from 1627251100266 to 1627251100266.
+[I 2021-07-25T22:11:44.038Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-25T22:11:44.038Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-25T22:13:48.074Z snowbrush] db write {
+  'text/plain': "Reflection\r\nMake today's plans",
+  'text/x-array-json': [
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] }
+  ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '8d1adcb051882d554b955a4265'
+  },
+  xapInfoMap: {}
+}
+[I 2021-07-25T22:13:53.759Z snowbrush] db write {
+  'text/plain': "Make today's plans",
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '8d1adcb051882d554b955a4265'
+  },
+  xapInfoMap: {}
+}
+[I 2021-07-25T22:13:58.920Z snowbrush] Export image time: from 1627251238920 to 1627251238920.
+[I 2021-07-25T22:21:32.935Z snowbrush] Export image time: from 1627251692932 to 1627251692932.
+[I 2021-07-25T22:21:41.345Z snowbrush] db write {
+  'text/plain': 'Thoughts\r\n' +
+    '\tReflection\r\n' +
+    '\t\t你擅长什么？你的优点是什么？\r\n' +
+    '\t\t\t擅长于信息搜索\r\n' +
+    '\t\t\t乐于盘根问底，弄清事实\r\n' +
+    '\t\t\t自我觉悟高，总体上知道自己要做什么\r\n' +
+    '\t\t\t\t追求更幸福\r\n' +
+    '\t\t\t\t追求实现自我实现、自我突破、自我革命\r\n' +
+    '\t\t\t坚持不断优化三观\r\n' +
+    '\t\t\t\t目前对人生、社会的看法已经远超同辈人\r\n' +
+    '\t\t是什么让你大二之前保持成功的？\r\n' +
+    '\t\t\t其实并不算成功\r\n' +
+    '\t\t\t在那之前也不过是跟随者大流，别人干什么，我也干什么\r\n' +
+    '\t\t\t从未深层次地研究过自身和社会\r\n' +
+    '\t\t\t非得说优点的话，那就是\r\n' +
+    '\t\t\t\t坚持\r\n' +
+    '\t\t\t\t心无旁骛\r\n' +
+    '\t\t\t\t赤子之心\r\n' +
+    '\t\t\t\t当时根本没想太多，直接干\r\n' +
+    '\t\t你的缺点是什么？\r\n' +
+    '\t\t\t不知从何时开始，变得很容易分心\r\n' +
+    '\t\t\t学着学着就跑偏了，这里搜一下，那么搜一下\r\n' +
+    '\t\t\t干着 A，去了解 B 了\r\n' +
+    '\t\t\t三分钟热度，正好符合王超周期律\r\n' +
+    '\t\t\t不够自信\r\n' +
+    '\t\t\t不够坚持\r\n' +
+    '\t你的潜力是无穷的，你并不比清华北大的人差。\n' +
+    '你现在需要的是坚持、挑战、突破、自信。\r\n' +
+    '\t\t考上清华北大需要\r\n' +
+    '\t\t\t环境\r\n' +
+    '\t\t\t教育资源\r\n' +
+    '\t\t\t努力\r\n' +
+    '\t\t\t天资\r\n' +
+    '\t\t你足够努力，你的天赋其实还可以，但是缺乏良好的教育资源以及正确的方法，因此你没考上清华北大。\r\n' +
+    '\t做事情要果断，不要优柔寡断、思绪过多\r\n' +
+    '\t专注、专注、还是专注\n' +
+    '再没有完全突破昨日的成果之前，不要转移注意力\n' +
+    '\n' +
+    '你每日首先的目标，就是突破昨日的自己。\n' +
+    '突破了自己，再去想其它的事情。\r\n' +
+    '\t\t一旦你想乱来了，看看自己过去的想法，理性的自己的想法。\r\n' +
+    '\t\t我相信你可以做到一切。\n' +
+    '你所需的就是坚持和时间。\r\n' +
+    '\t\t国家有王朝周期律，“其兴也勃焉，其亡也忽焉”\n' +
+    '\n' +
+    '其实这个周期律也可以适用于人、集体、组织\r\n' +
+    '\t\t\t黄炎培：\n' +
+    '“我生六十多年，耳闻的不说，所亲眼看到的，真所谓‘其兴也勃焉’，‘其亡也忽焉’。\n' +
+    '\n' +
+    '一人，一家，一团体，一地方，乃至一国，不少单位都没有能跳出这周期律的支配力。\n' +
+    '\n' +
+    '大凡初时聚精会神，没有一事不用心，没有一人不卖力，也许那时艰难困苦，只有从万死中觅取一生。\n' +
+    '既而环境渐渐好转了，精神也就渐渐放下了。有的因为历时长久，自然地惰性发作，由少数演为多数，到风气养成，虽有大力，无法扭转，并且无法补救。也有为了区域一步步扩大了，它的扩大，有的出于自然发展，有的为功业欲所驱使，强求发展，到干部人才渐见竭蹶，艰于应付的时候，环境倒越加复杂起来了。控制力不免趋于薄弱了。一部历史，‘政怠宦成’的也有，‘人亡政息’的也有，‘求荣取辱’的也有。总之没有能跳出这周期律。中共诸君从过去到现在，我略略了解的了。就是希望找出一条新路，来跳出这周期律的支配。”\r\n' +
+    '\t\t如何跳出这个周期律？\r\n' +
+    '\t\t\t自我突破\r\n' +
+    '\t\t\t保持反思、总结、计划突破\r\n' +
+    '\t\t\t脱离舒适圈\r\n' +
+    '\t\t\t\t其实这和挑战既得利益者十分相似\r\n' +
+    '\t\t\t自我革命\r\n' +
+    '\t1 >>>>>>> 0\r\n' +
+    '\t\t迈出第一步，突破自己\r\n' +
+    '\t\t可以尝试使用五分钟法则\r\n' +
+    '\t\t\t我就试试五分钟\r\n' +
+    '\t\t\t我还能坚持五分钟\r\n' +
+    '\t必须要做的事情\r\n' +
+    '\t\t每日反思\r\n' +
+    '\t\t\t每日洗漱之后开始执行\r\n' +
+    '\t\t\t反思和总结昨日\n' +
+    '展望和计划未来\r\n' +
+    '\t\t\t这么多年的人生经历下来，我发现每日反思真的至关重要。\n' +
+    '就像是重复性练习和刻意练习。前者只会增加或者防止降低熟练度，而后者会让你突破当前舒适区，创造出新的东西。\r\n' +
+    '\t\t运动\r\n' +
+    '\t\t\t运动带给你健康的身体\r\n' +
+    '\t\t\t运动带给你自信\r\n' +
+    '\t\t\t运动带来自律\r\n' +
+    '\t\t复习\r\n' +
+    '\t\t\t你至少要复习完之前学习的所有内容\r\n' +
+    '\t2021-07-23，牢记这个日子，你重获了新生。\r\n' +
+    '\t一切皆工具，只不过是用来实现目的的。\r\n' +
+    '\t出国\r\n' +
+    '\t\t明面上要韬光养晦，不要张扬，毕竟国内24小时无死角监控。\r\n' +
+    '\t\t慢慢来，工作了之后立刻开始学习英语，准备雅思或者托福。\n' +
+    '可以自学，也可以报班。\r\n' +
+    '\t\t早日出国。',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '8d1adcb051882d554b955a4265'
+  },
+  xapInfoMap: {}
+}
+[I 2021-07-25T22:21:43.749Z snowbrush] null
+[I 2021-07-25T22:21:48.482Z snowbrush] Export image time: from 1627251708482 to 1627251708482.
+[I 2021-07-25T22:23:08.407Z snowbrush] null
+[I 2021-07-25T22:23:13.388Z snowbrush] db write {
+  'text/plain': 'Summary\r\n' +
+    '\tFrom 5:50 to 23:40, \r\n' +
+    '\t\tSleep\r\n' +
+    '\t\t\t23:40 to 5:50\r\n' +
+    '\t\t\t终于睡着了一次，这是一个巨大的突破\r\n' +
+    '\tChallenge (185)\r\n' +
+    '\t\tOthers\r\n' +
+    '\t\t\tPE\r\n' +
+    '\t\t\t\tSteps\r\n' +
+    '\t\t\t\t\t2700\r\n' +
+    '\t\t\t\tCC\r\n' +
+    '\t\t\t\t\tFull pull-ups\r\n' +
+    '\t\t\t\t\t\t4\r\n' +
+    '\t\t\t\t\tFlat leg raises\r\n' +
+    '\t\t\t\t\t\t12\r\n' +
+    '\t\t\t\t\tFull push-ups\r\n' +
+    '\t\t\t\t\tFull squats\r\n' +
+    '\t\t\tME\r\n' +
+    '\t\t\t\tReflection\r\n' +
+    '\t\t\t\t\t60\r\n' +
+    '\t\t\t\tPositive Psychology\r\n' +
+    '\t\t\t\t\t65\r\n' +
+    '\t\tLearn\r\n' +
+    '\t\t\tAnki Review\r\n' +
+    '\t\t\t\t75\r\n' +
+    '\t\t\tLeetCode\r\n' +
+    '\t\t\t\t55\r\n' +
+    '\tOthers\r\n' +
+    '\t\tYouTube\r\n' +
+    '\t\t\t中共历史\r\n' +
+    '\t\tWiki\r\n' +
+    '\t\t\t中共历史\r\n' +
+    '\t总体来说，部分地弄清了历史，明确了自己未来的道路，不亏！',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '8d1adcb051882d554b955a4265'
+  },
+  xapInfoMap: {}
+}
+[I 2021-07-25T22:23:29.354Z snowbrush] db write {
+  'text/plain': 'Thoughts\r\n' +
+    '\tReflection\r\n' +
+    '\t\t你擅长什么？你的优点是什么？\r\n' +
+    '\t\t\t擅长于信息搜索\r\n' +
+    '\t\t\t乐于盘根问底，弄清事实\r\n' +
+    '\t\t\t自我觉悟高，总体上知道自己要做什么\r\n' +
+    '\t\t\t\t追求更幸福\r\n' +
+    '\t\t\t\t追求实现自我实现、自我突破、自我革命\r\n' +
+    '\t\t\t坚持不断优化三观\r\n' +
+    '\t\t\t\t目前对人生、社会的看法已经远超同辈人\r\n' +
+    '\t\t是什么让你大二之前保持成功的？\r\n' +
+    '\t\t\t其实并不算成功\r\n' +
+    '\t\t\t在那之前也不过是跟随者大流，别人干什么，我也干什么\r\n' +
+    '\t\t\t从未深层次地研究过自身和社会\r\n' +
+    '\t\t\t非得说优点的话，那就是\r\n' +
+    '\t\t\t\t坚持\r\n' +
+    '\t\t\t\t心无旁骛\r\n' +
+    '\t\t\t\t赤子之心\r\n' +
+    '\t\t\t\t当时根本没想太多，直接干\r\n' +
+    '\t\t你的缺点是什么？\r\n' +
+    '\t\t\t不知从何时开始，变得很容易分心\r\n' +
+    '\t\t\t学着学着就跑偏了，这里搜一下，那么搜一下\r\n' +
+    '\t\t\t干着 A，去了解 B 了\r\n' +
+    '\t\t\t三分钟热度，正好符合王超周期律\r\n' +
+    '\t\t\t不够自信\r\n' +
+    '\t\t\t不够坚持\r\n' +
+    '\t你的潜力是无穷的，你并不比清华北大的人差。\n' +
+    '你现在需要的是坚持、挑战、突破、自信。\r\n' +
+    '\t\t考上清华北大需要\r\n' +
+    '\t\t\t环境\r\n' +
+    '\t\t\t教育资源\r\n' +
+    '\t\t\t努力\r\n' +
+    '\t\t\t天资\r\n' +
+    '\t\t你足够努力，你的天赋其实还可以，但是缺乏良好的教育资源以及正确的方法，因此你没考上清华北大。\r\n' +
+    '\t做事情要果断，不要优柔寡断、思绪过多\r\n' +
+    '\t专注、专注、还是专注\n' +
+    '再没有完全突破昨日的成果之前，不要转移注意力\n' +
+    '\n' +
+    '你每日首先的目标，就是突破昨日的自己。\n' +
+    '突破了自己，再去想其它的事情。\r\n' +
+    '\t\t一旦你想乱来了，看看自己过去的想法，理性的自己的想法。\r\n' +
+    '\t\t我相信你可以做到一切。\n' +
+    '你所需的就是坚持和时间。\r\n' +
+    '\t\t国家有王朝周期律，“其兴也勃焉，其亡也忽焉”\n' +
+    '\n' +
+    '其实这个周期律也可以适用于人、集体、组织\r\n' +
+    '\t\t\t黄炎培：\n' +
+    '“我生六十多年，耳闻的不说，所亲眼看到的，真所谓‘其兴也勃焉’，‘其亡也忽焉’。\n' +
+    '\n' +
+    '一人，一家，一团体，一地方，乃至一国，不少单位都没有能跳出这周期律的支配力。\n' +
+    '\n' +
+    '大凡初时聚精会神，没有一事不用心，没有一人不卖力，也许那时艰难困苦，只有从万死中觅取一生。\n' +
+    '既而环境渐渐好转了，精神也就渐渐放下了。有的因为历时长久，自然地惰性发作，由少数演为多数，到风气养成，虽有大力，无法扭转，并且无法补救。也有为了区域一步步扩大了，它的扩大，有的出于自然发展，有的为功业欲所驱使，强求发展，到干部人才渐见竭蹶，艰于应付的时候，环境倒越加复杂起来了。控制力不免趋于薄弱了。一部历史，‘政怠宦成’的也有，‘人亡政息’的也有，‘求荣取辱’的也有。总之没有能跳出这周期律。中共诸君从过去到现在，我略略了解的了。就是希望找出一条新路，来跳出这周期律的支配。”\r\n' +
+    '\t\t如何跳出这个周期律？\r\n' +
+    '\t\t\t自我突破\r\n' +
+    '\t\t\t保持反思、总结、计划突破\r\n' +
+    '\t\t\t脱离舒适圈\r\n' +
+    '\t\t\t\t其实这和挑战既得利益者十分相似\r\n' +
+    '\t\t\t自我革命\r\n' +
+    '\t1 >>>>>>> 0\r\n' +
+    '\t\t迈出第一步，突破自己\r\n' +
+    '\t\t可以尝试使用五分钟法则\r\n' +
+    '\t\t\t我就试试五分钟\r\n' +
+    '\t\t\t我还能坚持五分钟\r\n' +
+    '\t必须要做的事情\r\n' +
+    '\t\t每日反思\r\n' +
+    '\t\t\t每日洗漱之后开始执行\r\n' +
+    '\t\t\t反思和总结昨日\n' +
+    '展望和计划未来\r\n' +
+    '\t\t\t这么多年的人生经历下来，我发现每日反思真的至关重要。\n' +
+    '就像是重复性练习和刻意练习。前者只会增加或者防止降低熟练度，而后者会让你突破当前舒适区，创造出新的东西。\r\n' +
+    '\t\t运动\r\n' +
+    '\t\t\t运动带给你健康的身体\r\n' +
+    '\t\t\t运动带给你自信\r\n' +
+    '\t\t\t运动带来自律\r\n' +
+    '\t\t复习\r\n' +
+    '\t\t\t你至少要复习完之前学习的所有内容\r\n' +
+    '\t2021-07-23，牢记这个日子，你重获了新生。\r\n' +
+    '\t一切皆工具，只不过是用来实现目的的。\r\n' +
+    '\t出国\r\n' +
+    '\t\t明面上要韬光养晦，不要张扬，毕竟国内24小时无死角监控。\r\n' +
+    '\t\t慢慢来，工作了之后立刻开始学习英语，准备雅思或者托福。\n' +
+    '可以自学，也可以报班。\r\n' +
+    '\t\t早日出国。',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '8d1adcb051882d554b955a4265'
+  },
+  xapInfoMap: {}
+}
+[I 2021-07-25T22:23:46.130Z snowbrush] db write {
+  'text/plain': 'Summary\r\n' +
+    '\tFrom 5:50 to 23:40, \r\n' +
+    '\t\tSleep\r\n' +
+    '\t\t\t23:40 to 5:50\r\n' +
+    '\t\t\t终于睡着了一次，这是一个巨大的突破\r\n' +
+    '\tChallenge (185)\r\n' +
+    '\t\tOthers\r\n' +
+    '\t\t\tPE\r\n' +
+    '\t\t\t\tSteps\r\n' +
+    '\t\t\t\t\t2700\r\n' +
+    '\t\t\t\tCC\r\n' +
+    '\t\t\t\t\tFull pull-ups\r\n' +
+    '\t\t\t\t\t\t4\r\n' +
+    '\t\t\t\t\tFlat leg raises\r\n' +
+    '\t\t\t\t\t\t12\r\n' +
+    '\t\t\t\t\tFull push-ups\r\n' +
+    '\t\t\t\t\tFull squats\r\n' +
+    '\t\t\tME\r\n' +
+    '\t\t\t\tReflection\r\n' +
+    '\t\t\t\t\t60\r\n' +
+    '\t\t\t\tPositive Psychology\r\n' +
+    '\t\t\t\t\t65\r\n' +
+    '\t\tLearn\r\n' +
+    '\t\t\tAnki Review\r\n' +
+    '\t\t\t\t75\r\n' +
+    '\t\t\tLeetCode\r\n' +
+    '\t\t\t\t55\r\n' +
+    '\tOthers\r\n' +
+    '\t\tYouTube\r\n' +
+    '\t\t\t中共历史\r\n' +
+    '\t\tWiki\r\n' +
+    '\t\t\t中共历史\r\n' +
+    '\t总体来说，部分地弄清了历史，明确了自己未来的道路，不亏！',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '8d1adcb051882d554b955a4265'
+  },
+  xapInfoMap: {}
+}
+[I 2021-07-25T22:25:32.711Z snowbrush] Export image time: from 1627251932708 to 1627251932708.
+[I 2021-07-25T22:26:50.879Z snowbrush] db write {
+  'text/plain': '在没有突破昨日和前日之前，不要分心',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '8d1adcb051882d554b955a4265'
+  },
+  xapInfoMap: {}
+}
+[I 2021-07-25T22:26:53.296Z snowbrush] Export image time: from 1627252013295 to 1627252013296.
+[I 2021-07-25T22:27:13.668Z snowbrush] Export image time: from 1627252033668 to 1627252033668.
+[I 2021-07-25T22:29:20.447Z snowbrush] Export image time: from 1627252160447 to 1627252160447.
+[I 2021-07-25T22:30:13.239Z snowbrush] Export image time: from 1627252213239 to 1627252213239.
+[I 2021-07-25T22:30:34.198Z snowbrush] Export image time: from 1627252234190 to 1627252234190.
+[I 2021-07-25T22:31:09.040Z snowbrush] Export image time: from 1627252269040 to 1627252269040.
+[I 2021-07-25T22:49:32.347Z snowbrush] Export image time: from 1627253372343 to 1627253372343.
+[I 2021-07-25T22:49:40.717Z snowbrush] Export image time: from 1627253380717 to 1627253380717.
+[I 2021-07-25T22:50:27.799Z snowbrush] Export image time: from 1627253427798 to 1627253427799.
+[I 2021-07-25T23:09:11.916Z snowbrush] Export image time: from 1627254551916 to 1627254551916.
+[I 2021-07-25T23:09:17.430Z snowbrush] Export image time: from 1627254557430 to 1627254557430.
+[I 2021-07-25T23:11:07.221Z snowbrush] Export image time: from 1627254667221 to 1627254667221.
+[I 2021-07-25T23:11:43.836Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-25T23:11:43.836Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-25T23:25:37.581Z snowbrush] Export image time: from 1627255537571 to 1627255537571.
+[I 2021-07-25T23:28:33.232Z snowbrush] db write {
+  'text/plain': 'LeetCode\r\n\t23Quicksort.pdf',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '8d1adcb051882d554b955a4265'
+  },
+  xapInfoMap: {}
+}
+[I 2021-07-25T23:51:01.887Z snowbrush] Export image time: from 1627257061887 to 1627257061887.
+[I 2021-07-25T23:51:20.979Z snowbrush] Export image time: from 1627257080979 to 1627257080979.
+[I 2021-07-26T00:03:22.194Z snowbrush] Export image time: from 1627257802194 to 1627257802194.
+[I 2021-07-26T00:11:43.897Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-26T00:11:43.897Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-26T00:14:25.626Z snowbrush] Export image time: from 1627258465626 to 1627258465626.
+[I 2021-07-26T00:26:13.449Z snowbrush] Export image time: from 1627259173449 to 1627259173449.
+[I 2021-07-26T00:37:00.710Z snowbrush] Export image time: from 1627259820710 to 1627259820710.
+[I 2021-07-26T00:37:08.347Z snowbrush] Export image time: from 1627259828347 to 1627259828347.
+[I 2021-07-26T00:37:17.362Z snowbrush] Export image time: from 1627259837362 to 1627259837362.
+[I 2021-07-26T00:37:25.957Z snowbrush] db write {
+  'text/plain': '6:50 to 7:10 (20)\r\n' +
+    '\tPositive Psychology\r\n' +
+    '7:10 to 7:25 (15)\r\n' +
+    '\tAnki Review\r\n' +
+    '\t\tAlgorithms\r\n' +
+    '7:25 to 7:50 (25)\r\n' +
+    '\tLeetCode\r\n' +
+    '\t\t23Quicksort.pdf\r\n' +
+    '7:50 to 8:35 (45)\r\n' +
+    '\tLeetCode\r\n' +
+    '\t\tNew problems\r\n' +
+    '\t\t\t1700. Number of Students Unable to Eat Lunch\r\n' +
+    '\t\t\t387. First Unique Character in a String',
+  'text/x-array-json': [
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] }
+  ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '8d1adcb051882d554b955a4265'
+  },
+  xapInfoMap: {}
+}
+[I 2021-07-26T00:37:44.334Z snowbrush] db write {
+  'text/plain': "6:20 to 6:30 (10)\r\n\tMake today's plans",
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '8d1adcb051882d554b955a4265'
+  },
+  xapInfoMap: {}
+}
+[I 2021-07-26T00:37:46.587Z snowbrush] db write {
+  'text/plain': '6:00 to 6:10 (10)\r\n' +
+    '\tReview of yesterday\r\n' +
+    '6:10 to 6:20 (10)\r\n' +
+    '\tReflection\r\n' +
+    '6:20 to 6:30 (10)\r\n' +
+    "\tMake today's plans",
+  'text/x-array-json': [
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] }
+  ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '8d1adcb051882d554b955a4265'
+  },
+  xapInfoMap: {}
+}
+[I 2021-07-26T00:37:54.012Z snowbrush] Export image time: from 1627259874011 to 1627259874012.
+[I 2021-07-26T00:55:49.785Z snowbrush] Export image time: from 1627260949777 to 1627260949777.
+[I 2021-07-26T00:56:45.470Z snowbrush] Export image time: from 1627261005470 to 1627261005470.
+[I 2021-07-26T00:57:04.872Z snowbrush] Export image time: from 1627261024872 to 1627261024872.
+[I 2021-07-26T00:57:14.525Z snowbrush] db write {
+  'text/plain': 'Anki Review\r\n\tHTML',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '8d1adcb051882d554b955a4265'
+  },
+  xapInfoMap: {}
+}
+[I 2021-07-26T00:57:15.618Z snowbrush] Export image time: from 1627261035618 to 1627261035618.
+[I 2021-07-26T01:07:21.966Z snowbrush] Export image time: from 1627261641965 to 1627261641965.
+[I 2021-07-26T01:11:43.955Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-26T01:11:43.956Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-26T01:45:36.323Z snowbrush] Export image time: from 1627263936323 to 1627263936323.
+[I 2021-07-26T01:55:17.709Z snowbrush] db write {
+  'text/plain': '9:45 to 9:55\r\n\tBreak',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '8d1adcb051882d554b955a4265'
+  },
+  xapInfoMap: {}
+}
+[I 2021-07-26T01:55:19.576Z snowbrush] Export image time: from 1627264519576 to 1627264519576.
+[I 2021-07-26T01:55:25.854Z snowbrush] Export image time: from 1627264525854 to 1627264525854.
+[I 2021-07-26T02:11:44.001Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-26T02:11:44.001Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-26T03:11:44.053Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-26T03:11:44.054Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-26T04:11:44.102Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-26T04:11:44.102Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-26T05:11:44.148Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-26T05:11:44.148Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-26T06:11:44.191Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-26T06:11:44.192Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-26T06:49:15.423Z snowbrush] Export image time: from 1627282155415 to 1627282155415.
+[I 2021-07-26T07:11:44.203Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-26T07:11:44.204Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-26T08:11:44.242Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-26T08:11:44.242Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-26T09:11:44.257Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-26T09:11:44.258Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-26T10:11:44.290Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-26T10:11:44.291Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-26T11:11:44.319Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-26T11:11:44.320Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-26T12:11:44.345Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-26T12:11:44.346Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-26T12:51:50.038Z snowbrush] Export image time: from 1627303910038 to 1627303910038.
+[I 2021-07-26T12:53:29.261Z snowbrush] Export image time: from 1627304009261 to 1627304009261.
+[I 2021-07-26T13:11:44.370Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-26T13:11:44.370Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-26T14:11:44.392Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-26T14:11:44.395Z main:store:plugins:activation-updater] Schedule refresh timeout(null).

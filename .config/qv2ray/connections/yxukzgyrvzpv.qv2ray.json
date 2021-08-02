@@ -1,0 +1,26 @@
+{
+    "outbounds": [
+        {
+            "mux": {
+            },
+            "protocol": "shadowsocks",
+            "sendThrough": "0.0.0.0",
+            "settings": {
+                "servers": [
+                    {
+                        "address": "ss.de.sshmax.net",
+                        "email": "",
+                        "level": 0,
+                        "method": "chacha20-ietf-poly1305",
+                        "ota": false,
+                        "password": "cWv8FcJk0VpS",
+                        "port": 21474
+                    }
+                ]
+            },
+            "streamSettings": {
+            },
+            "tag": "outBound_PROXY"
+        }
+    ]
+}

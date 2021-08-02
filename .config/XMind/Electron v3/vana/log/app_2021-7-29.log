@@ -1,0 +1,414 @@
+[I 2021-07-28T16:12:41.969Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-28T16:12:41.971Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-28T17:12:42.007Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-28T17:12:42.008Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-29T00:13:50.415Z snowbrush] db write {
+  'text/plain': 'Template\r\n' +
+    '\tRecords\r\n' +
+    '\t\t今日最大目标\r\n' +
+    '\t\t\t在没有突破昨日和前日之前，不要分心\r\n' +
+    '\t\t\t在没有突破昨日和前日之前，不要分心\r\n' +
+    '\t\t\t在没有突破昨日和前日之前，不要分心\r\n' +
+    '\t\tME\r\n' +
+    '\t\t\tReview, Reflection, Plan\r\n' +
+    '\t\t\tPositive Psychology\r\n' +
+    '\t\tPE\r\n' +
+    '\t\t\tConvict Conditioning\r\n' +
+    '\t\t\t\tFull pull-ups\r\n' +
+    '\t\t\t\t\t5\r\n' +
+    '\t\t\t\t\t5\r\n' +
+    '\t\t\t\t\t5\r\n' +
+    '\t\t\t\t\t5\r\n' +
+    '\t\t\t\t\t5\r\n' +
+    '\t\t\t\t\t5\r\n' +
+    '\t\t\t\tFlat leg raises\r\n' +
+    '\t\t\t\t\t12\r\n' +
+    '\t\t\t\t\t12\r\n' +
+    '\t\t\t\t\t12\r\n' +
+    '\t\t\t\t\t12\r\n' +
+    '\t\t\t\t\t12\r\n' +
+    '\t\t\t\t\t12\r\n' +
+    '\t\t\t\tFull push-ups\r\n' +
+    '\t\t\t\t\t10\r\n' +
+    '\t\t\t\t\t10\r\n' +
+    '\t\t\t\t\t10\r\n' +
+    '\t\t\t\t\t10\r\n' +
+    '\t\t\t\t\t10\r\n' +
+    '\t\t\t\t\t10\r\n' +
+    '\t\t\t\tFull squats\r\n' +
+    '\t\t\t\t\t20\r\n' +
+    '\t\t\t\t\t20\r\n' +
+    '\t\t\t\t\t20\r\n' +
+    '\t\t\t\t\t20\r\n' +
+    '\t\t\t\t\t20\r\n' +
+    '\t\t\t\t\t20\r\n' +
+    '\t\tLearn\r\n' +
+    '\t\t\tAnki Review\r\n' +
+    '\t\t\t\tOthers + Linux + English\r\n' +
+    '\t\t\t\tAlgorithms\r\n' +
+    '\t\t\t\tFront-end\r\n' +
+    '\t\t\t\t\t01HTML\r\n' +
+    '\t\t\t\t\t02CSS\r\n' +
+    '\t\t\t\t\t03HTML5+CSS3\r\n' +
+    '\t\t\tAlgorithms\r\n' +
+    '\t\t\t\t2.5 Priority Queues (Heap)\r\n' +
+    '\t\t\t\tNew problems\r\n' +
+    '\t\t\t\t\thttps://leetcode.com/tag/stack/\r\n' +
+    '\t\t\t\t\tN-ary Tree Preorder Traversal\r\n' +
+    '\t\t\t\t\tN-ary Tree Postorder Traversal\t\r\n' +
+    '\t\t\tFront-end\r\n' +
+    '\t\t\t\t01第一阶段\r\n' +
+    '\t\t\t\t\t20200829html+css\r\n' +
+    '\t\t\t\t\t20200831html+css\r\n' +
+    '\t\t\t\t\t20200901html+css\r\n' +
+    '\t\t\t\t\t20200902html+css\r\n' +
+    '\t\t\t\t\t20200904html+css\r\n' +
+    '\tTODO\r\n' +
+    '\t\t今日最大目标\r\n' +
+    '\t\t\t在没有突破昨日和前日之前，不要分心\r\n' +
+    '\t\t\t在没有突破昨日和前日之前，不要分心\r\n' +
+    '\t\t\t在没有突破昨日和前日之前，不要分心\r\n' +
+    '\t\tME\r\n' +
+    '\t\t\tReview, Reflection, Plan\r\n' +
+    '\t\t\tPositive Psychology\r\n' +
+    '\t\tPE\r\n' +
+    '\t\t\tConvict Conditioning\r\n' +
+    '\t\t\t\tFull pull-ups\r\n' +
+    '\t\t\t\t\t5\r\n' +
+    '\t\t\t\t\t5\r\n' +
+    '\t\t\t\t\t5\r\n' +
+    '\t\t\t\t\t5\r\n' +
+    '\t\t\t\t\t5\r\n' +
+    '\t\t\t\t\t5\r\n' +
+    '\t\t\t\tFlat leg raises\r\n' +
+    '\t\t\t\t\t12\r\n' +
+    '\t\t\t\t\t12\r\n' +
+    '\t\t\t\t\t12\r\n' +
+    '\t\t\t\t\t12\r\n' +
+    '\t\t\t\t\t12\r\n' +
+    '\t\t\t\t\t12\r\n' +
+    '\t\t\t\tFull push-ups\r\n' +
+    '\t\t\t\t\t10\r\n' +
+    '\t\t\t\t\t10\r\n' +
+    '\t\t\t\t\t10\r\n' +
+    '\t\t\t\t\t10\r\n' +
+    '\t\t\t\t\t10\r\n' +
+    '\t\t\t\t\t10\r\n' +
+    '\t\t\t\tFull squats\r\n' +
+    '\t\t\t\t\t20\r\n' +
+    '\t\t\t\t\t20\r\n' +
+    '\t\t\t\t\t20\r\n' +
+    '\t\t\t\t\t20\r\n' +
+    '\t\t\t\t\t20\r\n' +
+    '\t\t\t\t\t20\r\n' +
+    '\t\tLearn\r\n' +
+    '\t\t\tAnki Review\r\n' +
+    '\t\t\t\tOthers + Linux + English\r\n' +
+    '\t\t\t\tAlgorithms\r\n' +
+    '\t\t\t\tFront-end\r\n' +
+    '\t\t\t\t\t01HTML\r\n' +
+    '\t\t\t\t\t02CSS\r\n' +
+    '\t\t\t\t\t03HTML5+CSS3\r\n' +
+    '\t\t\tAlgorithms\r\n' +
+    '\t\t\t\t2.5 Priority Queues (Heap)\r\n' +
+    '\t\t\t\tNew problems\r\n' +
+    '\t\t\t\t\thttps://leetcode.com/tag/stack/\r\n' +
+    '\t\t\t\t\tN-ary Tree Preorder Traversal\r\n' +
+    '\t\t\t\t\tN-ary Tree Postorder Traversal\t\r\n' +
+    '\t\t\tFront-end\r\n' +
+    '\t\t\t\t01第一阶段\r\n' +
+    '\t\t\t\t\t20200829html+css\r\n' +
+    '\t\t\t\t\t20200831html+css\r\n' +
+    '\t\t\t\t\t20200901html+css\r\n' +
+    '\t\t\t\t\t20200902html+css\r\n' +
+    '\t\t\t\t\t20200904html+css\r\n' +
+    '\tSchedule\r\n' +
+    '\t\t9:10 to 10:00\r\n' +
+    '\t\t\tLearn\r\n' +
+    '\t\t10:00 to 10:10\r\n' +
+    '\t\t\tPE\r\n' +
+    '\t\t\tBreak\r\n' +
+    '\t\t10:10 to 11:00\r\n' +
+    '\t\t\tLearn\r\n' +
+    '\t\t11:00 to 12:00\r\n' +
+    '\t\t\tLunch\r\n' +
+    '\t\t\t搞快点，别浪费时间\r\n' +
+    '\t\t12:00 to 12:30\r\n' +
+    '\t\t\tWash up\r\n' +
+    '\t\t\tBreak\r\n' +
+    '\t\t12:30 to 13:20\r\n' +
+    '\t\t\tLearn\r\n' +
+    '\t\t13:20 to 13:30\r\n' +
+    '\t\t\tPE\r\n' +
+    '\t\t\tBreak\r\n' +
+    '\t\t13:30 to 14:20\r\n' +
+    '\t\t\tLearn\r\n' +
+    '\t\t14:20 to 14:30\r\n' +
+    '\t\t\tPE\r\n' +
+    '\t\t\tBreak\r\n' +
+    '\t\t14:30 to 15:20\r\n' +
+    '\t\t\tLearn\r\n' +
+    '\t\t15:20 to 15:30\r\n' +
+    '\t\t\tPE\r\n' +
+    '\t\t\tBreak\r\n' +
+    '\t\t15:30 to 16:20\r\n' +
+    '\t\t\tLearn\r\n' +
+    '\t\t16:20 to 16:30\r\n' +
+    '\t\t\tPE\r\n' +
+    '\t\t\tBreak\r\n' +
+    '\t\t16:30 to 17:20\r\n' +
+    '\t\t\tLearn\r\n' +
+    '\t\t17:20 to 18:20\r\n' +
+    '\t\t\tDinner\r\n' +
+    '\t\t\t搞快点，别浪费时间\r\n' +
+    '\t\t18:20 to 19:00\r\n' +
+    '\t\t\tWash up\r\n' +
+    '\t\t\tBreak\r\n' +
+    '\t\t\t收桂圆干\r\n' +
+    '\t\t19:00 to 19:50\r\n' +
+    '\t\t\tLearn\r\n' +
+    '\t\t19:50 to 20:00\r\n' +
+    '\t\t\t晚上了就别运动了\r\n' +
+    '\t\t\tBreak\r\n' +
+    '\t\t20:00 to 20:50\r\n' +
+    '\t\t\tLearn\r\n' +
+    '\t\t20:50 to 21:00\r\n' +
+    '\t\t\tBreak\r\n' +
+    '\t\t21:00 to 21:50\r\n' +
+    '\t\t\tLearn\r\n' +
+    '\t\t21:50 to 22:30\r\n' +
+    '\t\t\tBreak\r\n' +
+    '\t\t\t吃褪黑素\r\n' +
+    '\t\t\t喝热牛奶\r\n' +
+    '\t\t\tReflection, Review, Plan',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '8d1adcb051882d554b955a4265'
+  },
+  xapInfoMap: {}
+}
+[I 2021-07-29T00:16:06.970Z snowbrush] Export image time: from 1627517766969 to 1627517766970.
+[I 2021-07-29T00:17:10.040Z snowbrush] Export image time: from 1627517830040 to 1627517830040.
+[I 2021-07-29T00:17:17.241Z snowbrush] db write {
+  'text/plain': '今日最大目标\r\n\t在没有突破昨日和前日之前，不要分心\r\n\t在没有突破昨日和前日之前，不要分心\r\n\t在没有突破昨日和前日之前，不要分心',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '8d1adcb051882d554b955a4265'
+  },
+  xapInfoMap: {}
+}
+[I 2021-07-29T00:18:23.205Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-29T00:18:23.206Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-29T00:26:00.081Z snowbrush] Export image time: from 1627518360081 to 1627518360081.
+[I 2021-07-29T00:26:10.715Z snowbrush] db write {
+  'text/plain': 'PE\r\n' +
+    '\tConvict Conditioning\r\n' +
+    '\t\tFull pull-ups\r\n' +
+    '\t\t\t5\r\n' +
+    '\t\t\t5\r\n' +
+    '\t\t\t5\r\n' +
+    '\t\t\t5\r\n' +
+    '\t\t\t5\r\n' +
+    '\t\t\t5\r\n' +
+    '\t\tFlat leg raises\r\n' +
+    '\t\t\t12\r\n' +
+    '\t\t\t12\r\n' +
+    '\t\t\t12\r\n' +
+    '\t\t\t12\r\n' +
+    '\t\t\t12\r\n' +
+    '\t\t\t12\r\n' +
+    '\t\tFull push-ups\r\n' +
+    '\t\t\t10\r\n' +
+    '\t\t\t10\r\n' +
+    '\t\t\t10\r\n' +
+    '\t\t\t10\r\n' +
+    '\t\t\t10\r\n' +
+    '\t\t\t10\r\n' +
+    '\t\tFull squats\r\n' +
+    '\t\t\t20\r\n' +
+    '\t\t\t20\r\n' +
+    '\t\t\t20\r\n' +
+    '\t\t\t20\r\n' +
+    '\t\t\t20\r\n' +
+    '\t\t\t20',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '8d1adcb051882d554b955a4265'
+  },
+  xapInfoMap: {}
+}
+[I 2021-07-29T00:27:31.459Z snowbrush] db write {
+  'text/plain': '01HTML\r\n02CSS\r\n03HTML5+CSS3',
+  'text/x-array-json': [
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] }
+  ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '8d1adcb051882d554b955a4265'
+  },
+  xapInfoMap: {}
+}
+[I 2021-07-29T00:27:36.840Z snowbrush] db write {
+  'text/plain': '02CSS',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '8d1adcb051882d554b955a4265'
+  },
+  xapInfoMap: {}
+}
+[I 2021-07-29T00:29:09.249Z snowbrush] Export image time: from 1627518549249 to 1627518549249.
+[I 2021-07-29T00:31:11.460Z snowbrush] Export image time: from 1627518671460 to 1627518671460.
+[I 2021-07-29T00:32:50.529Z snowbrush] db write {
+  'text/plain': '今日最大目标\r\n\t在没有突破昨日和前日之前，不要分心\r\n\t在没有突破昨日和前日之前，不要分心\r\n\t在没有突破昨日和前日之前，不要分心',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '8d1adcb051882d554b955a4265'
+  },
+  xapInfoMap: {}
+}
+[I 2021-07-29T00:33:18.375Z snowbrush] Export image time: from 1627518798375 to 1627518798375.
+[I 2021-07-29T00:33:20.096Z main:store:plugins:editors:EditorFrame] Frame 2 close
+[I 2021-07-29T00:33:20.116Z main:store:plugins:editors:EditorFrame] Not find editor view: undefined file:///opt/XMind/resources/app.asar/renderer/editor-frame.html?frameId=2&_apr=dark
+[E 2021-07-29T00:33:20.169Z error:main] TypeError: this.view.destroy is not a function
+    at y.destroy (/opt/XMind/resources/app.asar/main/main.js:7:106494)
+    at async y.close (/opt/XMind/resources/app.asar/main/main.js:7:106148)
+    at async v.close (/opt/XMind/resources/app.asar/main/main.js:30:111567)
+[I 2021-07-29T00:33:23.338Z main:store:plugins:editors:EditorFrame] Frame 2 close
+[I 2021-07-29T00:33:23.338Z main:store:plugins:editors:EditorFrame] Frame 2 close
+[I 2021-07-29T00:33:23.426Z main:store:plugins:editors:EditorFrame] Frame 2 webContents destroyed
+[I 2021-07-29T00:34:28.985Z snowbrush] Export image time: from 1627518868985 to 1627518868985.
+[I 2021-07-29T00:37:42.478Z snowbrush] Export image time: from 1627519062478 to 1627519062478.
+[I 2021-07-29T00:41:10.912Z snowbrush] Export image time: from 1627519270912 to 1627519270912.
+[I 2021-07-29T00:47:34.668Z main:store:plugins:electron] Application receives arguments from another instance: ["xmind-2020"] /home/lucas
+[I 2021-07-29T00:47:51.901Z main:store:plugins:electron] Application is intended to quit.
+[I 2021-07-29T00:47:51.901Z main:store:plugins:electron] Asking all editors to close their documents...
+[I 2021-07-29T00:47:51.903Z main:store:plugins:editors:EditorFrame] Not find editor view: undefined file:///opt/XMind/resources/app.asar/renderer/editor-frame.html?frameId=1&_apr=dark
+
+-------- SESSION 2021-07-29T00:47:54.294Z (10.3.1+202101132117, linux, x64, 16108658688, XMind Ltd., vana_linux_64) --------
+[I 2021-07-29T00:47:56.834Z main:store:plugins:iap] The user is not allowed to make in-app purchase.
+[I 2021-07-29T00:47:57.196Z main:store:plugins:electron] Application will finish launching.
+[I 2021-07-29T00:47:57.197Z main:store:plugins:electron] Application arguments: ["/opt/XMind/xmind"]
+[I 2021-07-29T00:47:57.207Z main:store:plugins:electron] Application is ready.
+[I 2021-07-29T00:47:57.228Z main:store:plugins:open-handler] Recover: Map {
+  '1' => [
+    {
+      source: 'file:///home/lucas/Documents/Records/Records.xmind',
+      editorId: '0218a58e21bab2e800b8e9f793'
+    }
+  ]
+}
+[I 2021-07-29T00:47:57.234Z main:store:plugins:activation-updater] Start updating subscription information periodically.
+[I 2021-07-29T00:47:57.234Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-07-29T00:47:57.234Z main:store:plugins:activation-updater] Start updating per-machine license information periodically.
+[I 2021-07-29T00:47:57.234Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-07-29T00:47:57.447Z main:store:plugins:electron] Device ID: ec86dd13-2088-4f9e-b4bf-e50e4290bf31
+[I 2021-07-29T00:48:57.236Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-29T00:48:57.237Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-29T01:15:23.604Z snowbrush] Export image time: from 1627521323603 to 1627521323604.
+[I 2021-07-29T01:22:03.502Z snowbrush] db write {
+  'text/plain': 'Algorithms',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '8d1adcb051882d554b955a4265'
+  },
+  xapInfoMap: {}
+}
+[I 2021-07-29T01:22:08.690Z snowbrush] Export image time: from 1627521728689 to 1627521728690.
+[I 2021-07-29T01:41:24.586Z snowbrush] Export image time: from 1627522884586 to 1627522884586.
+[I 2021-07-29T01:48:57.294Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-29T01:48:57.295Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-29T01:58:49.631Z snowbrush] Export image time: from 1627523929630 to 1627523929630.
+[I 2021-07-29T02:16:07.075Z snowbrush] Export image time: from 1627524967075 to 1627524967075.
+[I 2021-07-29T02:35:21.548Z snowbrush] Export image time: from 1627526121547 to 1627526121548.
+[I 2021-07-29T02:35:43.169Z snowbrush] Export image time: from 1627526143169 to 1627526143169.
+[I 2021-07-29T02:48:57.352Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-29T02:48:57.353Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-29T02:58:19.029Z snowbrush] Export image time: from 1627527499029 to 1627527499029.
+[I 2021-07-29T02:58:45.410Z snowbrush] Export image time: from 1627527525410 to 1627527525410.
+[I 2021-07-29T03:36:53.178Z snowbrush] Export image time: from 1627529813178 to 1627529813178.
+[I 2021-07-29T03:48:57.404Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-29T03:48:57.405Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-29T04:35:41.318Z snowbrush] Export image time: from 1627533341318 to 1627533341318.
+[I 2021-07-29T04:37:52.026Z snowbrush] Export image time: from 1627533472026 to 1627533472026.
+[I 2021-07-29T04:40:09.239Z snowbrush] Export image time: from 1627533609239 to 1627533609239.
+[I 2021-07-29T04:48:57.431Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-29T04:48:57.432Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-29T04:53:18.427Z snowbrush] db write {
+  'text/plain': '12:55 to ',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '8d1adcb051882d554b955a4265'
+  },
+  xapInfoMap: {}
+}
+[I 2021-07-29T04:53:25.702Z snowbrush] Export image time: from 1627534405701 to 1627534405702.
+[I 2021-07-29T05:01:41.188Z snowbrush] Export image time: from 1627534901187 to 1627534901188.
+[I 2021-07-29T05:08:38.157Z snowbrush] Export image time: from 1627535318157 to 1627535318157.
+[I 2021-07-29T05:34:34.653Z snowbrush] Export image time: from 1627536874653 to 1627536874653.
+[I 2021-07-29T05:39:04.692Z snowbrush] Export image time: from 1627537144689 to 1627537144689.
+[I 2021-07-29T05:40:05.969Z snowbrush] Export image time: from 1627537205969 to 1627537205969.
+[I 2021-07-29T05:48:57.450Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-29T05:48:57.450Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-29T05:56:49.419Z snowbrush] Export image time: from 1627538209419 to 1627538209419.
+[I 2021-07-29T06:31:21.779Z snowbrush] Export image time: from 1627540281779 to 1627540281779.
+[I 2021-07-29T06:40:30.062Z snowbrush] Export image time: from 1627540830061 to 1627540830062.
+[I 2021-07-29T06:48:57.481Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-29T06:48:57.482Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-29T07:05:03.375Z snowbrush] Export image time: from 1627542303374 to 1627542303375.
+[I 2021-07-29T07:33:30.211Z snowbrush] Export image time: from 1627544010210 to 1627544010211.
+[I 2021-07-29T07:33:47.338Z snowbrush] Export image time: from 1627544027338 to 1627544027338.
+[I 2021-07-29T07:47:44.662Z snowbrush] Export image time: from 1627544864653 to 1627544864653.
+[I 2021-07-29T07:48:57.499Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-29T07:48:57.500Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-29T08:00:48.469Z snowbrush] Export image time: from 1627545648469 to 1627545648469.
+[I 2021-07-29T08:01:16.766Z snowbrush] Export image time: from 1627545676765 to 1627545676766.
+[I 2021-07-29T08:10:53.187Z snowbrush] Export image time: from 1627546253187 to 1627546253187.
+[I 2021-07-29T08:41:01.325Z snowbrush] Export image time: from 1627548061325 to 1627548061325.
+[I 2021-07-29T08:46:19.274Z snowbrush] Export image time: from 1627548379274 to 1627548379274.
+[I 2021-07-29T08:48:57.506Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-29T08:48:57.506Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-29T09:48:57.523Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-29T09:48:57.533Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-29T10:48:54.811Z snowbrush] Export image time: from 1627555734811 to 1627555734811.
+[I 2021-07-29T10:48:57.535Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-29T10:48:57.536Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-29T10:51:32.709Z snowbrush] Export image time: from 1627555892709 to 1627555892709.
+[I 2021-07-29T11:01:59.040Z snowbrush] Export image time: from 1627556519039 to 1627556519039.
+[I 2021-07-29T11:14:48.340Z snowbrush] Export image time: from 1627557288340 to 1627557288340.
+[I 2021-07-29T11:48:57.568Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-29T11:48:57.570Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-29T12:48:57.598Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-07-29T12:48:57.602Z main:store:plugins:activation-updater] Schedule refresh timeout(null).

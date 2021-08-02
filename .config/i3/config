@@ -171,7 +171,7 @@ bindsym $mod+Shift+0 move container to workspace 10; workspace 10
 bindsym $mod+shift+d exec --no-startup-id dmenu_run -i -nb '#191919' -nf '#fea63c' -sb '#fea63c' -sf '#191919' -fn 'NotoMonoRegular:bold:pixelsize=14'
 
 # gmrun
-bindsym mod1+F2 exec --no-startup-id gmrun
+#bindsym mod1+F2 exec --no-startup-id gmrun
 
 # start xfce-appfinder
 bindsym mod1+F3 exec --no-startup-id xfce4-appfinder
@@ -246,12 +246,25 @@ bindsym $mod+Shift+q kill
 #################                          Moving around in i3                                      #################
 #####################################################################################################################
 
+# default i3 tiling mode:
+workspace_layout default
+
+# i3 stacking layout:
+# Each window will be fullscreen and tabbed top to bottom.
+#workspace_layout stacking
+
+# i3 tabbed layout:
+# Each new window will open fullscreen as a tab (left to right)
+#workspace_layout tabbed
+
 
 # Use Mouse+$mod to drag floating windows to their wanted position
 floating_modifier $mod
 
 # toggle tiling / floating
 bindsym $mod+Shift+space floating toggle
+
+bindsym $mod+Shift+s sticky enable
 
 # change focus
 # bindsym $mod+$left focus left
@@ -395,9 +408,12 @@ bindsym $mod+Mod1+Ctrl+Left resize grow width 1 px or 1 ppt
 # Font for window titles. Will also be used by the bar unless a different font
 # is used in the bar {} block below.
 # choose your font
-font pango:Noto Mono Regular 11
+# font pango:Noto Mono Regular 11
+font pango:Noto Sans Regular 11
 
 title_align center
+
+
 
 
 
@@ -410,13 +426,16 @@ title_align center
 # assign [class="sublime-text|sublime_text|Sublime_text|subl|Subl|subl3|Subl3"]       → 1
 # assign [class="Xed|xed|Brackets|Atom|Code|Geany"]                                   → 1
 assign [class="Code"] → 1
+for_window [class="Code"] focus
 
 # Workspace 2 browser related
 assign [class="Firefox|Vivaldi-stable|Vivaldi-snapshot|Opera"] → 2
 assign [class="Chromium|Google-chrome|google-chrome"] → 2
+for_window [class="Chromium|Google-chrome|google-chrome"] focus
 
 # Workspace 3 document related
 assign [class="Typora|Xmind-zen|XMind|xmind"] → 3
+for_window [class="Typora|Xmind-zen|XMind|xmind"] focus
 
 # Workspace 4 pdf
 assign [class="okular"] → 4
@@ -455,14 +474,15 @@ assign [class="Anki|GoldenDict"] → 10
 exec --no-startup-id redshift -P -O 5500
 
 # Proxy
-exec --no-startup-id qv2ray
-# exec --no-startup-id $HOME/.config/qv2ray/init.sh
+# exec --no-startup-id qv2ray
+exec --no-startup-id $HOME/.config/qv2ray/init.sh
 
 # Input method
-exec --no-startup-id fcitx
+exec --no-startup-id fcitx5
 
 # Typora
-exec --no-startup-id typora
+# exec --no-startup-id typora
+exec --no-startup-id xmind-2020
 
 # Anki
 exec --no-startup-id goldendict
@@ -575,7 +595,7 @@ bindsym $mod+Return exec --no-startup-id xfce4-terminal;focus
 # bindsym control+mod1+t exec --no-startup-id termite; focus
 # bindsym control+mod1+Return exec --no-startup-id termite; focus
 # bindsym control+mod1+KP_Enter exec --no-startup-id termite; focus
-bindsym F12 exec --no-startup-id xfce4-terminal --drop-down; focus
+bindsym Shift+F12 exec --no-startup-id xfce4-terminal --drop-down; focus
 
 #System monitor
 # bindsym control+Shift+Escape exec --no-startup-id xfce4-taskmanager;focus
@@ -681,6 +701,7 @@ mode "$screenshot" {
     # execute the command after the keys have been released.
 
     bindsym mod1+a --release exec flameshot gui
+    # bindsym mod1+a --release exec xfce4-screenshooter -c -r
     
     bindsym mod1+s --release exec flameshot screen -c
     bindsym Shift+s --release exec flameshot screen -p ~/Pictures/
@@ -822,6 +843,7 @@ bindsym XF86AudioMute exec --no-startup-id "amixer -D pulse set Master toggle"
 
 #https://github.com/acrisci/playerctl/
 bindsym XF86AudioPlay exec --no-startup-id playerctl play-pause
+bindsym XF86AudioPause exec --no-startup-id playerctl pause
 bindsym XF86AudioNext exec --no-startup-id playerctl next
 bindsym XF86AudioPrev exec --no-startup-id playerctl previous
 bindsym XF86AudioStop exec --no-startup-id playerctl stop
@@ -1017,6 +1039,7 @@ bar {
     #status_command i3blocks -c ~/.config/i3/i3blocks-rainbow.conf
     #status_command i3blocks -c ~/.config/i3/i3blocks-original.conf
     #status_command i3blocks -c ~/.config/i3/i3blocks-awesome.conf
+    # status_command i3blocks -c ~/.config/i3/i3blocks-endeavouros.conf
 
 
     # OPTION 3 : conky

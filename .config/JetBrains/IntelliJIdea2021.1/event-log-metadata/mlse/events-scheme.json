@@ -39,6 +39,7 @@
         "collectedItems.contributorId" : [ "{enum#se_tab}" ],
         "collectedItems.features.globalUsage" : [ "{regexp#integer}" ],
         "collectedItems.features.groupLength" : [ "{regexp#integer}" ],
+        "collectedItems.features.isAbbreviation" : [ "{enum#boolean}" ],
         "collectedItems.features.isAction" : [ "{enum#boolean}" ],
         "collectedItems.features.isEnabled" : [ "{enum#boolean}" ],
         "collectedItems.features.isGroup" : [ "{enum#boolean}" ],
@@ -88,10 +89,10 @@
     "regexps" : {
       "count" : "\\d+K?M?\\+?",
       "float" : "-?\\d+\\.\\d+(E\\-?\\d+)?",
-      "hash" : "[0-9A-Fa-f]{40,64}",
+      "hash" : "([0-9A-Fa-f]{40,64})|undefined",
       "integer" : "-?\\d+(\\+)?",
       "version" : "Unknown|unknown.format|unknown|UNKNOWN|((\\d+\\.?)*\\d+)"
     }
   },
-  "version" : "1893"
+  "version" : "1966"
 }

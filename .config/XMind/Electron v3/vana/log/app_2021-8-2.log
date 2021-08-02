@@ -1,0 +1,851 @@
+[I 2021-08-01T22:29:53.381Z snowbrush] Export image time: from 1627856993381 to 1627856993381.
+[I 2021-08-01T22:33:11.679Z main:store:plugins:electron] Application is intended to quit.
+[I 2021-08-01T22:33:11.679Z main:store:plugins:electron] Asking all editors to close their documents...
+[I 2021-08-01T22:33:11.682Z main:store:plugins:editors:EditorFrame] Not find editor view: undefined file:///opt/XMind/resources/app.asar/renderer/editor-frame.html?frameId=1&_apr=dark
+
+-------- SESSION 2021-08-01T22:33:54.107Z (10.3.1+202101132117, linux, x64, 16108658688, XMind Ltd., vana_linux_64) --------
+[I 2021-08-01T22:33:54.307Z main:store:plugins:iap] The user is not allowed to make in-app purchase.
+[I 2021-08-01T22:33:54.781Z main:store:plugins:electron] Application will finish launching.
+[I 2021-08-01T22:33:54.783Z main:store:plugins:electron] Application arguments: ["/opt/XMind/xmind"]
+[I 2021-08-01T22:33:54.806Z main:store:plugins:electron] Application is ready.
+[I 2021-08-01T22:33:54.835Z main:store:plugins:open-handler] Recover: Map {
+  '1' => [
+    {
+      source: 'file:///home/lucas/Documents/Records/Records.xmind',
+      editorId: '0218a58e21bab2e800b8e9f793'
+    }
+  ],
+  '2' => [
+    {
+      source: 'file:///home/lucas/Documents/Records/Thoughts.xmind',
+      editorId: '5ee81772ac69748005c138d8f6'
+    }
+  ]
+}
+[I 2021-08-01T22:33:54.851Z main:store:plugins:activation-updater] Start updating subscription information periodically.
+[I 2021-08-01T22:33:54.851Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-08-01T22:33:54.852Z main:store:plugins:activation-updater] Start updating per-machine license information periodically.
+[I 2021-08-01T22:33:54.852Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-08-01T22:33:55.344Z main:store:plugins:electron] Device ID: ec86dd13-2088-4f9e-b4bf-e50e4290bf31
+[I 2021-08-01T22:34:18.236Z snowbrush] Export image time: from 1627857258236 to 1627857258236.
+[I 2021-08-01T22:34:54.853Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-08-01T22:34:54.857Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-08-01T22:38:29.896Z snowbrush] Export image time: from 1627857509895 to 1627857509896.
+[I 2021-08-01T22:38:44.558Z snowbrush] db write {
+  'text/plain': 'Day 10, Sun, 08-01\r\n' +
+    '\tLower Division\r\n' +
+    '\t\tTime\r\n' +
+    '\t\t\tFrom\r\n' +
+    '\t\t\t\t6:50\r\n' +
+    '\t\t\tTo\r\n' +
+    '\t\t\t\t22:20\r\n' +
+    '\t\tME (25)\r\n' +
+    '\t\t\tReview, Reflection, Gratitude, Plan\r\n' +
+    '\t\t\tPositive Psychology\r\n' +
+    '\t\t\t\tFinished\r\n' +
+    '\t\t\t\t\tE8\r\n' +
+    '\t\t\t\tE9 2:00 to 26:00\r\n' +
+    '\t\t\t\t6:50 to 7:15 (25)\r\n' +
+    '\t\tEnglish\r\n' +
+    '\t\t\tMomo\r\n' +
+    '\t\t\t\t使用闲暇时间背\r\n' +
+    '\t\t\t\tLower Division\r\n' +
+    '\t\t\t\t\t20 new words\r\n' +
+    '\t\t\t\tUpper Division\r\n' +
+    '\t\t\t\t\t40 new words\r\n' +
+    '\t\t\t\tActual\r\n' +
+    '\t\t\t\t\t30\r\n' +
+    '\t\tLearn\r\n' +
+    '\t\t\tAnki Review (85 + 0 = 85)\r\n' +
+    '\t\t\t\tOthers + CS + Back-end\r\n' +
+    '\t\t\t\t\t7:15 to 7:55 (40 + 0 = 40)\r\n' +
+    '\t\t\t\t\t8:15 to 8:30 (15 + 40 = 55)\r\n' +
+    '\t\t\t\tFront-end\r\n' +
+    '\t\t\t\t\t8:30 to 9:00 (30 + 55 = 85)\r\n' +
+    '\t\t\tLinux (30 + 85 = 115)\r\n' +
+    '\t\t\t\t30 minutes\r\n' +
+    '\t\t\t\tP4 18:28\r\n' +
+    '\t\t\t\t9:10 to 9:40 (30)\r\n' +
+    '\t\t\tHTTP (40 + 115 = 155)\r\n' +
+    '\t\t\t\t30 minutes 图解 HTTP\r\n' +
+    '\t\t\t\t9:40 to 10:20 (40)\r\n' +
+    '\t\t\tInterview Prepration (45 + 155 = 200)\r\n' +
+    '\t\t\t\t30 minutes Preparation\r\n' +
+    '\t\t\t\t10:20 to 11:05 (45)\r\n' +
+    '\t\t\tAlgorithms (115 + 200 = 315)\r\n' +
+    '\t\t\t\t<= 90 minutes\r\n' +
+    '\t\t\t\t3.3 Balanced Search Trees\r\n' +
+    '\t\t\t\t\tPage 23 to 45\r\n' +
+    '\t\t\t\t\tNot in mood\r\n' +
+    '\t\t\t\tNew problems\r\n' +
+    '\t\t\t\t\thttps://leetcode.com/tag/sorting/\r\n' +
+    '\t\t\t\t\t\t27 left\r\n' +
+    '\t\t\t\t\tLower\r\n' +
+    '\t\t\t\t\t\tSort Integers by The Number o\r\n' +
+    '\t\t\t\t\t\tCan Make Arithmetic Progressio\r\n' +
+    '\t\t\t\t\t\tMatrix Cells in Distance Order\r\n' +
+    '\t\t\t\t\t\tRelative Sort Array\r\n' +
+    '\t\t\t\t\t\t12:05 to 13:00 (55 + 0 = 55)\r\n' +
+    '\t\t\t\t\tUpper\r\n' +
+    '\t\t\t\t\t\tAverage Salary Excluding the Minimum and Maximum Salary\r\n' +
+    '\t\t\t\t\t\tSort Array by Increasing Freque\r\n' +
+    '\t\t\t\t\t\tMinimum Absolute Difference\t\r\n' +
+    '\t\t\t\tStatistics\r\n' +
+    '\t\t\t\t\t13:20 to 14:20 (60 + 55 = 115)\r\n' +
+    '\t\t\tPE\r\n' +
+    '\t\t\t\tConvict Conditioning\r\n' +
+    '\t\t\t\t\tFull pull-ups\r\n' +
+    '\t\t\t\t\t\t5\r\n' +
+    '\t\t\t\t\tFlat leg raises\r\n' +
+    '\t\t\t\t\t\t12\r\n' +
+    '\t\t\t\t\tFull push-ups\r\n' +
+    '\t\t\t\t\t\t10\r\n' +
+    '\t\t\t\t\tFull squats\r\n' +
+    '\t\t\t\t\t\t20\r\n' +
+    '\t\t\tFront-end (335 + 315 = 650)\r\n' +
+    '\t\t\t\t02第二阶段\r\n' +
+    '\t\t\t\t\tday11\r\n' +
+    '\t\t\t\t\t\t15:05 to 17:45 (160 + 0 = 160)\r\n' +
+    '\t\t\t\t\t\t18:10 to 18:55 (45 + 160 = 205)\r\n' +
+    '\t\t\t\t\t\t20:10 to 20:30 (20 + 205 = 225)\r\n' +
+    '\t\t\t\t\t\t20:30 to 21:30 (60 + 225 = 285)\r\n' +
+    '\t\t\t\t\t\t21:30 to 22:20 (50 + 285 = 335)\r\n' +
+    '\t\t\t\t\tday12\r\n' +
+    '\t\t\t\t\tday03\r\n' +
+    '\t\t\t\t今日最大目标\r\n' +
+    '\t\t\t\t\t在没有突破昨日和前日之前，不要分心\r\n' +
+    '\t\t\t\t\t在没有突破昨日和前日之前，不要分心\r\n' +
+    '\t\t\t\t\t在没有突破昨日和前日之前，不要分心\r\n' +
+    '\t\t\t\t01第一阶段\r\n' +
+    '\t\t\t\t\tday01\r\n' +
+    '\tUpper Division\r\n' +
+    '\t\tFront-end\r\n' +
+    '\t\t\t02第二阶段\r\n' +
+    '\t\t\t\tday13',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '8d1adcb051882d554b955a4265'
+  },
+  xapInfoMap: {}
+}
+[I 2021-08-01T22:38:54.873Z snowbrush] Export image time: from 1627857534873 to 1627857534873.
+[I 2021-08-01T22:39:21.357Z snowbrush] db write {
+  'text/plain': '习惯的力量是非常强大的',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '73487fc5821944860ab06bc22d'
+  },
+  xapInfoMap: {}
+}
+[I 2021-08-01T22:41:39.478Z snowbrush] Export image time: from 1627857699477 to 1627857699478.
+[I 2021-08-01T22:43:01.487Z snowbrush] Export image time: from 1627857781487 to 1627857781487.
+[I 2021-08-01T22:43:52.508Z snowbrush] db write {
+  'text/plain': 'Linux\r\n\t30 minutes\r\n\tP4 18:28',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '8d1adcb051882d554b955a4265'
+  },
+  xapInfoMap: {}
+}
+[I 2021-08-01T22:44:02.560Z snowbrush] db write {
+  'text/plain': 'Linux\r\n\t30 minutes\r\n\tP4 18:28',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '8d1adcb051882d554b955a4265'
+  },
+  xapInfoMap: {}
+}
+[I 2021-08-01T22:44:11.407Z snowbrush] db write {
+  'text/plain': 'HTTP\r\n\t30 minutes 图解 HTTP',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '8d1adcb051882d554b955a4265'
+  },
+  xapInfoMap: {}
+}
+[I 2021-08-01T22:44:21.564Z snowbrush] db write {
+  'text/plain': 'Interview Prepration\r\n\t30 minutes Preparation',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '8d1adcb051882d554b955a4265'
+  },
+  xapInfoMap: {}
+}
+[I 2021-08-01T22:44:26.418Z snowbrush] db write {
+  'text/plain': 'Algorithms\r\n' +
+    '\t<= 90 minutes\r\n' +
+    '\t3.3 Balanced Search Trees\r\n' +
+    '\t\tPage 23 to 45\r\n' +
+    '\tNew problems\r\n' +
+    '\t\thttps://leetcode.com/tag/sorting/\r\n' +
+    '\t\tLower\r\n' +
+    '\t\t\tAverage Salary Excluding the Minimum and Maximum Salary\r\n' +
+    '\t\t\tSort Array by Increasing Freque\r\n' +
+    '\t\t\tMinimum Absolute Difference\t',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '8d1adcb051882d554b955a4265'
+  },
+  xapInfoMap: {}
+}
+[I 2021-08-01T22:44:35.832Z snowbrush] db write {
+  'text/plain': 'English\r\n' +
+    '\tMomo\r\n' +
+    '\t\t使用闲暇时间背\r\n' +
+    '\t\tLower Division\r\n' +
+    '\t\t\t30 new words\r\n' +
+    '\t\tUpper Division\r\n' +
+    '\t\t\t45 new words\r\n' +
+    '\t\tActual',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '8d1adcb051882d554b955a4265'
+  },
+  xapInfoMap: {}
+}
+[I 2021-08-01T22:49:22.220Z snowbrush] db write {
+  'text/plain': 'English\r\n' +
+    '\tMomo\r\n' +
+    '\t\t使用闲暇时间背\r\n' +
+    '\t\tLower Division\r\n' +
+    '\t\t\t30 new words\r\n' +
+    '\t\tUpper Division\r\n' +
+    '\t\t\t45 new words\r\n' +
+    '\t\tActual',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '8d1adcb051882d554b955a4265'
+  },
+  xapInfoMap: {}
+}
+[I 2021-08-01T22:49:28.713Z snowbrush] Export image time: from 1627858168712 to 1627858168713.
+[I 2021-08-01T22:49:39.068Z snowbrush] db write {
+  'text/plain': 'Front-end (335 + 315 = 650)\r\n' +
+    '\t02第二阶段\r\n' +
+    '\t\tday12\r\n' +
+    '\t\tday03\r\n' +
+    '\t今日最大目标\r\n' +
+    '\t\t在没有突破昨日和前日之前，不要分心\r\n' +
+    '\t\t在没有突破昨日和前日之前，不要分心\r\n' +
+    '\t\t在没有突破昨日和前日之前，不要分心\r\n' +
+    '\t01第一阶段\r\n' +
+    '\t\tday01',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '8d1adcb051882d554b955a4265'
+  },
+  xapInfoMap: {}
+}
+[I 2021-08-01T22:49:46.403Z snowbrush] db write {
+  'text/plain': 'Front-end\r\n\t02第二阶段\r\n\t\tday12\r\n\t\tday03\r\n\t01第一阶段\r\n\t\tday01',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '8d1adcb051882d554b955a4265'
+  },
+  xapInfoMap: {}
+}
+[I 2021-08-01T22:50:39.830Z snowbrush] db write {
+  'text/plain': '今日最大目标\r\n\t在没有突破昨日和前日之前，不要分心\r\n\t在没有突破昨日和前日之前，不要分心\r\n\t在没有突破昨日和前日之前，不要分心',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [ [Object] ],
+    summary: [],
+    sheetId: '8d1adcb051882d554b955a4265'
+  },
+  xapInfoMap: {}
+}
+[I 2021-08-01T22:53:33.189Z snowbrush] Export image time: from 1627858413189 to 1627858413189.
+[I 2021-08-01T23:05:36.551Z snowbrush] Export image time: from 1627859136551 to 1627859136551.
+[I 2021-08-01T23:06:06.067Z snowbrush] db write {
+  'text/plain': '今日最大目标\r\n\t在没有突破昨日和前日之前，不要分心\r\n\t在没有突破昨日和前日之前，不要分心\r\n\t在没有突破昨日和前日之前，不要分心',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [ [Object] ],
+    summary: [],
+    sheetId: '8d1adcb051882d554b955a4265'
+  },
+  xapInfoMap: {}
+}
+[I 2021-08-01T23:06:16.704Z snowbrush] Export image time: from 1627859176704 to 1627859176704.
+[I 2021-08-01T23:06:31.013Z snowbrush] Export image time: from 1627859191013 to 1627859191013.
+[I 2021-08-01T23:34:55.724Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-08-01T23:34:55.725Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-08-01T23:52:40.258Z snowbrush] Export image time: from 1627861960255 to 1627861960255.
+[I 2021-08-02T00:07:08.369Z snowbrush] Export image time: from 1627862828369 to 1627862828369.
+[I 2021-08-02T00:25:24.744Z snowbrush] Export image time: from 1627863924743 to 1627863924744.
+[I 2021-08-02T00:34:55.750Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-08-02T00:34:55.750Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-08-02T00:39:37.351Z snowbrush] Export image time: from 1627864777351 to 1627864777351.
+[I 2021-08-02T01:10:04.441Z snowbrush] Export image time: from 1627866604441 to 1627866604441.
+[I 2021-08-02T01:24:27.308Z snowbrush] Export image time: from 1627867467308 to 1627867467308.
+[I 2021-08-02T01:24:48.374Z snowbrush] db write {
+  'text/plain': '今日最大目标\r\n\t在没有突破昨日和前日之前，不要分心\r\n\t在没有突破昨日和前日之前，不要分心\r\n\t在没有突破昨日和前日之前，不要分心',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [ [Object] ],
+    summary: [],
+    sheetId: '8d1adcb051882d554b955a4265'
+  },
+  xapInfoMap: {}
+}
+[I 2021-08-02T01:25:14.562Z snowbrush] Export image time: from 1627867514561 to 1627867514562.
+[I 2021-08-02T01:25:19.520Z snowbrush] Export image time: from 1627867519520 to 1627867519520.
+[I 2021-08-02T01:25:29.682Z snowbrush] Export image time: from 1627867529682 to 1627867529682.
+[I 2021-08-02T01:29:29.591Z snowbrush] Export image time: from 1627867769591 to 1627867769591.
+[I 2021-08-02T01:34:55.778Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-08-02T01:34:55.779Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-08-02T01:48:06.017Z snowbrush] Export image time: from 1627868886017 to 1627868886017.
+[I 2021-08-02T02:34:55.829Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-08-02T02:34:55.830Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-08-02T03:34:55.838Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-08-02T03:34:55.841Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-08-02T04:34:55.885Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-08-02T04:34:55.886Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-08-02T04:50:50.332Z snowbrush] Export image time: from 1627879850331 to 1627879850332.
+[I 2021-08-02T04:51:38.053Z snowbrush] Export image time: from 1627879898053 to 1627879898053.
+[W 2021-08-02T05:33:59.256Z UsageTracker] Send fail: Error: Request to https://www.xmind.cn/piwik.php failed, reason: net::ERR_INTERNET_DISCONNECTED
+    at ClientRequest.<anonymous> (/opt/XMind/resources/app.asar/main/main.js:30:135740)
+    at ClientRequest.emit (events.js:315:20)
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21)
+[I 2021-08-02T05:34:29.719Z snowbrush] Export image time: from 1627882469710 to 1627882469711.
+[W 2021-08-02T05:34:59.256Z UsageTracker] Send fail: Error: Request to https://www.xmind.cn/piwik.php failed, reason: net::ERR_INTERNET_DISCONNECTED
+    at ClientRequest.<anonymous> (/opt/XMind/resources/app.asar/main/main.js:30:135740)
+    at ClientRequest.emit (events.js:315:20)
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21)
+[W 2021-08-02T05:36:59.347Z UsageTracker] Send fail: Error: Request to https://www.xmind.cn/piwik.php failed, reason: net::ERR_INTERNET_DISCONNECTED
+    at ClientRequest.<anonymous> (/opt/XMind/resources/app.asar/main/main.js:30:135740)
+    at ClientRequest.emit (events.js:315:20)
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21)
+[W 2021-08-02T05:40:59.448Z UsageTracker] Send fail: Error: Request to https://www.xmind.cn/piwik.php failed, reason: net::ERR_INTERNET_DISCONNECTED
+    at ClientRequest.<anonymous> (/opt/XMind/resources/app.asar/main/main.js:30:135740)
+    at ClientRequest.emit (events.js:315:20)
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21)
+[I 2021-08-02T05:45:42.092Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-08-02T05:45:42.093Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[W 2021-08-02T05:48:59.528Z UsageTracker] Send fail: Error: Request to https://www.xmind.cn/piwik.php failed, reason: net::ERR_INTERNET_DISCONNECTED
+    at ClientRequest.<anonymous> (/opt/XMind/resources/app.asar/main/main.js:30:135740)
+    at ClientRequest.emit (events.js:315:20)
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21)
+[I 2021-08-02T06:03:33.458Z snowbrush] Export image time: from 1627884213451 to 1627884213451.
+[W 2021-08-02T06:04:59.571Z UsageTracker] Send fail: Error: Request to https://www.xmind.cn/piwik.php failed, reason: net::ERR_INTERNET_DISCONNECTED
+    at ClientRequest.<anonymous> (/opt/XMind/resources/app.asar/main/main.js:30:135740)
+    at ClientRequest.emit (events.js:315:20)
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21)
+[W 2021-08-02T06:36:59.574Z UsageTracker] Send fail: Error: Request to https://www.xmind.cn/piwik.php failed, reason: net::ERR_INTERNET_DISCONNECTED
+    at ClientRequest.<anonymous> (/opt/XMind/resources/app.asar/main/main.js:30:135740)
+    at ClientRequest.emit (events.js:315:20)
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21)
+[I 2021-08-02T06:45:14.282Z snowbrush] Export image time: from 1627886714282 to 1627886714282.
+[I 2021-08-02T06:45:42.102Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-08-02T06:45:42.103Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-08-02T07:25:26.358Z snowbrush] Export image time: from 1627889126358 to 1627889126358.
+[W 2021-08-02T07:36:59.667Z UsageTracker] Send fail: Error: Request to https://www.xmind.cn/piwik.php failed, reason: net::ERR_INTERNET_DISCONNECTED
+    at ClientRequest.<anonymous> (/opt/XMind/resources/app.asar/main/main.js:30:135740)
+    at ClientRequest.emit (events.js:315:20)
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21)
+[I 2021-08-02T07:45:42.203Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-08-02T07:45:42.204Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-08-02T08:53:40.831Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-08-02T08:53:40.840Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+
+-------- SESSION 2021-08-02T09:42:51.887Z (10.3.1+202101132117, linux, x64, 16108658688, XMind Ltd., vana_linux_64) --------
+[I 2021-08-02T09:42:52.054Z main:store:plugins:iap] The user is not allowed to make in-app purchase.
+[I 2021-08-02T09:42:52.575Z main:store:plugins:electron] Application will finish launching.
+[I 2021-08-02T09:42:52.576Z main:store:plugins:electron] Application arguments: ["/opt/XMind/xmind"]
+[I 2021-08-02T09:42:52.589Z main:store:plugins:electron] Application is ready.
+[I 2021-08-02T09:42:52.626Z main:store:plugins:open-handler] Recover: Map {
+  '1' => [
+    {
+      source: 'file:///home/lucas/Documents/Records/Records.xmind',
+      editorId: '0218a58e21bab2e800b8e9f793'
+    }
+  ],
+  '2' => [
+    {
+      source: 'file:///home/lucas/Documents/Records/Thoughts.xmind',
+      editorId: '5ee81772ac69748005c138d8f6'
+    }
+  ]
+}
+[I 2021-08-02T09:42:52.638Z main:store:plugins:activation-updater] Start updating subscription information periodically.
+[I 2021-08-02T09:42:52.639Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-08-02T09:42:52.639Z main:store:plugins:activation-updater] Start updating per-machine license information periodically.
+[I 2021-08-02T09:42:52.639Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-08-02T09:42:53.139Z main:store:plugins:electron] Device ID: ec86dd13-2088-4f9e-b4bf-e50e4290bf31
+[I 2021-08-02T09:43:33.063Z main:store:plugins:electron] Application is intended to quit.
+[I 2021-08-02T09:43:33.063Z main:store:plugins:electron] Asking all editors to close their documents...
+[I 2021-08-02T09:43:33.077Z main:store:plugins:editors:EditorFrame] Not find editor view: undefined file:///opt/XMind/resources/app.asar/renderer/editor-frame.html?frameId=1&_apr=dark
+
+-------- SESSION 2021-08-02T09:44:01.845Z (10.3.1+202101132117, linux, x64, 16108658688, XMind Ltd., vana_linux_64) --------
+[I 2021-08-02T09:44:01.998Z main:store:plugins:iap] The user is not allowed to make in-app purchase.
+[I 2021-08-02T09:44:02.445Z main:store:plugins:electron] Application will finish launching.
+[I 2021-08-02T09:44:02.448Z main:store:plugins:electron] Application arguments: ["/opt/XMind/xmind"]
+[I 2021-08-02T09:44:02.468Z main:store:plugins:electron] Application is ready.
+[I 2021-08-02T09:44:02.499Z main:store:plugins:open-handler] Recover: Map {
+  '1' => [
+    {
+      source: 'file:///home/lucas/Documents/Records/Records.xmind',
+      editorId: '0218a58e21bab2e800b8e9f793'
+    }
+  ],
+  '2' => [
+    {
+      source: 'file:///home/lucas/Documents/Records/Thoughts.xmind',
+      editorId: '5ee81772ac69748005c138d8f6'
+    }
+  ]
+}
+[I 2021-08-02T09:44:02.507Z main:store:plugins:activation-updater] Start updating subscription information periodically.
+[I 2021-08-02T09:44:02.507Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-08-02T09:44:02.507Z main:store:plugins:activation-updater] Start updating per-machine license information periodically.
+[I 2021-08-02T09:44:02.507Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-08-02T09:44:03.032Z main:store:plugins:electron] Device ID: ec86dd13-2088-4f9e-b4bf-e50e4290bf31
+[I 2021-08-02T09:45:02.509Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-08-02T09:45:02.510Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-08-02T10:11:32.778Z snowbrush] Export image time: from 1627899092778 to 1627899092778.
+[I 2021-08-02T10:18:34.619Z main:store:plugins:electron] Application is intended to quit.
+[I 2021-08-02T10:18:34.620Z main:store:plugins:electron] Asking all editors to close their documents...
+[I 2021-08-02T10:18:34.621Z main:store:plugins:editors:EditorFrame] Not find editor view: undefined file:///opt/XMind/resources/app.asar/renderer/editor-frame.html?frameId=1&_apr=dark
+
+-------- SESSION 2021-08-02T10:20:11.522Z (10.3.1+202101132117, linux, x64, 16108650496, XMind Ltd., vana_linux_64) --------
+[I 2021-08-02T10:20:11.695Z main:store:plugins:iap] The user is not allowed to make in-app purchase.
+[I 2021-08-02T10:20:12.192Z main:store:plugins:electron] Application will finish launching.
+[I 2021-08-02T10:20:12.194Z main:store:plugins:electron] Application arguments: ["/opt/XMind/xmind"]
+[I 2021-08-02T10:20:12.213Z main:store:plugins:electron] Application is ready.
+[I 2021-08-02T10:20:12.240Z main:store:plugins:open-handler] Recover: Map {
+  '1' => [
+    {
+      source: 'file:///home/lucas/Documents/Records/Records.xmind',
+      editorId: '0218a58e21bab2e800b8e9f793'
+    }
+  ],
+  '2' => [
+    {
+      source: 'file:///home/lucas/Documents/Records/Thoughts.xmind',
+      editorId: '5ee81772ac69748005c138d8f6'
+    }
+  ]
+}
+[I 2021-08-02T10:20:12.249Z main:store:plugins:activation-updater] Start updating subscription information periodically.
+[I 2021-08-02T10:20:12.249Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-08-02T10:20:12.249Z main:store:plugins:activation-updater] Start updating per-machine license information periodically.
+[I 2021-08-02T10:20:12.250Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-08-02T10:20:12.798Z main:store:plugins:electron] Device ID: ec86dd13-2088-4f9e-b4bf-e50e4290bf31
+[I 2021-08-02T10:21:12.251Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-08-02T10:21:12.252Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+
+-------- SESSION 2021-08-02T10:24:05.297Z (10.3.1+202101132117, linux, x64, 16108650496, XMind Ltd., vana_linux_64) --------
+[I 2021-08-02T10:24:05.503Z main:store:plugins:iap] The user is not allowed to make in-app purchase.
+[I 2021-08-02T10:24:06.020Z main:store:plugins:electron] Application will finish launching.
+[I 2021-08-02T10:24:06.021Z main:store:plugins:electron] Application arguments: ["/opt/XMind/xmind"]
+[I 2021-08-02T10:24:06.064Z main:store:plugins:electron] Application is ready.
+[I 2021-08-02T10:24:06.092Z main:store:plugins:open-handler] Recover: Map {
+  '1' => [
+    {
+      source: 'file:///home/lucas/Documents/Records/Records.xmind',
+      editorId: '0218a58e21bab2e800b8e9f793'
+    }
+  ],
+  '2' => [
+    {
+      source: 'file:///home/lucas/Documents/Records/Thoughts.xmind',
+      editorId: '5ee81772ac69748005c138d8f6'
+    }
+  ]
+}
+[I 2021-08-02T10:24:06.107Z main:store:plugins:activation-updater] Start updating subscription information periodically.
+[I 2021-08-02T10:24:06.107Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-08-02T10:24:06.107Z main:store:plugins:activation-updater] Start updating per-machine license information periodically.
+[I 2021-08-02T10:24:06.107Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-08-02T10:24:06.625Z main:store:plugins:electron] Device ID: ec86dd13-2088-4f9e-b4bf-e50e4290bf31
+[I 2021-08-02T10:25:06.109Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-08-02T10:25:06.110Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-08-02T10:31:28.878Z main:store:plugins:electron] Application is intended to quit.
+[I 2021-08-02T10:31:28.878Z main:store:plugins:electron] Asking all editors to close their documents...
+[I 2021-08-02T10:31:28.879Z main:store:plugins:editors:EditorFrame] Not find editor view: undefined file:///opt/XMind/resources/app.asar/renderer/editor-frame.html?frameId=1&_apr=dark
+
+-------- SESSION 2021-08-02T10:31:59.321Z (10.3.1+202101132117, linux, x64, 16108650496, XMind Ltd., vana_linux_64) --------
+[I 2021-08-02T10:31:59.468Z main:store:plugins:iap] The user is not allowed to make in-app purchase.
+[I 2021-08-02T10:31:59.943Z main:store:plugins:electron] Application will finish launching.
+[I 2021-08-02T10:31:59.951Z main:store:plugins:electron] Application arguments: ["/opt/XMind/xmind"]
+[I 2021-08-02T10:31:59.970Z main:store:plugins:electron] Application is ready.
+[I 2021-08-02T10:31:59.995Z main:store:plugins:open-handler] Recover: Map {
+  '1' => [
+    {
+      source: 'file:///home/lucas/Documents/Records/Records.xmind',
+      editorId: '0218a58e21bab2e800b8e9f793'
+    }
+  ],
+  '2' => [
+    {
+      source: 'file:///home/lucas/Documents/Records/Thoughts.xmind',
+      editorId: '5ee81772ac69748005c138d8f6'
+    }
+  ]
+}
+[I 2021-08-02T10:32:00.004Z main:store:plugins:activation-updater] Start updating subscription information periodically.
+[I 2021-08-02T10:32:00.004Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-08-02T10:32:00.004Z main:store:plugins:activation-updater] Start updating per-machine license information periodically.
+[I 2021-08-02T10:32:00.005Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-08-02T10:32:00.510Z main:store:plugins:electron] Device ID: ec86dd13-2088-4f9e-b4bf-e50e4290bf31
+[I 2021-08-02T10:33:00.004Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-08-02T10:33:00.005Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+
+-------- SESSION 2021-08-02T10:42:28.239Z (10.3.1+202101132117, linux, x64, 16108650496, XMind Ltd., vana_linux_64) --------
+[I 2021-08-02T10:42:28.407Z main:store:plugins:iap] The user is not allowed to make in-app purchase.
+[I 2021-08-02T10:42:28.899Z main:store:plugins:electron] Application will finish launching.
+[I 2021-08-02T10:42:28.900Z main:store:plugins:electron] Application arguments: ["/opt/XMind/xmind"]
+[I 2021-08-02T10:42:28.918Z main:store:plugins:electron] Application is ready.
+[I 2021-08-02T10:42:28.952Z main:store:plugins:open-handler] Recover: Map {
+  '1' => [
+    {
+      source: 'file:///home/lucas/Documents/Records/Records.xmind',
+      editorId: '0218a58e21bab2e800b8e9f793'
+    }
+  ],
+  '2' => [
+    {
+      source: 'file:///home/lucas/Documents/Records/Thoughts.xmind',
+      editorId: '5ee81772ac69748005c138d8f6'
+    }
+  ]
+}
+[I 2021-08-02T10:42:28.963Z main:store:plugins:activation-updater] Start updating subscription information periodically.
+[I 2021-08-02T10:42:28.964Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-08-02T10:42:28.964Z main:store:plugins:activation-updater] Start updating per-machine license information periodically.
+[I 2021-08-02T10:42:28.964Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-08-02T10:42:29.484Z main:store:plugins:electron] Device ID: ec86dd13-2088-4f9e-b4bf-e50e4290bf31
+[W 2021-08-02T10:42:31.408Z main:store:plugins:electron] Failed to load pricing: Error: Request to https://www.xmind.net/_res/get-zen-price?p=vana_linux_64&v=10.3.1.202101132117&os=linux&ar=x64&nl=en-US failed, reason: net::ERR_NETWORK_CHANGED
+    at ClientRequest.<anonymous> (/opt/XMind/resources/app.asar/main/main.js:30:135740)
+    at ClientRequest.emit (events.js:315:20)
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21)
+[E 2021-08-02T10:42:31.412Z Notification] Error: Request to https://www.xmind.net/_api/events?p=vana_linux_64&v=10.3.1.202101132117&ar=x64&nl=en-US&ac=lic_zen&lic=&ts0=1623768646104&ts1=1627899613524&ts2=1627899847498&ts3=1627900321206&os=linux&version=10.3.1&buildid=10.3.1.202101132117&arch=x64&distrib=vana_linux_64&account_type=lic_zen&license_info=&firstStartTimestamp=1623768646104&startTimestamp1=1627899613524&startTimestamp2=1627899847498&startTimestamp3=1627900321206 failed, reason: net::ERR_NETWORK_CHANGED
+    at ClientRequest.<anonymous> (/opt/XMind/resources/app.asar/main/main.js:30:135740)
+    at ClientRequest.emit (events.js:315:20)
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21)
+
+-------- SESSION 2021-08-02T10:43:00.013Z (10.3.1+202101132117, linux, x64, 16108650496, XMind Ltd., vana_linux_64) --------
+[I 2021-08-02T10:43:00.176Z main:store:plugins:iap] The user is not allowed to make in-app purchase.
+[I 2021-08-02T10:43:00.655Z main:store:plugins:electron] Application will finish launching.
+[I 2021-08-02T10:43:00.657Z main:store:plugins:electron] Application arguments: ["/opt/XMind/xmind"]
+[I 2021-08-02T10:43:00.666Z main:store:plugins:electron] Application is ready.
+[I 2021-08-02T10:43:00.698Z main:store:plugins:open-handler] Recover: Map {
+  '1' => [
+    {
+      source: 'file:///home/lucas/Documents/Records/Records.xmind',
+      editorId: '0218a58e21bab2e800b8e9f793'
+    }
+  ],
+  '2' => [
+    {
+      source: 'file:///home/lucas/Documents/Records/Thoughts.xmind',
+      editorId: '5ee81772ac69748005c138d8f6'
+    }
+  ]
+}
+[I 2021-08-02T10:43:00.716Z main:store:plugins:activation-updater] Start updating subscription information periodically.
+[I 2021-08-02T10:43:00.716Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-08-02T10:43:00.716Z main:store:plugins:activation-updater] Start updating per-machine license information periodically.
+[I 2021-08-02T10:43:00.716Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-08-02T10:43:01.256Z main:store:plugins:electron] Device ID: ec86dd13-2088-4f9e-b4bf-e50e4290bf31
+[E 2021-08-02T10:43:05.629Z Notification] Error: Request to https://www.xmind.net/_api/events?p=vana_linux_64&v=10.3.1.202101132117&ar=x64&nl=en-US&ac=lic_zen&lic=&ts0=1623768646104&ts1=1627899847498&ts2=1627900321206&ts3=1627900951412&os=linux&version=10.3.1&buildid=10.3.1.202101132117&arch=x64&distrib=vana_linux_64&account_type=lic_zen&license_info=&firstStartTimestamp=1623768646104&startTimestamp1=1627899847498&startTimestamp2=1627900321206&startTimestamp3=1627900951412 failed, reason: net::ERR_NETWORK_CHANGED
+    at ClientRequest.<anonymous> (/opt/XMind/resources/app.asar/main/main.js:30:135740)
+    at ClientRequest.emit (events.js:315:20)
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21)
+[W 2021-08-02T10:43:05.635Z main:store:plugins:electron] Failed to load pricing: Error: Request to https://www.xmind.net/_res/get-zen-price?p=vana_linux_64&v=10.3.1.202101132117&os=linux&ar=x64&nl=en-US failed, reason: net::ERR_NETWORK_CHANGED
+    at ClientRequest.<anonymous> (/opt/XMind/resources/app.asar/main/main.js:30:135740)
+    at ClientRequest.emit (events.js:315:20)
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21)
+[I 2021-08-02T10:44:00.717Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-08-02T10:44:00.718Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-08-02T10:44:23.054Z main:store:plugins:electron] Application is intended to quit.
+[I 2021-08-02T10:44:23.054Z main:store:plugins:electron] Asking all editors to close their documents...
+[I 2021-08-02T10:44:23.056Z main:store:plugins:editors:EditorFrame] Not find editor view: undefined file:///opt/XMind/resources/app.asar/renderer/editor-frame.html?frameId=1&_apr=dark
+
+-------- SESSION 2021-08-02T10:44:57.896Z (10.3.1+202101132117, linux, x64, 16108658688, XMind Ltd., vana_linux_64) --------
+[I 2021-08-02T10:44:58.054Z main:store:plugins:iap] The user is not allowed to make in-app purchase.
+[I 2021-08-02T10:44:58.542Z main:store:plugins:electron] Application will finish launching.
+[I 2021-08-02T10:44:58.543Z main:store:plugins:electron] Application arguments: ["/opt/XMind/xmind"]
+[I 2021-08-02T10:44:58.568Z main:store:plugins:electron] Application is ready.
+[I 2021-08-02T10:44:58.608Z main:store:plugins:open-handler] Recover: Map {
+  '1' => [
+    {
+      source: 'file:///home/lucas/Documents/Records/Records.xmind',
+      editorId: '0218a58e21bab2e800b8e9f793'
+    }
+  ],
+  '2' => [
+    {
+      source: 'file:///home/lucas/Documents/Records/Thoughts.xmind',
+      editorId: '5ee81772ac69748005c138d8f6'
+    }
+  ]
+}
+[I 2021-08-02T10:44:58.617Z main:store:plugins:activation-updater] Start updating subscription information periodically.
+[I 2021-08-02T10:44:58.617Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-08-02T10:44:58.617Z main:store:plugins:activation-updater] Start updating per-machine license information periodically.
+[I 2021-08-02T10:44:58.617Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-08-02T10:44:59.177Z main:store:plugins:electron] Device ID: ec86dd13-2088-4f9e-b4bf-e50e4290bf31
+[I 2021-08-02T10:45:44.503Z main:store:plugins:electron] Application is intended to quit.
+[I 2021-08-02T10:45:44.507Z main:store:plugins:electron] Asking all editors to close their documents...
+[I 2021-08-02T10:45:44.508Z main:store:plugins:editors:EditorFrame] Not find editor view: undefined file:///opt/XMind/resources/app.asar/renderer/editor-frame.html?frameId=1&_apr=dark
+
+-------- SESSION 2021-08-02T10:46:13.518Z (10.3.1+202101132117, linux, x64, 16108658688, XMind Ltd., vana_linux_64) --------
+[I 2021-08-02T10:46:13.682Z main:store:plugins:iap] The user is not allowed to make in-app purchase.
+[I 2021-08-02T10:46:14.150Z main:store:plugins:electron] Application will finish launching.
+[I 2021-08-02T10:46:14.152Z main:store:plugins:electron] Application arguments: ["/opt/XMind/xmind"]
+[I 2021-08-02T10:46:14.170Z main:store:plugins:electron] Application is ready.
+[I 2021-08-02T10:46:14.206Z main:store:plugins:open-handler] Recover: Map {
+  '1' => [
+    {
+      source: 'file:///home/lucas/Documents/Records/Records.xmind',
+      editorId: '0218a58e21bab2e800b8e9f793'
+    }
+  ],
+  '2' => [
+    {
+      source: 'file:///home/lucas/Documents/Records/Thoughts.xmind',
+      editorId: '5ee81772ac69748005c138d8f6'
+    }
+  ]
+}
+[I 2021-08-02T10:46:14.215Z main:store:plugins:activation-updater] Start updating subscription information periodically.
+[I 2021-08-02T10:46:14.215Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-08-02T10:46:14.215Z main:store:plugins:activation-updater] Start updating per-machine license information periodically.
+[I 2021-08-02T10:46:14.215Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-08-02T10:46:14.818Z main:store:plugins:electron] Device ID: ec86dd13-2088-4f9e-b4bf-e50e4290bf31
+[I 2021-08-02T10:47:14.216Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-08-02T10:47:14.217Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+
+-------- SESSION 2021-08-02T10:49:50.752Z (10.3.1+202101132117, linux, x64, 16108658688, XMind Ltd., vana_linux_64) --------
+[I 2021-08-02T10:49:50.925Z main:store:plugins:iap] The user is not allowed to make in-app purchase.
+[I 2021-08-02T10:49:51.406Z main:store:plugins:electron] Application will finish launching.
+[I 2021-08-02T10:49:51.407Z main:store:plugins:electron] Application arguments: ["/opt/XMind/xmind"]
+[I 2021-08-02T10:49:51.458Z main:store:plugins:electron] Application is ready.
+[I 2021-08-02T10:49:51.487Z main:store:plugins:open-handler] Recover: Map {
+  '1' => [
+    {
+      source: 'file:///home/lucas/Documents/Records/Records.xmind',
+      editorId: '0218a58e21bab2e800b8e9f793'
+    }
+  ],
+  '2' => [
+    {
+      source: 'file:///home/lucas/Documents/Records/Thoughts.xmind',
+      editorId: '5ee81772ac69748005c138d8f6'
+    }
+  ]
+}
+[I 2021-08-02T10:49:51.493Z main:store:plugins:activation-updater] Start updating subscription information periodically.
+[I 2021-08-02T10:49:51.494Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-08-02T10:49:51.494Z main:store:plugins:activation-updater] Start updating per-machine license information periodically.
+[I 2021-08-02T10:49:51.494Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-08-02T10:49:52.023Z main:store:plugins:electron] Device ID: ec86dd13-2088-4f9e-b4bf-e50e4290bf31
+[I 2021-08-02T10:50:51.495Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-08-02T10:50:51.496Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+
+-------- SESSION 2021-08-02T11:06:29.210Z (10.3.1+202101132117, linux, x64, 16108658688, XMind Ltd., vana_linux_64) --------
+[I 2021-08-02T11:06:29.367Z main:store:plugins:iap] The user is not allowed to make in-app purchase.
+[I 2021-08-02T11:06:29.797Z main:store:plugins:electron] Application will finish launching.
+[I 2021-08-02T11:06:29.798Z main:store:plugins:electron] Application arguments: ["/opt/XMind/xmind"]
+[I 2021-08-02T11:06:29.807Z main:store:plugins:electron] Application is ready.
+[I 2021-08-02T11:06:29.838Z main:store:plugins:open-handler] Recover: Map {
+  '1' => [
+    {
+      source: 'file:///home/lucas/Documents/Records/Records.xmind',
+      editorId: '0218a58e21bab2e800b8e9f793'
+    }
+  ],
+  '2' => [
+    {
+      source: 'file:///home/lucas/Documents/Records/Thoughts.xmind',
+      editorId: '5ee81772ac69748005c138d8f6'
+    }
+  ]
+}
+[I 2021-08-02T11:06:29.845Z main:store:plugins:activation-updater] Start updating subscription information periodically.
+[I 2021-08-02T11:06:29.846Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-08-02T11:06:29.846Z main:store:plugins:activation-updater] Start updating per-machine license information periodically.
+[I 2021-08-02T11:06:29.846Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-08-02T11:06:30.325Z main:store:plugins:electron] Device ID: ec86dd13-2088-4f9e-b4bf-e50e4290bf31
+
+-------- SESSION 2021-08-02T11:07:23.149Z (10.3.1+202101132117, linux, x64, 16108658688, XMind Ltd., vana_linux_64) --------
+[I 2021-08-02T11:07:23.301Z main:store:plugins:iap] The user is not allowed to make in-app purchase.
+[I 2021-08-02T11:07:23.763Z main:store:plugins:electron] Application will finish launching.
+[I 2021-08-02T11:07:23.764Z main:store:plugins:electron] Application arguments: ["/opt/XMind/xmind"]
+[I 2021-08-02T11:07:23.779Z main:store:plugins:electron] Application is ready.
+[I 2021-08-02T11:07:23.804Z main:store:plugins:open-handler] Recover: Map {
+  '1' => [
+    {
+      source: 'file:///home/lucas/Documents/Records/Records.xmind',
+      editorId: '0218a58e21bab2e800b8e9f793'
+    }
+  ],
+  '2' => [
+    {
+      source: 'file:///home/lucas/Documents/Records/Thoughts.xmind',
+      editorId: '5ee81772ac69748005c138d8f6'
+    }
+  ]
+}
+[I 2021-08-02T11:07:23.815Z main:store:plugins:activation-updater] Start updating subscription information periodically.
+[I 2021-08-02T11:07:23.815Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-08-02T11:07:23.816Z main:store:plugins:activation-updater] Start updating per-machine license information periodically.
+[I 2021-08-02T11:07:23.816Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-08-02T11:07:24.384Z main:store:plugins:electron] Device ID: ec86dd13-2088-4f9e-b4bf-e50e4290bf31
+[E 2021-08-02T11:07:24.532Z Notification] Error: Request to https://www.xmind.net/_api/events?p=vana_linux_64&v=10.3.1.202101132117&ar=x64&nl=en-US&ac=lic_zen&lic=&ts0=1623768646104&ts1=1627901175566&ts2=1627901392731&ts3=1627902391063&os=linux&version=10.3.1&buildid=10.3.1.202101132117&arch=x64&distrib=vana_linux_64&account_type=lic_zen&license_info=&firstStartTimestamp=1623768646104&startTimestamp1=1627901175566&startTimestamp2=1627901392731&startTimestamp3=1627902391063 failed, reason: net::ERR_NETWORK_CHANGED
+    at ClientRequest.<anonymous> (/opt/XMind/resources/app.asar/main/main.js:30:135740)
+    at ClientRequest.emit (events.js:315:20)
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21)
+[W 2021-08-02T11:07:24.655Z main:store:plugins:electron] Failed to load pricing: Error: Request to https://www.xmind.net/_res/get-zen-price?p=vana_linux_64&v=10.3.1.202101132117&os=linux&ar=x64&nl=en-US failed, reason: net::ERR_NETWORK_CHANGED
+    at ClientRequest.<anonymous> (/opt/XMind/resources/app.asar/main/main.js:30:135740)
+    at ClientRequest.emit (events.js:315:20)
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21)
+[I 2021-08-02T11:08:23.821Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-08-02T11:08:23.822Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+
+-------- SESSION 2021-08-02T11:22:58.618Z (10.3.1+202101132117, linux, x64, 16108658688, XMind Ltd., vana_linux_64) --------
+[I 2021-08-02T11:22:58.791Z main:store:plugins:iap] The user is not allowed to make in-app purchase.
+[I 2021-08-02T11:22:59.312Z main:store:plugins:electron] Application will finish launching.
+[I 2021-08-02T11:22:59.313Z main:store:plugins:electron] Application arguments: ["/opt/XMind/xmind"]
+[I 2021-08-02T11:22:59.320Z main:store:plugins:electron] Application is ready.
+[I 2021-08-02T11:22:59.360Z main:store:plugins:open-handler] Recover: Map {
+  '1' => [
+    {
+      source: 'file:///home/lucas/Documents/Records/Records.xmind',
+      editorId: '0218a58e21bab2e800b8e9f793'
+    }
+  ],
+  '2' => [
+    {
+      source: 'file:///home/lucas/Documents/Records/Thoughts.xmind',
+      editorId: '5ee81772ac69748005c138d8f6'
+    }
+  ]
+}
+[I 2021-08-02T11:22:59.372Z main:store:plugins:activation-updater] Start updating subscription information periodically.
+[I 2021-08-02T11:22:59.372Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-08-02T11:22:59.372Z main:store:plugins:activation-updater] Start updating per-machine license information periodically.
+[I 2021-08-02T11:22:59.372Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-08-02T11:22:59.921Z main:store:plugins:electron] Device ID: ec86dd13-2088-4f9e-b4bf-e50e4290bf31
+
+-------- SESSION 2021-08-02T11:23:52.351Z (10.3.1+202101132117, linux, x64, 16108658688, XMind Ltd., vana_linux_64) --------
+[I 2021-08-02T11:23:52.515Z main:store:plugins:iap] The user is not allowed to make in-app purchase.
+[I 2021-08-02T11:23:52.951Z main:store:plugins:electron] Application will finish launching.
+[I 2021-08-02T11:23:52.952Z main:store:plugins:electron] Application arguments: ["/opt/XMind/xmind"]
+[I 2021-08-02T11:23:52.994Z main:store:plugins:electron] Application is ready.
+[I 2021-08-02T11:23:53.022Z main:store:plugins:open-handler] Recover: Map {
+  '1' => [
+    {
+      source: 'file:///home/lucas/Documents/Records/Records.xmind',
+      editorId: '0218a58e21bab2e800b8e9f793'
+    }
+  ],
+  '2' => [
+    {
+      source: 'file:///home/lucas/Documents/Records/Thoughts.xmind',
+      editorId: '5ee81772ac69748005c138d8f6'
+    }
+  ]
+}
+[I 2021-08-02T11:23:53.030Z main:store:plugins:activation-updater] Start updating subscription information periodically.
+[I 2021-08-02T11:23:53.030Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-08-02T11:23:53.030Z main:store:plugins:activation-updater] Start updating per-machine license information periodically.
+[I 2021-08-02T11:23:53.030Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-08-02T11:23:53.580Z main:store:plugins:electron] Device ID: ec86dd13-2088-4f9e-b4bf-e50e4290bf31
+[W 2021-08-02T11:23:53.712Z main:store:plugins:electron] Failed to load pricing: Error: Request to https://www.xmind.net/_res/get-zen-price?p=vana_linux_64&v=10.3.1.202101132117&os=linux&ar=x64&nl=en-US failed, reason: net::ERR_NETWORK_CHANGED
+    at ClientRequest.<anonymous> (/opt/XMind/resources/app.asar/main/main.js:30:135740)
+    at ClientRequest.emit (events.js:315:20)
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21)
+
+-------- SESSION 2021-08-02T11:24:04.103Z (10.3.1+202101132117, linux, x64, 16108658688, XMind Ltd., vana_linux_64) --------
+[I 2021-08-02T11:24:04.281Z main:store:plugins:iap] The user is not allowed to make in-app purchase.
+[I 2021-08-02T11:24:04.720Z main:store:plugins:electron] Application will finish launching.
+[I 2021-08-02T11:24:04.721Z main:store:plugins:electron] Application arguments: ["/opt/XMind/xmind"]
+[I 2021-08-02T11:24:04.733Z main:store:plugins:electron] Application is ready.
+[I 2021-08-02T11:24:04.752Z main:store:plugins:open-handler] Recover: Map {
+  '1' => [
+    {
+      source: 'file:///home/lucas/Documents/Records/Records.xmind',
+      editorId: '0218a58e21bab2e800b8e9f793'
+    }
+  ],
+  '2' => [
+    {
+      source: 'file:///home/lucas/Documents/Records/Thoughts.xmind',
+      editorId: '5ee81772ac69748005c138d8f6'
+    }
+  ]
+}
+[I 2021-08-02T11:24:04.760Z main:store:plugins:activation-updater] Start updating subscription information periodically.
+[I 2021-08-02T11:24:04.760Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-08-02T11:24:04.760Z main:store:plugins:activation-updater] Start updating per-machine license information periodically.
+[I 2021-08-02T11:24:04.760Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-08-02T11:24:05.260Z main:store:plugins:electron] Device ID: ec86dd13-2088-4f9e-b4bf-e50e4290bf31
+[I 2021-08-02T11:25:04.760Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-08-02T11:25:04.761Z main:store:plugins:activation-updater] Schedule refresh timeout(null).

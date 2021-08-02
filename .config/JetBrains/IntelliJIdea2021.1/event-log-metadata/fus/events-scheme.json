@@ -92,6 +92,18 @@
       }
     }
   }, {
+    "id" : "actions.on.save",
+    "builds" : [ ],
+    "versions" : [ {
+      "from" : "1"
+    } ],
+    "rules" : {
+      "event_id" : [ "{enum:reformat.code|rearrange.code|optimize.imports|cleanup.code}" ],
+      "event_data" : {
+        "enabled" : [ "{enum#boolean}" ]
+      }
+    }
+  }, {
     "id" : "actions.runAnything",
     "builds" : [ {
       "from" : "191.4811"
@@ -101,6 +113,9 @@
       "event_data" : {
         "group" : [ "{enum#group}", "{util#class_name}" ],
         "list" : [ "{enum#list}", "{util#class_name}" ],
+        "plugin" : [ "{util#plugin}" ],
+        "plugin_type" : [ "{util#plugin_type}" ],
+        "plugin_version" : [ "{util#plugin_version}" ],
         "with_alt" : [ "{enum#boolean}" ],
         "with_shift" : [ "{enum#boolean}" ]
       },
@@ -119,9 +134,15 @@
       "from" : "1"
     } ],
     "rules" : {
-      "event_id" : [ "{enum:index.metadata|index.state|index.tasks}" ],
+      "event_id" : [ "{enum#__event_id}" ],
       "event_data" : {
-        "size_bytes" : [ "{regexp#integer}" ]
+        "duration_ms" : [ "{regexp#integer}" ],
+        "ide_activity_id" : [ "{regexp#integer}" ],
+        "size_bytes" : [ "{regexp#integer}" ],
+        "status" : [ "{enum:Success|InterruptedByUser|Exception}" ]
+      },
+      "enums" : {
+        "__event_id" : [ "index.metadata", "index.state", "index.tasks", "update.started", "update.finished", "scan.started", "scan.finished" ]
       }
     }
   }, {
@@ -747,12 +768,14 @@
       "from" : "1"
     } ],
     "rules" : {
-      "event_id" : [ "{enum:html.generated|report.loaded|started}" ],
+      "event_id" : [ "{enum:html.generated|report.loaded|started|report.built}" ],
       "event_data" : {
+        "annotated_classes" : [ "{regexp#integer}" ],
         "duration_ms" : [ "{regexp#integer}" ],
         "excludes" : [ "{regexp#integer}" ],
         "generation_ms" : [ "{regexp#integer}" ],
         "includes" : [ "{regexp#integer}" ],
+        "loaded_classes" : [ "{regexp#integer}" ],
         "runner" : [ "{enum:emma|jacoco|idea}", "{enum:IJCSampling|IJCTracing|IJCTracingTestTracking|JaCoCo|Emma}" ]
       }
     }
@@ -793,6 +816,20 @@
       }
     }
   }, {
+    "id" : "cwm.gateway",
+    "builds" : [ ],
+    "versions" : [ {
+      "from" : "2"
+    } ],
+    "rules" : {
+      "event_id" : [ "{enum:guestDownload.started|guestDownload.finished}" ],
+      "event_data" : {
+        "duration_ms" : [ "{regexp#integer}" ],
+        "ide_activity_id" : [ "{regexp#integer}" ],
+        "isSucceeded" : [ "{enum#boolean}" ]
+      }
+    }
+  }, {
     "id" : "cwm.lifecycle",
     "builds" : [ ],
     "versions" : [ {
@@ -804,16 +841,27 @@
         "client_id" : [ "{regexp#hash}" ],
         "connectionType" : [ "{enum:ws_relay|p2p_quic|direct_tcp|unknown}" ],
         "disconnectsCount" : [ "{regexp#integer}" ],
+        "guestsCount" : [ "{regexp#integer}" ],
         "id" : [ "{regexp#integer}" ],
         "participantsMax" : [ "{regexp#integer}" ],
         "participantsSize" : [ "{enum:OneOnOne|Group}" ],
+        "permissions.files" : [ "{enum:Readonly|FullAccess}" ],
+        "permissions.mode" : [ "{enum:Readonly|EditFiles|FullAccess|Custom}" ],
+        "permissions.other_tw" : [ "{enum:Disabled|Readonly|FullAccess}" ],
+        "permissions.run" : [ "{enum:Disabled|Readonly|FullAccess}" ],
+        "permissions.terminal" : [ "{enum:Disabled|Readonly|Request|FullAccess}" ],
+        "permissions_changed.files" : [ "{enum:Readonly|FullAccess}" ],
+        "permissions_changed.mode" : [ "{enum:Readonly|EditFiles|FullAccess|Custom}" ],
+        "permissions_changed.other_tw" : [ "{enum:Disabled|Readonly|FullAccess}" ],
+        "permissions_changed.run" : [ "{enum:Disabled|Readonly|FullAccess}" ],
+        "permissions_changed.terminal" : [ "{enum:Disabled|Readonly|Request|FullAccess}" ],
         "sessionDurationMinutes" : [ "{regexp#integer}" ],
         "sessionDurationType" : [ "{enum:Below15mins|Below25mins|Below1hr|Above1hr}" ],
         "sessionId" : [ "{regexp#hash}" ],
         "telephonyEnabled" : [ "{enum#boolean}" ]
       },
       "enums" : {
-        "__event_id" : [ "connected", "finished", "onCircleLeftClickStart", "onCircleLeftClickStop", "onCircleRightClick", "onEditorFollowingLabelResume", "onEditorFollowingLabelStop", "onEditorFullSyncLabelStop", "onReconnection", "sessionCreated", "sessionTerminated", "onReconnectionFailed", "sessionFinished", "sessionStarted", "sessionExpired", "onConnectionFailed", "thin.finished", "thin.connected" ]
+        "__event_id" : [ "connected", "finished", "onCircleLeftClickStart", "onCircleLeftClickStop", "onCircleRightClick", "onEditorFollowingLabelResume", "onEditorFollowingLabelStop", "onEditorFullSyncLabelStop", "onReconnection", "sessionCreated", "sessionTerminated", "onReconnectionFailed", "sessionFinished", "sessionStarted", "sessionExpired", "onConnectionFailed", "thin.finished", "thin.connected", "onPermissionsChanged", "guest.finished", "guest.connected" ]
       }
     }
   }, {
@@ -841,7 +889,7 @@
         "ide_activity_id" : [ "{regexp#integer}" ]
       },
       "enums" : {
-        "__event_id" : [ "cameraEnabled.finished", "cameraEnabled.started", "microphoneEnabled.finished", "microphoneEnabled.started", "voiceCallJoined.finished", "voiceCallJoined.started" ]
+        "__event_id" : [ "cameraEnabled.finished", "cameraEnabled.started", "microphoneEnabled.finished", "microphoneEnabled.started", "voiceCallJoined.finished", "voiceCallJoined.started", "screenSharingEnabled.started", "screenSharingEnabled.finished" ]
       }
     }
   }, {
@@ -1130,6 +1178,19 @@
         "lang" : [ "{util#lang}" ],
         "plugin" : [ "{util#plugin}" ],
         "plugin_type" : [ "{util#plugin_type}" ]
+      }
+    }
+  }, {
+    "id" : "eclipse.projects.detector",
+    "builds" : [ ],
+    "versions" : [ {
+      "from" : "1"
+    } ],
+    "rules" : {
+      "event_id" : [ "{enum:detected|opened}" ],
+      "event_data" : {
+        "fromEmptyState" : [ "{enum#boolean}" ],
+        "projectsCount" : [ "{regexp#integer}" ]
       }
     }
   }, {
@@ -1608,6 +1669,18 @@
       }
     }
   }, {
+    "id" : "go.debugger.settings",
+    "builds" : [ ],
+    "versions" : [ {
+      "from" : "1"
+    } ],
+    "rules" : {
+      "event_id" : [ "{enum:custom.delve.path}" ],
+      "event_data" : {
+        "enabled" : [ "{enum#boolean}" ]
+      }
+    }
+  }, {
     "id" : "go.debugger.usages.trigger",
     "builds" : [ ],
     "versions" : [ {
@@ -1827,16 +1900,24 @@
       "from" : "1"
     } ],
     "rules" : {
-      "event_id" : [ "{enum:language.detected|typo.found|quickfix.applied|language.suggested}" ],
+      "event_id" : [ "{enum#__event_id}" ],
       "event_data" : {
         "cancelled" : [ "{enum#boolean}" ],
         "enabled" : [ "{enum#boolean}" ],
         "fixes" : [ "{regexp#count}" ],
-        "id" : [ "{util#grazie_rule_id}" ],
-        "language" : [ "{enum#__language}" ]
+        "id" : [ "{util#plugin_info}", "{util#grazie_rule_id}" ],
+        "info" : [ "{regexp#fix_info}" ],
+        "language" : [ "{enum#__language}" ],
+        "plugin" : [ "{util#plugin}" ],
+        "plugin_type" : [ "{util#plugin_type}" ],
+        "plugin_version" : [ "{util#plugin_version}" ]
       },
       "enums" : {
+        "__event_id" : [ "language.detected", "typo.found", "quickfix.applied", "language.suggested", "quick.fix.invoked" ],
         "__language" : [ "unknown", "en", "ru", "fr", "de", "pl", "it", "zh", "ja", "uk", "el", "ro", "es", "pt", "sk", "fa", "nl" ]
+      },
+      "regexps" : {
+        "fix_info" : "accept\\.suggestion|add\\.exception|rule\\.settings:(canceled|unmodified|changes:(unclassified|(languages,?)?(domains,?)?(rules)?))"
       }
     }
   }, {
@@ -1846,13 +1927,23 @@
       "from" : "1"
     } ],
     "rules" : {
-      "event_id" : [ "{enum:enabled.language|native.language|rule|strategy}" ],
+      "event_id" : [ "{enum#__event_id}" ],
       "event_data" : {
+        "comments" : [ "{enum#state}" ],
+        "commit" : [ "{enum#state}" ],
+        "documentation" : [ "{enum#state}" ],
         "enabled" : [ "{enum#boolean}" ],
-        "id" : [ "{util#grazie_rule_id}", "{util#grazie_strategy_id}" ],
+        "id" : [ "{util#plugin_info}", "{util#grazie_strategy_id}" ],
+        "language" : [ "{util#lang}" ],
+        "literals" : [ "{enum#state}" ],
+        "plugin" : [ "{util#plugin}" ],
+        "plugin_type" : [ "{util#plugin_type}" ],
+        "plugin_version" : [ "{util#plugin_version}" ],
+        "userChange" : [ "{enum#state}" ],
         "value" : [ "{enum#__value}" ]
       },
       "enums" : {
+        "__event_id" : [ "enabled.language", "native.language", "rule", "strategy", "checkingContext" ],
         "__value" : [ "en", "ru", "fr", "de", "pl", "it", "zh", "ja", "uk", "el", "ro", "es", "pt", "sk", "fa", "nl" ]
       }
     }
@@ -2001,7 +2092,7 @@
         "lesson_id" : [ "{util#lesson_id}" ],
         "module_name" : [ "{util#module_name}" ],
         "progress_percentage" : [ "{regexp#integer}" ],
-        "reason" : [ "{enum:CLOSE_PROJECT|RESTART|CLOSE_FILE|OPEN_MODULES|OPEN_NEXT_OR_PREV_LESSON}" ],
+        "reason" : [ "{enum:CLOSE_PROJECT|RESTART|CLOSE_FILE|OPEN_MODULES|OPEN_NEXT_OR_PREV_LESSON}", "{enum:EXIT_LINK}" ],
         "shortcut" : [ "{util#shortcut_or_none}" ],
         "task_id" : [ "{util#task_id}" ],
         "version" : [ "{regexp#version}" ]
@@ -2266,7 +2357,10 @@
       "from" : "1"
     } ],
     "rules" : {
-      "event_id" : [ "{enum:setting.clicked|usages.clicked|implementations.clicked|related.problems.clicked}" ]
+      "event_id" : [ "{enum:setting.clicked|usages.clicked|implementations.clicked|related.problems.clicked}" ],
+      "event_data" : {
+        "location" : [ "{enum:class|method}" ]
+      }
     }
   }, {
     "id" : "java.module.language.level",
@@ -2501,6 +2595,10 @@
         "js_compiler_mode" : [ "{regexp#js_compiler_mode}" ],
         "js_generate_executable_default" : [ "{regexp#boolean_set}" ],
         "js_generate_externals" : [ "{enum#boolean}" ],
+        "js_ir_incremental" : [ "{enum#boolean}" ],
+        "js_klib_incremental" : [ "{enum#boolean}" ],
+        "js_property_lazy_initialization" : [ "{regexp#boolean_set}" ],
+        "js_source_map" : [ "{enum#boolean}" ],
         "js_target_mode" : [ "{regexp#js_target_mode}" ],
         "jvm_compiler_ir_mode" : [ "{enum#boolean}" ],
         "jvm_defaults" : [ "{regexp#jvm_defaults}" ],
@@ -2825,7 +2923,7 @@
       "event_data" : {
         "isMPP" : [ "{enum#boolean}" ],
         "languageVersion" : [ "{regexp#float}" ],
-        "platform" : [ "{enum:jvm|js|native|common}", "{enum:jvm|jvm.android|js|common|native.unknown|unknown|native.android_x64|native.android_x86|native.android_arm32|native.android_arm64|native.ios_arm32|native.ios_arm64|native.ios_x64|native.watchos_arm32|native.watchos_arm64|native.watchos_x86|native.watchos_x64|native.tvos_arm64|native.tvos_x64|native.linux_x64|native.mingw_x86|native.mingw_x64|native.macos_x64|native.linux_arm64|native.linux_arm32_hfp|native.linux_mips32|native.linux_mipsel32|native.wasm32}" ],
+        "platform" : [ "{enum:jvm|js|native|common}", "{enum:jvm|jvm.android|js|common|native.unknown|unknown|native.android_x64|native.android_x86|native.android_arm32|native.android_arm64|native.ios_arm32|native.ios_arm64|native.ios_x64|native.watchos_arm32|native.watchos_arm64|native.watchos_x86|native.watchos_x64|native.tvos_arm64|native.tvos_x64|native.linux_x64|native.mingw_x86|native.mingw_x64|native.macos_x64|native.linux_arm64|native.linux_arm32_hfp|native.linux_mips32|native.linux_mipsel32|native.wasm32}", "{enum:native.macos_arm64}" ],
         "plugin" : [ "{util#plugin}" ],
         "pluginVersion" : [ "{regexp#kotlin_version}" ],
         "plugin_type" : [ "{util#plugin_type}" ],
@@ -3198,6 +3296,33 @@
         "duration_ms" : [ "{regexp#integer}" ],
         "swap_load" : [ "{regexp#integer}" ],
         "system_cpu_load" : [ "{regexp#integer}" ]
+      }
+    }
+  }, {
+    "id" : "php.architecture.code.smell.line.marker",
+    "builds" : [ ],
+    "versions" : [ {
+      "from" : "1"
+    } ],
+    "rules" : {
+      "event_id" : [ "{enum:extract_class_fix_started|move_method_fix_started|extract_method_fix_started}" ]
+    }
+  }, {
+    "id" : "php.architecture.extract.function",
+    "builds" : [ ],
+    "versions" : [ {
+      "from" : "1"
+    } ],
+    "rules" : {
+      "event_id" : [ "{enum:dialog.closed}" ],
+      "event_data" : {
+        "chosen_candidate_number" : [ "{regexp#integer}" ],
+        "cyclomatic_complexity" : [ "{regexp#integer}" ],
+        "lines_of_code" : [ "{regexp#integer}" ],
+        "max_nesting_depth" : [ "{regexp#integer}" ],
+        "number_of_candidates" : [ "{regexp#integer}" ],
+        "output_variables" : [ "{regexp#integer}" ],
+        "refactoring_applied" : [ "{enum#boolean}" ]
       }
     }
   }, {
@@ -3850,6 +3975,18 @@
       }
     }
   }, {
+    "id" : "project.intellij.monorepo",
+    "builds" : [ ],
+    "versions" : [ {
+      "from" : "1"
+    } ],
+    "rules" : {
+      "event_id" : [ "{enum:is.intellij}" ],
+      "event_data" : {
+        "enabled" : [ "{enum#boolean}" ]
+      }
+    }
+  }, {
     "id" : "project.structure",
     "builds" : [ ],
     "versions" : [ {
@@ -4458,13 +4595,14 @@
         "hint_number" : [ "{regexp#integer}" ],
         "id" : [ "{util#run_config_id}" ],
         "input_event" : [ "{util#shortcut}" ],
-        "option_id" : [ "{enum:before.launch.editSettings|before.launch.openToolWindow|beforeRunTasks|commandLineParameters|coverage|doNotBuildBeforeRun|environmentVariables|jrePath|log.monitor|mainClass|module.classpath|redirectInput|runParallel|shorten.command.line|target.project.path|vmParameters|workingDirectory|count|junit.test.kind|repeat|testScope|maven.params.workingDir|maven.params.goals|maven.params.profiles|maven.params.resolveToWorkspace|maven.general.useProjectSettings|maven.general.workOffline|maven.general.produceExceptionErrorMessages|maven.general.usePluginRegistry|maven.general.recursive|maven.general.alwaysUpdateSnapshots|maven.general.threadsEditor|maven.general.outputLevel|maven.general.checksumPolicy|maven.general.failPolicy|maven.general.showDialogWithAdvancedSettings|maven.general.mavenHome|maven.general.settingsFileOverride.checkbox|maven.general.settingsFileOverride.text|maven.general.localRepoOverride.checkbox|maven.general.localRepoOverride.text|maven.runner.useProjectSettings|maven.runner.delegateToMaven|maven.runner.runInBackground|maven.runner.vmParameters|maven.runner.envVariables|maven.runner.jdk|maven.runner.targetJdk|maven.runner.skipTests|maven.runner.properties|Dump_file_path|Exe_path|Program_arguments|Working_directory|Environment_variables|Runtime_arguments|Use_Mono_runtime|Use_external_console|Project|Target_framework|Launch_profile|Open_browser|Application_URL|Launch_URL|IIS_Express_Certificate|Hosting_model|Generate_applicationhost.config|Show_IIS_Express_output|Send_debug_request|Additional_IIS_Express_arguments|Static_method|URL|Session_name|Arguments|Solution_Configuration|Executable_file|Default_arguments|Optional_arguments}" ],
+        "option_id" : [ "{enum:browser.option.with.javascript.debugger|browser.option.target.browser|browser.option.after.launch|external.system.vm.parameters.fragment}", "{enum:before.launch.editSettings|before.launch.openToolWindow|beforeRunTasks|commandLineParameters|coverage|doNotBuildBeforeRun|environmentVariables|jrePath|log.monitor|mainClass|module.classpath|redirectInput|runParallel|shorten.command.line|target.project.path|vmParameters|workingDirectory|count|junit.test.kind|repeat|testScope|maven.params.workingDir|maven.params.goals|maven.params.profiles|maven.params.resolveToWorkspace|maven.general.useProjectSettings|maven.general.workOffline|maven.general.produceExceptionErrorMessages|maven.general.usePluginRegistry|maven.general.recursive|maven.general.alwaysUpdateSnapshots|maven.general.threadsEditor|maven.general.outputLevel|maven.general.checksumPolicy|maven.general.failPolicy|maven.general.showDialogWithAdvancedSettings|maven.general.mavenHome|maven.general.settingsFileOverride.checkbox|maven.general.settingsFileOverride.text|maven.general.localRepoOverride.checkbox|maven.general.localRepoOverride.text|maven.runner.useProjectSettings|maven.runner.delegateToMaven|maven.runner.runInBackground|maven.runner.vmParameters|maven.runner.envVariables|maven.runner.jdk|maven.runner.targetJdk|maven.runner.skipTests|maven.runner.properties|Dump_file_path|Exe_path|Program_arguments|Working_directory|Environment_variables|Runtime_arguments|Use_Mono_runtime|Use_external_console|Project|Target_framework|Launch_profile|Open_browser|Application_URL|Launch_URL|IIS_Express_Certificate|Hosting_model|Generate_applicationhost.config|Show_IIS_Express_output|Send_debug_request|Additional_IIS_Express_arguments|Static_method|URL|Session_name|Arguments|Solution_Configuration|Executable_file|Default_arguments|Optional_arguments}" ],
         "place" : [ "{util#place}" ],
         "projectSettingsAvailable" : [ "{enum#boolean}" ],
+        "providerClass" : [ "{util#class_name}" ],
         "useProjectSettings" : [ "{enum#boolean}" ]
       },
       "enums" : {
-        "__event_id" : [ "modify.run.option", "remove.run.option", "add", "remove", "hints.shown", "option.navigate" ]
+        "__event_id" : [ "modify.run.option", "remove.run.option", "add", "remove", "hints.shown", "option.navigate", "copy", "before.run.task.remove", "before.run.task.add", "before.run.task.edit" ]
       }
     }
   }, {
@@ -4545,7 +4683,7 @@
     "rules" : {
       "event_id" : [ "{enum:compiler.plugin|sbt.info|scala.lang.level}" ],
       "event_data" : {
-        "name" : [ "{enum:kind-projector|bm4|better-tostring|splain|macro-paradise-plugin|acyclic|neme|silencer|semanticdb|wartremover}" ],
+        "name" : [ "{enum:kind-projector|bm4|better-tostring|splain|macro-paradise-plugin|acyclic|neme|silencer|semanticdb|wartremover|scalajs|nir}" ],
         "value" : [ "{regexp#version}" ],
         "version" : [ "{regexp#version}" ]
       }
@@ -5036,6 +5174,7 @@
     "rules" : {
       "event_id" : [ "{util#surround_with_id}", "{enum:surrounder.executed|live.template.executed|custom.template.executed}" ],
       "event_data" : {
+        "changedByUser" : [ "{enum#boolean}" ],
         "class" : [ "{util#class_name}" ],
         "group" : [ "{util#live_template_group}" ],
         "key" : [ "{util#live_template}" ],
@@ -5287,11 +5426,13 @@
         "class" : [ "{util#class_name}" ],
         "count" : [ "{regexp#integer}" ],
         "duration_ms" : [ "{regexp#integer}" ],
+        "expand" : [ "{enum#boolean}" ],
         "lang" : [ "{util#lang}" ],
+        "recursive" : [ "{enum#boolean}" ],
         "with_selection" : [ "{enum#boolean}" ]
       },
       "enums" : {
-        "__event_id" : [ "ProgressPaused", "ProgressResumed", "NavBarShowPopup", "NavBarNavigate", "BreadcrumbShowTooltip", "BreadcrumbNavigate", "DumbModeDialogWasNotNeeded", "DumbModeDialogRequested", "DumbModeDialogShown", "DumbModeDialogCancelled", "DumbModeDialogFinished", "DumbModeDialogProceededToActions", "IncrementalSearchActivated", "IncrementalSearchKeyTyped", "IncrementalSearchCancelled", "IncrementalSearchNextPrevItemSelected", "DumbModeBalloonWasNotNeeded", "DumbModeBalloonRequested", "DumbModeBalloonShown", "DumbModeBalloonCancelled", "DumbModeBalloonProceededToActions", "ShowUsagesPopupShowSettings", "LookupExecuteElementAction", "ToolWindowsWidgetPopupClicked", "ToolWindowsWidgetPopupShown", "LookupShowElementActions", "ImplementationViewComboBoxSelected", "ImplementationViewToolWindowOpened", "DaemonEditorPopupInvoked", "HectorPopupDisplayed" ]
+        "__event_id" : [ "ProgressPaused", "ProgressResumed", "NavBarShowPopup", "NavBarNavigate", "BreadcrumbShowTooltip", "BreadcrumbNavigate", "DumbModeDialogWasNotNeeded", "DumbModeDialogRequested", "DumbModeDialogShown", "DumbModeDialogCancelled", "DumbModeDialogFinished", "DumbModeDialogProceededToActions", "IncrementalSearchActivated", "IncrementalSearchKeyTyped", "IncrementalSearchCancelled", "IncrementalSearchNextPrevItemSelected", "DumbModeBalloonWasNotNeeded", "DumbModeBalloonRequested", "DumbModeBalloonShown", "DumbModeBalloonCancelled", "DumbModeBalloonProceededToActions", "ShowUsagesPopupShowSettings", "LookupExecuteElementAction", "ToolWindowsWidgetPopupClicked", "ToolWindowsWidgetPopupShown", "LookupShowElementActions", "ImplementationViewComboBoxSelected", "ImplementationViewToolWindowOpened", "DaemonEditorPopupInvoked", "HectorPopupDisplayed", "EditorFoldingIconClicked" ]
       }
     }
   }, {
@@ -5392,17 +5533,19 @@
       "from" : "20"
     } ],
     "rules" : {
-      "event_id" : [ "{util#class_name}", "{enum:select|reset|apply|search}" ],
+      "event_id" : [ "{util#class_name}", "{enum#__event_id}" ],
       "event_data" : {
         "characters" : [ "{regexp#integer}" ],
         "configurable" : [ "{util#class_name}" ],
         "hits" : [ "{regexp#integer}" ],
+        "modifiedOnly" : [ "{enum#boolean}" ],
         "plugin" : [ "{util#plugin}" ],
         "plugin_type" : [ "{util#plugin_type}" ],
         "plugin_version" : [ "{util#plugin_version}" ],
         "type" : [ "{enum#type}" ]
       },
       "enums" : {
+        "__event_id" : [ "select", "reset", "apply", "search", "advanced.settings.search" ],
         "type" : [ "select", "apply", "reset" ]
       }
     }
@@ -5415,7 +5558,7 @@
     "rules" : {
       "event_id" : [ "{enum#_}", "{enum#__event_id}" ],
       "event_data" : {
-        "algorithm" : [ "{enum#__algorithm}", "{enum:ONE_TIP_SURROUNDWITH_SUMMER2020|ONE_TIP_EXTENDSELECTION_SUMMER2020|ONE_TIP_SWITCHER_SUMMER2020|LOCAL_SORT_SUMMER2020}" ],
+        "algorithm" : [ "{enum#__algorithm}", "{enum:ONE_TIP_SURROUNDWITH_SUMMER2020|ONE_TIP_EXTENDSELECTION_SUMMER2020|ONE_TIP_SWITCHER_SUMMER2020|LOCAL_SORT_SUMMER2020}", "{enum:tip_utility_and_ignore_used|tip_utility}" ],
         "feature_id" : [ "{util#tip_info}" ],
         "filename" : [ "{util#tip_info}" ],
         "keep_showing_after" : [ "{enum#boolean}" ],
@@ -5423,13 +5566,14 @@
         "plugin" : [ "{util#plugin}" ],
         "plugin_type" : [ "{util#plugin_type}" ],
         "plugin_version" : [ "{util#plugin_version}" ],
+        "time_passed" : [ "{regexp#integer}" ],
         "type" : [ "{enum#type}" ],
         "version" : [ "{regexp#version}" ]
       },
       "enums" : {
         "_" : [ "shown.automatically", "shown.manually", "dialog.shown", "next.tip", "previous.tip" ],
         "__algorithm" : [ "TOP", "MATRIX_ALS", "MATRIX_BPR", "PROB", "WIDE", "CODIS", "RANDOM", "WEIGHTS_LIN_REG", "default_shuffle", "unknown", "ONE_TIP_SUMMER2020", "RANDOM_SUMMER2020" ],
-        "__event_id" : [ "tip.shown", "dialog.shown", "next.tip", "previous.tip", "dialog.closed" ],
+        "__event_id" : [ "tip.shown", "dialog.shown", "next.tip", "previous.tip", "dialog.closed", "tip.performed" ],
         "type" : [ "automatically", "manually" ]
       }
     }
@@ -5902,7 +6046,7 @@
     "regexps" : {
       "count" : "\\d+K?M?\\+?",
       "float" : "-?\\d+\\.\\d+(E\\-?\\d+)?",
-      "hash" : "[0-9A-Fa-f]{40,64}",
+      "hash" : "([0-9A-Fa-f]{40,64})|undefined",
       "integer" : "-?\\d+(\\+)?",
       "kotlin_version" : "(\\d+-)?\\d\\.\\d\\.\\d{1,3}-(dev|eap|release)-(\\d+-)?(AppCode|CLion|IJ|Studio)[0-9\\-\\.]+",
       "license_metadata" : "[0-9]{10}[A-Z]{4}[-0-9X]{6}",
@@ -5911,5 +6055,5 @@
       "version" : "Unknown|unknown.format|unknown|UNKNOWN|((\\d+\\.?)*\\d+)"
     }
   },
-  "version" : "1893"
+  "version" : "1966"
 }
