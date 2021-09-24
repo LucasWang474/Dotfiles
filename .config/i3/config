@@ -168,10 +168,12 @@ bindsym $mod+Shift+0 move container to workspace 10; workspace 10
 #####################################################################################################################
 
 # start dmenu
-bindsym $mod+shift+d exec --no-startup-id dmenu_run -i -nb '#191919' -nf '#fea63c' -sb '#fea63c' -sf '#191919' -fn 'NotoMonoRegular:bold:pixelsize=14'
+bindsym $mod+d exec --no-startup-id dmenu_run -i -nb '#191919' -nf '#fea63c' -sb '#fea63c' -sf '#191919' -fn 'NotoMonoRegular:bold:pixelsize=18'
+# bindsym $mod+shift+d exec --no-startup-id ulauncher
+# bindsym $mod+d exec --no-startup-id ulauncher
 
 # gmrun
-#bindsym mod1+F2 exec --no-startup-id gmrun
+bindsym mod1+Shift+F2 exec --no-startup-id gmrun
 
 # start xfce-appfinder
 bindsym mod1+F3 exec --no-startup-id xfce4-appfinder
@@ -184,7 +186,8 @@ bindsym mod1+F3 exec --no-startup-id xfce4-appfinder
 
 # start rofi small
 # bindsym $mod+F12 exec --no-startup-id rofi -show run -font "Noto Sans 13"
-bindsym $mod+d exec --no-startup-id rofi -show run -font "Noto Sans 15"
+# bindsym $mod+d exec --no-startup-id rofi -show run -font "Noto Sans 15" 
+bindsym $mod+Shift+d exec --no-startup-id rofi -show run -font "Noto Sans 15"
 
 
 
@@ -364,11 +367,17 @@ bindsym $mod+Shift+a focus child
 #################                          resize                                                   #################
 #####################################################################################################################
 
-# Resizing by 1
-bindsym $mod+Mod1+Ctrl+Right resize shrink width 1 px or 1 ppt
-bindsym $mod+Mod1+Ctrl+Up resize grow height 1 px or 1 ppt
-bindsym $mod+Mod1+Ctrl+Down resize shrink height 1 px or 1 ppt
-bindsym $mod+Mod1+Ctrl+Left resize grow width 1 px or 1 ppt
+# # Resizing by 1
+# bindsym $mod+Mod1+Ctrl+Right resize shrink width 1 px or 1 ppt
+# bindsym $mod+Mod1+Ctrl+Up resize grow height 1 px or 1 ppt
+# bindsym $mod+Mod1+Ctrl+Down resize shrink height 1 px or 1 ppt
+# bindsym $mod+Mod1+Ctrl+Left resize grow width 1 px or 1 ppt
+
+# Resizing by 2
+bindsym $mod+Mod1+Ctrl+Right resize shrink width 2 px or 2 ppt
+bindsym $mod+Mod1+Ctrl+Up resize grow height 2 px or 2 ppt
+bindsym $mod+Mod1+Ctrl+Down resize shrink height 2 px or 2 ppt
+bindsym $mod+Mod1+Ctrl+Left resize grow width 2 px or 2 ppt
 
 
 ####################################################################################################################
@@ -422,11 +431,11 @@ title_align center
 #################                          assign applications to workspaces                       #################
 #####################################################################################################################
 
-# Workspace 1 editor related
+# Workspace 1 programming
 # assign [class="sublime-text|sublime_text|Sublime_text|subl|Subl|subl3|Subl3"]       → 1
 # assign [class="Xed|xed|Brackets|Atom|Code|Geany"]                                   → 1
-assign [class="Code"] → 1
-for_window [class="Code"] focus
+assign [class="Code|jetbrains*"] → 1
+for_window [class="Code|jetbrains*"] focus
 
 # Workspace 2 browser related
 assign [class="Firefox|Vivaldi-stable|Vivaldi-snapshot|Opera"] → 2
@@ -435,27 +444,31 @@ for_window [class="Chromium|Google-chrome|google-chrome"] focus
 
 # Workspace 3 document related
 assign [class="Typora|Xmind-zen|XMind|xmind"] → 3
-for_window [class="Typora|Xmind-zen|XMind|xmind"] focus
+for_window [class="Typora"] focus
 
 # Workspace 4 pdf
 assign [class="okular"] → 4
+for_window [class="okular"] focus
 
 # Workspace 5 Images and meld
 #assign [class="ristretto|Ristretto|shotwell|Shotwell|Xviewer|Nitrogen"]             → 5
 #assign [class="feh|gthumb|Gthumb|eog|Eog|Pinta|pixeluvo|Pixeluvo"]                  → 5
 #assign [class="Meld"]                                                               → 5
 
-# Workspace 6 all video related software
-#assign [class="Vlc|vlc"]                                                            → 6
+# Workspace 6 chat
+assign [class="telegram-desktop|TelegramDesktop|gimp|Gimp"]                           → 6
+for_window [class="telegram-desktop|TelegramDesktop|gimp|Gimp"] focus
 
 # Workspace 7 virtual machines and settings
-assign [class="Vmplayer|VirtualBox|Vmware|Virt-manager|virt-viewer"] → 7
+assign [class="Vmplayer|VirtualBox|Vmware|Virt-manager|virt-viewer|photoshop.exe"] → 7
+for_window [class="Vmplayer|VirtualBox|Vmware|Virt-manager|virt-viewer|photoshop.exe"] focus
 
-# Workspace 8 video, audio
+# Workspace 8 music
 assign [class="netease-cloud-music"] → 8
-assign [class="SimpleScreenRecorder"] → 8
+assign [class="listen1"] → 8
+# assign [class="SimpleScreenRecorder"] → 8
 
-# Workspace 9 downloader
+# Workspace 9 downloader and temp workspace
 assign [class="baidunetdisk|thunder"] → 9
 
 # Workspace 10 education tools
@@ -470,12 +483,15 @@ assign [class="Anki|GoldenDict"] → 10
 
 # USER APPLICATIONS TO START AT BOOT
 
+exec --no-startup-id libinput-gestures-setup start
+
 # Night mode
 exec --no-startup-id redshift -P -O 5500
 
 # Proxy
 # exec --no-startup-id qv2ray
-exec --no-startup-id $HOME/.config/qv2ray/init.sh
+exec --no-startup-id ~/.config/qv2ray/init.sh
+# exec --no-startup-id v2raya --passcheckroot --config ~/.config/v2raya
 
 # Input method
 exec --no-startup-id fcitx5
@@ -513,6 +529,7 @@ exec --no-startup-id google-chrome-stable
 #exec --no-startup-id spotify
 # for_window [class="Spotify"] focus
 exec --no-startup-id netease-cloud-music
+# exec --no-startup-id listen1.AppImage
 
 
 
@@ -547,7 +564,7 @@ exec_always --no-startup-id numlockx on
 # exec --no-startup-id volumeicon
 
 #variety
-#exec --no-startup-id variety
+exec --no-startup-id variety
 
 # clipman
 #exec --no-startup-id xfce4-clipman
@@ -665,6 +682,7 @@ bindsym $mod+k exec --no-startup-id okular;focus
 # for_window [class="Thunar"] focus
 # bindsym $mod+F8 exec --no-startup-id thunar;focus
 bindsym $mod+Shift+Return exec --no-startup-id thunar;focus
+# bindsym $mod+Shift+Return exec --no-startup-id pcmanfm;focus
 # bindsym $mod+Shift+KP_Enter exec --no-startup-id thunar;focus
 # bindsym control+mod1+b exec --no-startup-id thunar;focus
 
@@ -754,12 +772,16 @@ for_window [class="Wine"] floating disable
 for_window [class="Xfburn"] floating disable
 # for_window [class="Xfce4-appfinder"] floating enable
 for_window [class="Xfce4-settings-manager"] floating disable
-for_window [class="Xfce4-taskmanager"] floating enable
+for_window [class="Xfce4-taskmanager"] floating disable
 
 
 #for_window [instance="gimp"] floating disable
 for_window [instance="script-fu"] border normal
 for_window [instance="variety"] floating disable
+
+for_window [class="photoshop.exe"] border normal
+for_window [class="photoshop.exe"] floating enable
+for_window [class="Wine"] border normal
 
 
 for_window [title="Copying"] floating enable
@@ -774,6 +796,8 @@ for_window [window_role="^Preferences$"] floating enable
 for_window [window_role="setup"] floating enable
 
 
+for_window [class="Ulauncher|ulauncher"] border pixel 0
+for_window [instance="Ulauncher|ulauncher"] border pixel 0
 
 
 
@@ -783,9 +807,9 @@ for_window [window_role="setup"] floating enable
 #####################################################################################################################
 
 
-for_window [class="Gnome-terminal"] focus
-for_window [class="Termite"] focus
-for_window [class="Terminator"] focus
+# for_window [class="Gnome-terminal"] focus
+# for_window [class="Termite"] focus
+# for_window [class="Terminator"] focus
 
 
 
@@ -860,8 +884,8 @@ bindsym XF86AudioStop exec --no-startup-id playerctl stop
 # bindsym XF86MonBrightnessUp exec --no-startup-id xbacklight -inc 20 # increase screen brightness
 # bindsym XF86MonBrightnessDown exec --no-startup-id xbacklight -dec 20 # decrease screen brightness
 
-# bindsym XF86MonBrightnessUp exec --no-startup-id brightnessctl -q s +5%
-# bindsym XF86MonBrightnessDown exec --no-startup-id brightnessctl -q s 5%-
+bindsym XF86MonBrightnessUp exec --no-startup-id brightnessctl -q s +5%
+bindsym XF86MonBrightnessDown exec --no-startup-id brightnessctl -q s 5%-
 
 
 #####################################################################################################################
@@ -884,7 +908,7 @@ bindsym $mod+b bar mode toggle
 
 #changing border style
 #super+t in arcolinux is starting terminal
-# bindsym $mod+t border normal
+bindsym $mod+t border normal
 # bindsym $mod+y border 1pixel
 # bindsym $mod+u border none
 

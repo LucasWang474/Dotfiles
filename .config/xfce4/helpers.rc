@@ -1,4 +1,4 @@
-FileManager=Thunar
+FileManager=thunar
 TerminalEmulator=xfce4-terminal
 WebBrowser=custom-WebBrowser
 MailReader=custom-MailReader
