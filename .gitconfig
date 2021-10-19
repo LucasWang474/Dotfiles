@@ -1,10 +1,7 @@
-[filter "lfs"]
-	clean = git-lfs clean -- %f
-	smudge = git-lfs smudge -- %f
-	process = git-lfs filter-process
-	required = true
 [user]
-	name = Lucas Wang
 	email = 474.lucas.wang@gmail.com
+	name = Lucas Wang
+[http] 
+	proxy = http://127.0.0.1:1081
 [credential]
 	helper = store

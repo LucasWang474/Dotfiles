@@ -11,7 +11,7 @@ shouldShowToolBarComingFromFullScreen=false
 
 [MainWindow]
 MenuBar=Disabled
-State=AAAA/wAAAAD9AAAAAAAABegAAAP8AAAABAAAAAQAAAAIAAAACPwAAAACAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAAAAAAAgAAAAEAAAAiAGEAbgBuAG8AdABhAHQAaQBvAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAAB3oAAAQVAAAABAAAAAQAAAAIAAAACPwAAAACAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAAAAAAAgAAAAEAAAAiAGEAbgBuAG8AdABhAHQAaQBvAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
 eDP HDMI-A-0 Height 1920x1080=1045
 eDP HDMI-A-0 Width 1920x1080=1914
@@ -23,21 +23,5 @@ eDP XPosition 1920x1080=2
 eDP YPosition 1920x1080=31
 
 [Recent Files]
-File1[$e]=$HOME/Documents/Psychology/Tal Ben-Shahar - Happier_ Learn the Secrets to Daily Joy and Lasting Fulfillment-McGraw-Hill (2007).pdf
-File2[$e]=$HOME/Documents/Computer_Science/Networks/图解HTTP-人民邮电出版社 (2014).pdf
-File3[$e]=$HOME/Documents/Linux/Courses/2周光速学会linux.pdf
-File4[$e]=$HOME/Documents/Computer_Science/Algorithms/Courses/ZCY01/Notes/基础/算法基础入门班第一课.pdf
-File5[$e]=$HOME/Documents/Computer_Science/Algorithms/Courses/ZCY01/Notes/基础/算法基础入门班第二课.pdf
-File6[$e]=$HOME/Documents/Computer_Science/Algorithms/Courses/ZCY01/Notes/基础/算法基础入门班第三课.pdf
-File7[$e]=$HOME/Documents/Computer_Science/Algorithms/Courses/ZCY01/Notes/基础/算法基础入门班第四课.pdf
-File8[$e]=$HOME/Downloads/Telegram Desktop/pdf-merkblatt-natvisum-arbeitsaufnahme-data.pdf
-File9[$e]=$HOME/Codes/SGG-Front-end-Learning/01HTML+CSS/Resources/尚硅谷web前端HTML+CSS笔记.pdf
-Name1[$e]=Tal Ben-Shahar - Happier_ Learn the Secrets to Daily Joy and Lasting Fulfillment-McGraw-Hill (2007).pdf
-Name2[$e]=图解HTTP-人民邮电出版社 (2014).pdf
-Name3[$e]=2周光速学会linux.pdf
-Name4[$e]=算法基础入门班第一课.pdf
-Name5[$e]=算法基础入门班第二课.pdf
-Name6[$e]=算法基础入门班第三课.pdf
-Name7[$e]=算法基础入门班第四课.pdf
-Name8[$e]=pdf-merkblatt-natvisum-arbeitsaufnahme-data.pdf
-Name9[$e]=尚硅谷web前端HTML+CSS笔记.pdf
+File1[$e]=$HOME/Downloads/BaiduNetdiskDownloads/Courses/SGG-Front-end-Videos/01第一阶段/html5+css3刘志远/20200914html5+css3/尚硅谷web前端HTML+CSS笔记.pdf
+Name1[$e]=尚硅谷web前端HTML+CSS笔记.pdf

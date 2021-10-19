@@ -6,7 +6,6 @@ ShellOpenFileInTabs=true
 
 [Main View]
 ShowBottomBar=true
-ShowLeftPanel=false
 SplitterSizes=270,1216
 
 [PageView]

@@ -11,14 +11,6 @@
 	<directories/>
 </action>
 <action>
-	<icon></icon>
-	<name>GBK 解压</name>
-	<unique-id>1624024665932531-1</unique-id>
-	<command>unzip -O gbk</command>
-	<description>GBK 解压</description>
-	<patterns>*.zip</patterns>
-</action>
-<action>
 	<icon>checkbox</icon>
 	<name>Check sha1sum</name>
 	<unique-id>1526633271260079-26</unique-id>
@@ -57,24 +49,6 @@
 	<text-files/>
 </action>
 <action>
-	<icon>preferences-desktop-wallpaper</icon>
-	<name>Set wallpaper dual</name>
-	<unique-id>1526628754365261-1</unique-id>
-	<command>nitrogen --save --set-zoom-fill %f</command>
-	<description></description>
-	<patterns>*</patterns>
-	<image-files/>
-</action>
-<action>
-	<icon>preferences-desktop-wallpaper</icon>
-	<name>Set wallpaper single</name>
-	<unique-id>1489091195323731-3</unique-id>
-	<command>nitrogen --save --set-zoom-fill  --head=0 %f  &amp;&amp; nitrogen --set-zoom-fill  --head=1 %f</command>
-	<description></description>
-	<patterns>*</patterns>
-	<image-files/>
-</action>
-<action>
 	<icon>catfish</icon>
 	<name>Search with catfish</name>
 	<unique-id>1489089852658523-2</unique-id>
@@ -107,7 +81,7 @@
 	<icon>cs-startup-programs</icon>
 	<name>Run</name>
 	<unique-id>1526630606202525-4</unique-id>
-	<command>termite -e %f</command>
+	<command>urxvt -e %f</command>
 	<description></description>
 	<patterns>*</patterns>
 	<other-files/>
@@ -130,15 +104,6 @@
 	<description>Convert png to jpg</description>
 	<patterns>*.png</patterns>
 	<image-files/>
-</action>
-<action>
-	<icon>ktexteditorautobrace</icon>
-	<name>Edit as root</name>
-	<unique-id>1526631419798289-11</unique-id>
-	<command>gksudo geany %F</command>
-	<description>edit as root</description>
-	<patterns>*</patterns>
-	<text-files/>
 </action>
 <action>
 	<icon>settings</icon>

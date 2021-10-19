@@ -12,21 +12,23 @@ SETUVAR Z_CMD:z
 SETUVAR Z_DATA:/home/lucas/\x2elocal/share/z/data
 SETUVAR Z_DATA_DIR:/home/lucas/\x2elocal/share/z
 SETUVAR Z_EXCLUDE:\x5e/home/lucas\x24
-SETUVAR --export __ABBR_TIPS_KEYS:fuck\x1eysn\x1ea__fish_key_reader
+SETUVAR --export __ABBR_TIPS_KEYS:fuck\x1eysn\x1ea__fish_key_reader\x1ea__
 SETUVAR --export __ABBR_TIPS_VALUES:export\x20http_proxy\x3dhttp\x3a//127\x2e0\x2e0\x2e1\x3a1082/\x3b\x20export\x20https_proxy\x3d\x24http_proxy\x1eyay\x20\x2dS\x20\x2d\x2dneeded\x1e/usr/bin/fish_key_reader
 SETUVAR __fish_initialized:3100
 SETUVAR _fish_abbr_chmod_2D_rd:find\x20\x20\x2dtype\x20d\x20\x2dexec\x20chmod\x20755\x20\x7b\x7d\x20\x5c\x3b
 SETUVAR _fish_abbr_chmod_2D_rf:find\x20\x20\x2dtype\x20f\x20\x2dexec\x20chmod\x20644\x20\x7b\x7d\x20\x5c\x3b
-SETUVAR _fish_abbr_fuck:export\x20http_proxy\x3dhttp\x3a//127\x2e0\x2e0\x2e1\x3a1082/\x3b\x20export\x20https_proxy\x3d\x24http_proxy
+SETUVAR _fish_abbr_fuck:export\x20http_proxy\x3dhttp\x3a//127\x2e0\x2e0\x2e1\x3a1081/\x3b\x20export\x20https_proxy\x3d\x24http_proxy
 SETUVAR _fish_abbr_ga:git\x20add
 SETUVAR _fish_abbr_gal:git\x20add\x20\x2dA
 SETUVAR _fish_abbr_gc:git\x20commit\x20\x2dm\x20\x22
+SETUVAR _fish_abbr_glz:git\x20add\x20\x2dA\x3b\x20git\x20commit\x20\x2dm\x20\x22Update\x22\x3b\x20git\x20push
 SETUVAR _fish_abbr_gp:git\x20push
 SETUVAR _fish_abbr_gpl:git\x20pull
 SETUVAR _fish_abbr_grabc:xcolor\x20\x7c\x20xsel\x20\x2db
 SETUVAR _fish_abbr_gs:git\x20status
 SETUVAR _fish_abbr_kl1:killall\x20listen1
 SETUVAR _fish_abbr_ls1:ls\x20\x2d1
+SETUVAR _fish_abbr_mount_2D_SHARED:sudo\x20vmhgfs\x2dfuse\x20\x2do\x20allow_other\x20\x2do\x20auto_unmount\x20\x2ehost\x3a/474lu\x2dSHARED\x20\x7e/Share
 SETUVAR _fish_abbr_pS:sudo\x20pacman\x20\x2dS
 SETUVAR _fish_abbr_pSn:sudo\x20pacman\x20\x2dS\x20\x2d\x2dneeded
 SETUVAR _fish_abbr_pSy:sudo\x20pacman\x20\x2dSyy
@@ -76,5 +78,5 @@ SETUVAR fish_greeting:
 SETUVAR fish_key_bindings:fish_default_key_bindings
 SETUVAR fish_pager_color_completion:normal
 SETUVAR fish_pager_color_description:B3A06D\x1eyellow
-SETUVAR fish_pager_color_prefix:white\x1e\x2d\x2dbold\x1e\x2d\x2dunderline
+SETUVAR fish_pager_color_prefix:normal\x1e\x2d\x2dbold\x1e\x2d\x2dunderline
 SETUVAR fish_pager_color_progress:brwhite\x1e\x2d\x2dbackground\x3dcyan

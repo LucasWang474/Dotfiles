@@ -1,0 +1,9 @@
+{
+	"font_size": 18,
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+	"theme": "auto",
+	"color_scheme": "Packages/Dracula Color Scheme/Dracula.tmTheme",
+}

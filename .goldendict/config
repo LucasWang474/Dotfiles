@@ -40,24 +40,24 @@
   <languageCodes></languageCodes>
  </forvo>
  <mediawikis>
-  <mediawiki name="English Wikipedia" id="ae6f89aac7151829681b85f035d54e48" enabled="1" icon="" url="https://en.wikipedia.org/w"/>
-  <mediawiki name="English Wiktionary" id="affcf9678e7bfe701c9b071f97eccba3" enabled="0" icon="" url="https://en.wiktionary.org/w"/>
-  <mediawiki name="Russian Wikipedia" id="8e0c1c2b6821dab8bdba8eb869ca7176" enabled="0" icon="" url="https://ru.wikipedia.org/w"/>
-  <mediawiki name="Russian Wiktionary" id="b09947600ae3902654f8ad4567ae8567" enabled="0" icon="" url="https://ru.wiktionary.org/w"/>
-  <mediawiki name="German Wikipedia" id="a8a66331a1242ca2aeb0b4aed361c41d" enabled="0" icon="" url="https://de.wikipedia.org/w"/>
-  <mediawiki name="German Wiktionary" id="21c64bca5ec10ba17ff19f3066bc962a" enabled="0" icon="" url="https://de.wiktionary.org/w"/>
-  <mediawiki name="Portuguese Wikipedia" id="96957cb2ad73a20c7a1d561fc83c253a" enabled="0" icon="" url="https://pt.wikipedia.org/w"/>
-  <mediawiki name="Portuguese Wiktionary" id="ed4c3929196afdd93cc08b9a903aad6a" enabled="0" icon="" url="https://pt.wiktionary.org/w"/>
-  <mediawiki name="Greek Wikipedia" id="f3b4ec8531e52ddf5b10d21e4577a7a2" enabled="0" icon="" url="https://el.wikipedia.org/w"/>
-  <mediawiki name="Greek Wiktionary" id="5d45232075d06e002dea72fe3e137da1" enabled="0" icon="" url="https://el.wiktionary.org/w"/>
-  <mediawiki name="Chinese Wikipedia" id="5dad18631dee86a9ccd2be361b6362b4" enabled="1" icon="" url="https://zh.wikipedia.org/w"/>
+  <mediawiki name="English Wikipedia" icon="" id="ae6f89aac7151829681b85f035d54e48" url="https://en.wikipedia.org/w" enabled="1"/>
+  <mediawiki name="English Wiktionary" icon="" id="affcf9678e7bfe701c9b071f97eccba3" url="https://en.wiktionary.org/w" enabled="0"/>
+  <mediawiki name="Russian Wikipedia" icon="" id="8e0c1c2b6821dab8bdba8eb869ca7176" url="https://ru.wikipedia.org/w" enabled="0"/>
+  <mediawiki name="Russian Wiktionary" icon="" id="b09947600ae3902654f8ad4567ae8567" url="https://ru.wiktionary.org/w" enabled="0"/>
+  <mediawiki name="German Wikipedia" icon="" id="a8a66331a1242ca2aeb0b4aed361c41d" url="https://de.wikipedia.org/w" enabled="0"/>
+  <mediawiki name="German Wiktionary" icon="" id="21c64bca5ec10ba17ff19f3066bc962a" url="https://de.wiktionary.org/w" enabled="0"/>
+  <mediawiki name="Portuguese Wikipedia" icon="" id="96957cb2ad73a20c7a1d561fc83c253a" url="https://pt.wikipedia.org/w" enabled="0"/>
+  <mediawiki name="Portuguese Wiktionary" icon="" id="ed4c3929196afdd93cc08b9a903aad6a" url="https://pt.wiktionary.org/w" enabled="0"/>
+  <mediawiki name="Greek Wikipedia" icon="" id="f3b4ec8531e52ddf5b10d21e4577a7a2" url="https://el.wikipedia.org/w" enabled="0"/>
+  <mediawiki name="Greek Wiktionary" icon="" id="5d45232075d06e002dea72fe3e137da1" url="https://el.wiktionary.org/w" enabled="0"/>
+  <mediawiki name="Chinese Wikipedia" icon="" id="5dad18631dee86a9ccd2be361b6362b4" url="https://zh.wikipedia.org/w" enabled="1"/>
  </mediawikis>
  <websites>
-  <website name="Google En-En (Oxford)" id="b88cb2898e634c6638df618528284c2d" enabled="0" icon="" url="https://www.google.com/dictionary?aq=f&amp;langpair=en|en&amp;q=%GDWORD%&amp;hl=en"/>
-  <website name="Urban Dictionary" id="f376365a0de651fd7505e7e5e683aa45" enabled="0" icon="" url="https://www.urbandictionary.com/define.php?term=%GDWORD%"/>
-  <website name="Multitran (En)" id="324ca0306187df7511b26d3847f4b07c" enabled="0" icon="" url="https://multitran.ru/c/m.exe?CL=1&amp;l1=1&amp;s=%GD1251%"/>
-  <website name="Lingvo (En-Ru)" id="924db471b105299c82892067c0f10787" enabled="0" icon="" url="http://lingvopro.abbyyonline.com/en/Search/en-ru/%GDWORD%"/>
-  <website name="Michaelis (Pt-En)" id="087a6d65615fb047f4c80eef0a9465db" enabled="0" icon="" url="http://michaelis.uol.com.br/moderno/ingles/index.php?lingua=portugues-ingles&amp;palavra=%GDISO1%"/>
+  <website name="Google En-En (Oxford)" icon="" id="b88cb2898e634c6638df618528284c2d" url="https://www.google.com/dictionary?aq=f&amp;langpair=en|en&amp;q=%GDWORD%&amp;hl=en" enabled="0"/>
+  <website name="Urban Dictionary" icon="" id="f376365a0de651fd7505e7e5e683aa45" url="https://www.urbandictionary.com/define.php?term=%GDWORD%" enabled="0"/>
+  <website name="Multitran (En)" icon="" id="324ca0306187df7511b26d3847f4b07c" url="https://multitran.ru/c/m.exe?CL=1&amp;l1=1&amp;s=%GD1251%" enabled="0"/>
+  <website name="Lingvo (En-Ru)" icon="" id="924db471b105299c82892067c0f10787" url="http://lingvopro.abbyyonline.com/en/Search/en-ru/%GDWORD%" enabled="0"/>
+  <website name="Michaelis (Pt-En)" icon="" id="087a6d65615fb047f4c80eef0a9465db" url="http://michaelis.uol.com.br/moderno/ingles/index.php?lingua=portugues-ingles&amp;palavra=%GDISO1%" enabled="0"/>
  </websites>
  <dictservers/>
  <programs/>
@@ -80,7 +80,7 @@
   <doubleClickTranslates>1</doubleClickTranslates>
   <selectWordBySingleClick>0</selectWordBySingleClick>
   <escKeyHidesMainWindow>0</escKeyHidesMainWindow>
-  <zoomFactor>1.9</zoomFactor>
+  <zoomFactor>2</zoomFactor>
   <helpZoomFactor>1</helpZoomFactor>
   <wordsZoomLevel>0</wordsZoomLevel>
   <enableMainWindowHotkey>1</enableMainWindowHotkey>
@@ -89,10 +89,10 @@
   <clipboardHotkey>Ctrl+C, Ctrl+C</clipboardHotkey>
   <enableScanPopup>1</enableScanPopup>
   <startWithScanPopupOn>0</startWithScanPopupOn>
-  <enableScanPopupModifiers>0</enableScanPopupModifiers>
-  <scanPopupModifiers>0</scanPopupModifiers>
+  <enableScanPopupModifiers>1</enableScanPopupModifiers>
+  <scanPopupModifiers>7</scanPopupModifiers>
   <scanPopupAltMode>0</scanPopupAltMode>
-  <scanPopupAltModeSecs>3</scanPopupAltModeSecs>
+  <scanPopupAltModeSecs>1</scanPopupAltModeSecs>
   <scanToMainWindow>0</scanToMainWindow>
   <scanPopupUseUIAutomation>1</scanPopupUseUIAutomation>
   <scanPopupUseIAccessibleEx>1</scanPopupUseIAccessibleEx>
@@ -108,7 +108,7 @@
   <proxyserver enabled="1" useSystemProxy="0">
    <type>0</type>
    <host>127.0.0.1</host>
-   <port>1081</port>
+   <port>1080</port>
    <user></user>
    <password></password>
    <systemProxyUser></systemProxyUser>

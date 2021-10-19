@@ -82,9 +82,7 @@ ZSH_THEME="ys"
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(
-  git
-)
+plugins=(git)
 
 source $ZSH/oh-my-zsh.sh
 
@@ -116,7 +114,9 @@ source /usr/share/zsh/plugins/zsh-history-substring-search/zsh-history-substring
 # Compilation flags
 # export ARCHFLAGS="-arch x86_64"
 
+
 ####   ARCOLINUX SETTINGS   ####
+
 
 # source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 
@@ -134,12 +134,12 @@ export VISUAL='nano'
 
 #PS1='[\u@\h \W]\$ '
 
-if [ -d "$HOME/.bin" ]; then
-  PATH="$HOME/.bin:$PATH"
+if [ -d "$HOME/.bin" ] ;
+  then PATH="$HOME/.bin:$PATH"
 fi
 
-if [ -d "$HOME/.local/bin" ]; then
-  PATH="$HOME/.local/bin:$PATH"
+if [ -d "$HOME/.local/bin" ] ;
+  then PATH="$HOME/.local/bin:$PATH"
 fi
 
 #list
@@ -156,8 +156,8 @@ alias udpate='sudo pacman -Syyu'
 alias upate='sudo pacman -Syyu'
 alias updte='sudo pacman -Syyu'
 alias updqte='sudo pacman -Syyu'
-alias upqll="yay -Syu --noconfirm"
-alias upal="yay -Syu --noconfirm"
+alias upqll="paru -Syu --noconfirm"
+alias upal="paru -Syu --noconfirm"
 
 ## Colorize the grep command output for ease of use (good for log files)##
 alias grep='grep --color=auto'
@@ -174,11 +174,11 @@ alias rmpacmanlock="sudo rm /var/lib/pacman/db.lck"
 #arcolinux logout unlock
 alias rmlogoutlock="sudo rm /tmp/arcologout.lock"
 
+#which graphical card is working
+alias whichvga="/usr/local/bin/arcolinux-which-vga"
+
 #free
 alias free="free -mt"
-
-#use all cores
-alias uac="sh ~/.bin/main/000*"
 
 #continue download
 alias wget="wget -c"
@@ -194,9 +194,9 @@ alias merge="xrdb -merge ~/.Xresources"
 alias pacman='sudo pacman --color auto'
 alias update='sudo pacman -Syyu'
 
-# yay as aur helper - updates everything
-alias pksyua="yay -Syu --noconfirm"
-alias upall="yay -Syu --noconfirm"
+# paru as aur helper - updates everything
+alias pksyua="paru -Syu --noconfirm"
+alias upall="paru -Syu --noconfirm"
 
 #ps
 alias psa="ps auxf"
@@ -209,7 +209,7 @@ alias update-grub="sudo grub-mkconfig -o /boot/grub/grub.cfg"
 alias update-fc='sudo fc-cache -fv'
 
 #copy/paste all content of /etc/skel over to home folder - backup of config created - beware
-alias skel='cp -Rf ~/.config ~/.config-backup-$(date +%Y.%m.%d-%H.%M.%S) && cp -rf /etc/skel/* ~'
+alias skel='[ -d ~/.config ] || mkdir ~/.config && cp -Rf ~/.config ~/.config-backup-$(date +%Y.%m.%d-%H.%M.%S) && cp -rf /etc/skel/* ~'
 #backup contents of /etc/skel to hidden backup folder in home/user
 alias bupskel='cp -Rf /etc/skel ~/.skel-backup-$(date +%Y.%m.%d-%H.%M.%S)'
 
@@ -233,6 +233,7 @@ alias kc='killall conky'
 alias hw="hwinfo --short"
 
 #skip integrity check
+alias paruskip='paru -S --mflags --skipinteg'
 alias yayskip='yay -S --mflags --skipinteg'
 alias trizenskip='trizen -S --skipinteg'
 
@@ -295,10 +296,13 @@ alias ngrub="sudo $EDITOR /etc/default/grub"
 alias nconfgrub="sudo $EDITOR /boot/grub/grub.cfg"
 alias nmkinitcpio="sudo $EDITOR /etc/mkinitcpio.conf"
 alias nmirrorlist="sudo $EDITOR /etc/pacman.d/mirrorlist"
+alias narcomirrorlist='sudo nano /etc/pacman.d/arcolinux-mirrorlist'
 alias nsddm="sudo $EDITOR /etc/sddm.conf"
+alias nsddmk="sudo $EDITOR /etc/sddm.conf.d/kde_settings.conf"
 alias nfstab="sudo $EDITOR /etc/fstab"
 alias nnsswitch="sudo $EDITOR /etc/nsswitch.conf"
 alias nsamba="sudo $EDITOR /etc/samba/smb.conf"
+alias ngnupgconf="sudo nano /etc/pacman.d/gnupg/gpg.conf"
 alias nb="$EDITOR ~/.bashrc"
 alias nz="$EDITOR ~/.zshrc"
 
@@ -309,14 +313,22 @@ alias fix-gpg-check="gpg2 --keyserver-options auto-key-retrieve --verify"
 #receive the key of a developer
 alias gpg-retrieve="gpg2 --keyserver-options auto-key-retrieve --receive-keys"
 alias fix-gpg-retrieve="gpg2 --keyserver-options auto-key-retrieve --receive-keys"
-alias fix-key="[ -d ~/.gnupg ] || mkdir ~/.gnupg ; cp /etc/pacman.d/gnupg/gpg.conf ~/.gnupg/ ; echo 'done'"
+alias fix-keyserver="[ -d ~/.gnupg ] || mkdir ~/.gnupg ; cp /etc/pacman.d/gnupg/gpg.conf ~/.gnupg/ ; echo 'done'"
+
+#fixes
+alias fix-permissions="sudo chown -R $USER:$USER ~/.config ~/.local"
+alias keyfix="/usr/local/bin/arcolinux-fix-pacman-databases-and-keys"
+alias fix-key="/usr/local/bin/arcolinux-fix-pacman-databases-and-keys"
+alias fix-sddm-config="/usr/local/bin/arcolinux-fix-sddm-config"
+alias fix-pacman-conf="/usr/local/bin/arcolinux-fix-pacman-conf"
 
 #maintenance
 alias big="expac -H M '%m\t%n' | sort -h | nl"
-alias downgrada="sudo downgrade --ala-url https://bike.seedhost.eu/arcolinux/"
+alias downgrada="sudo downgrade --ala-url https://ant.seedhost.eu/arcolinux/"
 
 #systeminfo
 alias probe="sudo -E hw-probe -all -upload"
+alias sysfailed="systemctl list-units --failed"
 
 #shutdown or reboot
 alias ssn="sudo shutdown now"
@@ -330,29 +342,48 @@ alias xd="ls /usr/share/xsessions"
 
 # # ex = EXtractor for all kinds of archives
 # # usage: ex <file>
-ex() {
-  if [ -f $1 ]; then
+ex ()
+{
+  if [ -f $1 ] ; then
     case $1 in
-    *.tar.bz2) tar xjf $1 ;;
-    *.tar.gz) tar xzf $1 ;;
-    *.bz2) bunzip2 $1 ;;
-    *.rar) unrar x $1 ;;
-    *.gz) gunzip $1 ;;
-    *.tar) tar xf $1 ;;
-    *.tbz2) tar xjf $1 ;;
-    *.tgz) tar xzf $1 ;;
-    *.zip) unzip $1 ;;
-    *.Z) uncompress $1 ;;
-    *.7z) 7z x $1 ;;
-    *.deb) ar x $1 ;;
-    *.tar.xz) tar xf $1 ;;
-    *.tar.zst) tar xf $1 ;;
-    *) echo "'$1' cannot be extracted via ex()" ;;
+      *.tar.bz2)   tar xjf $1   ;;
+      *.tar.gz)    tar xzf $1   ;;
+      *.bz2)       bunzip2 $1   ;;
+      *.rar)       unrar x $1   ;;
+      *.gz)        gunzip $1    ;;
+      *.tar)       tar xf $1    ;;
+      *.tbz2)      tar xjf $1   ;;
+      *.tgz)       tar xzf $1   ;;
+      *.zip)       unzip $1     ;;
+      *.Z)         uncompress $1;;
+      *.7z)        7z x $1      ;;
+      *.deb)       ar x $1      ;;
+      *.tar.xz)    tar xf $1    ;;
+      *.tar.zst)   tar xf $1    ;;
+      *)           echo "'$1' cannot be extracted via ex()" ;;
     esac
   else
     echo "'$1' is not a valid file"
   fi
 }
+
+#arcolinux applications
+alias att="arcolinux-tweak-tool"
+alias adt="arcolinux-desktop-trasher"
+alias abl="arcolinux-betterlockscreen"
+alias agm="arcolinux-get-mirrors"
+alias amr="arcolinux-mirrorlist-rank-info"
+alias aom="arcolinux-osbeck-as-mirror"
+alias ars="arcolinux-reflector-simple"
+alias atm="arcolinux-tellme"
+alias avs="arcolinux-vbox-share"
+alias awa="arcolinux-welcome-app"
+
+#remove
+alias rmgitcache="rm -r ~/.cache/git"
+
+#moving your personal files and folders from /personal to ~
+alias personal='cp -Rf /personal/* ~'
 
 #create a file called .zshrc-personal and put all your personal aliases
 #in there. They will not be overwritten by skel.
@@ -361,7 +392,7 @@ ex() {
 
 # reporting tools - install when not installed
 # install neofetch
-# neofetch
+neofetch
 # install screenfetch
 #screenfetch
 # install ufetch-git
