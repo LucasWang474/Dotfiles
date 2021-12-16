@@ -1,0 +1,792 @@
+[I 2021-12-13T16:37:00.828Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-13T16:37:00.839Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-13T17:37:00.842Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-13T17:37:00.843Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-13T17:39:32.482Z snowbrush] db write {
+  'text/plain': '04git+ES6+nodeJS+http+npm+express+mongoDB\r\n' +
+    '\t181 old cards\r\n' +
+    '\t\t这一部分需要好好地复习\r\n' +
+    '\tgit\r\n' +
+    '\t\t46\r\n' +
+    '\tES6+nodeJS\r\n' +
+    '\t\t95\r\n' +
+    '\thttp\r\n' +
+    '\t\t40',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '88e95695d88963905151980128'
+  },
+  xapInfoMap: {}
+}
+[I 2021-12-13T17:40:36.122Z snowbrush] Export image time: from 1639417236122 to 1639417236122.
+[I 2021-12-13T17:42:36.303Z snowbrush] Export image time: from 1639417356303 to 1639417356303.
+[I 2021-12-13T18:37:00.888Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-13T18:37:00.890Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-13T18:53:05.891Z snowbrush] db write {
+  'text/plain': '10, Fri (95 minutes, 1.5 hours)\r\n' +
+    '\tRecords\r\n' +
+    '\t\tLearning\r\n' +
+    '\t\t\tAnki Review\r\n' +
+    '\t\t\t\t01HTML+CSS\r\n' +
+    '\t\t\t\t\t257 old cards\r\n' +
+    '\t\t\t\t\t14:00 to 14:30 (30 + 0 = 30)\r\n' +
+    '\t\t\t\t\t16:00 to 16:30 (30 + 30 = 60)\r\n' +
+    '\t\t\t\t\t22:00 to 22:35 (35 + 60 = 95)\r\n' +
+    '\t\tRituals\r\n' +
+    '\t\t\tShower\r\n' +
+    '\t\t\t\tDone\r\n' +
+    '\t\t\tClean up your room\r\n' +
+    '\t\t\t\tDone\r\n' +
+    '\t\t\t\t14:30 to 16:00\r\n' +
+    '\t\t\t\t16:30 to 18:30\r\n' +
+    '\t\t\t\t18:30 to 22:00\r\n' +
+    '\t\t\t\t\tDinner\r\n' +
+    '\t\t\t\t\tBreak\r\n' +
+    '11, Sat (185 minutes, 3 hours)\r\n' +
+    '\tRecords\r\n' +
+    '\t\tAnki Review\r\n' +
+    '\t\t\t01HTML+CSS (125 + 0 = 125)\r\n' +
+    '\t\t\t\t183 old cards\r\n' +
+    '\t\t\t\t15:00 to 15:35 (35 + 0 = 35)\r\n' +
+    '\t\t\t\t15:35 to 15:45 (B 10 + 0 = 10)\r\n' +
+    '\t\t\t\t\tPE\r\n' +
+    '\t\t\t\t15:45 to 16:25 (40 + 35 = 75)\r\n' +
+    '\t\t\t\t\t105 old cards left\r\n' +
+    '\t\t\t\t16:25 to 17:50 (B 115 + 10 = 125)\r\n' +
+    '\t\t\t\t\tDinner\r\n' +
+    '\t\t\t\t17:50 to 18:20 (30 + 75 = 105)\r\n' +
+    '\t\t\t\t\t50 old cards left\r\n' +
+    '\t\t\t\t18:20 to 18:45 (B 25 + 125 = 150)\r\n' +
+    '\t\t\t\t\tBreak\r\n' +
+    '\t\t\t\t\tWash up\r\n' +
+    '\t\t\t\t18:45 to 19:05 (20 + 105 = 125)\r\n' +
+    '\t\t\t\t\tDone\r\n' +
+    '\t\t\t\t19:05 to 19:20 (B 15 + 150 = 165)\r\n' +
+    '\t\t\t\t\tBreak\r\n' +
+    '\t\t\t02JavaScript (60 + 125 = 185)\r\n' +
+    '\t\t\t\t543 old cards\r\n' +
+    '\t\t\t\t19:20 to 19:50 (30 + 125 = 155)\r\n' +
+    '\t\t\t\t\t51 cards\r\n' +
+    '\t\t\t\t\t492 left\r\n' +
+    '\t\t\t\t19:50 to 20:05 (B 15 + 165 = 180)\r\n' +
+    '\t\t\t\t20:05 to 20:35 (30 + 155 = 185)\r\n' +
+    '\t\t\t\t\t83 cards\r\n' +
+    '\t\t\t\t\t409 left\r\n' +
+    '\t\t\t\t20:35 to 23:50\r\n' +
+    '\t\t\t\t\tEntertainment\r\n' +
+    '\t\t\t\t\t奖励时间\r\n' +
+    '\t\t\t\t\t\t之后慢慢提高奖励的门槛\r\n' +
+    '\t\tPE\r\n' +
+    '\t\t\tConvict Conditioning (>= 3 sets)\r\n' +
+    '\t\t\t\tFull Pull-ups\r\n' +
+    '\t\t\t\t\t3\r\n' +
+    '\t\t\t\tFull Squats\r\n' +
+    '\t\t\t\t\t8 + 8\r\n' +
+    '\t\t\t\tFull Push-ups\r\n' +
+    '\t\t\t\t\t6\r\n' +
+    '\t\t\t\tFlat Full Leg Raises\r\n' +
+    '\t\t\t\t\t10\r\n' +
+    '\t\t\t\tWalking Down and Up Bridges\r\n' +
+    '\t\t\t\t\t1\r\n' +
+    '\t\tRituals\r\n' +
+    '\t\t\tDinner\r\n' +
+    '\t\t\t\t<= 1.5 hours\r\n' +
+    '\t\t\t\t16:25 to 17:50 (115 minutes)\r\n' +
+    '\t\t\tBrush your teeth after dinner\r\n' +
+    '\t\t\t\tDone\r\n' +
+    '\t\t\t美团优选\r\n' +
+    '\t\t\t\t大宝\r\n' +
+    '\t\t\t\t\tDone\r\n' +
+    '12, Sun (325 minutes, 5.5 hours)\r\n' +
+    '\tRecords\r\n' +
+    '\t\tAnki Review\r\n' +
+    '\t\t\t01HTML+CSS (20 + 0 = 20)\r\n' +
+    '\t\t\t\t35 old cards\r\n' +
+    '\t\t\t\t16:10 to 16:30 (20 + 0 = 20)\r\n' +
+    '\t\t\t\t16:30 to 16:45 (15)\r\n' +
+    '\t\t\t\t\t前后鼻音纠正\r\n' +
+    '\t\t\t02JavaScript (305 + 20 = 325)\r\n' +
+    '\t\t\t\t424 old cards\r\n' +
+    '\t\t\t\t\tMUST FINISH ALL OLD CARDS\r\n' +
+    '\t\t\t\t16:45 to 17:05 (20 + 20 = 40)\r\n' +
+    '\t\t\t\t17:05 to 17:15 (B 10 + 0 = 10)\r\n' +
+    '\t\t\t\t17:15 to 17:50 (35 + 40 = 75)\r\n' +
+    '\t\t\t\t17:50 to 19:00 (B 70 + 10 = 80)\r\n' +
+    '\t\t\t\t\tDinner\r\n' +
+    '\t\t\t\t19:00 to 19:25 (25 + 75 = 100)\r\n' +
+    '\t\t\t\t19:25 to 19:30 (B 5 + 80 = 85)\r\n' +
+    '\t\t\t\t19:30 to 19:45 (15 + 100 = 115)\r\n' +
+    '\t\t\t\t19:45 to 20:00 (15 + 115 = 130)\r\n' +
+    '\t\t\t\t20:00 to 20:25 (B 25 + 85 = 110)\r\n' +
+    '\t\t\t\t20:25 to 21:10 (45 + 130 = 175)\r\n' +
+    '\t\t\t\t\t221 left\r\n' +
+    '\t\t\t\t21:10 to 21:25 (B 15 + 110 = 125)\r\n' +
+    '\t\t\t\t21:25 to 22:05 (40 + 175 = 215)\r\n' +
+    '\t\t\t\t\t154 left\r\n' +
+    '\t\t\t\t22:05 to 22:40 (B 35 + 125 = 160)\r\n' +
+    '\t\t\t\t\tBreak\r\n' +
+    '\t\t\t\t\tExercise\r\n' +
+    '\t\t\t\t22:40 to 23:20 (40 + 215 = 255)\r\n' +
+    '\t\t\t\t\t98 left\r\n' +
+    '\t\t\t\t23:20 to 0:50 (B 90 + 160 = 250)\r\n' +
+    '\t\t\t\t\tBreak\r\n' +
+    '\t\t\t\t\t一不小心又被诱惑了\r\n' +
+    '\t\t\t\t\t下一次再遇到这种情况首先开启 block，然后开启 30 分钟冷静期\r\n' +
+    '\t\t\t\t0:50 to 2:00 (70 + 255 = 325)\r\n' +
+    '\t\t\t\t\t47 left\r\n' +
+    '\t\tPE\r\n' +
+    '\t\t\tConvict Conditioning\r\n' +
+    '\t\t\t\tFlat Full Leg Raises\r\n' +
+    '\t\t\t\t\t15\r\n' +
+    '\t\t\t\tFull Pull-ups\r\n' +
+    '\t\t\t\t\t4\r\n' +
+    '\t\t\t\tAided One Legged Squats\r\n' +
+    '\t\t\t\t\t6 + 0\r\n' +
+    '\t\t\t\t\t10 + 10\r\n' +
+    '\t\t\t\tFull Push-ups\r\n' +
+    '\t\t\t\tWall Walking Bridges Down and Up \r\n' +
+    '\t\tRituals\r\n' +
+    '\t\t\tDinner\r\n' +
+    '\t\t\t\t<= 1 hour\r\n' +
+    '\t\t\t\t70 minutes\r\n' +
+    '\t\t\t美团优选\r\n' +
+    '\t\t\t\tGet 大宝',
+  'text/x-array-json': [
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] }
+  ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '88e95695d88963905151980128'
+  },
+  xapInfoMap: {}
+}
+[I 2021-12-13T18:53:16.054Z snowbrush] db write {
+  'text/plain': '13, Mon (>= 540 minutes, 9 hours)\r\n' +
+    '\tRecords\r\n' +
+    '\t\tEveryday\r\n' +
+    '\t\t\tAnki Review (210 + 0 = 210)\r\n' +
+    '\t\t\t\t01HTML+CSS + 02JavaScript (90 + 0 = 90)\r\n' +
+    '\t\t\t\t\t163 old cards\r\n' +
+    '\t\t\t\t\t\tMUST FINISH ALL CARDS\r\n' +
+    '\t\t\t\t\t14:00 to 14:40 (40 + 0 = 40)\r\n' +
+    '\t\t\t\t\t\t85 left\r\n' +
+    '\t\t\t\t\t14:40 to 15:10 (B 30 + 0 = 30)\r\n' +
+    '\t\t\t\t\t\tSleep\r\n' +
+    '\t\t\t\t\t15:10 to 15:50 (40 + 40 = 80)\r\n' +
+    '\t\t\t\t\t\t31 left\r\n' +
+    '\t\t\t\t\t15:50 to 16:00 (B 10 + 30 = 40)\r\n' +
+    '\t\t\t\t\t16:00 to 16:10 (10 + 80 = 90)\r\n' +
+    '\t\t\t\t03PC+JS+jQuery+Bootstrap (120 + 90 = 210)\r\n' +
+    '\t\t\t\t\t177 old cards\r\n' +
+    '\t\t\t\t\t\tMUST FINISH ALL CARDS\r\n' +
+    '\t\t\t\t\tPC (20)\r\n' +
+    '\t\t\t\t\t\t22\r\n' +
+    '\t\t\t\t\t\t16:10 to 16:15 (B 5 + 40 = 45)\r\n' +
+    '\t\t\t\t\t\t16:15 to 16:35 (20 + 90 = 110)\r\n' +
+    '\t\t\t\t\tJS-Advanced (30)\r\n' +
+    '\t\t\t\t\t\t52\r\n' +
+    '\t\t\t\t\t\t16:35  to 16:50 (15 + 110 = 125)\r\n' +
+    '\t\t\t\t\t\t16:50 to 17:00 (B 10 + 45 = 55)\r\n' +
+    '\t\t\t\t\t\t17:00 to 17:15 (15 + 125 = 140)\r\n' +
+    '\t\t\t\t\tjQuery (40)\r\n' +
+    '\t\t\t\t\t\t60\r\n' +
+    '\t\t\t\t\t\t17:15 to 17:30 (15 + 140 = 155)\r\n' +
+    '\t\t\t\t\t\t17:30 to 19:10 (B 100 + 45 = 145)\r\n' +
+    '\t\t\t\t\t\t\tDinner\r\n' +
+    '\t\t\t\t\t\t\tBreak\r\n' +
+    '\t\t\t\t\t\t19:10 to 21:55 (B 165 + 145 = 310)\r\n' +
+    '\t\t\t\t\t\t\tPlans\r\n' +
+    '\t\t\t\t\t\t\tBreak\r\n' +
+    '\t\t\t\t\t\t0:45 to 1:10 (25 + 155 = 180)\r\n' +
+    '\t\t\t\t\tBootstrap (30)\r\n' +
+    '\t\t\t\t\t\t43\r\n' +
+    '\t\t\t\t\t\t1:10 to 1:40 (30 + 180 = 210)\r\n' +
+    '\t\t\tEnglish (50 + 210 = 260)\r\n' +
+    '\t\t\t\tWords\r\n' +
+    '\t\t\t\t\t精\r\n' +
+    '\t\t\t\t\t\t4000 Essential English Words\r\n' +
+    '\t\t\t\t\t\t\t10 cards per day\r\n' +
+    '\t\t\t\t\t\t\t21:55 to 22:30 (35 + 0 = 35)\r\n' +
+    '\t\t\t\t\t广\r\n' +
+    '\t\t\t\t\t\tCOCA words 16000 COCA\r\n' +
+    '\t\t\t\t\t\t\t30 words per day\r\n' +
+    '\t\t\t\t\t\t\t22:45 to 23:00 (15 + 35 = 50)\r\n' +
+    '\t\t\t\t\t\t\t23:00 to 0:45 (B 105 + 310 = 415)\r\n' +
+    '\t\t\t\t\t\t\t\t摸鱼\r\n' +
+    '\t\t\tAnki Review\r\n' +
+    '\t\t\t\t04git+ES6+nodeJS+http+npm+express+mongoDB\r\n' +
+    '\t\t\t\t\t181 old cards\r\n' +
+    '\t\t\t\t\t\t这一部分需要好好地复习\r\n' +
+    '\t\t\t\t\tgit\r\n' +
+    '\t\t\t\t\t\t46\r\n' +
+    '\t\t\t\t\t\t1:40 to 1:55 (B 15 + 415 = 430)\r\n' +
+    '\t\t\t\t\t\t1:55 to 2:15 (20 + 260 = 280)\r\n' +
+    '\t\t\t\t\t\t2:15 to 2:55 (B 40 + 430 = 470)\r\n' +
+    '\t\t\t\t\tES6+nodeJS\r\n' +
+    '\t\t\t\t\t\t95\r\n' +
+    '\t\t\t\t\t\t2:55 to \r\n' +
+    '\t\t\t\t\thttp\r\n' +
+    '\t\t\t\t\t\t40\r\n' +
+    '\t\t\tLeetCode\r\n' +
+    '\t\t\t\tExactly 2 problems per day\r\n' +
+    '\t\t\t\thttps://leetcode.com/problems/two-sum/\r\n' +
+    '\t\t\t\thttps://leetcode.com/problems/add-two-numbers/\r\n' +
+    '\t\t\tInterview Preparation\r\n' +
+    '\t\t\t\t每天至少花 30 分钟准备面试\r\n' +
+    '\t\t\t\t\tFront-End-Interview-Notebook\r\n' +
+    '\t\t\tPE\r\n' +
+    '\t\t\t\t由于之前的运动量很小，今天依然可以做至少一组\r\n' +
+    '\t\t\t\tConvict Conditioning\r\n' +
+    '\t\t\t\t\tFlat Full Leg Raises\r\n' +
+    '\t\t\t\t\t\t15\r\n' +
+    '\t\t\t\t\t\t>= 20\r\n' +
+    '\t\t\t\t\tFull Pull-ups\r\n' +
+    '\t\t\t\t\t\t4\r\n' +
+    '\t\t\t\t\t\t>= 5\r\n' +
+    '\t\t\t\t\tAided One Legged Squats\r\n' +
+    '\t\t\t\t\t\t10 + 10\r\n' +
+    '\t\t\t\t\t\t>= 11 + 11\r\n' +
+    '\t\t\t\t\tFull Push-ups\r\n' +
+    '\t\t\t\t\t\t6\r\n' +
+    '\t\t\t\t\t\t>= 8\r\n' +
+    '\t\t\t\t\tWall Walking Bridges Down and Up \r\n' +
+    '\t\t\t\t\t\t1\r\n' +
+    '\t\t\t\t\t\t>= 5\r\n' +
+    '\t\tLearning\r\n' +
+    '\t\tRituals\r\n' +
+    '\t\t\tDinner\r\n' +
+    '\t\t\t\t<= 1 hour\r\n' +
+    '\t\t\t美团优选\r\n' +
+    '\t\t\t\t晚上拿快递\r\n' +
+    '\t\t\tClean up your room\r\n' +
+    '\t\t\t\tFloor\r\n' +
+    '\t\t\t入睡之前 Make plans\r\n' +
+    '\t\t\t\tTomorrow\r\n' +
+    '\t\t\t\tSchedule\r\n' +
+    '\t\t\tME\r\n' +
+    '\t\t\t\tSummary of today\r\n' +
+    '\t\t\t\tReflection\r\n' +
+    '\t\t\t\tDiary\r\n' +
+    '\t\t\tBrush your teeth before sleep\r\n' +
+    '\t\t\tSleep\r\n' +
+    '\t\t\t\tMUST BEFORE 2:00\r\n' +
+    '\t\t\tGet up\r\n' +
+    '\t\t\t\tMUST BEFORE 9:00',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '88e95695d88963905151980128'
+  },
+  xapInfoMap: {}
+}
+[I 2021-12-13T19:37:00.931Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-13T19:37:00.932Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-14T06:59:53.443Z snowbrush] Export image time: from 1639465193443 to 1639465193443.
+[I 2021-12-14T07:02:46.692Z snowbrush] Export image time: from 1639465366692 to 1639465366692.
+[I 2021-12-14T07:30:07.464Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-14T07:30:07.465Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-14T07:51:13.704Z snowbrush] db write {
+  'text/plain': '13, Mon (280 minutes, 4.5 hours) (Penalty: +80 minutes)\r\n' +
+    '\tRecords\r\n' +
+    '\t\tEveryday\r\n' +
+    '\t\t\tAnki Review (210 + 0 = 210)\r\n' +
+    '\t\t\t\t01HTML+CSS + 02JavaScript (90 + 0 = 90)\r\n' +
+    '\t\t\t\t\t163 old cards\r\n' +
+    '\t\t\t\t\t\tMUST FINISH ALL CARDS\r\n' +
+    '\t\t\t\t\t14:00 to 14:40 (40 + 0 = 40)\r\n' +
+    '\t\t\t\t\t\t85 left\r\n' +
+    '\t\t\t\t\t14:40 to 15:10 (B 30 + 0 = 30)\r\n' +
+    '\t\t\t\t\t\tSleep\r\n' +
+    '\t\t\t\t\t15:10 to 15:50 (40 + 40 = 80)\r\n' +
+    '\t\t\t\t\t\t31 left\r\n' +
+    '\t\t\t\t\t15:50 to 16:00 (B 10 + 30 = 40)\r\n' +
+    '\t\t\t\t\t16:00 to 16:10 (10 + 80 = 90)\r\n' +
+    '\t\t\t\t03PC+JS+jQuery+Bootstrap (120 + 90 = 210)\r\n' +
+    '\t\t\t\t\t177 old cards\r\n' +
+    '\t\t\t\t\t\tMUST FINISH ALL CARDS\r\n' +
+    '\t\t\t\t\tPC (20)\r\n' +
+    '\t\t\t\t\t\t22\r\n' +
+    '\t\t\t\t\t\t16:10 to 16:15 (B 5 + 40 = 45)\r\n' +
+    '\t\t\t\t\t\t16:15 to 16:35 (20 + 90 = 110)\r\n' +
+    '\t\t\t\t\tJS-Advanced (30)\r\n' +
+    '\t\t\t\t\t\t52\r\n' +
+    '\t\t\t\t\t\t16:35  to 16:50 (15 + 110 = 125)\r\n' +
+    '\t\t\t\t\t\t16:50 to 17:00 (B 10 + 45 = 55)\r\n' +
+    '\t\t\t\t\t\t17:00 to 17:15 (15 + 125 = 140)\r\n' +
+    '\t\t\t\t\tjQuery (40)\r\n' +
+    '\t\t\t\t\t\t60\r\n' +
+    '\t\t\t\t\t\t17:15 to 17:30 (15 + 140 = 155)\r\n' +
+    '\t\t\t\t\t\t17:30 to 19:10 (B 100 + 45 = 145)\r\n' +
+    '\t\t\t\t\t\t\tDinner\r\n' +
+    '\t\t\t\t\t\t\tBreak\r\n' +
+    '\t\t\t\t\t\t19:10 to 21:55 (B 165 + 145 = 310)\r\n' +
+    '\t\t\t\t\t\t\tPlans\r\n' +
+    '\t\t\t\t\t\t\tBreak\r\n' +
+    '\t\t\t\t\t\t0:45 to 1:10 (25 + 155 = 180)\r\n' +
+    '\t\t\t\t\tBootstrap (30)\r\n' +
+    '\t\t\t\t\t\t43\r\n' +
+    '\t\t\t\t\t\t1:10 to 1:40 (30 + 180 = 210)\r\n' +
+    '\t\t\tEnglish (50 + 210 = 260)\r\n' +
+    '\t\t\t\tWords\r\n' +
+    '\t\t\t\t\t精\r\n' +
+    '\t\t\t\t\t\t4000 Essential English Words\r\n' +
+    '\t\t\t\t\t\t\t10 cards per day\r\n' +
+    '\t\t\t\t\t\t\t21:55 to 22:30 (35 + 0 = 35)\r\n' +
+    '\t\t\t\t\t广\r\n' +
+    '\t\t\t\t\t\tCOCA words 16000 COCA\r\n' +
+    '\t\t\t\t\t\t\t30 words per day\r\n' +
+    '\t\t\t\t\t\t\t22:45 to 23:00 (15 + 35 = 50)\r\n' +
+    '\t\t\t\t\t\t\t23:00 to 0:45 (B 105 + 310 = 415)\r\n' +
+    '\t\t\t\t\t\t\t\t摸鱼\r\n' +
+    '\t\t\tAnki Review\r\n' +
+    '\t\t\t\t04git+ES6+nodeJS+http+npm+express+mongoDB\r\n' +
+    '\t\t\t\t\t181 old cards\r\n' +
+    '\t\t\t\t\t\t这一部分需要好好地复习\r\n' +
+    '\t\t\t\t\tgit\r\n' +
+    '\t\t\t\t\t\t46\r\n' +
+    '\t\t\t\t\t\t1:40 to 1:55 (B 15 + 415 = 430)\r\n' +
+    '\t\t\t\t\t\t1:55 to 2:15 (20 + 260 = 280)\r\n' +
+    '\t\t\t\t\t\t2:15 to 3:10 (B 40 + 430 = 470)\r\n' +
+    '\t\t\t\t\tES6+nodeJS\r\n' +
+    '\t\t\t\t\t\t95\r\n' +
+    '\t\t\t\t\t\t2:55 to \r\n' +
+    '\t\t\t\t\thttp\r\n' +
+    '\t\t\t\t\t\t40\r\n' +
+    '\t\t\tLeetCode\r\n' +
+    '\t\t\t\tExactly 2 problems per day\r\n' +
+    '\t\t\t\thttps://leetcode.com/problems/two-sum/\r\n' +
+    '\t\t\t\thttps://leetcode.com/problems/add-two-numbers/\r\n' +
+    '\t\t\tInterview Preparation\r\n' +
+    '\t\t\t\t每天至少花 30 分钟准备面试\r\n' +
+    '\t\t\t\t\tFront-End-Interview-Notebook\r\n' +
+    '\t\t\tPE\r\n' +
+    '\t\t\t\t由于之前的运动量很小，今天依然可以做至少一组\r\n' +
+    '\t\t\t\tConvict Conditioning\r\n' +
+    '\t\t\t\t\tFlat Full Leg Raises\r\n' +
+    '\t\t\t\t\t\t15\r\n' +
+    '\t\t\t\t\t\t>= 20\r\n' +
+    '\t\t\t\t\tFull Pull-ups\r\n' +
+    '\t\t\t\t\t\t4\r\n' +
+    '\t\t\t\t\t\t>= 5\r\n' +
+    '\t\t\t\t\tAided One Legged Squats\r\n' +
+    '\t\t\t\t\t\t10 + 10\r\n' +
+    '\t\t\t\t\t\t>= 11 + 11\r\n' +
+    '\t\t\t\t\tFull Push-ups\r\n' +
+    '\t\t\t\t\t\t6\r\n' +
+    '\t\t\t\t\t\t>= 8\r\n' +
+    '\t\t\t\t\tWall Walking Bridges Down and Up \r\n' +
+    '\t\t\t\t\t\t1\r\n' +
+    '\t\t\t\t\t\t>= 5\r\n' +
+    '\t\tLearning\r\n' +
+    '\t\tRituals\r\n' +
+    '\t\t\tDinner\r\n' +
+    '\t\t\t\t<= 1 hour\r\n' +
+    '\t\t\t美团优选\r\n' +
+    '\t\t\t\t晚上拿快递\r\n' +
+    '\t\t\tClean up your room\r\n' +
+    '\t\t\t\tFloor\r\n' +
+    '\t\t\t入睡之前 Make plans\r\n' +
+    '\t\t\t\tTomorrow\r\n' +
+    '\t\t\t\tSchedule\r\n' +
+    '\t\t\tME\r\n' +
+    '\t\t\t\tSummary of today\r\n' +
+    '\t\t\t\tReflection\r\n' +
+    '\t\t\t\tDiary\r\n' +
+    '\t\t\tBrush your teeth before sleep\r\n' +
+    '\t\t\tSleep\r\n' +
+    '\t\t\t\tMUST BEFORE 2:00\r\n' +
+    '\t\t\tGet up\r\n' +
+    '\t\t\t\tMUST BEFORE 9:00',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '88e95695d88963905151980128'
+  },
+  xapInfoMap: {}
+}
+[I 2021-12-14T07:51:54.275Z snowbrush] Export image time: from 1639468314275 to 1639468314275.
+[I 2021-12-14T07:53:28.421Z snowbrush] db write {
+  'text/plain': '04git+ES6+nodeJS+http+npm+express+mongoDB\r\n' +
+    '\t181 old cards\r\n' +
+    '\t\t这一部分需要好好地复习\r\n' +
+    '\tgit\r\n' +
+    '\t\t46\r\n' +
+    '\t\t1:40 to 1:55 (B 15 + 415 = 430)\r\n' +
+    '\t\t1:55 to 2:15 (20 + 260 = 280)\r\n' +
+    '\t\t2:15 to 3:10 (B 40 + 430 = 470)\r\n' +
+    '\tES6+nodeJS\r\n' +
+    '\t\t95\r\n' +
+    '\t\t2:55 to \r\n' +
+    '\thttp\r\n' +
+    '\t\t40',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '88e95695d88963905151980128'
+  },
+  xapInfoMap: {}
+}
+[I 2021-12-14T07:55:15.406Z snowbrush] Export image time: from 1639468515406 to 1639468515406.
+[I 2021-12-14T07:55:39.552Z snowbrush] Export image time: from 1639468539552 to 1639468539552.
+[I 2021-12-14T07:56:09.476Z snowbrush] db write {
+  'text/plain': '01HTML+CSS + 02JavaScript (90 + 0 = 90)\r\n' +
+    '\t163 old cards\r\n' +
+    '\t\tMUST FINISH ALL CARDS\r\n' +
+    '\t14:00 to 14:40 (40 + 0 = 40)\r\n' +
+    '\t\t85 left\r\n' +
+    '\t14:40 to 15:10 (B 30 + 0 = 30)\r\n' +
+    '\t\tSleep\r\n' +
+    '\t15:10 to 15:50 (40 + 40 = 80)\r\n' +
+    '\t\t31 left\r\n' +
+    '\t15:50 to 16:00 (B 10 + 30 = 40)\r\n' +
+    '\t16:00 to 16:10 (10 + 80 = 90)\r\n' +
+    '03PC+JS+jQuery+Bootstrap (120 + 90 = 210)\r\n' +
+    '\t177 old cards\r\n' +
+    '\t\tMUST FINISH ALL CARDS\r\n' +
+    '\tPC (20)\r\n' +
+    '\t\t22\r\n' +
+    '\t\t16:10 to 16:15 (B 5 + 40 = 45)\r\n' +
+    '\t\t16:15 to 16:35 (20 + 90 = 110)\r\n' +
+    '\tJS-Advanced (30)\r\n' +
+    '\t\t52\r\n' +
+    '\t\t16:35  to 16:50 (15 + 110 = 125)\r\n' +
+    '\t\t16:50 to 17:00 (B 10 + 45 = 55)\r\n' +
+    '\t\t17:00 to 17:15 (15 + 125 = 140)\r\n' +
+    '\tjQuery (40)\r\n' +
+    '\t\t60\r\n' +
+    '\t\t17:15 to 17:30 (15 + 140 = 155)\r\n' +
+    '\t\t17:30 to 19:10 (B 100 + 45 = 145)\r\n' +
+    '\t\t\tDinner\r\n' +
+    '\t\t\tBreak\r\n' +
+    '\t\t19:10 to 21:55 (B 165 + 145 = 310)\r\n' +
+    '\t\t\tPlans\r\n' +
+    '\t\t\tBreak\r\n' +
+    '\t\t0:45 to 1:10 (25 + 155 = 180)\r\n' +
+    '\tBootstrap (30)\r\n' +
+    '\t\t43\r\n' +
+    '\t\t1:10 to 1:40 (30 + 180 = 210)\r\n' +
+    '04git+ES6+nodeJS+http+npm+express+mongoDB\r\n' +
+    '\t181 old cards\r\n' +
+    '\t\t这一部分需要好好地复习\r\n' +
+    '\tgit\r\n' +
+    '\t\t46\r\n' +
+    '\t\t1:40 to 1:55 (B 15 + 415 = 430)\r\n' +
+    '\t\t1:55 to 2:15 (20 + 260 = 280)\r\n' +
+    '\t\t2:15 to 3:10 (B 40 + 430 = 470)\r\n' +
+    '\tES6+nodeJS\r\n' +
+    '\t\t95\r\n' +
+    '\t\t2:55 to \r\n' +
+    '\thttp\r\n' +
+    '\t\t40',
+  'text/x-array-json': [
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] }
+  ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '88e95695d88963905151980128'
+  },
+  xapInfoMap: {}
+}
+[I 2021-12-14T07:56:38.196Z snowbrush] Export image time: from 1639468598196 to 1639468598196.
+[I 2021-12-14T07:57:05.525Z snowbrush] db write {
+  'text/plain': 'Front-End-Interview-Notebook',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '88e95695d88963905151980128'
+  },
+  xapInfoMap: {}
+}
+[I 2021-12-14T07:57:17.571Z snowbrush] Export image time: from 1639468637571 to 1639468637571.
+[I 2021-12-14T07:58:49.973Z snowbrush] db write {
+  'text/plain': 'https://leetcode.com/problems/two-sum/\r\n' +
+    'https://leetcode.com/problems/add-two-numbers/',
+  'text/x-array-json': [
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] }
+  ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '88e95695d88963905151980128'
+  },
+  xapInfoMap: {}
+}
+[I 2021-12-14T07:58:59.386Z snowbrush] db write {
+  'text/plain': 'Problems',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '88e95695d88963905151980128'
+  },
+  xapInfoMap: {}
+}
+[I 2021-12-14T07:59:37.774Z snowbrush] Export image time: from 1639468777774 to 1639468777774.
+[I 2021-12-14T08:03:26.632Z snowbrush] Export image time: from 1639469006624 to 1639469006624.
+[I 2021-12-14T08:06:12.214Z main:store:plugins:editors:EditorFrame] Frame 1 close
+[I 2021-12-14T08:06:15.924Z main:store:plugins:editors:EditorFrame] Frame 2 close
+[I 2021-12-14T08:06:15.945Z main:store:plugins:editors:EditorFrame] Not find editor view: undefined file:///opt/XMind/resources/app.asar/renderer/editor-frame.html?frameId=2&_apr=dark
+[E 2021-12-14T08:06:16.040Z error:main] TypeError: this.view.destroy is not a function
+    at y.destroy (/opt/XMind/resources/app.asar/main/main.js:7:106494)
+    at async y.close (/opt/XMind/resources/app.asar/main/main.js:7:106148)
+    at async v.close (/opt/XMind/resources/app.asar/main/main.js:30:111567)
+[I 2021-12-14T08:06:21.316Z main:store:plugins:electron] Application is intended to quit.
+[I 2021-12-14T08:06:21.316Z main:store:plugins:electron] Asking all editors to close their documents...
+[I 2021-12-14T08:06:21.317Z main:store:plugins:editors:EditorFrame] Not find editor view: undefined file:///opt/XMind/resources/app.asar/renderer/editor-frame.html?frameId=1&_apr=dark
+
+-------- SESSION 2021-12-14T08:06:24.505Z (10.3.1+202101132117, linux, x64, 16171720704, XMind Ltd., vana_linux_64) --------
+[I 2021-12-14T08:06:24.627Z main:store:plugins:iap] The user is not allowed to make in-app purchase.
+[I 2021-12-14T08:06:24.983Z main:store:plugins:electron] Application will finish launching.
+[I 2021-12-14T08:06:24.985Z main:store:plugins:electron] Application arguments: ["/opt/XMind/xmind"]
+[I 2021-12-14T08:06:24.995Z main:store:plugins:electron] Application is ready.
+[I 2021-12-14T08:06:25.010Z main:store:plugins:open-handler] Recover: Map {
+  '1' => [
+    {
+      source: 'file:///home/lucas/Documents/My/Records.xmind',
+      editorId: '8958f675b4eba6cdb0bc187e17'
+    }
+  ]
+}
+[I 2021-12-14T08:06:25.015Z main:store:plugins:activation-updater] Start updating subscription information periodically.
+[I 2021-12-14T08:06:25.015Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-12-14T08:06:25.016Z main:store:plugins:activation-updater] Start updating per-machine license information periodically.
+[I 2021-12-14T08:06:25.016Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-12-14T08:06:25.208Z main:store:plugins:electron] Device ID: 0a4e2b8c-1b20-4415-a313-3910912c6df7
+[I 2021-12-14T08:07:25.019Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-14T08:07:25.020Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-14T08:10:46.077Z snowbrush] Export image time: from 1639469446069 to 1639469446070.
+[I 2021-12-14T08:10:56.113Z snowbrush] Export image time: from 1639469456113 to 1639469456113.
+[I 2021-12-14T08:13:15.025Z snowbrush] Export image time: from 1639469595025 to 1639469595025.
+[I 2021-12-14T08:13:41.800Z snowbrush] Export image time: from 1639469621800 to 1639469621800.
+[I 2021-12-14T08:24:20.486Z snowbrush] Export image time: from 1639470260477 to 1639470260478.
+[I 2021-12-14T08:46:33.806Z snowbrush] Export image time: from 1639471593805 to 1639471593806.
+[I 2021-12-14T08:46:58.392Z snowbrush] Export image time: from 1639471618392 to 1639471618392.
+[I 2021-12-14T08:47:39.627Z snowbrush] db write {
+  'text/plain': 'OLD',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '88e95695d88963905151980128'
+  },
+  xapInfoMap: {}
+}
+[I 2021-12-14T08:47:43.528Z snowbrush] Export image time: from 1639471663528 to 1639471663528.
+[I 2021-12-14T08:48:00.671Z snowbrush] Export image time: from 1639471680671 to 1639471680671.
+[I 2021-12-14T08:48:09.114Z snowbrush] db write {
+  'text/plain': 'LeetCode\r\n' +
+    '\tExactly 2 problems per day\r\n' +
+    '\tToday\r\n' +
+    '\t\tAnki Review\r\n' +
+    '\t\thttps://leetcode.com/problems/two-sum/\r\n' +
+    '\t\thttps://leetcode.com/problems/add-two-numbers/',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '88e95695d88963905151980128'
+  },
+  xapInfoMap: {}
+}
+[I 2021-12-14T08:48:43.442Z snowbrush] db write {
+  'text/plain': 'English\r\n' +
+    '\tGrammar + Listening\r\n' +
+    '\tWords\r\n' +
+    '\t\t精\r\n' +
+    '\t\t\t4000 Essential English Words\r\n' +
+    '\t\t\t\t10 cards per day\r\n' +
+    '\t\t广 + OLD\r\n' +
+    '\t\t\tCOCA words 16000 COCA\r\n' +
+    '\t\t\t\t50 cards per day\r\n' +
+    'Computer Science\r\n' +
+    'Algorithms\r\n' +
+    '\tLeetCode\r\n' +
+    '\t\tExactly 2 problems per day\r\n' +
+    '\t\tToday\r\n' +
+    '\t\t\tAnki Review\r\n' +
+    '\t\t\thttps://leetcode.com/problems/two-sum/\r\n' +
+    '\t\t\thttps://leetcode.com/problems/add-two-numbers/\r\n' +
+    'Interview Preparation\r\n' +
+    '\t每天至少花 30 分钟准备面试\r\n' +
+    '\tCurrent\r\n' +
+    '\t\tFront-End-Interview-Notebook\r\n' +
+    '\t\t\tHTML\r\n' +
+    '\tToday\r\n' +
+    '\t\tAnki Review\r\n' +
+    '\t\tHTML',
+  'text/x-array-json': [
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] }
+  ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '88e95695d88963905151980128'
+  },
+  xapInfoMap: {}
+}
+[I 2021-12-14T08:50:01.954Z snowbrush] db write {
+  'text/plain': 'Front-end\r\n' +
+    '\t338 old cards in total\r\n' +
+    '\t01HTML+CSS + 02JavaScript\r\n' +
+    '\t\t57 old cards\r\n' +
+    '\t03PC+JS+jQuery+Bootstrap\r\n' +
+    '\t\t118 old cards\r\n' +
+    '\t04git+ES6+nodeJS+http+npm+express+mongoDB\r\n' +
+    '\t\t163 old cards\r\n' +
+    '\t\t\t这一部分需要好好地复习\r\n' +
+    '\t\tgit\r\n' +
+    '\t\t\t28\r\n' +
+    '\t\tES6+nodeJS\r\n' +
+    '\t\t\t95\r\n' +
+    '\t\thttp\r\n' +
+    '\t\t\t40',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '88e95695d88963905151980128'
+  },
+  xapInfoMap: {}
+}
+[I 2021-12-14T08:50:21.535Z snowbrush] Export image time: from 1639471821535 to 1639471821535.
+[I 2021-12-14T09:02:51.200Z snowbrush] Export image time: from 1639472571199 to 1639472571199.
+[I 2021-12-14T09:03:03.012Z snowbrush] Export image time: from 1639472583012 to 1639472583012.
+[I 2021-12-14T09:03:25.252Z snowbrush] Export image time: from 1639472605251 to 1639472605251.
+[I 2021-12-14T09:04:37.011Z snowbrush] Export image time: from 1639472677007 to 1639472677007.
+[I 2021-12-14T09:07:25.067Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-14T09:07:25.068Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-14T10:07:25.089Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-14T10:07:25.091Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-14T10:13:37.216Z snowbrush] Export image time: from 1639476817208 to 1639476817208.
+[I 2021-12-14T10:13:53.943Z snowbrush] db write {
+  'text/plain': 'Computer Systems',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '88e95695d88963905151980128'
+  },
+  xapInfoMap: {}
+}
+[I 2021-12-14T10:14:11.641Z snowbrush] Export image time: from 1639476851641 to 1639476851641.
+[I 2021-12-14T10:14:26.869Z snowbrush] Export image time: from 1639476866869 to 1639476866869.
+[I 2021-12-14T11:07:25.141Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-14T11:07:25.142Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-14T11:51:41.014Z snowbrush] Export image time: from 1639482701014 to 1639482701014.
+[I 2021-12-14T11:51:47.142Z snowbrush] Export image time: from 1639482707142 to 1639482707142.
+[I 2021-12-14T11:51:50.730Z snowbrush] Export image time: from 1639482710730 to 1639482710730.
+[I 2021-12-14T11:51:58.856Z snowbrush] Export image time: from 1639482718856 to 1639482718856.
+[I 2021-12-14T12:07:25.193Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-14T12:07:25.193Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-14T12:13:47.237Z snowbrush] Export image time: from 1639484027237 to 1639484027237.
+
+-------- SESSION 2021-12-14T12:14:15.409Z (10.3.1+202101132117, linux, x64, 16171720704, XMind Ltd., vana_linux_64) --------
+[I 2021-12-14T12:14:15.535Z main:store:plugins:iap] The user is not allowed to make in-app purchase.
+[I 2021-12-14T12:14:15.876Z main:store:plugins:electron] Application will finish launching.
+[I 2021-12-14T12:14:15.877Z main:store:plugins:electron] Application arguments: ["/opt/XMind/xmind"]
+[I 2021-12-14T12:14:15.885Z main:store:plugins:electron] Application is ready.
+[I 2021-12-14T12:14:15.903Z main:store:plugins:open-handler] Recover: Map {
+  '1' => [
+    {
+      source: 'file:///home/lucas/Documents/My/Records.xmind',
+      editorId: '8958f675b4eba6cdb0bc187e17'
+    }
+  ],
+  '2' => [
+    {
+      source: 'file:///home/lucas/Documents/My/Plans.xmind',
+      editorId: 'd0fa5acf78e9d7405d976a0e1d'
+    }
+  ]
+}
+[I 2021-12-14T12:14:15.908Z main:store:plugins:activation-updater] Start updating subscription information periodically.
+[I 2021-12-14T12:14:15.908Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-12-14T12:14:15.908Z main:store:plugins:activation-updater] Start updating per-machine license information periodically.
+[I 2021-12-14T12:14:15.908Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-12-14T12:14:16.226Z main:store:plugins:electron] Device ID: 0a4e2b8c-1b20-4415-a313-3910912c6df7
+[I 2021-12-14T12:15:15.910Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-14T12:15:15.911Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-14T12:46:10.389Z snowbrush] Export image time: from 1639485970389 to 1639485970389.
+[I 2021-12-14T12:47:56.542Z snowbrush] Export image time: from 1639486076542 to 1639486076542.
+[I 2021-12-14T12:59:11.857Z snowbrush] Export image time: from 1639486751849 to 1639486751849.
+[I 2021-12-14T12:59:14.055Z snowbrush] db write {
+  'text/plain': 'every four days',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '88e95695d88963905151980128'
+  },
+  xapInfoMap: {}
+}
+[I 2021-12-14T12:59:16.726Z snowbrush] db write {
+  'text/plain': 'every week',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '88e95695d88963905151980128'
+  },
+  xapInfoMap: {}
+}
+[I 2021-12-14T12:59:22.072Z snowbrush] Export image time: from 1639486762072 to 1639486762072.
+[I 2021-12-14T13:00:34.539Z snowbrush] Export image time: from 1639486834539 to 1639486834539.
+[I 2021-12-14T13:15:15.964Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-14T13:15:15.964Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-14T13:42:41.770Z snowbrush] Export image time: from 1639489361761 to 1639489361761.
+[I 2021-12-14T14:07:18.257Z snowbrush] Export image time: from 1639490838248 to 1639490838249.
+[I 2021-12-14T14:13:41.952Z snowbrush] Export image time: from 1639491221952 to 1639491221952.
+[I 2021-12-14T14:15:15.985Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-14T14:15:15.986Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-14T14:32:05.270Z snowbrush] Export image time: from 1639492325261 to 1639492325261.
+[I 2021-12-14T14:45:21.025Z snowbrush] Export image time: from 1639493121025 to 1639493121025.
+[I 2021-12-14T15:15:15.993Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-14T15:15:15.994Z main:store:plugins:activation-updater] Schedule refresh timeout(null).

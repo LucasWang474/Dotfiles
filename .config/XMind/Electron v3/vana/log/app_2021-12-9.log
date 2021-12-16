@@ -1,0 +1,1165 @@
+[I 2021-12-09T02:16:58.012Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-09T02:16:58.021Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-09T02:44:35.348Z main:store:plugins:electron] Application receives arguments from another instance: ["xmind-2020"] /home/lucas
+[I 2021-12-09T02:44:41.726Z main:store:plugins:electron] Application is intended to quit.
+[I 2021-12-09T02:44:41.726Z main:store:plugins:electron] Asking all editors to close their documents...
+[I 2021-12-09T02:44:41.727Z main:store:plugins:electron] All documents are closed.
+[I 2021-12-09T02:44:41.727Z main:store:plugins:activation-updater] Stop updating per-machine license information periodically.
+[I 2021-12-09T02:44:41.727Z main:store:plugins:activation-updater] Stop updating subscription information periodically.
+[I 2021-12-09T02:44:41.728Z main:store:plugins:electron] Application is intended to quit.
+[W 2021-12-09T02:44:41.747Z UsageTracker] Send fail: Error: Request to https://www.xmind.cn/piwik.php failed, reason: net::ERR_FAILED
+    at ClientRequest.<anonymous> (/opt/XMind/resources/app.asar/main/main.js:30:139579)
+    at ClientRequest.emit (events.js:315:20)
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21)
+
+-------- SESSION 2021-12-09T02:44:45.095Z (11.0.1+202106220606, linux, x64, 16171732992, XMind Ltd., vana_linux) --------
+[I 2021-12-09T02:44:45.231Z main:store:plugins:iap] The user is not allowed to make in-app purchase.
+[I 2021-12-09T02:44:45.598Z main:store:plugins:electron] Application will finish launching.
+[I 2021-12-09T02:44:45.598Z main:store:plugins:electron] Application arguments: ["/opt/XMind/xmind"]
+[I 2021-12-09T02:44:45.605Z main:store:plugins:electron] Application is ready.
+[I 2021-12-09T02:44:45.622Z main:store:plugins:open-handler] Recover: Map {}
+[I 2021-12-09T02:44:45.627Z main:store:plugins:activation-updater] Start updating subscription information periodically.
+[I 2021-12-09T02:44:45.627Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-12-09T02:44:45.627Z main:store:plugins:activation-updater] Start updating per-machine license information periodically.
+[I 2021-12-09T02:44:45.627Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-12-09T02:44:45.761Z main:store:plugins:electron] Device ID: 0a4e2b8c-1b20-4415-a313-3910912c6df7
+[I 2021-12-09T02:44:50.880Z main:store:plugins:electron] Application is intended to quit.
+[I 2021-12-09T02:44:50.880Z main:store:plugins:electron] Asking all editors to close their documents...
+[I 2021-12-09T02:44:50.881Z main:store:plugins:electron] All documents are closed.
+[I 2021-12-09T02:44:50.882Z main:store:plugins:activation-updater] Stop updating per-machine license information periodically.
+[I 2021-12-09T02:44:50.883Z main:store:plugins:activation-updater] Stop updating subscription information periodically.
+[I 2021-12-09T02:44:50.887Z main:store:plugins:electron] Application is intended to quit.
+[W 2021-12-09T02:44:50.892Z UsageTracker] Send fail: Error: Request to https://www.xmind.cn/piwik.php failed, reason: net::ERR_FAILED
+    at ClientRequest.<anonymous> (/opt/XMind/resources/app.asar/main/main.js:30:139579)
+    at ClientRequest.emit (events.js:315:20)
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21)
+
+-------- SESSION 2021-12-09T02:44:57.689Z (11.0.1+202106220606, linux, x64, 16171732992, XMind Ltd., vana_linux) --------
+[I 2021-12-09T02:44:57.824Z main:store:plugins:iap] The user is not allowed to make in-app purchase.
+[I 2021-12-09T02:44:58.154Z main:store:plugins:electron] Application will finish launching.
+[I 2021-12-09T02:44:58.155Z main:store:plugins:electron] Application arguments: ["/opt/XMind/xmind"]
+[I 2021-12-09T02:44:58.163Z main:store:plugins:electron] Application is ready.
+[I 2021-12-09T02:44:58.182Z main:store:plugins:open-handler] Recover: Map {}
+[I 2021-12-09T02:44:58.188Z main:store:plugins:activation-updater] Start updating subscription information periodically.
+[I 2021-12-09T02:44:58.189Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-12-09T02:44:58.189Z main:store:plugins:activation-updater] Start updating per-machine license information periodically.
+[I 2021-12-09T02:44:58.189Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-12-09T02:44:58.323Z main:store:plugins:electron] Device ID: 0a4e2b8c-1b20-4415-a313-3910912c6df7
+[I 2021-12-09T02:45:02.104Z main:store:plugins:electron] Application is intended to quit.
+[I 2021-12-09T02:45:02.104Z main:store:plugins:electron] Asking all editors to close their documents...
+[I 2021-12-09T02:45:02.105Z main:store:plugins:electron] All documents are closed.
+[I 2021-12-09T02:45:02.105Z main:store:plugins:activation-updater] Stop updating per-machine license information periodically.
+[I 2021-12-09T02:45:02.106Z main:store:plugins:activation-updater] Stop updating subscription information periodically.
+[I 2021-12-09T02:45:02.109Z main:store:plugins:electron] Application is intended to quit.
+
+-------- SESSION 2021-12-09T02:45:26.073Z (11.0.1+202106220606, linux, x64, 16171732992, XMind Ltd., vana_linux) --------
+[I 2021-12-09T02:45:26.254Z main:store:plugins:iap] The user is not allowed to make in-app purchase.
+[I 2021-12-09T02:45:26.965Z main:store:plugins:electron] Application will finish launching.
+[I 2021-12-09T02:45:26.968Z main:store:plugins:electron] Application arguments: ["/opt/XMind/xmind"]
+[I 2021-12-09T02:45:26.993Z main:store:plugins:electron] Application is ready.
+[I 2021-12-09T02:45:27.061Z main:store:plugins:open-handler] Recover: Map {}
+[I 2021-12-09T02:45:27.073Z main:store:plugins:activation-updater] Start updating subscription information periodically.
+[I 2021-12-09T02:45:27.073Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-12-09T02:45:27.074Z main:store:plugins:activation-updater] Start updating per-machine license information periodically.
+[I 2021-12-09T02:45:27.074Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-12-09T02:45:27.394Z main:store:plugins:electron] Device ID: 0a4e2b8c-1b20-4415-a313-3910912c6df7
+[I 2021-12-09T02:45:49.842Z main:store:plugins:editors:EditorFrame] Frame 1 close
+[I 2021-12-09T02:45:49.879Z main:store:plugins:editors:EditorFrame] Not find editor view: undefined file:///opt/XMind/resources/app.asar/renderer/editor-frame.html?frameId=1&_apr=dark
+[I 2021-12-09T02:45:50.000Z main:store:plugins:editors:EditorFrame] Frame 1 close
+[I 2021-12-09T02:45:50.118Z main:store:plugins:electron] Application is intended to quit.
+[I 2021-12-09T02:45:50.118Z main:store:plugins:electron] Asking all editors to close their documents...
+[I 2021-12-09T02:45:50.164Z main:store:plugins:editors:EditorFrame] Frame 1 webContents destroyed
+[I 2021-12-09T02:45:50.226Z main:store:plugins:electron] All documents are closed.
+[I 2021-12-09T02:45:50.227Z main:store:plugins:activation-updater] Stop updating per-machine license information periodically.
+[I 2021-12-09T02:45:50.227Z main:store:plugins:activation-updater] Stop updating subscription information periodically.
+[I 2021-12-09T02:45:50.233Z main:store:plugins:electron] Application is intended to quit.
+[I 2021-12-09T02:45:50.233Z main:store:plugins:electron] Application will quit.
+[I 2021-12-09T02:45:50.233Z main:store:plugins:electron] Application quitted.
+
+-------- SESSION 2021-12-09T02:45:52.466Z (11.0.1+202106220606, linux, x64, 16171732992, XMind Ltd., vana_linux) --------
+[I 2021-12-09T02:45:52.580Z main:store:plugins:iap] The user is not allowed to make in-app purchase.
+[I 2021-12-09T02:45:52.948Z main:store:plugins:electron] Application will finish launching.
+[I 2021-12-09T02:45:52.949Z main:store:plugins:electron] Application arguments: ["/opt/XMind/xmind"]
+[I 2021-12-09T02:45:52.958Z main:store:plugins:electron] Application is ready.
+[I 2021-12-09T02:45:52.980Z main:store:plugins:open-handler] Recover: Map {}
+[I 2021-12-09T02:45:52.983Z main:store:plugins:activation-updater] Start updating subscription information periodically.
+[I 2021-12-09T02:45:52.983Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-12-09T02:45:52.983Z main:store:plugins:activation-updater] Start updating per-machine license information periodically.
+[I 2021-12-09T02:45:52.983Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-12-09T02:45:53.121Z main:store:plugins:electron] Device ID: 0a4e2b8c-1b20-4415-a313-3910912c6df7
+[I 2021-12-09T02:46:52.987Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-09T02:46:52.988Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-09T02:48:23.674Z snowbrush] Export image time: from 1639018103674 to 1639018103674.
+[I 2021-12-09T02:48:29.425Z snowbrush] Export image time: from 1639018109425 to 1639018109425.
+[I 2021-12-09T02:48:31.564Z fonts] App Locale: en
+[I 2021-12-09T02:48:31.564Z fonts] start get system fonts
+[I 2021-12-09T02:48:31.911Z fonts] Failed to get system fonts: Error: Unknown font format
+[I 2021-12-09T02:48:33.042Z fonts] Consuming 1478 ms to get system fonts
+[I 2021-12-09T02:54:03.105Z snowbrush] db write {
+  'text/plain': '突破、',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '0999a53b1779edcc976c38633e'
+  },
+  xapInfoMap: {}
+}
+[I 2021-12-09T02:54:37.861Z snowbrush] db write {
+  'text/plain': '自律',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '0999a53b1779edcc976c38633e'
+  },
+  xapInfoMap: {}
+}
+[I 2021-12-09T03:10:51.806Z snowbrush] db write {
+  'text/plain': 'Computer Science\r\nSoftware Engineering',
+  'text/x-array-json': [
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] }
+  ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '0999a53b1779edcc976c38633e'
+  },
+  xapInfoMap: {}
+}
+[I 2021-12-09T03:22:56.459Z snowbrush] null
+[I 2021-12-09T03:23:06.321Z snowbrush] Export image time: from 1639020186321 to 1639020186321.
+[I 2021-12-09T03:46:53.032Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-09T03:46:53.034Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-09T04:46:20.511Z snowbrush] Export image time: from 1639025180511 to 1639025180511.
+[I 2021-12-09T04:46:53.036Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-09T04:46:53.036Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-09T04:49:47.248Z snowbrush] Export image time: from 1639025387248 to 1639025387248.
+[I 2021-12-09T04:56:21.615Z snowbrush] Export image time: from 1639025781615 to 1639025781615.
+[I 2021-12-09T05:01:46.518Z snowbrush] Export image time: from 1639026106517 to 1639026106517.
+[I 2021-12-09T05:06:59.641Z snowbrush] db write {
+  'text/plain': 'CS 61A: Structure and Interpretation of Computer Programs\r\n' +
+    'CS 61B: Data Structures',
+  'text/x-array-json': [
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] }
+  ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '0999a53b1779edcc976c38633e'
+  },
+  xapInfoMap: {}
+}
+[I 2021-12-09T05:07:05.888Z snowbrush] db write {
+  'text/plain': 'CS 70: Discrete Mathematics and Probability Theory\r\n' +
+    '6.006\tIntroduction to Algorithms',
+  'text/x-array-json': [
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] }
+  ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '0999a53b1779edcc976c38633e'
+  },
+  xapInfoMap: {}
+}
+[I 2021-12-09T05:07:10.264Z snowbrush] Export image time: from 1639026430264 to 1639026430264.
+[I 2021-12-09T05:07:36.819Z snowbrush] Export image time: from 1639026456819 to 1639026456819.
+[I 2021-12-09T05:10:56.213Z snowbrush] Export image time: from 1639026656213 to 1639026656213.
+[I 2021-12-09T05:16:42.329Z snowbrush] Export image time: from 1639027002324 to 1639027002324.
+[I 2021-12-09T05:17:14.280Z main:store:plugins:editors:EditorFrame] Frame 1 close
+[I 2021-12-09T05:17:16.340Z main:store:plugins:editors:EditorFrame] Not find editor view: undefined file:///opt/XMind/resources/app.asar/renderer/editor-frame.html?frameId=1&_apr=dark#
+[I 2021-12-09T05:17:16.428Z main:store:plugins:editors:EditorFrame] Frame 1 close
+[I 2021-12-09T05:17:16.516Z main:store:plugins:electron] Application is intended to quit.
+[I 2021-12-09T05:17:16.516Z main:store:plugins:electron] Asking all editors to close their documents...
+[I 2021-12-09T05:17:16.569Z main:store:plugins:editors:EditorFrame] Frame 1 webContents destroyed
+[I 2021-12-09T05:17:16.621Z main:store:plugins:electron] All documents are closed.
+[I 2021-12-09T05:17:16.621Z main:store:plugins:activation-updater] Stop updating per-machine license information periodically.
+[I 2021-12-09T05:17:16.621Z main:store:plugins:activation-updater] Stop updating subscription information periodically.
+[I 2021-12-09T05:17:16.627Z main:store:plugins:electron] Application is intended to quit.
+[I 2021-12-09T05:17:16.628Z main:store:plugins:electron] Application will quit.
+[I 2021-12-09T05:17:16.628Z main:store:plugins:electron] Application quitted.
+
+-------- SESSION 2021-12-09T05:17:25.859Z (11.0.1+202106220606, linux, x64, 16171732992, XMind Ltd., vana_linux) --------
+[I 2021-12-09T05:17:25.973Z main:store:plugins:iap] The user is not allowed to make in-app purchase.
+[I 2021-12-09T05:17:26.349Z main:store:plugins:electron] Application will finish launching.
+[I 2021-12-09T05:17:26.350Z main:store:plugins:electron] Application arguments: ["/opt/XMind/xmind"]
+[I 2021-12-09T05:17:26.358Z main:store:plugins:electron] Application is ready.
+[I 2021-12-09T05:17:26.373Z main:store:plugins:open-handler] Recover: Map {}
+[I 2021-12-09T05:17:26.376Z main:store:plugins:activation-updater] Start updating subscription information periodically.
+[I 2021-12-09T05:17:26.376Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-12-09T05:17:26.377Z main:store:plugins:activation-updater] Start updating per-machine license information periodically.
+[I 2021-12-09T05:17:26.377Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-12-09T05:17:26.509Z main:store:plugins:electron] Device ID: 0a4e2b8c-1b20-4415-a313-3910912c6df7
+[I 2021-12-09T05:18:26.385Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-09T05:18:26.386Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-09T05:19:34.090Z snowbrush] Export image time: from 1639027174090 to 1639027174090.
+[I 2021-12-09T05:22:17.864Z snowbrush] Export image time: from 1639027337864 to 1639027337864.
+[I 2021-12-09T05:25:33.380Z snowbrush] Export image time: from 1639027533367 to 1639027533367.
+[I 2021-12-09T05:27:00.746Z snowbrush] Export image time: from 1639027620746 to 1639027620746.
+[I 2021-12-09T05:29:15.478Z snowbrush] Export image time: from 1639027755473 to 1639027755473.
+[I 2021-12-09T05:31:12.221Z snowbrush] Export image time: from 1639027872221 to 1639027872221.
+[I 2021-12-09T05:32:57.084Z snowbrush] Export image time: from 1639027977084 to 1639027977084.
+[I 2021-12-09T05:33:28.665Z snowbrush] Export image time: from 1639028008665 to 1639028008665.
+[I 2021-12-09T05:34:46.864Z snowbrush] Export image time: from 1639028086864 to 1639028086864.
+[I 2021-12-09T05:35:01.752Z snowbrush] Export image time: from 1639028101752 to 1639028101752.
+[I 2021-12-09T05:49:44.528Z snowbrush] Export image time: from 1639028984516 to 1639028984517.
+[I 2021-12-09T06:18:26.428Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-09T06:18:26.430Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-09T06:31:12.420Z snowbrush] Export image time: from 1639031472408 to 1639031472408.
+[I 2021-12-09T06:34:46.467Z snowbrush] db write {
+  'text/plain': 'Performance Engineering of Software Systems (Fall 2018)',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '0999a53b1779edcc976c38633e'
+  },
+  xapInfoMap: {}
+}
+[I 2021-12-09T06:34:52.197Z snowbrush] Export image time: from 1639031692196 to 1639031692197.
+[I 2021-12-09T06:39:31.411Z snowbrush] Export image time: from 1639031971411 to 1639031971411.
+[I 2021-12-09T06:39:43.625Z snowbrush] Export image time: from 1639031983625 to 1639031983625.
+[I 2021-12-09T06:42:28.824Z snowbrush] Export image time: from 1639032148815 to 1639032148815.
+[I 2021-12-09T06:53:33.554Z snowbrush] db write {
+  'text/plain': '6.172 Performance Engineering of Software Systems (Fall 2018)',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '0999a53b1779edcc976c38633e'
+  },
+  xapInfoMap: {}
+}
+[I 2021-12-09T06:53:37.135Z snowbrush] Export image time: from 1639032817134 to 1639032817135.
+[I 2021-12-09T07:00:32.830Z snowbrush] db write {
+  'text/plain': 'Databases\r\n\tCS W186: Introduction to Database Systems',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '0999a53b1779edcc976c38633e'
+  },
+  xapInfoMap: {}
+}
+[I 2021-12-09T07:00:34.247Z snowbrush] db write {
+  'text/plain': 'IV',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '0999a53b1779edcc976c38633e'
+  },
+  xapInfoMap: {}
+}
+[I 2021-12-09T07:00:36.618Z snowbrush] db write {
+  'text/plain': 'Databases\r\n\tCS W186: Introduction to Database Systems',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '0999a53b1779edcc976c38633e'
+  },
+  xapInfoMap: {}
+}
+[I 2021-12-09T07:00:41.772Z snowbrush] db write {
+  'text/plain': 'Computer Networking\r\n\tComputer Networking: A Top-Down Approach',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '0999a53b1779edcc976c38633e'
+  },
+  xapInfoMap: {}
+}
+[I 2021-12-09T07:00:43.698Z snowbrush] db write {
+  'text/plain': 'Languages and Compilers\r\n\tCrafting Interpreters',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '0999a53b1779edcc976c38633e'
+  },
+  xapInfoMap: {}
+}
+[I 2021-12-09T07:00:50.005Z snowbrush] db write {
+  'text/plain': '6.172 Performance Engineering of Software Systems (Fall 2018)',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '0999a53b1779edcc976c38633e'
+  },
+  xapInfoMap: {}
+}
+[I 2021-12-09T07:01:06.226Z snowbrush] Export image time: from 1639033266225 to 1639033266226.
+[I 2021-12-09T07:04:44.420Z snowbrush] db write {
+  'text/plain': 'And more ...',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '0999a53b1779edcc976c38633e'
+  },
+  xapInfoMap: {}
+}
+[I 2021-12-09T07:04:48.979Z snowbrush] Export image time: from 1639033488979 to 1639033488979.
+[I 2021-12-09T07:07:50.657Z snowbrush] db write {
+  'text/plain': 'And more ...',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '0999a53b1779edcc976c38633e'
+  },
+  xapInfoMap: {}
+}
+[I 2021-12-09T07:07:55.539Z snowbrush] Export image time: from 1639033675539 to 1639033675539.
+[I 2021-12-09T07:08:08.564Z snowbrush] db write {
+  'text/plain': 'Front-end\r\nBack-end',
+  'text/x-array-json': [
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] }
+  ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '0999a53b1779edcc976c38633e'
+  },
+  xapInfoMap: {}
+}
+[I 2021-12-09T07:08:16.536Z snowbrush] Export image time: from 1639033696536 to 1639033696536.
+[I 2021-12-09T07:10:13.798Z snowbrush] db write {
+  'text/plain': 'And more ...',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '0999a53b1779edcc976c38633e'
+  },
+  xapInfoMap: {}
+}
+[I 2021-12-09T07:10:15.874Z snowbrush] Export image time: from 1639033815874 to 1639033815874.
+[I 2021-12-09T07:12:06.246Z snowbrush] db write {
+  'text/plain': 'Math 1A Calculus\r\nMath 1B Calculus\r\n18.06SC Linear Algebra (Fall 2011)',
+  'text/x-array-json': [
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] }
+  ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '0999a53b1779edcc976c38633e'
+  },
+  xapInfoMap: {}
+}
+[I 2021-12-09T07:12:58.438Z snowbrush] db write {
+  'text/plain': 'Math 53 Multivariable Calculus',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '0999a53b1779edcc976c38633e'
+  },
+  xapInfoMap: {}
+}
+[I 2021-12-09T07:13:04.065Z snowbrush] Export image time: from 1639033984064 to 1639033984065.
+[I 2021-12-09T07:18:26.444Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-09T07:18:26.446Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-09T07:20:30.734Z snowbrush] Export image time: from 1639034430733 to 1639034430734.
+[I 2021-12-09T07:21:29.722Z snowbrush] db write {
+  'text/plain': 'Math 1A Calculus\r\n' +
+    'Math 1B Calculus\r\n' +
+    'Math 53 Multivariable Calculus\r\n' +
+    '18.06SC Linear Algebra (Fall 2011)\r\n' +
+    '18.05 Introduction to Probability and Statistics',
+  'text/x-array-json': [
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] }
+  ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '0999a53b1779edcc976c38633e'
+  },
+  xapInfoMap: {}
+}
+[I 2021-12-09T07:21:42.835Z snowbrush] Export image time: from 1639034502835 to 1639034502835.
+[I 2021-12-09T07:34:38.480Z snowbrush] Export image time: from 1639035278468 to 1639035278469.
+[I 2021-12-09T07:41:17.507Z snowbrush] db write {
+  'text/plain': 'Principles of Chemical Science (Fall 2014)',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '0999a53b1779edcc976c38633e'
+  },
+  xapInfoMap: {}
+}
+[I 2021-12-09T07:41:55.541Z snowbrush] Export image time: from 1639035715541 to 1639035715541.
+[I 2021-12-09T07:59:58.730Z snowbrush] db write {
+  'text/plain': 'Software Engineering\r\n\tWeb\r\n\t\tFront-end\r\n\t\tBack-end\r\n\tAnd more ...',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '0999a53b1779edcc976c38633e'
+  },
+  xapInfoMap: {}
+}
+[I 2021-12-09T08:00:07.950Z snowbrush] Export image time: from 1639036807950 to 1639036807950.
+[I 2021-12-09T08:00:46.218Z snowbrush] db write {
+  'text/plain': 'Principles of Microeconomics (Fall 2011)',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '0999a53b1779edcc976c38633e'
+  },
+  xapInfoMap: {}
+}
+[I 2021-12-09T08:02:22.843Z snowbrush] db write {
+  'text/plain': 'Principles of Microeconomics (Fall 2018)',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '0999a53b1779edcc976c38633e'
+  },
+  xapInfoMap: {}
+}
+[I 2021-12-09T08:02:30.997Z snowbrush] Export image time: from 1639036950997 to 1639036950997.
+[I 2021-12-09T08:04:54.106Z snowbrush] Export image time: from 1639037094106 to 1639037094106.
+[I 2021-12-09T08:07:10.110Z snowbrush] Export image time: from 1639037230110 to 1639037230110.
+[I 2021-12-09T08:07:14.937Z snowbrush] Export image time: from 1639037234937 to 1639037234937.
+[I 2021-12-09T08:09:11.069Z snowbrush] Export image time: from 1639037351069 to 1639037351069.
+[I 2021-12-09T08:14:12.134Z snowbrush] Export image time: from 1639037652121 to 1639037652121.
+[I 2021-12-09T08:14:46.247Z snowbrush] Export image time: from 1639037686247 to 1639037686247.
+[I 2021-12-09T08:18:26.448Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-09T08:18:26.448Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-09T08:20:53.047Z snowbrush] Export image time: from 1639038053046 to 1639038053047.
+[I 2021-12-09T08:21:37.427Z snowbrush] Export image time: from 1639038097427 to 1639038097427.
+[I 2021-12-09T08:22:12.199Z snowbrush] Export image time: from 1639038132199 to 1639038132199.
+[I 2021-12-09T08:28:29.993Z snowbrush] db write {
+  'text/plain': 'Justice with Michael Sandel',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '0999a53b1779edcc976c38633e'
+  },
+  xapInfoMap: {}
+}
+[I 2021-12-09T08:32:22.357Z snowbrush] Export image time: from 1639038742357 to 1639038742357.
+[I 2021-12-09T08:33:04.539Z snowbrush] Export image time: from 1639038784539 to 1639038784539.
+[I 2021-12-09T08:51:33.706Z snowbrush] db write {
+  'text/plain': '二级运动员\r\n' +
+    '\t800米 2:03.00\r\n' +
+    '\t1500米 4:15.00\r\n' +
+    '\t3000米 9:10.00\r\n' +
+    '\t5000米 16:10.00\r\n' +
+    '\t10000米 34:00.00\r\n' +
+    '\t马拉松 3:10:00',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '0999a53b1779edcc976c38633e'
+  },
+  xapInfoMap: {}
+}
+[I 2021-12-09T08:53:25.563Z snowbrush] Export image time: from 1639040005562 to 1639040005562.
+[I 2021-12-09T08:53:51.473Z snowbrush] Export image time: from 1639040031472 to 1639040031473.
+[I 2021-12-09T08:57:16.745Z snowbrush] Export image time: from 1639040236732 to 1639040236732.
+[I 2021-12-09T08:57:20.044Z snowbrush] Export image time: from 1639040240044 to 1639040240044.
+[I 2021-12-09T09:00:06.548Z snowbrush] Export image time: from 1639040406538 to 1639040406538.
+[I 2021-12-09T09:01:51.480Z snowbrush] db write {
+  'text/plain': '20',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '0999a53b1779edcc976c38633e'
+  },
+  xapInfoMap: {}
+}
+[I 2021-12-09T09:02:50.779Z snowbrush] Export image time: from 1639040570778 to 1639040570779.
+[I 2021-12-09T09:03:13.146Z snowbrush] db write {
+  'text/plain': '三级运动员\r\n' +
+    '\t800米 2:16.00\r\n' +
+    '\t1500米 4:40.00\r\n' +
+    '\t3000米 10:05.00\r\n' +
+    '\t5000米 17:40.00\r\n' +
+    '\t10000米 37:00.00\r\n' +
+    '\t马拉松 4:00:00\r\n' +
+    '二级运动员\r\n' +
+    '\t800米 2:03.00\r\n' +
+    '\t1500米 4:15.00\r\n' +
+    '\t3000米 9:10.00\r\n' +
+    '\t5000米 16:10.00\r\n' +
+    '\t10000米 34:00.00\r\n' +
+    '\t马拉松 3:10:00',
+  'text/x-array-json': [
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] }
+  ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '0999a53b1779edcc976c38633e'
+  },
+  xapInfoMap: {}
+}
+[I 2021-12-09T09:03:24.702Z snowbrush] Export image time: from 1639040604701 to 1639040604702.
+[I 2021-12-09T09:03:31.180Z snowbrush] Export image time: from 1639040611180 to 1639040611180.
+[I 2021-12-09T09:03:44.232Z snowbrush] Export image time: from 1639040624232 to 1639040624232.
+[I 2021-12-09T09:03:57.579Z snowbrush] Export image time: from 1639040637579 to 1639040637579.
+[I 2021-12-09T09:13:12.821Z snowbrush] db write {
+  'text/plain': 'And more ...',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '0999a53b1779edcc976c38633e'
+  },
+  xapInfoMap: {}
+}
+[I 2021-12-09T09:13:42.261Z snowbrush] Export image time: from 1639041222260 to 1639041222261.
+[I 2021-12-09T09:13:53.494Z snowbrush] Export image time: from 1639041233494 to 1639041233494.
+[I 2021-12-09T09:14:32.074Z snowbrush] Export image time: from 1639041272074 to 1639041272074.
+[I 2021-12-09T09:15:56.264Z snowbrush] db write {
+  'text/plain': 'And more ...',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '0999a53b1779edcc976c38633e'
+  },
+  xapInfoMap: {}
+}
+[I 2021-12-09T09:16:54.698Z snowbrush] Export image time: from 1639041414698 to 1639041414698.
+[I 2021-12-09T09:18:26.449Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-09T09:18:26.450Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-09T09:18:51.595Z snowbrush] Export image time: from 1639041531595 to 1639041531595.
+[I 2021-12-09T09:22:29.156Z snowbrush] Export image time: from 1639041749156 to 1639041749156.
+[I 2021-12-09T09:26:00.930Z snowbrush] db write {
+  'text/plain': '要求\r\n\t硕士水平',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '0999a53b1779edcc976c38633e'
+  },
+  xapInfoMap: {}
+}
+[I 2021-12-09T09:26:45.348Z snowbrush] Export image time: from 1639042005348 to 1639042005348.
+[I 2021-12-09T09:27:11.469Z snowbrush] db write {
+  'text/plain': '要求\r\n\tBS Minor 水平',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '0999a53b1779edcc976c38633e'
+  },
+  xapInfoMap: {}
+}
+[I 2021-12-09T09:27:18.835Z snowbrush] Export image time: from 1639042038835 to 1639042038835.
+[I 2021-12-09T09:27:24.799Z snowbrush] Export image time: from 1639042044799 to 1639042044799.
+[I 2021-12-09T09:27:36.297Z snowbrush] db write {
+  'text/plain': '要求\r\n\t掌握下面的课程就行',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '0999a53b1779edcc976c38633e'
+  },
+  xapInfoMap: {}
+}
+[I 2021-12-09T09:27:48.377Z snowbrush] db write {
+  'text/plain': '要求\r\n\t掌握下面的课程就行',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '0999a53b1779edcc976c38633e'
+  },
+  xapInfoMap: {}
+}
+[I 2021-12-09T09:28:16.847Z snowbrush] db write {
+  'text/plain': '要求\r\n\t高级工程师水平',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '0999a53b1779edcc976c38633e'
+  },
+  xapInfoMap: {}
+}
+[I 2021-12-09T09:28:35.852Z snowbrush] db write {
+  'text/plain': '要求\r\n\t高级工程师水平/精通',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '0999a53b1779edcc976c38633e'
+  },
+  xapInfoMap: {}
+}
+[I 2021-12-09T09:28:40.530Z snowbrush] Export image time: from 1639042120530 to 1639042120530.
+[I 2021-12-09T09:29:57.391Z snowbrush] Export image time: from 1639042197391 to 1639042197391.
+[I 2021-12-09T09:30:24.012Z snowbrush] db write {
+  'text/plain': 'HTML + CSS\r\nJavaScript',
+  'text/x-array-json': [
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] }
+  ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '0999a53b1779edcc976c38633e'
+  },
+  xapInfoMap: {}
+}
+[I 2021-12-09T09:30:29.035Z snowbrush] db write {
+  'text/plain': 'Shell\r\nPython\r\nJava',
+  'text/x-array-json': [
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] }
+  ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '0999a53b1779edcc976c38633e'
+  },
+  xapInfoMap: {}
+}
+[I 2021-12-09T09:30:35.963Z snowbrush] db write {
+  'text/plain': 'Go\r\nC\r\nC++\r\nRust',
+  'text/x-array-json': [
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] }
+  ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '0999a53b1779edcc976c38633e'
+  },
+  xapInfoMap: {}
+}
+[I 2021-12-09T09:32:10.228Z snowbrush] db write {
+  'text/plain': '习惯\r\n' +
+    '\t反思\r\n' +
+    '\t\t每日反思、总结、日记\r\n' +
+    '\t坚持和突破\r\n' +
+    '\t\t每日争取突破昨日\r\n' +
+    '\t\t相对于昨日，刻意练习，针对性突破\r\n' +
+    '\tAnd more ...',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '0999a53b1779edcc976c38633e'
+  },
+  xapInfoMap: {}
+}
+[I 2021-12-09T09:32:38.698Z snowbrush] Export image time: from 1639042358698 to 1639042358698.
+[I 2021-12-09T10:18:26.483Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-09T10:18:26.484Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-09T10:55:12.306Z snowbrush] Export image time: from 1639047312294 to 1639047312294.
+[I 2021-12-09T10:56:36.391Z snowbrush] Export image time: from 1639047396391 to 1639047396391.
+[I 2021-12-09T11:18:26.506Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-09T11:18:26.508Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-09T11:18:38.618Z snowbrush] Export image time: from 1639048718605 to 1639048718605.
+[I 2021-12-09T11:25:39.981Z snowbrush] Export image time: from 1639049139981 to 1639049139981.
+[I 2021-12-09T11:31:45.808Z snowbrush] Export image time: from 1639049505796 to 1639049505796.
+[I 2021-12-09T11:33:02.365Z snowbrush] Export image time: from 1639049582365 to 1639049582365.
+[I 2021-12-09T11:33:57.222Z snowbrush] Export image time: from 1639049637222 to 1639049637222.
+[I 2021-12-09T11:38:39.017Z snowbrush] Export image time: from 1639049919017 to 1639049919017.
+[I 2021-12-09T11:50:35.905Z snowbrush] Export image time: from 1639050635892 to 1639050635892.
+[I 2021-12-09T12:04:19.028Z snowbrush] db write {
+  'text/plain': 'Languages and Compilers\r\n\tCrafting Interpreters',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '0999a53b1779edcc976c38633e'
+  },
+  xapInfoMap: {}
+}
+[I 2021-12-09T12:04:34.257Z snowbrush] Export image time: from 1639051474257 to 1639051474257.
+[I 2021-12-09T12:04:57.481Z snowbrush] Export image time: from 1639051497481 to 1639051497481.
+[I 2021-12-09T12:05:07.102Z snowbrush] Export image time: from 1639051507102 to 1639051507102.
+[I 2021-12-09T12:07:27.341Z snowbrush] Export image time: from 1639051647341 to 1639051647341.
+[I 2021-12-09T12:07:40.951Z snowbrush] Export image time: from 1639051660951 to 1639051660951.
+[I 2021-12-09T12:07:57.190Z snowbrush] db write {
+  'text/plain': '18.065 Matrix Methods in Data Analysis, Signal Processing, and Machine Learning',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '0999a53b1779edcc976c38633e'
+  },
+  xapInfoMap: {}
+}
+[I 2021-12-09T12:08:07.042Z snowbrush] Export image time: from 1639051687041 to 1639051687042.
+[I 2021-12-09T12:09:14.102Z snowbrush] Export image time: from 1639051754101 to 1639051754102.
+[I 2021-12-09T12:09:30.321Z snowbrush] Export image time: from 1639051770321 to 1639051770321.
+[I 2021-12-09T12:12:41.482Z snowbrush] Export image time: from 1639051961477 to 1639051961477.
+[I 2021-12-09T12:18:26.536Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-09T12:18:26.537Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-09T12:24:57.231Z snowbrush] Export image time: from 1639052697231 to 1639052697231.
+[I 2021-12-09T12:28:22.748Z snowbrush] db write {
+  'text/plain': '14.01 Principles of Microeconomics (Fall 2018)',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '0999a53b1779edcc976c38633e'
+  },
+  xapInfoMap: {}
+}
+[I 2021-12-09T12:33:37.774Z snowbrush] Export image time: from 1639053217768 to 1639053217768.
+[I 2021-12-09T12:33:49.957Z snowbrush] db write {
+  'text/plain': 'HTML\r\nCSS',
+  'text/x-array-json': [
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] }
+  ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '0999a53b1779edcc976c38633e'
+  },
+  xapInfoMap: {}
+}
+[I 2021-12-09T12:43:57.683Z snowbrush] Export image time: from 1639053837671 to 1639053837672.
+[I 2021-12-09T12:44:48.449Z snowbrush] Export image time: from 1639053888448 to 1639053888449.
+[I 2021-12-09T12:45:50.864Z snowbrush] Export image time: from 1639053950863 to 1639053950863.
+[I 2021-12-09T12:51:28.833Z snowbrush] db write {
+  'text/plain': 'Info\r\n' +
+    '\tAuthor\r\n' +
+    '\t\t王文军 (Lucas Wang)\r\n' +
+    '\tBorn\r\n' +
+    '\t\t公历1998年5月22日 农历1998年四月廿七\t星期五\r\n' +
+    '\tCreated Date\r\n' +
+    '\t\t2021-12-09\r\n' +
+    '\tLast Modified Date\r\n' +
+    '\t\t2021-12-09',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '0999a53b1779edcc976c38633e'
+  },
+  xapInfoMap: {}
+}
+[I 2021-12-09T12:51:40.125Z snowbrush] Export image time: from 1639054300125 to 1639054300125.
+[I 2021-12-09T12:51:47.241Z snowbrush] Export image time: from 1639054307241 to 1639054307241.
+[I 2021-12-09T12:54:14.948Z snowbrush] db write {
+  'text/plain': '10-Year Plan (2022 to 2032)\r\n' +
+    '\tInfo\r\n' +
+    '\t\tAuthor\r\n' +
+    '\t\t\t王文军 (Lucas Wang)\r\n' +
+    '\t\tBorn\r\n' +
+    '\t\t\t公历1998年5月22日 农历1998年四月廿七\t星期五\r\n' +
+    '\t\tCreated Date\r\n' +
+    '\t\t\t2021-12-09\r\n' +
+    '\t\tLast Modified Date\r\n' +
+    '\t\t\t2021-12-09\r\n' +
+    '\t纲领\r\n' +
+    '\t\t你生活在樱花世界中，生活无处不是诱惑。\n' +
+    '这个世界可以说是虚拟的，当你闭上眼的那一刻，世界就已经如泡沫般消逝了。\r\n' +
+    '\t\t任何生物最伟大、最烂漫的行为就是抵抗熵增。\r\n' +
+    '\t\t\t例如\r\n' +
+    '\t\t\t\t勤奋、自律、抵抗诱惑\r\n' +
+    '\t\t\t\t刻意练习、突破、创造\r\n' +
+    '\t\t\t\t学习、独立思考、批判性思维\r\n' +
+    '\t\t\t\t抵抗诱惑\r\n' +
+    '\t\t既然当一个人死时世界就已不存在了，那么无论他以怎样的态度生活其实都是无所谓的，无论勤奋懒惰，无论积极消极，最后都归于 0。\r\n' +
+    '\t\t\t但我更愿意相信这个世界只是无尽轮回中的一个，高维生命从芸芸众生中筛选出超越者，即自觉明确自身使命，毕生抵抗熵增的人。\r\n' +
+    '\t\t对于我来说，工作只是学习的扩展，学习才是主体。不要本末倒置了。\r\n' +
+    '\t\t\t如果每天工作 <= 8 小时，一周 <= 5 天，年假 >= 30 天，每个月至少能省下工资的 2/3，这样的生活就是完美的。\r\n' +
+    '\t学习\r\n' +
+    '\t\t外语\r\n' +
+    '\t\t\t英语\r\n' +
+    '\t\t\t\t雅思 C2\r\n' +
+    '\t\t\t\t\tLRWS\r\n' +
+    '\t\t\t\t\t9977\r\n' +
+    '\t\t\t德语\r\n' +
+    '\t\t\t\t德福 C1\r\n' +
+    '\t\t\t\t\tC1 是能够看懂难度较高、篇幅较长及内容广泛的文章，并能把握字里行间的内在含义。\n' +
+    '能够自由流畅地表达、而不必常常费力地寻找合适的词汇。\n' +
+    '能在社会交往、工作或接受培训和在大学求学时，有效并灵活地运用语言。\n' +
+    '能就复杂的事物清楚、有条理和详尽地表达自己的看法，同时能使用不同的表达，以进行上下文的链接。\n' +
+    '\n' +
+    '绝大部分专业都要达到 C1 的水平，即我们常说的德福 16 分。\r\n' +
+    '\t\t自然科学、工程与技术科学\r\n' +
+    '\t\t\tComputing\r\n' +
+    '\t\t\t\tComputer Science\r\n' +
+    '\t\t\t\t\tI\r\n' +
+    '\t\t\t\t\t\tCS 61B: Data Structures Spring 2021\r\n' +
+    '\t\t\t\t\t\t6.031 Elements of Software Construction\r\n' +
+    '\t\t\t\t\tII\r\n' +
+    '\t\t\t\t\t\t6.042J Mathematics for Computer Science Fall 2010\r\n' +
+    '\t\t\t\t\t\t6.006 Introduction to Algorithms Spring 2020\r\n' +
+    '\t\t\t\t\t\t6.046J Design and Analysis of Algorithms Spring 2015\r\n' +
+    '\t\t\t\t\tIII\r\n' +
+    '\t\t\t\t\t\tCS 61C: Great Ideas in Computer Architecture (Machine Structures) Summer 2020\r\n' +
+    '\t\t\t\t\t\t6.004 Computation Structures\r\n' +
+    '\t\t\t\t\t\t\tCurrent\r\n' +
+    '\t\t\t\t\t\t\tOCW (Spring 2017)\r\n' +
+    '\t\t\t\t\t\t\tEDX\r\n' +
+    '\t\t\t\t\t\tOperating Systems: Three Easy Pieces\r\n' +
+    '\t\t\t\t\t\t6.033 Computer Systems Engineering\r\n' +
+    '\t\t\t\t\t\t\tCurrent\r\n' +
+    '\t\t\t\t\tIV\r\n' +
+    '\t\t\t\t\t\tDatabases\r\n' +
+    '\t\t\t\t\t\t\tCS W186: Introduction to Database Systems\r\n' +
+    '\t\t\t\t\t\tComputer Networking\r\n' +
+    '\t\t\t\t\t\t\tComputer Networking: A Top-Down Approach\r\n' +
+    '\t\t\t\t\tOthers\r\n' +
+    '\t\t\t\t\t\tLanguages and Compilers\r\n' +
+    '\t\t\t\t\t\t\tCrafting Interpreters\r\n' +
+    '\t\t\t\t\t\t6.172 Performance Engineering of Software Systems (Fall 2018)\r\n' +
+    '\t\t\t\t\t\tDistributed Systems\r\n' +
+    '\t\t\t\t\t\t\t6.824: Distributed Systems Spring 2020\r\n' +
+    '\t\t\t\t\t\tComputer Security\r\n' +
+    '\t\t\t\t\t\t\t6.858 Computer Systems Security Fall 2014\r\n' +
+    '\t\t\t\t\t\tAnd more ...\r\n' +
+    '\t\t\t\tElectrical Engineering\r\n' +
+    '\t\t\t\t\tEECS 16A Designing Information Devices and Systems I\r\n' +
+    '\t\t\t\t\tEECS 16B Designing Information Devices and Systems II\r\n' +
+    '\t\t\t\t\tAnd more ...\r\n' +
+    '\t\t\t\tArtificial Intelligence\r\n' +
+    '\t\t\t\t\t6.034 Artificial Intelligence Fall 2010\r\n' +
+    '\t\t\t\t\tCS 188: Introduction to Artificial Intelligence\r\n' +
+    '\t\t\t\t\t6.036 Introduction to Machine Learning\r\n' +
+    '\t\t\t\t\t6.S191 Introduction to Deep Learning\r\n' +
+    '\t\t\t\t\tAnd more ...\r\n' +
+    '\t\t\tMathematics\r\n' +
+    '\t\t\t\tMath 1A Calculus\r\n' +
+    '\t\t\t\tMath 1B Calculus\r\n' +
+    '\t\t\t\tMath 53 Multivariable Calculus\r\n' +
+    '\t\t\t\t6.041SC Probabilistic Systems Analysis and Applied Probability (Fall 2013)\r\n' +
+    '\t\t\t\t\tIntroduction to Probability\r\n' +
+    '\t\t\t\t18.06SC Linear Algebra (Fall 2011)\r\n' +
+    '\t\t\t\t18.065 Matrix Methods in Data Analysis, Signal Processing, and Machine Learning\r\n' +
+    '\t\t\t\t18.S096 Topics in Mathematics with Applications in Finance Fall 2013\r\n' +
+    '\t\t\t\tAnd more ...\r\n' +
+    '\t\t\tPhysics\r\n' +
+    '\t\t\t\t8.01x - MIT Physics I: Classical Mechanics\r\n' +
+    '\t\t\t\t8.02x - MIT Physics II: Electricity and Magnetism\r\n' +
+    '\t\t\t\t8.03 - MIT Physics III: Vibrations and Waves\r\n' +
+    '\t\t\t\t8.04 Quantum Physics I - Prof. Allan Adams\r\n' +
+    '\t\t\tBiology and Chemistry\r\n' +
+    '\t\t\t\t要求\r\n' +
+    '\t\t\t\t\t掌握下面的课程就行\r\n' +
+    '\t\t\t\t5.07SC Biological Chemistry I\r\n' +
+    '\t\t\t\t5.111SC Principles of Chemical Science (Fall 2014)\r\n' +
+    '\t\t\t\t7.01SC Fundamentals of Biology (Fall 2011)\r\n' +
+    '\t\t\t\tAnd more ...\r\n' +
+    '\t\t人文与社会科学\r\n' +
+    '\t\t\tEconomics\r\n' +
+    '\t\t\t\t14.01SC Principles of Microeconomics (Fall 2011)\r\n' +
+    '\t\t\t\t14.01 Principles of Microeconomics (Fall 2018)\r\n' +
+    '\t\t\t\t14.13 Psychology and Economics (Spring 2020)\r\n' +
+    '\t\t\t\t15.401 Finance Theory I\r\n' +
+    '\t\t\t\tAnd more ...\r\n' +
+    '\t\t\tBrain and Cognitive Sciences\r\n' +
+    '\t\t\t\t9.00SC Introduction to Psychology (Fall 2011)\r\n' +
+    '\t\t\t\tPositive Psychology Harvard Open Course\r\n' +
+    '\t\t\t\tAnd more ...\r\n' +
+    '\t\t\tOthers\r\n' +
+    '\t\t\t\tJustice with Michael Sandel\r\n' +
+    '\t\t\t\tAnd more ...\r\n' +
+    '\t\t实际应用\r\n' +
+    '\t\t\tSoftware Engineering\r\n' +
+    '\t\t\t\tWeb\r\n' +
+    '\t\t\t\t\tFront-end\r\n' +
+    '\t\t\t\t\t\t要求\r\n' +
+    '\t\t\t\t\t\t\t高级工程师水平/精通\r\n' +
+    '\t\t\t\t\t\tBasics\r\n' +
+    '\t\t\t\t\t\t\tHTML\r\n' +
+    '\t\t\t\t\t\t\tCSS\r\n' +
+    '\t\t\t\t\t\t\tJavaScript\r\n' +
+    '\t\t\t\t\t\tFrameworks\r\n' +
+    '\t\t\t\t\t\t\tReact\r\n' +
+    '\t\t\t\t\t\t\tVue\r\n' +
+    '\t\t\t\t\t\tOthers\r\n' +
+    '\t\t\t\t\tBack-end\r\n' +
+    '\t\t\t\t\t\t要求\r\n' +
+    '\t\t\t\t\t\t\t高级工程师水平/精通\r\n' +
+    '\t\t\t\tLinux\r\n' +
+    '\t\t\t\t\t要求\r\n' +
+    '\t\t\t\t\t\t初级工程师水平\r\n' +
+    '\t\t\t\tLeetCode\r\n' +
+    '\t\t\t\t\t完成所有问题\r\n' +
+    '\t\t\t\tAnd more ...\r\n' +
+    '\t\t\t知识分享 Blogger/Up/YouTuber/...\r\n' +
+    '\t\t\t\tzhihu\r\n' +
+    '\t\t\t\tjuejin\r\n' +
+    '\t\t\t\tbilibili\r\n' +
+    '\t\t\t\tYouTube\r\n' +
+    '\t\t\t\tGitHub\r\n' +
+    '\t\t\t\t个人网站\r\n' +
+    '\t\t\t\tAnd more ...\r\n' +
+    '\t\t\tAnd more ...\r\n' +
+    '\t生活和工作\r\n' +
+    '\t\t生活\r\n' +
+    '\t\t\t习惯\r\n' +
+    '\t\t\t\t早上起来首先复习所有的 Anki 卡片\r\n' +
+    '\t\t\t\t反思\r\n' +
+    '\t\t\t\t\t每日反思、总结、日记\r\n' +
+    '\t\t\t\t坚持和突破\r\n' +
+    '\t\t\t\t\t每日尽力突破昨日\r\n' +
+    '\t\t\t\t\t相对于昨日，刻意练习，针对性突破\r\n' +
+    '\t\t\t\tAnd more ...\r\n' +
+    '\t\t\t技能\r\n' +
+    '\t\t\t\t家常烹饪熟练\r\n' +
+    '\t\t\t\t\t能够熟练地烹饪绝大部分家常食材\r\n' +
+    '\t\t\t\t\t会基本面点，糕点\r\n' +
+    '\t\t\t\t汽车驾照\r\n' +
+    '\t\t工作\r\n' +
+    '\t\t\t10 年后财富自由（累计的财富能够让自己不工作且以中产生活度过余生）\r\n' +
+    '\t锻炼\r\n' +
+    '\t\t力量\r\n' +
+    '\t\t\tConvict Conditioning\r\n' +
+    '\t\t\t\tOne Arm Pullups\r\n' +
+    '\t\t\t\t\t20\r\n' +
+    '\t\t\t\tStand to Stand Bridges\r\n' +
+    '\t\t\t\t\t20\r\n' +
+    '\t\t\t\tHanging Straight Leg Raises\r\n' +
+    '\t\t\t\t\t20\r\n' +
+    '\t\t\t\tOne Legged Squat\r\n' +
+    '\t\t\t\t\t30\r\n' +
+    '\t\t\t\tOne-Arm Pushup\r\n' +
+    '\t\t\t\t\t20\r\n' +
+    '\t\t\tAnd more ...\r\n' +
+    '\t\t耐力\r\n' +
+    '\t\t\t三级运动员\r\n' +
+    '\t\t\t\t800米 2:16.00\r\n' +
+    '\t\t\t\t1500米 4:40.00\r\n' +
+    '\t\t\t\t3000米 10:05.00\r\n' +
+    '\t\t\t\t5000米 17:40.00\r\n' +
+    '\t\t\t\t10000米 37:00.00\r\n' +
+    '\t\t\t\t马拉松 4:00:00\r\n' +
+    '\t\t\t二级运动员\r\n' +
+    '\t\t\t\t800米 2:03.00\r\n' +
+    '\t\t\t\t1500米 4:15.00\r\n' +
+    '\t\t\t\t3000米 9:10.00\r\n' +
+    '\t\t\t\t5000米 16:10.00\r\n' +
+    '\t\t\t\t10000米 34:00.00\r\n' +
+    '\t\t\t\t马拉松 3:10:00',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '0999a53b1779edcc976c38633e'
+  },
+  xapInfoMap: {}
+}
+[I 2021-12-09T13:06:44.725Z snowbrush] Export image time: from 1639055204725 to 1639055204725.
+[I 2021-12-09T13:07:41.225Z snowbrush] Export image time: from 1639055261224 to 1639055261225.
+[I 2021-12-09T13:16:42.327Z snowbrush] Export image time: from 1639055802327 to 1639055802327.
+[I 2021-12-09T13:18:10.024Z snowbrush] Export image time: from 1639055890023 to 1639055890023.
+[I 2021-12-09T13:18:26.537Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-09T13:18:26.538Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-09T13:20:53.973Z snowbrush] db write {
+  'text/plain': 'Front-end\r\n\tSubtopic 1',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '0999a53b1779edcc976c38633e'
+  },
+  xapInfoMap: {}
+}
+[I 2021-12-09T13:23:21.120Z snowbrush] Export image time: from 1639056201119 to 1639056201119.
+[I 2021-12-09T13:24:17.174Z snowbrush] Export image time: from 1639056257174 to 1639056257174.
+[I 2021-12-09T13:26:05.526Z snowbrush] db write {
+  'text/plain': 'From\r\n\t2021-12-09\r\nTo\r\n\t2021-12-31',
+  'text/x-array-json': [
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] }
+  ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '0999a53b1779edcc976c38633e'
+  },
+  xapInfoMap: {}
+}
+[I 2021-12-09T13:27:14.108Z snowbrush] Export image time: from 1639056434108 to 1639056434108.
+[I 2021-12-09T13:30:05.968Z snowbrush] Export image time: from 1639056605968 to 1639056605968.
+[I 2021-12-09T13:31:51.553Z main:store:plugins:electron] Application receives arguments from another instance: ["/opt/XMind/xmind","/home/lucas/Documents/My/Five-Years-Plan.xmind"] /home/lucas/Documents/My
+[I 2021-12-09T13:31:51.557Z main:store:plugins:open-handler] Open: file:///home/lucas/Documents/My/Five-Years-Plan.xmind
+[I 2021-12-09T13:31:58.303Z main:store:plugins:editors:EditorFrame] Frame 2 close
+[I 2021-12-09T13:31:58.334Z main:store:plugins:editors:EditorFrame] Not find editor view: undefined file:///opt/XMind/resources/app.asar/renderer/editor-frame.html?frameId=2&_apr=dark
+[I 2021-12-09T13:31:58.467Z main:store:plugins:editors:EditorFrame] Frame 2 close
+[I 2021-12-09T13:31:58.646Z main:store:plugins:editors:EditorFrame] Frame 2 webContents destroyed
+[I 2021-12-09T13:32:06.565Z main:store:plugins:electron] Application receives arguments from another instance: ["/opt/XMind/xmind","/home/lucas/Documents/My/好句.xmind"] /home/lucas/Documents/My
+[I 2021-12-09T13:32:06.566Z main:store:plugins:open-handler] Open: file:///home/lucas/Documents/My/%E5%A5%BD%E5%8F%A5.xmind
+[I 2021-12-09T13:32:10.919Z main:store:plugins:editors:EditorFrame] Frame 3 close
+[I 2021-12-09T13:32:10.932Z main:store:plugins:editors:EditorFrame] Not find editor view: undefined file:///opt/XMind/resources/app.asar/renderer/editor-frame.html?frameId=3&_apr=dark
+[I 2021-12-09T13:32:11.054Z main:store:plugins:editors:EditorFrame] Frame 3 close
+[I 2021-12-09T13:32:11.237Z main:store:plugins:editors:EditorFrame] Frame 3 webContents destroyed
+[I 2021-12-09T13:33:10.935Z snowbrush] Export image time: from 1639056790934 to 1639056790935.
+[I 2021-12-09T13:33:13.200Z fonts] App Locale: en
+[I 2021-12-09T13:33:13.201Z fonts] start get system fonts
+[I 2021-12-09T13:33:13.470Z fonts] Failed to get system fonts: Error: Unknown font format
+[I 2021-12-09T13:33:14.755Z fonts] Consuming 1554 ms to get system fonts
+[I 2021-12-09T13:33:54.145Z snowbrush] Export image time: from 1639056834145 to 1639056834145.
+[I 2021-12-09T13:35:28.514Z snowbrush] Export image time: from 1639056928514 to 1639056928514.
+[I 2021-12-09T13:36:47.342Z main:store:plugins:electron] Application receives arguments from another instance: ["/opt/XMind/xmind","/home/lucas/Documents/My/Plans.xmind"] /home/lucas/Documents/My
+[I 2021-12-09T13:36:47.345Z main:store:plugins:open-handler] Open: file:///home/lucas/Documents/My/Plans.xmind
+[I 2021-12-09T13:36:49.908Z main:store:plugins:electron] Application receives arguments from another instance: ["/opt/XMind/xmind","/home/lucas/Documents/My/Records.xmind"] /home/lucas/Documents/My
+[I 2021-12-09T13:36:49.909Z main:store:plugins:open-handler] Open: file:///home/lucas/Documents/My/Records.xmind
+[I 2021-12-09T13:36:53.348Z main:store:plugins:editors:EditorFrame] Frame 4 close
+[I 2021-12-09T13:36:53.360Z main:store:plugins:editors:EditorFrame] Not find editor view: undefined file:///opt/XMind/resources/app.asar/renderer/editor-frame.html?frameId=4&_apr=dark#
+[I 2021-12-09T13:36:53.511Z main:store:plugins:editors:EditorFrame] Frame 4 close
+[I 2021-12-09T13:36:53.684Z main:store:plugins:editors:EditorFrame] Frame 4 webContents destroyed
+[I 2021-12-09T13:36:54.760Z main:store:plugins:editors:EditorFrame] Frame 1 close
+[I 2021-12-09T13:36:54.845Z main:store:plugins:editors:EditorFrame] Not find editor view: undefined file:///opt/XMind/resources/app.asar/renderer/editor-frame.html?frameId=1&_apr=dark
+[I 2021-12-09T13:36:54.989Z main:store:plugins:editors:EditorFrame] Frame 1 close
+[I 2021-12-09T13:36:55.185Z main:store:plugins:editors:EditorFrame] Frame 1 webContents destroyed
+[I 2021-12-09T13:36:55.577Z main:store:plugins:editors:EditorFrame] Frame 5 close
+[I 2021-12-09T13:36:55.601Z main:store:plugins:editors:EditorFrame] Not find editor view: undefined file:///opt/XMind/resources/app.asar/renderer/editor-frame.html?frameId=5&_apr=dark
+[I 2021-12-09T13:36:55.740Z main:store:plugins:editors:EditorFrame] Frame 5 close
+[I 2021-12-09T13:36:55.848Z main:store:plugins:electron] Application is intended to quit.
+[I 2021-12-09T13:36:55.848Z main:store:plugins:electron] Asking all editors to close their documents...
+[I 2021-12-09T13:36:55.921Z main:store:plugins:editors:EditorFrame] Frame 5 webContents destroyed
+[I 2021-12-09T13:36:55.976Z main:store:plugins:electron] All documents are closed.
+[I 2021-12-09T13:36:55.976Z main:store:plugins:activation-updater] Stop updating per-machine license information periodically.
+[I 2021-12-09T13:36:55.977Z main:store:plugins:activation-updater] Stop updating subscription information periodically.
+[I 2021-12-09T13:36:55.984Z main:store:plugins:electron] Application is intended to quit.
+[I 2021-12-09T13:36:55.984Z main:store:plugins:electron] Application will quit.
+[I 2021-12-09T13:36:55.984Z main:store:plugins:electron] Application quitted.
+
+-------- SESSION 2021-12-09T13:36:56.963Z (11.0.1+202106220606, linux, x64, 16171732992, XMind Ltd., vana_linux) --------
+[I 2021-12-09T13:36:57.080Z main:store:plugins:iap] The user is not allowed to make in-app purchase.
+[I 2021-12-09T13:36:57.393Z main:store:plugins:electron] Application will finish launching.
+[I 2021-12-09T13:36:57.393Z main:store:plugins:electron] Application arguments: ["/opt/XMind/xmind","/home/lucas/Documents/My/Plans.xmind"]
+[I 2021-12-09T13:36:57.400Z main:store:plugins:electron] Application is ready.
+[I 2021-12-09T13:36:57.416Z main:store:plugins:open-handler] Recover: Map {}
+[I 2021-12-09T13:36:57.421Z main:store:plugins:activation-updater] Start updating subscription information periodically.
+[I 2021-12-09T13:36:57.421Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-12-09T13:36:57.421Z main:store:plugins:activation-updater] Start updating per-machine license information periodically.
+[I 2021-12-09T13:36:57.421Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-12-09T13:36:57.424Z main:store:plugins:open-handler] Open: file:///home/lucas/Documents/My/Plans.xmind
+[I 2021-12-09T13:36:57.614Z main:store:plugins:electron] Device ID: 0a4e2b8c-1b20-4415-a313-3910912c6df7
+[I 2021-12-09T13:37:00.506Z main:store:plugins:electron] Application receives arguments from another instance: ["/opt/XMind/xmind","/home/lucas/Documents/My/Records.xmind"] /home/lucas/Documents/My
+[I 2021-12-09T13:37:00.507Z main:store:plugins:open-handler] Open: file:///home/lucas/Documents/My/Records.xmind
+[I 2021-12-09T13:37:57.422Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-09T13:37:57.423Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-09T14:29:55.907Z snowbrush] Export image time: from 1639060195906 to 1639060195906.
+[I 2021-12-09T14:30:08.321Z snowbrush] Export image time: from 1639060208320 to 1639060208321.
+[I 2021-12-09T14:37:57.478Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-09T14:37:57.479Z main:store:plugins:activation-updater] Schedule refresh timeout(null).

@@ -1,0 +1,22 @@
+
+-------- SESSION 2021-12-01T10:26:02.129Z (11.0.1+202106220606, linux, x64, 16171728896, XMind Ltd., vana_linux) --------
+[I 2021-12-01T10:26:02.364Z main:store:plugins:iap] The user is not allowed to make in-app purchase.
+[I 2021-12-01T10:26:02.997Z main:store:plugins:electron] Application will finish launching.
+[I 2021-12-01T10:26:03.001Z main:store:plugins:electron] Application arguments: ["/opt/XMind/xmind"]
+[I 2021-12-01T10:26:03.022Z main:store:plugins:electron] Application is ready.
+[I 2021-12-01T10:26:03.119Z main:store:plugins:open-handler] Recover: Map {}
+[I 2021-12-01T10:26:03.159Z main:store:plugins:activation-updater] Start updating subscription information periodically.
+[I 2021-12-01T10:26:03.160Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-12-01T10:26:03.160Z main:store:plugins:activation-updater] Start updating per-machine license information periodically.
+[I 2021-12-01T10:26:03.160Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-12-01T10:26:03.579Z main:store:plugins:electron] Device ID: 0a4e2b8c-1b20-4415-a313-3910912c6df7
+[I 2021-12-01T10:27:03.162Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-01T10:27:03.163Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-01T10:27:11.454Z main:store:plugins:electron] Application is intended to quit.
+[I 2021-12-01T10:27:11.454Z main:store:plugins:electron] Asking all editors to close their documents...
+[I 2021-12-01T10:27:11.454Z main:store:plugins:electron] All documents are closed.
+[I 2021-12-01T10:27:11.455Z main:store:plugins:activation-updater] Stop updating per-machine license information periodically.
+[I 2021-12-01T10:27:11.455Z main:store:plugins:activation-updater] Stop updating subscription information periodically.
+[I 2021-12-01T10:27:11.502Z main:store:plugins:electron] Application is intended to quit.
+[I 2021-12-01T10:27:11.502Z main:store:plugins:electron] Application will quit.
+[I 2021-12-01T10:27:11.502Z main:store:plugins:electron] Application quitted.

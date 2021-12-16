@@ -1,0 +1,232 @@
+
+-------- SESSION 2021-10-29T11:27:00.859Z (11.0.1+202106220606, linux, x64, 16106299392, XMind Ltd., vana_linux) --------
+[I 2021-10-29T11:27:00.923Z main:store:plugins:memento] Migration start
+[I 2021-10-29T11:27:00.926Z main:store:plugins:memento] Migration stop, vud directory doesn't exist
+[I 2021-10-29T11:27:00.926Z main:store:plugins:memento] Migration completed [] . used time: 0 sec.
+[I 2021-10-29T11:27:00.927Z main:store:plugins:memento] Migration 2 start
+[I 2021-10-29T11:27:00.927Z main:store:plugins:memento] Migration 2 completed.
+[I 2021-10-29T11:27:00.927Z main:store:plugins:memento] Migration 3 start
+[I 2021-10-29T11:27:00.927Z main:store:plugins:memento] perMachineLicense.json Reading...
+[I 2021-10-29T11:27:00.927Z main:store:plugins:memento] Migration 3 completed.
+[I 2021-10-29T11:27:00.976Z main:store:plugins:iap] The user is not allowed to make in-app purchase.
+[I 2021-10-29T11:27:01.379Z main:store:plugins:electron] Application will finish launching.
+[I 2021-10-29T11:27:01.380Z main:store:plugins:electron] Application arguments: ["/opt/XMind/xmind"]
+[I 2021-10-29T11:27:01.398Z main:store:plugins:electron] Application is ready.
+[I 2021-10-29T11:27:01.786Z main:store:plugins:electron] Device ID: 0a4e2b8c-1b20-4415-a313-3910912c6df7
+[I 2021-10-29T11:27:06.554Z main:store:plugins:open-handler] Recover: Map {}
+[I 2021-10-29T11:27:06.555Z main:store:plugins:activation-updater] Start updating subscription information periodically.
+[I 2021-10-29T11:27:06.555Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-10-29T11:27:06.555Z main:store:plugins:activation-updater] Start updating per-machine license information periodically.
+[I 2021-10-29T11:27:06.556Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-10-29T11:27:12.535Z main:store:plugins:electron] Application receives arguments from another instance: ["xmind-2020"] /home/lucas
+[I 2021-10-29T11:28:06.556Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-10-29T11:28:06.557Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-10-29T11:28:06.886Z fonts] App Locale: en
+[I 2021-10-29T11:28:06.886Z fonts] start get system fonts
+[I 2021-10-29T11:28:07.407Z fonts] Failed to get system fonts: Error: Unknown font format
+[I 2021-10-29T11:28:08.910Z fonts] Consuming 2023 ms to get system fonts
+[I 2021-10-29T11:29:11.277Z fonts] App Locale: en
+[I 2021-10-29T11:29:30.932Z main:store:plugins:editors:EditorFrame] Frame 1 close
+[I 2021-10-29T11:29:33.125Z main:store:plugins:editors:EditorFrame] Not find editor view: undefined file:///opt/XMind/resources/app.asar/renderer/editor-frame.html?frameId=1&_apr=dark#
+[I 2021-10-29T11:29:33.222Z main:store:plugins:editors:EditorFrame] Frame 1 close
+[I 2021-10-29T11:29:33.300Z main:store:plugins:electron] Application is intended to quit.
+[I 2021-10-29T11:29:33.300Z main:store:plugins:electron] Asking all editors to close their documents...
+[I 2021-10-29T11:29:33.340Z main:store:plugins:editors:EditorFrame] Frame 1 webContents destroyed
+[I 2021-10-29T11:29:33.382Z main:store:plugins:electron] All documents are closed.
+[I 2021-10-29T11:29:33.383Z main:store:plugins:activation-updater] Stop updating per-machine license information periodically.
+[I 2021-10-29T11:29:33.383Z main:store:plugins:activation-updater] Stop updating subscription information periodically.
+[I 2021-10-29T11:29:33.388Z main:store:plugins:electron] Application is intended to quit.
+[I 2021-10-29T11:29:33.388Z main:store:plugins:electron] Application will quit.
+[I 2021-10-29T11:29:33.388Z main:store:plugins:electron] Application quitted.
+
+-------- SESSION 2021-10-29T11:29:34.754Z (11.0.1+202106220606, linux, x64, 16106299392, XMind Ltd., vana_linux) --------
+[I 2021-10-29T11:29:34.869Z main:store:plugins:iap] The user is not allowed to make in-app purchase.
+[I 2021-10-29T11:29:35.303Z main:store:plugins:electron] Application will finish launching.
+[I 2021-10-29T11:29:35.305Z main:store:plugins:electron] Application arguments: ["/opt/XMind/xmind"]
+[I 2021-10-29T11:29:35.314Z main:store:plugins:electron] Application is ready.
+[I 2021-10-29T11:29:35.336Z main:store:plugins:open-handler] Recover: Map {}
+[I 2021-10-29T11:29:35.341Z main:store:plugins:activation-updater] Start updating subscription information periodically.
+[I 2021-10-29T11:29:35.342Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-10-29T11:29:35.342Z main:store:plugins:activation-updater] Start updating per-machine license information periodically.
+[I 2021-10-29T11:29:35.342Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-10-29T11:29:35.477Z main:store:plugins:electron] Device ID: 0a4e2b8c-1b20-4415-a313-3910912c6df7
+[I 2021-10-29T11:29:39.592Z main:store:plugins:electron] Application receives arguments from another instance: ["xmind-2020"] /home/lucas
+[I 2021-10-29T11:30:16.814Z fonts] App Locale: en
+[I 2021-10-29T11:30:16.815Z fonts] start get system fonts
+[I 2021-10-29T11:30:17.136Z fonts] Failed to get system fonts: Error: Unknown font format
+[I 2021-10-29T11:30:18.509Z fonts] Consuming 1693 ms to get system fonts
+[I 2021-10-29T11:30:35.343Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-10-29T11:30:35.344Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-10-29T11:31:41.685Z snowbrush] Export image time: from 1635507101685 to 1635507101685.
+[I 2021-10-29T11:33:28.564Z snowbrush] Export image time: from 1635507208564 to 1635507208564.
+[I 2021-10-29T11:43:20.532Z snowbrush] Export image time: from 1635507800532 to 1635507800532.
+[I 2021-10-29T11:45:13.013Z snowbrush] db write {
+  'text/plain': '20:00 to 21:20\r\n' +
+    '\tLearning\r\n' +
+    '21:20 to 21:30\r\n' +
+    '\tWorkout\r\n' +
+    '21:30 to 22:50\r\n' +
+    '\tLearning\r\n' +
+    '22:50 to 23:00\r\n' +
+    '\tWorkout\r\n' +
+    '23:00 to 0:20\r\n' +
+    '\tLearning\r\n' +
+    '0:20 to 0:30\r\n' +
+    '\tWorkout\r\n' +
+    '0:30 to 1:50\r\n' +
+    '\tLearning\r\n' +
+    '1:50 to 6:00\r\n' +
+    '\tSleep',
+  'text/x-array-json': [
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] }
+  ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '870b64820698f12cdca4ab76e5'
+  },
+  xapInfoMap: {}
+}
+[I 2021-10-29T11:45:31.805Z snowbrush] Export image time: from 1635507931805 to 1635507931805.
+[I 2021-10-29T12:10:44.481Z snowbrush] db write {
+  'text/plain': '01HTML+CSS\r\n\tDay01 to Day09',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '870b64820698f12cdca4ab76e5'
+  },
+  xapInfoMap: {}
+}
+[I 2021-10-29T12:10:50.054Z snowbrush] Export image time: from 1635509450054 to 1635509450054.
+[I 2021-10-29T12:12:24.015Z snowbrush] db write {
+  'text/plain': '01HTML+CSS\r\n\t20200908\r\n\t20200909\r\n\t20200911\r\n\t20200912',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '870b64820698f12cdca4ab76e5'
+  },
+  xapInfoMap: {}
+}
+[I 2021-10-29T12:12:32.939Z snowbrush] db write {
+  'text/plain': '01HTML+CSS\r\n\t20200908\r\n\t20200909\r\n\t20200911\r\n\t20200912',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '870b64820698f12cdca4ab76e5'
+  },
+  xapInfoMap: {}
+}
+[I 2021-10-29T12:12:46.777Z snowbrush] Export image time: from 1635509566777 to 1635509566777.
+[I 2021-10-29T12:30:35.943Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-10-29T12:30:35.944Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-10-29T12:41:07.327Z snowbrush] db write {
+  'text/plain': '01HTML+CSS\r\n\tDay01 to Day09',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '870b64820698f12cdca4ab76e5'
+  },
+  xapInfoMap: {}
+}
+[I 2021-10-29T12:57:39.036Z snowbrush] Export image time: from 1635512259036 to 1635512259036.
+[I 2021-10-29T12:57:42.695Z snowbrush] Export image time: from 1635512262695 to 1635512262695.
+[I 2021-10-29T12:59:47.082Z snowbrush] Export image time: from 1635512387082 to 1635512387082.
+[I 2021-10-29T12:59:50.408Z snowbrush] Export image time: from 1635512390408 to 1635512390408.
+[I 2021-10-29T13:30:36.007Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-10-29T13:30:36.008Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-10-29T14:01:16.703Z snowbrush] Export image time: from 1635516076703 to 1635516076703.
+[I 2021-10-29T14:01:43.163Z snowbrush] Export image time: from 1635516103163 to 1635516103163.
+[I 2021-10-29T14:01:52.053Z snowbrush] db write {
+  'text/plain': 'Workout',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '870b64820698f12cdca4ab76e5'
+  },
+  xapInfoMap: {}
+}
+[I 2021-10-29T14:01:54.301Z snowbrush] Export image time: from 1635516114301 to 1635516114301.
+[I 2021-10-29T14:05:04.103Z snowbrush] Export image time: from 1635516304102 to 1635516304102.
+[I 2021-10-29T14:08:30.874Z snowbrush] Export image time: from 1635516510874 to 1635516510874.
+[I 2021-10-29T14:09:38.981Z snowbrush] Export image time: from 1635516578981 to 1635516578981.
+[I 2021-10-29T14:10:00.340Z snowbrush] db write {
+  'text/plain': '01HTML+CSS\r\n\t20200908\r\n\t20200909\r\nAnki Review\r\n\t01HTML+CSS\r\n\t\tDay10',
+  'text/x-array-json': [
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] }
+  ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '870b64820698f12cdca4ab76e5'
+  },
+  xapInfoMap: {}
+}
+[I 2021-10-29T14:10:25.014Z snowbrush] Export image time: from 1635516625013 to 1635516625014.
+[I 2021-10-29T14:30:36.060Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-10-29T14:30:36.061Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-10-29T14:32:23.707Z snowbrush] db write {
+  'text/plain': '20200911',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '870b64820698f12cdca4ab76e5'
+  },
+  xapInfoMap: {}
+}
+[I 2021-10-29T14:32:28.484Z snowbrush] Export image time: from 1635517948484 to 1635517948484.
+[I 2021-10-29T14:32:38.385Z snowbrush] Export image time: from 1635517958385 to 1635517958385.
+[I 2021-10-29T15:30:36.118Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-10-29T15:30:36.125Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-10-29T15:59:08.058Z snowbrush] db write {
+  'text/plain': 'Anki Review\r\n' +
+    '\t01HTML+CSS\r\n' +
+    '\t\tDay11_20200909\r\n' +
+    '\t\tDay12_20200911\r\n' +
+    '01HTML+CSS\r\n' +
+    '\t20200911',
+  'text/x-array-json': [
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] }
+  ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '870b64820698f12cdca4ab76e5'
+  },
+  xapInfoMap: {}
+}
+[I 2021-10-29T15:59:15.123Z snowbrush] Export image time: from 1635523155122 to 1635523155123.
+[I 2021-10-29T15:59:26.304Z snowbrush] Export image time: from 1635523166304 to 1635523166304.
+[I 2021-10-29T15:59:36.854Z snowbrush] Export image time: from 1635523176854 to 1635523176854.

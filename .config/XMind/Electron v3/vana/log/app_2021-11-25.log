@@ -1,0 +1,28 @@
+[I 2021-11-24T16:12:36.317Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-24T16:12:36.321Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-24T17:12:36.367Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-24T17:12:36.368Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-25T04:39:03.627Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-25T04:39:03.627Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-25T05:39:04.518Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-25T05:39:04.518Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-25T06:39:04.523Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-25T06:39:04.524Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-25T07:39:04.560Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-25T07:39:04.560Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-25T08:39:04.592Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-25T08:39:04.593Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-25T09:39:04.624Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-25T09:39:04.624Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-25T10:27:31.423Z main:store:plugins:editors:EditorFrame] Frame 1 close
+[I 2021-11-25T10:27:31.533Z main:store:plugins:editors:EditorFrame] Not find editor view: undefined file:///opt/XMind/resources/app.asar/renderer/editor-frame.html?frameId=1&_apr=dark
+[I 2021-11-25T10:27:31.661Z main:store:plugins:editors:EditorFrame] Frame 1 close
+[I 2021-11-25T10:27:31.828Z main:store:plugins:electron] Application is intended to quit.
+[I 2021-11-25T10:27:31.828Z main:store:plugins:electron] Asking all editors to close their documents...
+[I 2021-11-25T10:27:31.904Z main:store:plugins:editors:EditorFrame] Frame 1 webContents destroyed
+[I 2021-11-25T10:27:31.954Z main:store:plugins:electron] All documents are closed.
+[I 2021-11-25T10:27:31.955Z main:store:plugins:activation-updater] Stop updating per-machine license information periodically.
+[I 2021-11-25T10:27:31.955Z main:store:plugins:activation-updater] Stop updating subscription information periodically.
+[I 2021-11-25T10:27:31.963Z main:store:plugins:electron] Application is intended to quit.
+[I 2021-11-25T10:27:31.963Z main:store:plugins:electron] Application will quit.
+[I 2021-11-25T10:27:31.963Z main:store:plugins:electron] Application quitted.

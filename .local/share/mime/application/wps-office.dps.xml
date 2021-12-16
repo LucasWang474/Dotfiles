@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mime-type xmlns="http://www.freedesktop.org/standards/shared-mime-info" type="application/wps-office.dps">
+  <!--Created automatically by update-mime-database. DO NOT EDIT!-->
+  <comment>WPS Presentation File</comment>
+  <comment xml:lang="zh_CN">WPS演示 演示文稿</comment>
+  <generic-icon name="wps-office-dps"/>
+  <glob pattern="*.dps" weight="100"/>
+  <glob pattern="*.dpsx" weight="100"/>
+</mime-type>

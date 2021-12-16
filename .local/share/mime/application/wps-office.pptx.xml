@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mime-type xmlns="http://www.freedesktop.org/standards/shared-mime-info" type="application/wps-office.pptx">
+  <!--Created automatically by update-mime-database. DO NOT EDIT!-->
+  <comment>Microsoft Powerpoint</comment>
+  <sub-class-of type="application/vnd.openxmlformats-officedocument.presentationml.presentation"/>
+  <sub-class-of type="application/vnd.openxmlformats-officedocument.presentationml.slideshow"/>
+  <generic-icon name="wps-office-ppt"/>
+  <glob pattern="*.pptx" weight="100"/>
+  <glob pattern="*.ppsx" weight="100"/>
+</mime-type>

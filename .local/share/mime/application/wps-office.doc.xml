@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mime-type xmlns="http://www.freedesktop.org/standards/shared-mime-info" type="application/wps-office.doc">
+  <!--Created automatically by update-mime-database. DO NOT EDIT!-->
+  <comment>Microsoft Word</comment>
+  <sub-class-of type="application/msword"/>
+  <sub-class-of type="application/vnd.ms-word"/>
+  <sub-class-of type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+  <sub-class-of type="application/x-msword"/>
+  <sub-class-of type="application/vnd.ms-word.document.macroenabled.12"/>
+  <generic-icon name="wps-office-doc"/>
+  <glob pattern="*.doc" weight="100"/>
+  <glob pattern="*.docm" weight="100"/>
+  <glob pattern="*.rtf" weight="100"/>
+</mime-type>

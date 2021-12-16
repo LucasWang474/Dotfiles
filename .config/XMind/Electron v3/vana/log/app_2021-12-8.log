@@ -1,0 +1,46 @@
+[I 2021-12-07T16:26:14.697Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-07T16:26:14.698Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-08T03:49:15.220Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-08T03:49:15.228Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-08T04:49:15.250Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-08T04:49:15.251Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-08T05:49:15.283Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-08T05:49:15.283Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-08T06:49:15.312Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-08T06:49:15.312Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-08T07:49:15.334Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-08T07:49:15.334Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-08T08:49:15.357Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-08T08:49:15.358Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-08T09:49:15.372Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-08T09:49:15.372Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-08T10:49:15.386Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-08T10:49:15.386Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-08T11:49:15.400Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-08T11:49:15.400Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-08T12:49:15.411Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-08T12:49:15.411Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-08T13:49:15.419Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-08T13:49:15.419Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-08T14:49:15.425Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-08T14:49:15.425Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-08T14:52:23.244Z main:store:plugins:electron] Application is intended to quit.
+[I 2021-12-08T14:52:23.244Z main:store:plugins:electron] Asking all editors to close their documents...
+[I 2021-12-08T14:52:23.245Z main:store:plugins:electron] All documents are closed.
+[I 2021-12-08T14:52:23.246Z main:store:plugins:activation-updater] Stop updating per-machine license information periodically.
+[I 2021-12-08T14:52:23.246Z main:store:plugins:activation-updater] Stop updating subscription information periodically.
+[I 2021-12-08T14:52:23.254Z main:store:plugins:electron] Application is intended to quit.
+
+-------- SESSION 2021-12-08T14:55:58.197Z (11.0.1+202106220606, linux, x64, 16171732992, XMind Ltd., vana_linux) --------
+[I 2021-12-08T14:55:58.413Z main:store:plugins:iap] The user is not allowed to make in-app purchase.
+[I 2021-12-08T14:55:59.060Z main:store:plugins:electron] Application will finish launching.
+[I 2021-12-08T14:55:59.062Z main:store:plugins:electron] Application arguments: ["/opt/XMind/xmind"]
+[I 2021-12-08T14:55:59.081Z main:store:plugins:electron] Application is ready.
+[I 2021-12-08T14:55:59.135Z main:store:plugins:open-handler] Recover: Map {}
+[I 2021-12-08T14:55:59.142Z main:store:plugins:activation-updater] Start updating subscription information periodically.
+[I 2021-12-08T14:55:59.143Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-12-08T14:55:59.143Z main:store:plugins:activation-updater] Start updating per-machine license information periodically.
+[I 2021-12-08T14:55:59.143Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-12-08T14:55:59.471Z main:store:plugins:electron] Device ID: 0a4e2b8c-1b20-4415-a313-3910912c6df7
+[I 2021-12-08T14:56:59.144Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-08T14:56:59.145Z main:store:plugins:activation-updater] Schedule refresh timeout(null).

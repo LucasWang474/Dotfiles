@@ -1,0 +1,1683 @@
+[I 2021-11-08T16:13:28.348Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-08T16:13:28.358Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-08T17:13:28.380Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-08T17:13:28.380Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-08T18:13:28.398Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-08T18:13:28.398Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-08T19:13:28.414Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-08T19:13:28.414Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-08T20:13:28.415Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-08T20:13:28.415Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-08T21:13:28.421Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-08T21:13:28.421Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-08T21:59:47.587Z snowbrush] db write {
+  'text/plain': 'Mon, 11-08 (必须完成制定的计划) (莫名其妙从下午睡到了第二天)\r\n' +
+    '\tRecords\r\n' +
+    '\t\tI (5:35 to 10:00)\r\n' +
+    '\t\tII (10:00  to 18:00)\r\n' +
+    '\t\t\t12:45 to 14:25 (100)\r\n' +
+    '\t\t\t\t01PC-Project\r\n' +
+    '\t\t\t\t\tRefactor\r\n' +
+    '\t\t\t15:50 to 16:20 (30 + 100 = 130)\r\n' +
+    '\t\t\t\tAnki Review\r\n' +
+    '\t\t\t\t\t01HTML+CSS\r\n' +
+    '\t\t\t\t\t02JavaScript\r\n' +
+    '\t\t\t\t\t03PC+...\r\n' +
+    '\t\tIII (18:00 to 23:00)\r\n' +
+    '\t\tIV\r\n' +
+    '\tMUST DO\r\n' +
+    '\t\tLearning\r\n' +
+    '\t\t\t03第三阶段\r\n' +
+    '\t\t\t\t02JS-Advanced\r\n' +
+    '\t\t\t\t\tDay35-20201019\r\n' +
+    '\t\t\t\t\tDay36-20201020\r\n' +
+    '\t\t\t\t03jQuery\r\n' +
+    '\t\t\t\t\tDay37-20201021\r\n' +
+    '\t\tNOTES\r\n' +
+    '\t\t\t一定要完成上面的所有任务\r\n' +
+    '\t\t\t\t完不成就熬夜完成\r\n' +
+    '\t\t\t在没有完成上面的所有任务之前\r\n' +
+    '\t\t\t\t不允许访问\r\n' +
+    '\t\t\t\t\tbaidu\r\n' +
+    '\t\t\t\t\tzhihu\r\n' +
+    '\t\t\t\t\tbilibili\r\n' +
+    '\t\t\t\t\tyoutube\r\n' +
+    '\t\t\t\t\ttelegram\r\n' +
+    '\t\t\t\t\tdiscord\r\n' +
+    '\t\t\t\t\tpSyu\r\n' +
+    '\t\t\t\t\t等等\r\n' +
+    '\t\t\t\t单次休息时间不允许超过 15 分钟\r\n' +
+    '\t\t\t\t\t休息时不允许使用电脑、手机\r\n' +
+    '\t\t\t\t\t尽量睡觉\r\n' +
+    '\t\t\t\t午饭时间不允许超过 90 分钟\r\n' +
+    '\t\t\t\t晚饭时间不允许超过 30 分钟\r\n' +
+    '\tSummary\r\n' +
+    '\t\tTime\r\n' +
+    '\t\t\tLearning\r\n' +
+    '\t\t\tBreak\r\n' +
+    '\t\t\tEfficiency\r\n' +
+    '\t\tReview\r\n' +
+    '\t\tMaybe\r\n' +
+    '\t\t\t拿出高中时的坚持、努力和毅力。\n' +
+    '再加上现在的自觉和认知。\n' +
+    '天下之大，哪里去不得？\r\n' +
+    '\t\tDONE\r\n' +
+    '\t\t\tLearning\r\n' +
+    '\t\t\t\tAnki Review\r\n' +
+    '\t\t\t\t\t01HTML+CSS\r\n' +
+    '\t\t\t\t\t02JavaScript\r\n' +
+    '\t\t\t\t\t03PC+...\r\n' +
+    '\t\t\t\t03第三阶段\r\n' +
+    '\t\t\t\t\t02JS-Advanced\r\n' +
+    '\t\t\t\t\t\tDay35-20201019\r\n' +
+    '\t\t\t\t\t\tDay36-20201020\r\n' +
+    '\t\t\t\t\t03jQuery\r\n' +
+    '\t\t\t\t\t\tDay37-20201021',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '870b64820698f12cdca4ab76e5'
+  },
+  xapInfoMap: {}
+}
+[I 2021-11-08T22:00:12.907Z snowbrush] Export image time: from 1636408812906 to 1636408812907.
+[I 2021-11-08T22:00:23.994Z snowbrush] Export image time: from 1636408823994 to 1636408823994.
+[I 2021-11-08T22:00:39.143Z snowbrush] Export image time: from 1636408839143 to 1636408839143.
+[I 2021-11-08T22:01:48.016Z snowbrush] Export image time: from 1636408908016 to 1636408908016.
+[I 2021-11-08T22:02:08.148Z snowbrush] db write {
+  'text/plain': '03第三阶段\r\n' +
+    '\t02JS-Advanced\r\n' +
+    '\t\tDay35-20201019\r\n' +
+    '\t\tDay36-20201020\r\n' +
+    '\t03jQuery\r\n' +
+    '\t\tDay37-20201021\r\n' +
+    '\t\tDay38-20201023',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '870b64820698f12cdca4ab76e5'
+  },
+  xapInfoMap: {}
+}
+[I 2021-11-08T22:02:12.749Z snowbrush] db write {
+  'text/plain': 'Anki Review\r\n\t01HTML+CSS\r\n\t02JavaScript\r\n\t03PC+...',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '870b64820698f12cdca4ab76e5'
+  },
+  xapInfoMap: {}
+}
+[I 2021-11-08T22:02:16.498Z snowbrush] db write {
+  'text/plain': 'Day38-20201023',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '870b64820698f12cdca4ab76e5'
+  },
+  xapInfoMap: {}
+}
+[I 2021-11-08T22:02:24.219Z snowbrush] db write {
+  'text/plain': 'Anki Review\r\n\t01HTML+CSS\r\n\t02JavaScript\r\n\t03PC+...',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '870b64820698f12cdca4ab76e5'
+  },
+  xapInfoMap: {}
+}
+[I 2021-11-08T22:02:26.509Z snowbrush] Export image time: from 1636408946509 to 1636408946509.
+[I 2021-11-08T22:13:28.427Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-08T22:13:28.427Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-08T22:20:08.045Z snowbrush] db write {
+  'text/plain': 'Anki Review\r\n\t01HTML+CSS\r\n\t02JavaScript\r\n\t03PC+...',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '870b64820698f12cdca4ab76e5'
+  },
+  xapInfoMap: {}
+}
+[I 2021-11-08T22:20:09.965Z snowbrush] db write {
+  'text/plain': '02JavaScript\r\n03PC+...',
+  'text/x-array-json': [
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] }
+  ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '870b64820698f12cdca4ab76e5'
+  },
+  xapInfoMap: {}
+}
+[I 2021-11-08T22:26:02.919Z snowbrush] Export image time: from 1636410362914 to 1636410362914.
+[I 2021-11-08T22:56:03.439Z snowbrush] db write {
+  'text/plain': 'Anki Review\r\n\t02JavaScript',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '870b64820698f12cdca4ab76e5'
+  },
+  xapInfoMap: {}
+}
+[I 2021-11-08T22:56:05.161Z snowbrush] db write {
+  'text/plain': '03PC+...',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '870b64820698f12cdca4ab76e5'
+  },
+  xapInfoMap: {}
+}
+[I 2021-11-08T22:56:06.815Z snowbrush] Export image time: from 1636412166815 to 1636412166815.
+[I 2021-11-08T23:10:44.235Z snowbrush] Export image time: from 1636413044234 to 1636413044235.
+[I 2021-11-08T23:13:28.433Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-08T23:13:28.434Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-08T23:32:34.241Z snowbrush] db write {
+  'text/plain': '03PC+...',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '870b64820698f12cdca4ab76e5'
+  },
+  xapInfoMap: {}
+}
+[I 2021-11-08T23:32:39.023Z snowbrush] db write {
+  'text/plain': 'Anki Review\r\n\t02JavaScript\r\n\t03PC+...',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '870b64820698f12cdca4ab76e5'
+  },
+  xapInfoMap: {}
+}
+[I 2021-11-08T23:32:40.971Z snowbrush] Export image time: from 1636414360971 to 1636414360971.
+[I 2021-11-08T23:57:07.524Z snowbrush] Export image time: from 1636415827512 to 1636415827512.
+[I 2021-11-09T00:13:28.436Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-09T00:13:28.437Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-09T00:50:40.579Z snowbrush] db write {
+  'text/plain': '02JS-Advanced\r\n\tDay35-20201019\r\n\tDay36-20201020',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '870b64820698f12cdca4ab76e5'
+  },
+  xapInfoMap: {}
+}
+[I 2021-11-09T00:50:45.751Z snowbrush] db write {
+  'text/plain': '02JS-Advanced\r\n\tDay35-20201019\r\n\tDay36-20201020',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '870b64820698f12cdca4ab76e5'
+  },
+  xapInfoMap: {}
+}
+[I 2021-11-09T00:50:51.220Z snowbrush] Export image time: from 1636419051220 to 1636419051220.
+[I 2021-11-09T01:08:17.319Z snowbrush] Export image time: from 1636420097319 to 1636420097319.
+[I 2021-11-09T01:13:28.453Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-09T01:13:28.454Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-09T02:04:09.165Z snowbrush] Export image time: from 1636423449165 to 1636423449165.
+[I 2021-11-09T02:13:28.511Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-09T02:13:28.511Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-09T03:13:28.566Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-09T03:13:28.566Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-09T03:54:47.977Z snowbrush] Export image time: from 1636430087966 to 1636430087966.
+[I 2021-11-09T04:13:28.615Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-09T04:13:28.615Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-09T05:00:59.282Z snowbrush] db write {
+  'text/plain': '02JS-Advanced\r\n\tDay36-20201020',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '870b64820698f12cdca4ab76e5'
+  },
+  xapInfoMap: {}
+}
+[I 2021-11-09T05:01:01.995Z snowbrush] Export image time: from 1636434061995 to 1636434061995.
+[I 2021-11-09T05:13:28.660Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-09T05:13:28.661Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-09T05:21:30.842Z snowbrush] Export image time: from 1636435290842 to 1636435290842.
+[I 2021-11-09T05:21:32.686Z snowbrush] db write {
+  'text/plain': '02JS-Advanced\r\n\tDay36-20201020',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '870b64820698f12cdca4ab76e5'
+  },
+  xapInfoMap: {}
+}
+[I 2021-11-09T06:05:17.205Z main:store:plugins:electron] Application receives arguments from another instance: ["/opt/XMind/xmind","/home/lucas/Downloads/BaiduNetdiskDownloads/Courses/SGG-Front-end-Videos/03第三阶段/03--jQuery/jQuery.xmind"] /home/lucas/Downloads/BaiduNetdiskDownloads/Courses/SGG-Front-end-Videos/03第三阶段/03--jQuery
+[I 2021-11-09T06:05:17.207Z main:store:plugins:open-handler] Open: file:///home/lucas/Downloads/BaiduNetdiskDownloads/Courses/SGG-Front-end-Videos/03%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/03--jQuery/jQuery.xmind
+[W 2021-11-09T06:05:19.644Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T06:05:19.652Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T06:05:19.652Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T06:05:19.653Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T06:05:19.655Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T06:05:19.655Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T06:05:19.927Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T06:05:19.982Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T06:05:20.041Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T06:05:20.041Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T06:05:20.044Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T06:05:20.044Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T06:05:20.045Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T06:05:20.045Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T06:05:20.046Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T06:05:20.046Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T06:05:20.048Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T06:05:20.048Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T06:05:20.049Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T06:05:20.049Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T06:05:20.460Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T06:05:20.845Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[I 2021-11-09T06:05:43.792Z main:store:plugins:editors:EditorFrame] Frame 2 close
+[I 2021-11-09T06:05:43.853Z main:store:plugins:editors:EditorFrame] Not find editor view: undefined file:///opt/XMind/resources/app.asar/renderer/editor-frame.html?frameId=2&_apr=dark
+[I 2021-11-09T06:05:43.999Z main:store:plugins:editors:EditorFrame] Frame 2 close
+[I 2021-11-09T06:05:44.209Z main:store:plugins:editors:EditorFrame] Frame 2 webContents destroyed
+[I 2021-11-09T06:13:28.704Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-09T06:13:28.704Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-09T07:13:28.746Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-09T07:13:28.755Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-09T07:40:55.797Z snowbrush] Export image time: from 1636443655797 to 1636443655797.
+[I 2021-11-09T07:52:26.690Z main:store:plugins:electron] Application receives arguments from another instance: ["/opt/XMind/xmind","/home/lucas/Codes/My-Front-end-Learning/03-PC+JS+jQuery+Bootstrap/Notes/03-jQuery/jQuery.xmind"] /home/lucas/Codes/My-Front-end-Learning/03-PC+JS+jQuery+Bootstrap/Notes/03-jQuery
+[I 2021-11-09T07:52:26.692Z main:store:plugins:open-handler] Open: file:///home/lucas/Codes/My-Front-end-Learning/03-PC+JS+jQuery+Bootstrap/Notes/03-jQuery/jQuery.xmind
+[W 2021-11-09T07:52:29.227Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T07:52:29.233Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T07:52:29.233Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T07:52:29.234Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T07:52:29.236Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T07:52:29.236Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T07:52:29.531Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T07:52:29.593Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T07:52:29.657Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T07:52:29.657Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T07:52:29.661Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T07:52:29.662Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T07:52:29.662Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T07:52:29.662Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T07:52:29.663Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T07:52:29.663Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T07:52:29.665Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T07:52:29.665Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T07:52:29.665Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T07:52:29.665Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T07:52:30.030Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T07:52:30.211Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T07:53:56.424Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T07:53:56.447Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T07:53:56.463Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T07:53:56.464Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T07:53:56.467Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T07:53:56.468Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T07:53:56.469Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T07:53:56.469Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T07:53:56.471Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T07:53:56.471Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T07:53:56.473Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T07:53:56.473Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T07:53:56.473Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T07:53:56.474Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T07:53:58.078Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T07:53:58.114Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T07:53:58.142Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T07:53:58.142Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T07:53:58.146Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T07:53:58.147Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T07:53:58.147Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T07:53:58.148Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T07:53:58.149Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T07:53:58.149Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T07:53:58.151Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T07:53:58.151Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T07:53:58.152Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T07:53:58.152Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T07:59:51.900Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T07:59:51.916Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T07:59:51.930Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T07:59:51.931Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T07:59:51.935Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T07:59:51.935Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T07:59:51.937Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T07:59:51.937Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T07:59:51.937Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T07:59:51.937Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T07:59:51.939Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T07:59:51.939Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T07:59:51.939Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T07:59:51.939Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:03:34.394Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:03:34.410Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:03:34.425Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:03:34.425Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:03:34.427Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:03:34.427Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:03:34.428Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:03:34.428Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:03:34.429Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:03:34.429Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:03:34.430Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:03:34.430Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:03:34.431Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:03:34.431Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:03:37.144Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:03:37.174Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:03:37.183Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:03:37.184Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:03:37.187Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:03:37.187Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:03:37.188Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:03:37.188Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:03:37.189Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:03:37.189Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:03:37.190Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:03:37.190Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:03:37.190Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:03:37.190Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:07:00.350Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:07:00.371Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:07:00.385Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:07:00.385Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:07:00.390Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:07:00.390Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:07:00.391Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:07:00.391Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:07:00.392Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:07:00.392Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:07:00.394Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:07:00.394Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:07:00.394Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:07:00.394Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:07:00.994Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:07:01.012Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:07:01.022Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:07:01.022Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:07:01.025Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:07:01.025Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:07:01.026Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:07:01.026Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:07:01.026Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:07:01.027Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:07:01.028Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:07:01.028Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:07:01.029Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:07:01.029Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:07:03.555Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:07:03.585Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:07:03.610Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:07:03.610Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:07:03.615Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:07:03.615Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:07:03.617Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:07:03.617Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:07:03.618Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:07:03.618Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:07:03.621Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:07:03.621Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:07:03.622Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:07:03.622Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:07:05.067Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:07:05.093Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:07:05.104Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:07:05.104Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:07:05.107Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:07:05.107Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:07:05.107Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:07:05.107Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:07:05.108Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:07:05.108Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:07:05.109Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:07:05.109Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:07:05.111Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:07:05.111Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:07:06.498Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:07:06.516Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:07:06.525Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:07:06.526Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:07:06.528Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:07:06.528Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:07:06.529Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:07:06.529Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:07:06.530Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:07:06.531Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:07:06.532Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:07:06.532Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:07:06.533Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:07:06.533Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:07:23.246Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:07:23.288Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:07:23.299Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:07:23.299Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:07:23.301Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:07:23.301Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:07:23.302Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:07:23.302Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:07:23.303Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:07:23.303Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:07:23.305Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:07:23.305Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:07:23.305Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:07:23.305Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:07:28.779Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:07:28.818Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:07:28.834Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:07:28.834Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:07:28.837Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:07:28.837Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:07:28.838Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:07:28.838Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:07:28.838Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:07:28.838Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:07:28.839Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:07:28.839Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:07:28.839Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:07:28.839Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:07:30.461Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:07:30.480Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:07:30.495Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:07:30.495Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:07:30.499Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:07:30.499Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:07:30.500Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:07:30.500Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:07:30.501Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:07:30.501Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:07:30.503Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:07:30.503Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:07:30.504Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:07:30.504Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[I 2021-11-09T08:13:28.793Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-09T08:13:28.794Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[W 2021-11-09T08:13:48.639Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:13:48.670Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:13:48.681Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:13:48.681Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:13:48.683Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:13:48.683Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:13:48.683Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:13:48.683Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:13:48.684Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:13:48.684Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:13:48.685Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:13:48.685Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:13:48.686Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:13:48.686Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:13:56.090Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:13:56.115Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:13:56.130Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:13:56.130Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:13:56.134Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:13:56.134Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:13:56.135Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:13:56.135Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:13:56.136Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:13:56.137Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:13:56.139Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:13:56.140Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:13:56.140Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:13:56.140Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[I 2021-11-09T08:14:10.459Z snowbrush] Export image time: from 1636445650445 to 1636445650446.
+[I 2021-11-09T08:14:22.677Z fonts] App Locale: en
+[I 2021-11-09T08:14:22.677Z fonts] start get system fonts
+[I 2021-11-09T08:14:22.978Z fonts] Failed to get system fonts: Error: Unknown font format
+[I 2021-11-09T08:14:24.120Z fonts] Consuming 1443 ms to get system fonts
+[W 2021-11-09T08:14:49.515Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:14:49.516Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:14:49.516Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:14:49.516Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:14:49.517Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:14:49.517Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:14:49.665Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:14:49.743Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:14:49.743Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:14:49.745Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:14:49.745Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:14:49.746Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:14:49.746Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:14:49.747Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:14:49.747Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:14:49.748Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:14:49.748Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:14:49.749Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:14:49.749Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:16:04.840Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:16:04.858Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:16:04.875Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:16:04.875Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:16:04.878Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:16:04.878Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:16:04.879Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:16:04.879Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:16:04.880Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:16:04.880Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:16:04.881Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:16:04.881Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:16:04.882Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:16:04.882Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[I 2021-11-09T08:16:12.129Z snowbrush] Export image time: from 1636445772129 to 1636445772129.
+[W 2021-11-09T08:17:34.791Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:20:29.653Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:20:29.694Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:20:29.705Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:20:29.705Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:20:29.708Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:20:29.708Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:20:29.708Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:20:29.708Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:20:29.710Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:20:29.710Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:20:29.712Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:20:29.712Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:20:29.712Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:20:29.713Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[I 2021-11-09T08:20:31.834Z snowbrush] Export image time: from 1636446031834 to 1636446031834.
+[W 2021-11-09T08:21:02.225Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:21:02.242Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:21:02.255Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:21:02.256Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:21:02.258Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:21:02.258Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:21:02.259Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:21:02.259Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:21:02.260Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:21:02.260Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:21:02.262Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:21:02.262Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:21:02.263Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:21:02.263Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:21:16.928Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:21:16.954Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:21:16.968Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:21:16.969Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:21:16.971Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:21:16.971Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:21:16.972Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:21:16.972Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:21:16.973Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:21:16.973Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:21:16.974Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:21:16.974Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:21:16.975Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:21:16.975Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:21:52.175Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:21:52.221Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:21:52.241Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:21:52.241Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:21:52.242Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:21:52.242Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:21:52.243Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:21:52.243Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:21:52.244Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:21:52.244Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:21:52.245Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:21:52.245Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:21:52.246Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:21:52.246Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:21:53.539Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:21:53.572Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:21:53.591Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:21:53.591Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:21:53.594Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:21:53.595Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:21:53.595Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:21:53.595Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:21:53.597Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:21:53.597Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:21:53.598Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:21:53.598Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:21:53.599Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:21:53.599Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:22:04.678Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:22:04.720Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:22:04.743Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:22:04.743Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:22:04.744Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:22:04.744Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:22:04.745Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:22:04.745Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:22:04.745Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:22:04.745Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:22:04.747Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:22:04.747Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:22:04.748Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:22:04.748Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:22:06.627Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:22:06.647Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:22:06.654Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:22:06.655Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:22:06.656Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:22:06.656Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:22:06.657Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:22:06.657Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:22:06.658Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:22:06.658Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:22:06.659Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:22:06.659Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:22:06.660Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:22:06.660Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:22:13.752Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:22:13.775Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:22:13.788Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:22:13.788Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:22:13.789Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:22:13.789Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:22:13.790Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:22:13.790Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:22:13.791Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:22:13.791Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:22:13.792Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:22:13.792Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:22:13.794Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:22:13.794Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[I 2021-11-09T08:22:18.263Z snowbrush] Export image time: from 1636446138262 to 1636446138263.
+[W 2021-11-09T08:22:26.215Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:22:26.240Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:22:26.252Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:22:26.252Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:22:26.253Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:22:26.253Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:22:26.253Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:22:26.253Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:22:26.254Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:22:26.254Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:22:26.255Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:22:26.255Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:22:26.256Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:22:26.256Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[I 2021-11-09T08:22:28.708Z snowbrush] Export image time: from 1636446148707 to 1636446148707.
+[W 2021-11-09T08:22:41.521Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:22:41.549Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:22:41.561Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:22:41.561Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:22:41.563Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:22:41.563Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:22:41.565Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:22:41.565Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:22:41.566Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:22:41.566Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:22:41.568Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:22:41.568Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:22:41.569Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:22:41.569Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:29:00.578Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:29:00.621Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:29:00.633Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:29:00.634Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:29:00.635Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:29:00.635Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:29:00.637Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:29:00.637Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:29:00.637Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:29:00.637Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:29:00.640Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:29:00.640Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:29:00.641Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T08:29:00.641Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[I 2021-11-09T09:13:28.832Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-09T09:13:28.833Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-09T09:15:15.953Z snowbrush] db write {
+  'text/plain': '03jQuery\r\n' +
+    '\tDay37-20201021\r\n' +
+    '\tDay38-20201023\r\n' +
+    '\tDay39-20201024\r\n' +
+    '\t1/3 Day40-20201026',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '870b64820698f12cdca4ab76e5'
+  },
+  xapInfoMap: {}
+}
+[I 2021-11-09T09:15:21.724Z snowbrush] Export image time: from 1636449321723 to 1636449321724.
+[I 2021-11-09T09:15:28.474Z snowbrush] Export image time: from 1636449328474 to 1636449328474.
+[W 2021-11-09T09:45:15.303Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:15.342Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:15.352Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:15.352Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:15.352Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:15.352Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:15.353Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:15.353Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:15.354Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:15.354Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:15.356Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:15.356Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:15.356Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:15.357Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:16.647Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:16.674Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:16.684Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:16.684Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:16.684Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:16.685Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:16.686Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:16.686Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:16.687Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:16.687Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:16.688Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:16.688Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:16.690Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:16.690Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:20.804Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:20.869Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:20.873Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:20.874Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:20.874Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:20.874Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:20.874Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:20.874Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:20.874Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:20.874Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:20.874Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:20.874Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:20.875Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:20.875Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:22.042Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:22.064Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:22.076Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:22.077Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:22.077Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:22.077Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:22.078Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:22.078Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:22.078Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:22.078Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:22.078Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:22.078Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:22.079Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:22.079Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:22.879Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:22.903Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:22.920Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:22.921Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:22.921Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:22.921Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:22.924Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:22.924Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:22.925Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:22.925Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:22.929Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:22.929Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:22.930Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:22.931Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:23.658Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:23.682Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:23.699Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:23.699Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:23.699Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:23.700Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:23.702Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:23.702Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:23.703Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:23.704Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:23.706Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:23.706Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:23.708Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:23.708Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:24.573Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:24.597Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:24.614Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:24.614Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:24.615Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:24.615Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:24.617Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:24.618Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:24.619Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:24.619Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:24.621Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:24.622Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:24.623Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:24.624Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:26.237Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:26.264Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:26.283Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:26.283Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:26.284Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:26.284Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:26.287Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:26.288Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:26.289Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:26.289Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:26.291Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:26.292Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:26.294Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:26.294Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:30.908Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:30.926Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:30.933Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:30.934Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:30.934Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:30.934Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:30.936Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:30.936Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:30.936Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:30.936Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:30.938Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:30.938Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:30.938Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:30.938Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:32.186Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:32.212Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:32.236Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:32.236Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:32.237Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:32.237Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:32.241Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:32.241Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:32.242Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:32.242Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:32.243Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:32.243Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:32.244Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:32.244Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:33.077Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:33.102Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:33.119Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:33.119Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:33.121Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:33.121Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:33.125Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:33.126Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:33.128Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:33.128Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:33.131Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:33.131Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:33.133Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:45:33.133Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:46:45.977Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:46:45.996Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:46:46.004Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:46:46.004Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:46:46.005Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:46:46.005Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:46:46.008Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:46:46.008Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:46:46.011Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:46:46.011Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:46:46.012Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:46:46.013Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:46:46.015Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:46:46.015Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:46:48.070Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:46:48.093Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:46:48.107Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:46:48.107Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:46:48.108Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:46:48.108Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:46:48.113Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:46:48.113Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:46:48.114Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:46:48.114Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:46:48.116Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:46:48.116Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:46:48.118Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:46:48.118Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:46:53.367Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:46:53.383Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:46:53.390Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:46:53.390Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:46:53.390Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:46:53.390Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:46:53.391Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:46:53.391Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:46:53.392Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:46:53.392Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:46:53.394Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:46:53.394Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:46:53.395Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:46:53.395Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:47:59.434Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:47:59.477Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:47:59.499Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:47:59.499Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:47:59.499Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:47:59.500Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:47:59.501Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:47:59.501Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:47:59.502Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:47:59.502Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:47:59.503Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:47:59.503Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:47:59.504Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:47:59.504Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:48:08.399Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:48:08.422Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:48:09.655Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:48:09.665Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:48:10.104Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:48:10.112Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:48:10.542Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:48:10.567Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:48:10.574Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:48:10.575Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:48:10.575Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:48:10.575Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:48:10.577Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:48:10.577Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:48:10.577Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:48:10.578Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:48:10.578Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:48:10.578Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:48:10.579Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:48:10.579Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:48:11.390Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:48:11.404Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:48:11.829Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:48:11.837Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:49:08.629Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:49:08.676Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:49:08.700Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:49:08.700Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:49:08.700Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:49:08.700Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:49:08.703Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:49:08.703Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:49:08.704Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:49:08.704Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:49:08.706Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:49:08.706Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:49:08.706Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:49:08.706Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:49:09.782Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:49:09.807Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:49:09.824Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:49:09.824Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:49:09.825Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:49:09.825Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:49:09.832Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:49:09.833Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:49:09.834Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:49:09.835Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:49:09.839Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:49:09.839Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:49:09.840Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:49:09.840Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:49:11.117Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:49:11.141Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:49:11.159Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:49:11.159Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:49:11.160Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:49:11.160Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:49:11.163Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:49:11.163Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:49:11.165Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:49:11.165Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:49:11.167Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:49:11.167Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:49:11.168Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:49:11.168Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:49:12.228Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:49:12.241Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:49:12.251Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:49:12.251Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:49:12.252Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:49:12.252Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:49:12.254Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:49:12.254Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:49:12.255Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:49:12.255Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:49:12.255Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:49:12.256Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:49:12.256Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:49:12.256Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:49:55.186Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:49:55.206Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:49:56.335Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:49:56.339Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:51:26.986Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:52:35.604Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:52:39.150Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:52:39.192Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:52:39.201Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:52:39.202Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:52:39.202Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:52:39.203Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:52:39.204Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:52:39.204Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:52:39.204Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:52:39.205Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:52:39.205Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:52:39.205Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:52:39.206Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:52:39.206Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[I 2021-11-09T09:52:42.285Z snowbrush] Export image time: from 1636451562285 to 1636451562285.
+[W 2021-11-09T09:53:30.206Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:53:30.221Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:53:30.233Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:53:30.233Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:53:30.233Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:53:30.234Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:53:30.235Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:53:30.236Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:53:30.236Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:53:30.236Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:53:30.237Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:53:30.237Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:53:30.238Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:53:30.238Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:53:32.593Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:53:32.617Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:53:32.637Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:53:32.637Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:53:32.638Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:53:32.638Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:53:32.641Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:53:32.641Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:53:32.642Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:53:32.642Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:53:32.643Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:53:32.644Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:53:32.644Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:53:32.645Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:53:34.759Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:53:34.774Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:53:34.782Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:53:34.782Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:53:34.782Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:53:34.783Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:53:34.784Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:53:34.784Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:53:34.785Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:53:34.785Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:53:34.786Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:53:34.786Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:53:34.786Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:53:34.786Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:54:48.885Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:54:48.926Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:54:48.926Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:54:48.927Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:54:48.927Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:54:48.930Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:54:48.931Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:54:48.931Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:54:48.931Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:54:48.932Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:54:48.933Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:54:48.933Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:54:48.933Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[I 2021-11-09T09:54:49.273Z snowbrush] null
+[W 2021-11-09T09:54:49.386Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:54:49.408Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:54:49.408Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:54:49.409Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:54:49.409Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:54:49.409Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:54:49.410Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:54:49.410Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:54:49.410Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:54:49.411Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:54:49.412Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:54:49.412Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:54:49.413Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:54:49.890Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:54:49.954Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:54:49.954Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:54:49.955Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:54:49.955Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:54:49.957Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:54:49.957Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:54:49.957Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:54:49.957Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:54:49.958Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:54:49.958Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:54:49.959Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:54:49.959Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:54:51.856Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:54:51.886Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:54:51.917Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:54:51.917Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:54:51.917Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:54:51.918Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:54:51.919Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:54:51.919Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:54:51.919Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:54:51.919Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:54:51.920Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:54:51.920Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:54:51.920Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T09:54:51.920Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[I 2021-11-09T09:54:53.011Z snowbrush] Export image time: from 1636451693010 to 1636451693011.
+[I 2021-11-09T10:13:28.869Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-09T10:13:28.870Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-09T10:36:31.837Z snowbrush] db write {
+  'text/plain': '18:40 to ',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '870b64820698f12cdca4ab76e5'
+  },
+  xapInfoMap: {}
+}
+[I 2021-11-09T10:36:33.723Z snowbrush] Export image time: from 1636454193722 to 1636454193723.
+[I 2021-11-09T10:36:35.160Z snowbrush] db write {
+  'text/plain': '03jQuery\r\n\tDay37-20201021',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '870b64820698f12cdca4ab76e5'
+  },
+  xapInfoMap: {}
+}
+[I 2021-11-09T10:36:38.215Z snowbrush] Export image time: from 1636454198215 to 1636454198215.
+[W 2021-11-09T10:41:16.257Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T10:41:16.277Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T10:41:16.291Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T10:41:16.292Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T10:41:16.293Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T10:41:16.293Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T10:41:16.297Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T10:41:16.297Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T10:41:16.298Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T10:41:16.298Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T10:41:16.299Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T10:41:16.299Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T10:41:16.299Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T10:41:16.300Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[I 2021-11-09T11:13:28.872Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-09T11:13:28.872Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-09T11:13:42.314Z snowbrush] Export image time: from 1636456422313 to 1636456422314.
+[I 2021-11-09T11:14:37.523Z snowbrush] db write {
+  'text/plain': 'Day39-20201024\r\nDay40-20201026',
+  'text/x-array-json': [
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] }
+  ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '870b64820698f12cdca4ab76e5'
+  },
+  xapInfoMap: {}
+}
+[W 2021-11-09T11:58:53.302Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:58:53.346Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:58:53.362Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:58:53.362Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:58:53.362Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:58:53.363Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:58:53.365Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:58:53.366Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:58:53.367Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:58:53.367Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:58:53.368Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:58:53.368Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:58:53.369Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:58:53.369Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:58:59.880Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:58:59.922Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:58:59.933Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:58:59.933Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:58:59.934Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:58:59.934Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:58:59.937Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:58:59.937Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:58:59.937Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:58:59.938Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:58:59.939Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:58:59.939Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:58:59.939Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:58:59.940Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:59:01.259Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:59:01.293Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:59:01.314Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:59:01.315Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:59:01.316Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:59:01.317Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:59:01.321Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:59:01.321Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:59:01.322Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:59:01.322Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:59:01.323Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:59:01.323Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:59:01.323Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:59:01.323Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:59:02.259Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:59:02.275Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:59:02.285Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:59:02.285Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:59:02.285Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:59:02.285Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:59:02.287Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:59:02.287Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:59:02.287Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:59:02.287Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:59:02.288Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:59:02.288Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:59:02.288Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:59:02.288Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:59:05.883Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:59:05.912Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:59:05.924Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:59:05.924Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:59:05.925Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:59:05.925Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:59:05.927Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:59:05.927Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:59:05.927Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:59:05.927Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:59:05.928Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:59:05.928Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:59:05.929Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:59:05.929Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[I 2021-11-09T11:59:07.503Z snowbrush] Export image time: from 1636459147502 to 1636459147503.
+[W 2021-11-09T11:59:17.154Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:59:17.172Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:59:17.181Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:59:17.181Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:59:17.181Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:59:17.182Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:59:17.184Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:59:17.184Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:59:17.185Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:59:17.185Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:59:17.186Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:59:17.186Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:59:17.186Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:59:17.187Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:59:18.274Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:59:18.308Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:59:18.330Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:59:18.330Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:59:18.331Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:59:18.332Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:59:18.336Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:59:18.336Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:59:18.337Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:59:18.337Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:59:18.339Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:59:18.339Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:59:18.340Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:59:18.340Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:59:18.744Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:59:18.773Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:59:18.794Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:59:18.795Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:59:18.796Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:59:18.796Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:59:18.801Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:59:18.802Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:59:18.802Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:59:18.803Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:59:18.805Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:59:18.805Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:59:18.806Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:59:18.806Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:59:19.158Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:59:19.175Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:59:19.183Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:59:19.183Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:59:19.184Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:59:19.184Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:59:19.185Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:59:19.185Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:59:19.185Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:59:19.185Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:59:19.186Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:59:19.186Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:59:19.187Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:59:19.187Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:59:24.599Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:59:24.604Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:59:35.100Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:59:35.120Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:59:35.127Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:59:35.127Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:59:35.127Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:59:35.127Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:59:35.128Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:59:35.128Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:59:35.128Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:59:35.128Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:59:35.129Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:59:35.129Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:59:35.129Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T11:59:35.129Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[I 2021-11-09T12:13:28.884Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-09T12:13:28.884Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-09T12:51:08.948Z snowbrush] db write {
+  'text/plain': '03jQuery\r\n\tDay38-20201023\r\n\tDay39-20201024\r\n\tDay40-20201026',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '870b64820698f12cdca4ab76e5'
+  },
+  xapInfoMap: {}
+}
+[W 2021-11-09T12:51:58.203Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:51:58.225Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:51:58.234Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:51:58.234Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:51:58.234Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:51:58.235Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:51:58.236Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:51:58.236Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:51:58.237Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:51:58.237Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:51:58.237Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:51:58.237Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:51:58.238Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:51:58.238Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:00.057Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:00.088Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:00.106Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:00.106Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:00.106Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:00.106Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:00.108Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:00.108Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:00.109Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:00.109Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:00.110Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:00.110Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:00.110Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:00.110Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:01.361Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:01.374Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:01.392Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:01.392Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:01.393Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:01.393Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:01.395Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:01.395Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:01.397Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:01.397Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:01.397Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:01.398Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:01.398Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:01.398Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:02.525Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:02.537Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:02.545Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:02.546Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:02.546Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:02.546Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:02.548Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:02.548Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:02.549Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:02.550Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:02.550Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:02.550Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:02.551Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:02.551Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:04.432Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:04.457Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:04.475Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:04.475Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:04.476Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:04.476Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:04.478Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:04.478Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:04.483Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:04.483Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:04.485Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:04.485Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:04.485Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:04.485Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:05.289Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:05.318Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:05.337Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:05.338Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:05.339Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:05.339Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:05.341Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:05.341Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:05.345Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:05.345Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:05.347Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:05.347Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:05.347Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:05.348Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:07.185Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:07.210Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:07.226Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:07.226Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:07.227Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:07.227Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:07.230Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:07.230Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:07.231Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:07.232Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:07.233Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:07.233Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:07.234Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:07.235Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:11.761Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:11.799Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:11.817Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:11.818Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:11.818Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:11.818Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:11.819Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:11.819Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:11.821Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:11.821Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:11.822Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:11.822Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:11.823Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:11.823Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:13.458Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:13.480Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:13.503Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:13.504Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:13.505Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:13.505Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:13.506Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:13.506Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:13.508Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:13.509Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:13.509Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:13.510Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:13.510Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:13.510Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:15.017Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:15.052Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:15.069Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:15.070Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:15.071Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:15.071Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:15.072Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:15.072Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:15.076Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:15.076Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:15.077Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:15.078Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:15.078Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:15.078Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:17.064Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:17.090Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:17.108Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:17.108Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:17.109Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:17.109Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:17.110Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:17.110Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:17.114Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:17.115Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:17.116Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:17.116Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:17.117Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:17.117Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:18.527Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:18.553Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:18.569Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:18.570Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:18.570Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:18.571Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:18.571Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:18.571Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:18.572Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:18.572Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:18.573Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:18.573Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:18.574Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:18.574Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:19.611Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:19.640Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:19.655Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:19.656Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:19.656Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:19.656Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:19.657Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:19.657Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:19.658Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:19.658Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:19.659Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:19.659Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:19.660Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:19.660Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:21.553Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:21.570Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:21.581Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:21.581Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:21.582Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:21.582Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:21.582Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:21.582Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:21.583Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:21.583Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:21.584Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:21.584Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:21.585Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:21.586Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[I 2021-11-09T12:52:28.228Z snowbrush] Export image time: from 1636462348228 to 1636462348228.
+[W 2021-11-09T12:52:29.552Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:29.580Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:29.590Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:29.590Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:29.591Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:29.591Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:29.592Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:29.593Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:29.593Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:29.593Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:29.594Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:29.594Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:29.595Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:29.595Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:30.490Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:30.515Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:30.530Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:30.530Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:30.531Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:30.531Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:30.532Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:30.532Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:30.532Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:30.532Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:30.537Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:30.537Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:30.539Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:30.539Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:31.335Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:31.343Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:32.279Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:32.303Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:32.310Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:32.311Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:32.311Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:32.311Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:32.311Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:32.311Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:32.311Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:32.311Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:32.312Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:32.312Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:32.312Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T12:52:32.312Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[I 2021-11-09T12:52:34.509Z snowbrush] Export image time: from 1636462354509 to 1636462354509.
+[I 2021-11-09T12:52:54.406Z snowbrush] db write {
+  'text/plain': 'Day39-20201024\r\n1/3 Day40-20201026',
+  'text/x-array-json': [
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] }
+  ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '870b64820698f12cdca4ab76e5'
+  },
+  xapInfoMap: {}
+}
+[I 2021-11-09T12:52:57.156Z snowbrush] Export image time: from 1636462377156 to 1636462377156.
+[I 2021-11-09T13:13:28.913Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-09T13:13:28.913Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-09T13:17:59.936Z snowbrush] db write {
+  'text/plain': '03jQuery\r\n\tDay38-20201023',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '870b64820698f12cdca4ab76e5'
+  },
+  xapInfoMap: {}
+}
+[I 2021-11-09T14:07:47.016Z snowbrush] Export image time: from 1636466867015 to 1636466867015.
+[I 2021-11-09T14:09:05.454Z snowbrush] Export image time: from 1636466945454 to 1636466945454.
+[I 2021-11-09T14:13:28.938Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-09T14:13:28.938Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-09T15:13:28.960Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-09T15:13:28.961Z main:store:plugins:activation-updater] Schedule refresh timeout(null).

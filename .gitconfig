@@ -5,3 +5,8 @@
 	proxy = http://127.0.0.1:1081
 [credential]
 	helper = store
+[core]
+	autocrlf = input
+	editor = vim
+[init]
+	defaultBranch = main

@@ -1,0 +1,11 @@
+# 通过 Linux 命令创建以下结构  /d
+```
+project
+    - css
+        - app.css
+    - js
+        - app.js
+    - images
+        - logo.png
+    - index.html
+```

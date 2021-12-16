@@ -1,0 +1,513 @@
+[I 2021-10-31T16:02:37.444Z snowbrush] db write {
+  'text/plain': 'Learning\r\n' +
+    '\t02JavaScript\r\n' +
+    '\t\t1/5 Day22-20200924\r\n' +
+    '\tAnki Review\r\n' +
+    '\t\t02JavaScript\r\n' +
+    '\t\t\tDay22-20200924',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '870b64820698f12cdca4ab76e5'
+  },
+  xapInfoMap: {}
+}
+[I 2021-10-31T16:02:40.987Z snowbrush] Export image time: from 1635696160986 to 1635696160987.
+[I 2021-10-31T16:03:11.640Z snowbrush] db write {
+  'text/plain': 'Day23-20200925',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '870b64820698f12cdca4ab76e5'
+  },
+  xapInfoMap: {}
+}
+[I 2021-10-31T16:03:28.106Z snowbrush] db write {
+  'text/plain': '02JavaScript\r\n\t1/5 Day22-20200924',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '870b64820698f12cdca4ab76e5'
+  },
+  xapInfoMap: {}
+}
+[I 2021-10-31T16:03:31.228Z snowbrush] db write {
+  'text/plain': 'Day23-20200925',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '870b64820698f12cdca4ab76e5'
+  },
+  xapInfoMap: {}
+}
+[I 2021-10-31T16:04:00.534Z snowbrush] Export image time: from 1635696240533 to 1635696240534.
+[I 2021-10-31T16:16:03.531Z snowbrush] db write {
+  'text/plain': 'Learning\r\n' +
+    '\tAnki Review\r\n' +
+    '\t\t02JavaScript\r\n' +
+    '\t\t\tDay23-20200925\r\n' +
+    '\t02JavaScript\r\n' +
+    '\t\tDay23-20200925',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '870b64820698f12cdca4ab76e5'
+  },
+  xapInfoMap: {}
+}
+[I 2021-10-31T16:33:05.743Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-10-31T16:33:05.745Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-10-31T17:26:14.510Z snowbrush] Export image time: from 1635701174497 to 1635701174498.
+[I 2021-10-31T17:33:05.799Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-10-31T17:33:05.800Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-10-31T18:33:05.852Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-10-31T18:33:05.852Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-10-31T19:33:05.901Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-10-31T19:33:05.902Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-10-31T19:59:53.267Z snowbrush] Export image time: from 1635710393266 to 1635710393267.
+[I 2021-10-31T19:59:55.662Z snowbrush] db write {
+  'text/plain': 'Learning\r\n\t02JavaScript\r\n\t\tDay23-20200925',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '870b64820698f12cdca4ab76e5'
+  },
+  xapInfoMap: {}
+}
+[I 2021-10-31T19:59:56.766Z snowbrush] db write {
+  'text/plain': 'Learning\r\n\tAnki Review\r\n\t\t02JavaScript\r\n\t\t\tDay23-20200925',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '870b64820698f12cdca4ab76e5'
+  },
+  xapInfoMap: {}
+}
+[I 2021-10-31T20:00:19.551Z snowbrush] db write {
+  'text/plain': 'Day24-20200927',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '870b64820698f12cdca4ab76e5'
+  },
+  xapInfoMap: {}
+}
+[I 2021-10-31T20:01:27.185Z snowbrush] db write {
+  'text/plain': 'Day24-20200927',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '870b64820698f12cdca4ab76e5'
+  },
+  xapInfoMap: {}
+}
+[I 2021-10-31T20:02:00.096Z snowbrush] db write {
+  'text/plain': 'Day24-20200927',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '870b64820698f12cdca4ab76e5'
+  },
+  xapInfoMap: {}
+}
+[I 2021-10-31T20:02:01.829Z snowbrush] Export image time: from 1635710521828 to 1635710521828.
+[I 2021-10-31T20:08:04.131Z snowbrush] db write {
+  'text/plain': '02JavaScript\r\n' +
+    '\tBasic\r\n' +
+    '\t\tDay24-20200927\r\n' +
+    '\t\tDay25-20200928\r\n' +
+    '\t\tDay26-20200929\r\n' +
+    '\tAdvance\r\n' +
+    '\t\tDay27-20200930\r\n' +
+    '\t\tDay28-20201009',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '870b64820698f12cdca4ab76e5'
+  },
+  xapInfoMap: {}
+}
+[I 2021-10-31T20:08:28.437Z snowbrush] Export image time: from 1635710908436 to 1635710908437.
+[I 2021-10-31T20:33:05.913Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-10-31T20:33:05.913Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-10-31T21:10:18.560Z snowbrush] Export image time: from 1635714618560 to 1635714618560.
+[I 2021-10-31T21:33:05.954Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-10-31T21:33:05.955Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-10-31T22:26:20.091Z snowbrush] Export image time: from 1635719180091 to 1635719180091.
+[I 2021-10-31T22:30:26.318Z snowbrush] Export image time: from 1635719426306 to 1635719426307.
+[I 2021-10-31T22:30:29.861Z snowbrush] db write {
+  'text/plain': 'Learning\r\n' +
+    '\tAnki Review\r\n' +
+    '\t\t02JavaScript\r\n' +
+    '\t\t\tDay24-20200927\r\n' +
+    '\t02JavaScript\r\n' +
+    '\t\tDay24-20200927',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '870b64820698f12cdca4ab76e5'
+  },
+  xapInfoMap: {}
+}
+[I 2021-10-31T22:30:35.731Z snowbrush] Export image time: from 1635719435731 to 1635719435731.
+[I 2021-10-31T22:33:05.994Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-10-31T22:33:05.994Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-10-31T23:20:53.476Z snowbrush] Export image time: from 1635722453476 to 1635722453476.
+[I 2021-10-31T23:21:09.867Z snowbrush] Export image time: from 1635722469866 to 1635722469867.
+[I 2021-10-31T23:21:40.418Z snowbrush] Export image time: from 1635722500418 to 1635722500418.
+[I 2021-10-31T23:21:43.452Z snowbrush] db write {
+  'text/plain': 'Learning\r\n' +
+    '\tAnki Review\r\n' +
+    '\t\t01HTML+CSS\r\n' +
+    '\t\t02JavaScript\r\n' +
+    '\t02JavaScript\r\n' +
+    '\t\tDay21-20200923\r\n' +
+    '\t\tDay22-20200924\r\n' +
+    '\t\tDay23-20200925\r\n' +
+    '\t\tDay24-20200927',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '870b64820698f12cdca4ab76e5'
+  },
+  xapInfoMap: {}
+}
+[I 2021-10-31T23:21:46.761Z snowbrush] Export image time: from 1635722506761 to 1635722506761.
+[I 2021-10-31T23:22:20.208Z snowbrush] Export image time: from 1635722540207 to 1635722540207.
+[W 2021-10-31T23:22:27.109Z UsageTracker] Send fail: Error: Request to https://www.xmind.cn/piwik.php failed, reason: net::ERR_INTERNET_DISCONNECTED
+    at ClientRequest.<anonymous> (/opt/XMind/resources/app.asar/main/main.js:30:139579)
+    at ClientRequest.emit (events.js:315:20)
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21)
+[I 2021-10-31T23:33:06.014Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-10-31T23:33:06.014Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-10-31T23:41:10.743Z snowbrush] Export image time: from 1635723670743 to 1635723670743.
+[I 2021-10-31T23:42:20.064Z snowbrush] db write {
+  'text/plain': '11:10 to 19:10\r\n\tSleep',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '870b64820698f12cdca4ab76e5'
+  },
+  xapInfoMap: {}
+}
+[I 2021-10-31T23:42:30.557Z snowbrush] Export image time: from 1635723750557 to 1635723750557.
+[I 2021-10-31T23:43:56.272Z snowbrush] Export image time: from 1635723836272 to 1635723836272.
+[I 2021-10-31T23:44:27.570Z snowbrush] db write {
+  'text/plain': 'Summary (610 minutes, 10.17 hours)\r\n' +
+    '\tFrom\r\n' +
+    '\t\t7:00\r\n' +
+    '\tTo\r\n' +
+    '\t\t7:40 (the next day)\r\n' +
+    '\tSleep\r\n' +
+    '\t\t11:10 to 19:10 (8 hours)\r\n' +
+    '\tMaybe\r\n' +
+    '\t\t4 to 6 hours\r\n' +
+    '\tDONE\r\n' +
+    '\t\tLearning\r\n' +
+    '\t\t\tAnki Review\r\n' +
+    '\t\t\t\t01HTML+CSS\r\n' +
+    '\t\t\t\t02JavaScript\r\n' +
+    '\t\t\t02JavaScript\r\n' +
+    '\t\t\t\tDay21-20200923\r\n' +
+    '\t\t\t\tDay22-20200924\r\n' +
+    '\t\t\t\tDay23-20200925\r\n' +
+    '\t\t\t\tDay24-20200927',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '870b64820698f12cdca4ab76e5'
+  },
+  xapInfoMap: {}
+}
+[I 2021-10-31T23:44:41.453Z snowbrush] db write {
+  'text/plain': 'Learning\r\n' +
+    '\tAnki Review\r\n' +
+    '\t\t01HTML+CSS\r\n' +
+    '\t\t02JavaScript\r\n' +
+    '\t02JavaScript\r\n' +
+    '\t\tDay21-20200923\r\n' +
+    '\t\tDay22-20200924\r\n' +
+    '\t\tDay23-20200925\r\n' +
+    '\t\tDay24-20200927',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '870b64820698f12cdca4ab76e5'
+  },
+  xapInfoMap: {}
+}
+[I 2021-10-31T23:44:55.421Z snowbrush] Export image time: from 1635723895421 to 1635723895421.
+[I 2021-10-31T23:45:43.917Z snowbrush] Export image time: from 1635723943916 to 1635723943917.
+[I 2021-10-31T23:46:18.496Z snowbrush] Export image time: from 1635723978495 to 1635723978496.
+[I 2021-10-31T23:46:39.184Z snowbrush] Export image time: from 1635723999184 to 1635723999184.
+[I 2021-10-31T23:47:21.172Z snowbrush] Export image time: from 1635724041172 to 1635724041172.
+[I 2021-10-31T23:47:26.000Z snowbrush] Export image time: from 1635724046000 to 1635724046000.
+[I 2021-10-31T23:47:34.738Z snowbrush] Export image time: from 1635724054738 to 1635724054738.
+[I 2021-10-31T23:47:44.492Z snowbrush] Export image time: from 1635724064492 to 1635724064492.
+[I 2021-10-31T23:48:25.838Z snowbrush] Export image time: from 1635724105838 to 1635724105838.
+[I 2021-11-01T00:01:27.903Z snowbrush] Export image time: from 1635724887891 to 1635724887892.
+[I 2021-11-01T00:01:38.229Z snowbrush] Export image time: from 1635724898229 to 1635724898229.
+[I 2021-11-01T00:02:57.868Z main:store:plugins:editors:EditorFrame] Frame 1 close
+[I 2021-11-01T00:02:57.924Z main:store:plugins:editors:EditorFrame] Not find editor view: undefined file:///opt/XMind/resources/app.asar/renderer/editor-frame.html?frameId=1&_apr=dark
+[I 2021-11-01T00:02:58.074Z main:store:plugins:editors:EditorFrame] Frame 1 close
+[I 2021-11-01T00:02:58.184Z main:store:plugins:electron] Application is intended to quit.
+[I 2021-11-01T00:02:58.184Z main:store:plugins:electron] Asking all editors to close their documents...
+[I 2021-11-01T00:02:58.242Z main:store:plugins:editors:EditorFrame] Frame 1 webContents destroyed
+[I 2021-11-01T00:02:58.277Z main:store:plugins:electron] All documents are closed.
+[I 2021-11-01T00:02:58.278Z main:store:plugins:activation-updater] Stop updating per-machine license information periodically.
+[I 2021-11-01T00:02:58.278Z main:store:plugins:activation-updater] Stop updating subscription information periodically.
+[I 2021-11-01T00:02:58.289Z main:store:plugins:electron] Application is intended to quit.
+[I 2021-11-01T00:02:58.289Z main:store:plugins:electron] Application will quit.
+[I 2021-11-01T00:02:58.289Z main:store:plugins:electron] Application quitted.
+
+-------- SESSION 2021-11-01T01:46:32.743Z (11.0.1+202106220606, linux, x64, 16106295296, XMind Ltd., vana_linux) --------
+[I 2021-11-01T01:46:32.936Z main:store:plugins:iap] The user is not allowed to make in-app purchase.
+[I 2021-11-01T01:46:33.566Z main:store:plugins:electron] Application will finish launching.
+[I 2021-11-01T01:46:33.568Z main:store:plugins:electron] Application arguments: ["/opt/XMind/xmind"]
+[I 2021-11-01T01:46:33.601Z main:store:plugins:electron] Application is ready.
+[I 2021-11-01T01:46:33.622Z main:store:plugins:open-handler] Recover: Map {}
+[I 2021-11-01T01:46:33.633Z main:store:plugins:activation-updater] Start updating subscription information periodically.
+[I 2021-11-01T01:46:33.633Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-11-01T01:46:33.634Z main:store:plugins:activation-updater] Start updating per-machine license information periodically.
+[I 2021-11-01T01:46:33.634Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-11-01T01:46:33.936Z main:store:plugins:electron] Device ID: 0a4e2b8c-1b20-4415-a313-3910912c6df7
+[I 2021-11-01T01:47:33.634Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-01T01:47:33.635Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-01T02:47:33.692Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-01T02:47:33.692Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-01T03:47:33.710Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-01T03:47:33.710Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-01T04:09:30.517Z snowbrush] Export image time: from 1635739770517 to 1635739770517.
+[I 2021-11-01T04:47:33.716Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-01T04:47:33.719Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-01T05:47:33.769Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-01T05:47:33.769Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-01T06:47:33.817Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-01T06:47:33.818Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-01T07:47:33.862Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-01T07:47:33.863Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-01T08:47:33.904Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-01T08:47:33.904Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-01T09:47:33.908Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-01T09:47:33.909Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-01T10:47:33.946Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-01T10:47:33.947Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-01T11:47:33.979Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-01T11:47:33.979Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-01T11:56:10.882Z snowbrush] Export image time: from 1635767770882 to 1635767770882.
+[I 2021-11-01T11:58:34.266Z snowbrush] db write {
+  'text/plain': 'Learning\r\n' +
+    '\tAnki Review\r\n' +
+    '\t\t01HTML+CSS\r\n' +
+    '\t\t02JavaScript\r\n' +
+    '\tAlgorithms\r\n' +
+    '\t02JavaScript\r\n' +
+    '\t\tDay25-20200928\r\n' +
+    '\t\tDay26-20200929\r\n' +
+    '\t\tDay27-20200930\r\n' +
+    '\t\tDay28-20201009\r\n' +
+    '\t\tDay29-20201010\r\n' +
+    '\t\tDay30-20201012',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '870b64820698f12cdca4ab76e5'
+  },
+  xapInfoMap: {}
+}
+[I 2021-11-01T11:58:41.464Z snowbrush] Export image time: from 1635767921464 to 1635767921464.
+[I 2021-11-01T12:47:34.016Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-01T12:47:34.017Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-01T12:59:59.835Z main:store:plugins:electron] Application is intended to quit.
+[I 2021-11-01T12:59:59.835Z main:store:plugins:electron] Asking all editors to close their documents...
+
+-------- SESSION 2021-11-01T13:00:34.832Z (11.0.1+202106220606, linux, x64, 16173625344, XMind Ltd., vana_linux) --------
+[I 2021-11-01T13:00:35.018Z main:store:plugins:iap] The user is not allowed to make in-app purchase.
+[I 2021-11-01T13:00:35.710Z main:store:plugins:electron] Application will finish launching.
+[I 2021-11-01T13:00:35.713Z main:store:plugins:electron] Application arguments: ["/opt/XMind/xmind"]
+[I 2021-11-01T13:00:35.764Z main:store:plugins:electron] Application is ready.
+[I 2021-11-01T13:00:35.804Z main:store:plugins:open-handler] Recover: Map {
+  '1' => [
+    {
+      source: 'file:///home/lucas/Codes/My-Front-end-Learning/SGG-Front-end-Learning-Challenge.xmind',
+      editorId: '261ad527983822026f9848c231'
+    }
+  ]
+}
+[I 2021-11-01T13:00:35.823Z main:store:plugins:activation-updater] Start updating subscription information periodically.
+[I 2021-11-01T13:00:35.823Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-11-01T13:00:35.823Z main:store:plugins:activation-updater] Start updating per-machine license information periodically.
+[I 2021-11-01T13:00:35.823Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-11-01T13:00:36.385Z main:store:plugins:electron] Device ID: 0a4e2b8c-1b20-4415-a313-3910912c6df7
+[W 2021-11-01T13:00:36.634Z main:store:plugins:electron] Failed to load pricing: Error: Request to https://www.xmind.net/_res/get-zen-price?p=vana_linux&v=11.0.1.202106220606&os=linux&ar=x64&nl=en-US failed, reason: net::ERR_NETWORK_CHANGED
+    at ClientRequest.<anonymous> (/opt/XMind/resources/app.asar/main/main.js:30:139579)
+    at ClientRequest.emit (events.js:315:20)
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21)
+[I 2021-11-01T13:01:35.824Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-01T13:01:35.825Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-01T13:11:18.427Z snowbrush] db write {
+  'text/plain': 'Learning\r\n\tAnki Review\r\n\t\t01HTML+CSS\r\n\t\t02JavaScript',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '870b64820698f12cdca4ab76e5'
+  },
+  xapInfoMap: {}
+}
+[I 2021-11-01T13:11:21.088Z snowbrush] db write {
+  'text/plain': '02JavaScript\r\n' +
+    '\tDay25-20200928\r\n' +
+    '\tDay26-20200929\r\n' +
+    '\tDay27-20200930\r\n' +
+    '\tDay28-20201009\r\n' +
+    '\tDay29-20201010\r\n' +
+    '\tDay30-20201012',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '870b64820698f12cdca4ab76e5'
+  },
+  xapInfoMap: {}
+}
+[I 2021-11-01T13:11:24.123Z snowbrush] db write {
+  'text/plain': 'Algorithms',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '870b64820698f12cdca4ab76e5'
+  },
+  xapInfoMap: {}
+}
+[I 2021-11-01T13:11:37.364Z snowbrush] Export image time: from 1635772297364 to 1635772297364.
+[I 2021-11-01T13:11:41.608Z snowbrush] db write {
+  'text/plain': 'Learning\r\n' +
+    '\tAnki Review\r\n' +
+    '\t\t01HTML+CSS\r\n' +
+    '\t\t02JavaScript\r\n' +
+    '\tAlgorithms\r\n' +
+    '\t02JavaScript\r\n' +
+    '\t\tDay25-20200928\r\n' +
+    '\t\tDay26-20200929\r\n' +
+    '\t\tDay27-20200930\r\n' +
+    '\t\tDay28-20201009\r\n' +
+    '\t\tDay29-20201010\r\n' +
+    '\t\tDay30-20201012',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '870b64820698f12cdca4ab76e5'
+  },
+  xapInfoMap: {}
+}
+[I 2021-11-01T13:11:50.275Z snowbrush] Export image time: from 1635772310275 to 1635772310275.
+[I 2021-11-01T13:11:55.414Z snowbrush] Export image time: from 1635772315414 to 1635772315414.
+[I 2021-11-01T13:12:20.932Z snowbrush] db write {
+  'text/plain': '01基础班/P2 1.认识复杂度和简单排序算法.mp4',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '870b64820698f12cdca4ab76e5'
+  },
+  xapInfoMap: {}
+}
+[I 2021-11-01T13:12:29.789Z snowbrush] Export image time: from 1635772349789 to 1635772349789.
+[I 2021-11-01T13:12:58.309Z snowbrush] Export image time: from 1635772378309 to 1635772378309.
+[I 2021-11-01T14:01:35.162Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-01T14:01:35.162Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-01T14:37:02.529Z snowbrush] db write {
+  'text/plain': '01基础班/P2 1.认识复杂度和简单排序算法.mp4',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '870b64820698f12cdca4ab76e5'
+  },
+  xapInfoMap: {}
+}
+[I 2021-11-01T15:01:35.215Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-01T15:01:35.215Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-01T15:17:14.513Z snowbrush] Export image time: from 1635779834501 to 1635779834501.
+[I 2021-11-01T15:17:30.565Z snowbrush] Export image time: from 1635779850565 to 1635779850565.
+[I 2021-11-01T15:17:32.726Z snowbrush] db write {
+  'text/plain': 'Learning\r\n\tAlgorithms\r\n\t\t3/4 01基础班/P2 1.认识复杂度和简单排序算法.mp4\r\n\tAnki Review',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '870b64820698f12cdca4ab76e5'
+  },
+  xapInfoMap: {}
+}
+[I 2021-11-01T15:17:41.052Z snowbrush] Export image time: from 1635779861052 to 1635779861052.

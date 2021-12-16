@@ -1,0 +1,220 @@
+
+-------- SESSION 2021-12-09T17:50:18.301Z (11.0.1+202106220606, linux, x64, 16171732992, XMind Ltd., vana_linux) --------
+[I 2021-12-09T17:50:18.537Z main:store:plugins:iap] The user is not allowed to make in-app purchase.
+[I 2021-12-09T17:50:19.124Z main:store:plugins:electron] Application will finish launching.
+[I 2021-12-09T17:50:19.126Z main:store:plugins:electron] Application arguments: ["/opt/XMind/xmind"]
+[I 2021-12-09T17:50:19.158Z main:store:plugins:electron] Application is ready.
+[I 2021-12-09T17:50:19.194Z main:store:plugins:open-handler] Recover: Map {
+  '2' => [
+    {
+      source: 'file:///home/lucas/Documents/My/Records.xmind',
+      editorId: '3c2a509de31a1c794471daaa4d'
+    }
+  ],
+  '1' => [
+    {
+      source: 'file:///home/lucas/Documents/My/Plans.xmind',
+      editorId: 'e4483c26ba78e7b1e639193cef'
+    }
+  ]
+}
+[I 2021-12-09T17:50:19.203Z main:store:plugins:activation-updater] Start updating subscription information periodically.
+[I 2021-12-09T17:50:19.203Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-12-09T17:50:19.204Z main:store:plugins:activation-updater] Start updating per-machine license information periodically.
+[I 2021-12-09T17:50:19.204Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-12-09T17:50:19.653Z main:store:plugins:electron] Device ID: 0a4e2b8c-1b20-4415-a313-3910912c6df7
+[I 2021-12-09T17:51:19.205Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-09T17:51:19.205Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-09T18:51:19.585Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-09T18:51:19.586Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-09T18:59:08.514Z main:store:plugins:electron] Application is intended to quit.
+-------- SESSION 2021-12-10T04:49:34.842Z (11.0.1+202106220606, linux, x64, 16171728896, XMind Ltd., vana_linux) --------
+[I 2021-12-10T04:49:35.088Z main:store:plugins:iap] The user is not allowed to make in-app purchase.
+[I 2021-12-10T04:49:35.676Z main:store:plugins:electron] Application will finish launching.
+[I 2021-12-10T04:49:35.683Z main:store:plugins:electron] Application arguments: ["/opt/XMind/xmind"]
+[I 2021-12-10T04:49:35.702Z main:store:plugins:electron] Application is ready.
+[I 2021-12-10T04:49:35.727Z main:store:plugins:open-handler] Recover: Map {
+  '1' => [
+    {
+      source: 'file:///home/lucas/Documents/My/Records.xmind',
+      editorId: '3c2a509de31a1c794471daaa4d'
+    }
+  ],
+  '2' => [
+    {
+      source: 'file:///home/lucas/Documents/My/Plans.xmind',
+      editorId: 'e4483c26ba78e7b1e639193cef'
+    }
+  ]
+}
+[I 2021-12-10T04:49:35.735Z main:store:plugins:activation-updater] Start updating subscription information periodically.
+[I 2021-12-10T04:49:35.735Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-12-10T04:49:35.736Z main:store:plugins:activation-updater] Start updating per-machine license information periodically.
+[I 2021-12-10T04:49:35.736Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-12-10T04:49:36.451Z main:store:plugins:electron] Device ID: 0a4e2b8c-1b20-4415-a313-3910912c6df7
+[I 2021-12-10T04:50:35.736Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-10T04:50:35.737Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-10T05:42:28.158Z snowbrush] db write {
+  'text/plain': '13:45 to ',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '88e95695d88963905151980128'
+  },
+  xapInfoMap: {}
+}
+[I 2021-12-10T05:50:35.918Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-10T05:50:35.919Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-10T05:51:07.490Z main:store:plugins:editors:EditorFrame] Frame 2 close
+[I 2021-12-10T05:51:09.685Z snowbrush] Export image time: from 1639115469685 to 1639115469685.
+[E 2021-12-10T05:51:09.811Z error:editor] SyntaxError: Unexpected token m in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at fontFaceGenerator (file:///opt/XMind/resources/app.asar/renderer/editor.js:121:897721)
+    at async Promise.all (index 1)
+    at async Promise.all (index 1)
+[I 2021-12-10T05:51:11.186Z snowbrush] Export image time: from 1639115471174 to 1639115471174.
+[E 2021-12-10T05:51:11.213Z error:editor] SyntaxError: Unexpected token m in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at fontFaceGenerator (file:///opt/XMind/resources/app.asar/renderer/editor.js:121:897721)
+    at async Promise.all (index 2)
+    at async Promise.all (index 1)
+[E 2021-12-10T05:51:11.467Z error:dialog-err] SyntaxError: Unexpected token '}'
+[I 2021-12-10T05:51:11.561Z main:store:plugins:editors:EditorFrame] Frame 1 close
+[E 2021-12-10T05:51:11.750Z error:dialog-err] SyntaxError: Unexpected token '}'
+
+-------- SESSION 2021-12-10T05:51:32.217Z (10.3.1+202101132117, linux, x64, 16171728896, XMind Ltd., vana_linux_64) --------
+[I 2021-12-10T05:51:32.338Z main:store:plugins:iap] The user is not allowed to make in-app purchase.
+[I 2021-12-10T05:51:32.661Z main:store:plugins:electron] Application will finish launching.
+[I 2021-12-10T05:51:32.662Z main:store:plugins:electron] Application arguments: ["/opt/XMind/xmind"]
+[I 2021-12-10T05:51:32.668Z main:store:plugins:electron] Application is ready.
+[I 2021-12-10T05:51:32.691Z main:store:plugins:open-handler] Recover: Map {
+  '1' => [
+    {
+      source: 'file:///home/lucas/Documents/My/Records.xmind',
+      editorId: '3c2a509de31a1c794471daaa4d'
+    }
+  ],
+  '2' => [
+    {
+      source: 'file:///home/lucas/Documents/My/Plans.xmind',
+      editorId: 'e4483c26ba78e7b1e639193cef'
+    }
+  ]
+}
+[I 2021-12-10T05:51:32.695Z main:store:plugins:activation-updater] Start updating subscription information periodically.
+[I 2021-12-10T05:51:32.696Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-12-10T05:51:32.696Z main:store:plugins:activation-updater] Start updating per-machine license information periodically.
+[I 2021-12-10T05:51:32.696Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-12-10T05:51:32.993Z main:store:plugins:electron] Device ID: 0a4e2b8c-1b20-4415-a313-3910912c6df7
+[I 2021-12-10T05:52:18.284Z snowbrush] Export image time: from 1639115538283 to 1639115538284.
+[I 2021-12-10T05:52:22.370Z snowbrush] Export image time: from 1639115542369 to 1639115542369.
+[I 2021-12-10T05:52:32.696Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-10T05:52:32.697Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-10T05:53:54.818Z snowbrush] db write {
+  'text/plain': 'TODO\r\n' +
+    '\tLearning\r\n' +
+    '\t\tAnki Review\r\n' +
+    '\t\t\t01HTML+CSS\r\n' +
+    '\t\t\t02JavaScript\r\n' +
+    '\t\t\t03PC+JS+jQuery+Bootstrap\r\n' +
+    '\t\t\t04git+ES6+nodeJS+http+npm+express+mongoDB\r\n' +
+    '\tPE\r\n' +
+    '\t\tConvict Conditioning\r\n' +
+    '\t\t\tFull Pull-ups\r\n' +
+    '\t\t\tFull Squats\r\n' +
+    '\t\t\tFull Push-ups\r\n' +
+    '\t\t\tWalking Down Bridges\r\n' +
+    '\t\t\tFlat Full Leg Raises\r\n' +
+    '\tME\r\n' +
+    '\t\tMake plans\r\n' +
+    '\t\t\tTomorrow\r\n' +
+    '\t\t\tSchedule\r\n' +
+    '\t\tReflection\r\n' +
+    '\t\tDiary\r\n' +
+    '\tRituals\r\n' +
+    '\t\tShower\r\n' +
+    '\t\tClean up your room\r\n' +
+    '\t\t\tDesktop\r\n' +
+    '\t\t\tFloor',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '88e95695d88963905151980128'
+  },
+  xapInfoMap: {}
+}
+[I 2021-12-10T05:56:52.409Z snowbrush] Export image time: from 1639115812408 to 1639115812409.
+[I 2021-12-10T06:31:18.760Z snowbrush] Export image time: from 1639117878760 to 1639117878760.
+[I 2021-12-10T06:31:20.630Z main:store:plugins:editors:EditorFrame] Frame 1 close
+[I 2021-12-10T06:31:20.640Z main:store:plugins:editors:EditorFrame] Not find editor view: undefined file:///opt/XMind/resources/app.asar/renderer/editor-frame.html?frameId=1&_apr=dark
+[E 2021-12-10T06:31:20.738Z error:main] TypeError: this.view.destroy is not a function
+    at y.destroy (/opt/XMind/resources/app.asar/main/main.js:7:106494)
+    at async y.close (/opt/XMind/resources/app.asar/main/main.js:7:106148)
+    at async v.close (/opt/XMind/resources/app.asar/main/main.js:30:111567)
+[I 2021-12-10T06:31:25.744Z main:store:plugins:electron] Application receives arguments from another instance: ["xmind-2020"] /home/lucas
+[I 2021-12-10T06:31:31.832Z main:store:plugins:electron] Application is intended to quit.
+[I 2021-12-10T06:31:31.833Z main:store:plugins:electron] Asking all editors to close their documents...
+[W 2021-12-10T06:31:31.833Z main:store:plugins:editors:EditorView] Caught error on destroy: Error: No such API: "DESTROY /editors/3c2a509de31a1c794471daaa4d"
+    at Object.f [as fetch] (/opt/XMind/resources/app.asar/main/main.js:1:17670)
+    at y.destroy (/opt/XMind/resources/app.asar/main/main.js:7:106351)
+    at y.destroy (/opt/XMind/resources/app.asar/main/main.js:1:52188)
+    at /opt/XMind/resources/app.asar/main/main.js:30:107558
+    at /opt/XMind/resources/app.asar/main/main.js:1:17771
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async App.<anonymous> (/opt/XMind/resources/app.asar/main/main.js:30:81915) {
+  code: 'IPC_ENOAPI'
+}
+[E 2021-12-10T06:31:31.835Z error:main] TypeError: this.view.destroy is not a function
+    at y.destroy (/opt/XMind/resources/app.asar/main/main.js:7:106494)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async /opt/XMind/resources/app.asar/main/main.js:30:107550
+
+-------- SESSION 2021-12-10T06:31:35.745Z (10.3.1+202101132117, linux, x64, 16171728896, XMind Ltd., vana_linux_64) --------
+[I 2021-12-10T06:31:35.862Z main:store:plugins:iap] The user is not allowed to make in-app purchase.
+[I 2021-12-10T06:31:36.178Z main:store:plugins:electron] Application will finish launching.
+[I 2021-12-10T06:31:36.179Z main:store:plugins:electron] Application arguments: ["/opt/XMind/xmind"]
+[I 2021-12-10T06:31:36.187Z main:store:plugins:electron] Application is ready.
+[I 2021-12-10T06:31:36.205Z main:store:plugins:open-handler] Recover: Map {
+  '2' => [
+    {
+      source: 'file:///home/lucas/Documents/My/Plans.xmind',
+      editorId: 'e4483c26ba78e7b1e639193cef'
+    }
+  ]
+}
+[I 2021-12-10T06:31:36.209Z main:store:plugins:activation-updater] Start updating subscription information periodically.
+[I 2021-12-10T06:31:36.209Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-12-10T06:31:36.209Z main:store:plugins:activation-updater] Start updating per-machine license information periodically.
+[I 2021-12-10T06:31:36.209Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-12-10T06:31:36.399Z main:store:plugins:electron] Device ID: 0a4e2b8c-1b20-4415-a313-3910912c6df7
+[I 2021-12-10T06:31:56.976Z snowbrush] Export image time: from 1639117916976 to 1639117916976.
+[I 2021-12-10T06:32:36.211Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-10T06:32:36.212Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-10T07:32:36.217Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-10T07:32:36.219Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-10T08:00:07.154Z snowbrush] Export image time: from 1639123207154 to 1639123207154.
+[I 2021-12-10T08:01:19.073Z snowbrush] Export image time: from 1639123279073 to 1639123279073.
+[I 2021-12-10T08:01:27.942Z snowbrush] Export image time: from 1639123287941 to 1639123287941.
+[I 2021-12-10T08:32:36.274Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-10T08:32:36.274Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-10T09:32:36.327Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-10T09:32:36.327Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-10T10:32:36.376Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-10T10:32:36.377Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-10T11:32:36.422Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-10T11:32:36.423Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-10T12:32:36.466Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-10T12:32:36.467Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-10T13:32:36.507Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-10T13:32:36.508Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-10T13:59:20.985Z snowbrush] Export image time: from 1639144760976 to 1639144760976.
+[I 2021-12-10T14:32:36.546Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-10T14:32:36.548Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-10T15:32:36.585Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-10T15:32:36.587Z main:store:plugins:activation-updater] Schedule refresh timeout(null).

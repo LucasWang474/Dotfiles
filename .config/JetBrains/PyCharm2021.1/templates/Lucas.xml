@@ -1,7 +1,0 @@
-<templateSet group="Lucas">
-  <template name="sc" value="&lt;script&gt;$END$&lt;/script&gt;" description="" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="HTML" value="true" />
-    </context>
-  </template>
-</templateSet>

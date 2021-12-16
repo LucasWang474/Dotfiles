@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mime-type xmlns="http://www.freedesktop.org/standards/shared-mime-info" type="application/wps-office.xlsx">
+  <!--Created automatically by update-mime-database. DO NOT EDIT!-->
+  <comment>Microsoft Excel Spreadsheet</comment>
+  <comment xml:lang="zh_CN">Microsoft Excel 工作表</comment>
+  <sub-class-of type="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"/>
+  <generic-icon name="wps-office-xls"/>
+  <glob pattern="*.xlsx" weight="100"/>
+</mime-type>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mime-type xmlns="http://www.freedesktop.org/standards/shared-mime-info" type="application/wps-office.pot">
+  <!--Created automatically by update-mime-database. DO NOT EDIT!-->
+  <comment>Microsoft Powerpoint Template</comment>
+  <sub-class-of type="application/vnd.ms-powerpoint"/>
+  <sub-class-of type="application/powerpoint"/>
+  <sub-class-of type="application/mspowerpoint"/>
+  <sub-class-of type="application/x-mspowerpoint"/>
+  <sub-class-of type="application/vnd.ms-powerpoint.template.macroenabled.12"/>
+  <sub-class-of type="application/vnd.openxmlformats-officedocument.presentationml.template"/>
+  <generic-icon name="wps-office-pot"/>
+  <glob pattern="*.pot" weight="100"/>
+  <glob pattern="*.potm" weight="100"/>
+</mime-type>

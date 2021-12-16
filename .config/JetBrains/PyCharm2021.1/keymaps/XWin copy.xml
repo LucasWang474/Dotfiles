@@ -1,9 +1,0 @@
-<keymap version="1" name="XWin copy" parent="Default for XWin">
-  <action id="EditorToggleUseSoftWraps">
-    <keyboard-shortcut first-keystroke="alt z" />
-  </action>
-  <action id="ShowSettings">
-    <keyboard-shortcut first-keystroke="ctrl alt s" />
-    <keyboard-shortcut first-keystroke="ctrl comma" />
-  </action>
-</keymap>

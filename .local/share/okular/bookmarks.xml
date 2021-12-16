@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xbel>
+<xbel xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info" dbusName="okular" xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks" xmlns:kdepriv="http://www.kde.org/kdepriv">
+ <folder href="file:///home/lucas/Codes/My-Front-end-Learning/02-JavaScript-Basics/Notes/课件/02.JavaScript基本语法/基本语法.pdf">
+  <title>/home/lucas/Codes/My-Front-end-Learning/02-JavaScript-Basics/Notes/课件/02.JavaScript基本语法/基本语法.pdf</title>
+  <bookmark href="file:///home/lucas/Codes/My-Front-end-Learning/02-JavaScript-Basics/Notes/%E8%AF%BE%E4%BB%B6/02.JavaScript%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95/%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95.pdf#1">
+   <title>#2</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+ </folder>
+ <folder href="file:///home/lucas/Downloads/Features In-Depth _ Less.js.pdf">
+  <title>/home/lucas/Downloads/Features In-Depth _ Less.js.pdf</title>
+  <bookmark href="file:///home/lucas/Downloads/Features%20In-Depth%20_%20Less.js.pdf#0;C2:0.499737:0.724573:1">
+   <title>#1</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+ </folder>
+</xbel>

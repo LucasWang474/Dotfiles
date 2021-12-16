@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mime-type xmlns="http://www.freedesktop.org/standards/shared-mime-info" type="application/wps-office.dot">
+  <!--Created automatically by update-mime-database. DO NOT EDIT!-->
+  <comment>Microsoft Word Template</comment>
+  <sub-class-of type="application/msword-template"/>
+  <sub-class-of type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+  <sub-class-of type="application/vnd.ms-word.template.macroenabled.12"/>
+  <sub-class-of type="application/msword"/>
+  <generic-icon name="wps-office-dot"/>
+  <glob pattern="*.dot" weight="100"/>
+  <glob pattern="*.dotm" weight="100"/>
+</mime-type>

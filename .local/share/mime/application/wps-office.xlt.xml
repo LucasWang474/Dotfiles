@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mime-type xmlns="http://www.freedesktop.org/standards/shared-mime-info" type="application/wps-office.xlt">
+  <!--Created automatically by update-mime-database. DO NOT EDIT!-->
+  <comment>Microsoft Excel Template</comment>
+  <comment xml:lang="zh_CN">Microsoft Excel 模板</comment>
+  <sub-class-of type="application/vnd.ms-excel.template.macroenabled.12"/>
+  <sub-class-of type="application/vnd.ms-excel"/>
+  <generic-icon name="wps-office-xlt"/>
+  <glob pattern="*.xlt" weight="100"/>
+  <glob pattern="*.xltm" weight="100"/>
+</mime-type>

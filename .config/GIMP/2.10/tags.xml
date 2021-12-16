@@ -1426,25 +1426,193 @@
   <resource identifier="Cantarell Light" checksum="(null)">
   </resource>
 
-  <resource identifier="Cantarell Light" checksum="(null)">
-  </resource>
-
-  <resource identifier="Cantarell Thin" checksum="(null)">
-  </resource>
-
   <resource identifier="Cantarell Thin" checksum="(null)">
   </resource>
 
   <resource identifier="Cantarell Ultra-Bold" checksum="(null)">
   </resource>
 
-  <resource identifier="Cantarell Ultra-Bold" checksum="(null)">
+  <resource identifier="Cascadia Code" checksum="(null)">
+  </resource>
+
+  <resource identifier="Cascadia Code" checksum="(null)">
+  </resource>
+
+  <resource identifier="Cascadia Code Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Cascadia Code Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Cascadia Code Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Cascadia Code Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Cascadia Code Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Cascadia Code Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Cascadia Code PL" checksum="(null)">
+  </resource>
+
+  <resource identifier="Cascadia Code PL" checksum="(null)">
+  </resource>
+
+  <resource identifier="Cascadia Code PL Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Cascadia Code PL Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Cascadia Code PL Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Cascadia Code PL Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Cascadia Code PL Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Cascadia Code PL Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Cascadia Code PL Semi-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Cascadia Code PL Semi-Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Cascadia Code PL Semi-Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Cascadia Code PL Semi-Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Cascadia Code PL Ultra-Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Cascadia Code PL Ultra-Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Cascadia Code Semi-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Cascadia Code Semi-Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Cascadia Code Semi-Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Cascadia Code Semi-Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Cascadia Code Ultra-Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Cascadia Code Ultra-Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Cascadia Mono" checksum="(null)">
+  </resource>
+
+  <resource identifier="Cascadia Mono" checksum="(null)">
+  </resource>
+
+  <resource identifier="Cascadia Mono Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Cascadia Mono Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Cascadia Mono Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Cascadia Mono Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Cascadia Mono Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Cascadia Mono Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Cascadia Mono PL" checksum="(null)">
+  </resource>
+
+  <resource identifier="Cascadia Mono PL" checksum="(null)">
+  </resource>
+
+  <resource identifier="Cascadia Mono PL Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Cascadia Mono PL Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Cascadia Mono PL Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Cascadia Mono PL Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Cascadia Mono PL Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Cascadia Mono PL Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Cascadia Mono PL Semi-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Cascadia Mono PL Semi-Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Cascadia Mono PL Semi-Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Cascadia Mono PL Semi-Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Cascadia Mono PL Ultra-Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Cascadia Mono PL Ultra-Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Cascadia Mono Semi-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Cascadia Mono Semi-Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Cascadia Mono Semi-Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Cascadia Mono Semi-Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Cascadia Mono Ultra-Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Cascadia Mono Ultra-Light Italic" checksum="(null)">
   </resource>
 
   <resource identifier="Comic Sans MS" checksum="(null)">
   </resource>
 
   <resource identifier="Comic Sans MS Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Consolas" checksum="(null)">
+  </resource>
+
+  <resource identifier="Consolas Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Consolas Italic" checksum="(null)">
   </resource>
 
   <resource identifier="Courier New" checksum="(null)">
@@ -1789,6 +1957,24 @@
   <resource identifier="MathJax_Vector Medium" checksum="(null)">
   </resource>
 
+  <resource identifier="Microsoft YaHei" checksum="(null)">
+  </resource>
+
+  <resource identifier="Microsoft YaHei Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Microsoft YaHei UI" checksum="(null)">
+  </resource>
+
+  <resource identifier="Microsoft YaHei UI Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Microsoft YaHei UI weight=290" checksum="(null)">
+  </resource>
+
+  <resource identifier="Microsoft YaHei weight=290" checksum="(null)">
+  </resource>
+
   <resource identifier="Monospace" checksum="(null)">
   </resource>
 
@@ -1799,6 +1985,9 @@
   </resource>
 
   <resource identifier="Monospace Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="MT Extra" checksum="(null)">
   </resource>
 
   <resource identifier="Neo Euler Medium" checksum="(null)">
@@ -3475,6 +3664,27 @@
   <resource identifier="Noto Serif Bold Italic" checksum="(null)">
   </resource>
 
+  <resource identifier="Noto Serif CJK HK" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Serif CJK HK Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Serif CJK HK Heavy" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Serif CJK HK Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Serif CJK HK Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Serif CJK HK Semi-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Serif CJK HK Ultra-Light" checksum="(null)">
+  </resource>
+
   <resource identifier="Noto Serif CJK JP" checksum="(null)">
   </resource>
 
@@ -4270,6 +4480,48 @@
   <resource identifier="Source Han Sans CN weight=250" checksum="(null)">
   </resource>
 
+  <resource identifier="Source Han Sans JP" checksum="(null)">
+  </resource>
+
+  <resource identifier="Source Han Sans JP Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Source Han Sans JP Heavy" checksum="(null)">
+  </resource>
+
+  <resource identifier="Source Han Sans JP Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Source Han Sans JP Semi-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Source Han Sans JP Semi-Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Source Han Sans JP weight=250" checksum="(null)">
+  </resource>
+
+  <resource identifier="Source Han Sans KR" checksum="(null)">
+  </resource>
+
+  <resource identifier="Source Han Sans KR Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Source Han Sans KR Heavy" checksum="(null)">
+  </resource>
+
+  <resource identifier="Source Han Sans KR Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Source Han Sans KR Semi-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Source Han Sans KR Semi-Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Source Han Sans KR weight=250" checksum="(null)">
+  </resource>
+
   <resource identifier="Source Sans 3," checksum="(null)">
   </resource>
 
@@ -4600,6 +4852,9 @@
   <resource identifier="StyleBats" checksum="(null)">
   </resource>
 
+  <resource identifier="Symbol" checksum="(null)">
+  </resource>
+
   <resource identifier="Technical CE" checksum="(null)">
   </resource>
 
@@ -4847,6 +5102,15 @@
   </resource>
 
   <resource identifier="Webdings" checksum="(null)">
+  </resource>
+
+  <resource identifier="Wingdings" checksum="(null)">
+  </resource>
+
+  <resource identifier="Wingdings 2," checksum="(null)">
+  </resource>
+
+  <resource identifier="Wingdings 3," checksum="(null)">
   </resource>
 
   <resource identifier="Xirod" checksum="(null)">

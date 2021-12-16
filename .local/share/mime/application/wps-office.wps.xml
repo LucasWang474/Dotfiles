@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mime-type xmlns="http://www.freedesktop.org/standards/shared-mime-info" type="application/wps-office.wps">
+  <!--Created automatically by update-mime-database. DO NOT EDIT!-->
+  <comment>WPS Writer Document</comment>
+  <comment xml:lang="zh_CN">WPS文字 文档</comment>
+  <sub-class-of type="application/vnd.ms-works"/>
+  <generic-icon name="wps-office-wps"/>
+  <glob pattern="*.wps" weight="100"/>
+  <glob pattern="*.wpsx" weight="100"/>
+</mime-type>

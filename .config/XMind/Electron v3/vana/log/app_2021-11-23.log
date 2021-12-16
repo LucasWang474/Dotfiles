@@ -1,0 +1,63 @@
+
+-------- SESSION 2021-11-22T19:15:35.116Z (11.0.1+202106220606, linux, x64, 16171732992, XMind Ltd., vana_linux) --------
+[I 2021-11-22T19:15:35.351Z main:store:plugins:iap] The user is not allowed to make in-app purchase.
+[I 2021-11-22T19:15:36.069Z main:store:plugins:electron] Application will finish launching.
+[I 2021-11-22T19:15:36.072Z main:store:plugins:electron] Application arguments: ["/opt/XMind/xmind"]
+[I 2021-11-22T19:15:36.101Z main:store:plugins:electron] Application is ready.
+[I 2021-11-22T19:15:36.129Z main:store:plugins:open-handler] Recover: Map {
+  '1' => [
+    {
+      source: 'file:///home/lucas/Codes/My-Front-end-Learning/SGG-Front-end-Learning-Challenge.xmind',
+      editorId: 'ea380b811fca04919e1cca51ec'
+    }
+  ]
+}
+[I 2021-11-22T19:15:36.143Z main:store:plugins:activation-updater] Start updating subscription information periodically.
+[I 2021-11-22T19:15:36.143Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-11-22T19:15:36.144Z main:store:plugins:activation-updater] Start updating per-machine license information periodically.
+[I 2021-11-22T19:15:36.144Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-11-22T19:15:36.657Z main:store:plugins:electron] Device ID: 0a4e2b8c-1b20-4415-a313-3910912c6df7
+
+-------- SESSION 2021-11-22T19:36:29.167Z (11.0.1+202106220606, linux, x64, 16171724800, XMind Ltd., vana_linux) --------
+[I 2021-11-22T19:36:29.393Z main:store:plugins:iap] The user is not allowed to make in-app purchase.
+[I 2021-11-22T19:36:30.073Z main:store:plugins:electron] Application will finish launching.
+[I 2021-11-22T19:36:30.075Z main:store:plugins:electron] Application arguments: ["/opt/XMind/xmind"]
+[I 2021-11-22T19:36:30.105Z main:store:plugins:electron] Application is ready.
+[I 2021-11-22T19:36:30.150Z main:store:plugins:open-handler] Recover: Map {
+  '1' => [
+    {
+      source: 'file:///home/lucas/Codes/My-Front-end-Learning/SGG-Front-end-Learning-Challenge.xmind',
+      editorId: 'ea380b811fca04919e1cca51ec'
+    }
+  ]
+}
+[I 2021-11-22T19:36:30.166Z main:store:plugins:activation-updater] Start updating subscription information periodically.
+[I 2021-11-22T19:36:30.166Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-11-22T19:36:30.166Z main:store:plugins:activation-updater] Start updating per-machine license information periodically.
+[I 2021-11-22T19:36:30.166Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-11-22T19:36:30.574Z main:store:plugins:electron] Device ID: 0a4e2b8c-1b20-4415-a313-3910912c6df7
+[I 2021-11-22T16:33:19.023Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-22T16:33:19.027Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-22T16:41:26.329Z main:store:plugins:electron] Application is intended to quit.
+[I 2021-11-22T16:41:26.329Z main:store:plugins:electron] Asking all editors to close their documents...
+
+-------- SESSION 2021-11-22T18:19:51.590Z (11.0.1+202106220606, linux, x64, 16171732992, XMind Ltd., vana_linux) --------
+[I 2021-11-22T18:19:51.775Z main:store:plugins:iap] The user is not allowed to make in-app purchase.
+[I 2021-11-22T18:19:52.445Z main:store:plugins:electron] Application will finish launching.
+[I 2021-11-22T18:19:52.448Z main:store:plugins:electron] Application arguments: ["/opt/XMind/xmind"]
+[I 2021-11-22T18:19:52.469Z main:store:plugins:electron] Application is ready.
+[I 2021-11-22T18:19:52.525Z main:store:plugins:open-handler] Recover: Map {
+  '1' => [
+    {
+      source: 'file:///home/lucas/Codes/My-Front-end-Learning/SGG-Front-end-Learning-Challenge.xmind',
+      editorId: 'ea380b811fca04919e1cca51ec'
+    }
+  ]
+}
+[I 2021-11-22T18:19:52.542Z main:store:plugins:activation-updater] Start updating subscription information periodically.
+[I 2021-11-22T18:19:52.542Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-11-22T18:19:52.542Z main:store:plugins:activation-updater] Start updating per-machine license information periodically.
+[I 2021-11-22T18:19:52.542Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-11-22T18:19:52.960Z main:store:plugins:electron] Device ID: 0a4e2b8c-1b20-4415-a313-3910912c6df7
+[I 2021-11-22T18:20:52.543Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-22T18:20:52.544Z main:store:plugins:activation-updater] Schedule refresh timeout(null).

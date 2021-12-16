@@ -1,7 +1,5 @@
 # GIMP gimp-pencil-tool options
 
-(foreground (color-rgb 0.88627457618713379 0.92549026012420654 0.94509810209274292))
-(background (color-rgb 0.40000003576278687 0.40000003576278687 0.40000003576278687))
 (brush "2. Hardness 050")
 (dynamics "Dynamics Off")
 (gradient "FG to BG (RGB)")

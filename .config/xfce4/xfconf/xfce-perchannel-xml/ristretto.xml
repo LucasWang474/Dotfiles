@@ -8,4 +8,7 @@
     <property name="height" type="uint" value="1045"/>
     <property name="width" type="uint" value="954"/>
   </property>
+  <property name="slideshow" type="empty">
+    <property name="timeout" type="uint" value="14"/>
+  </property>
 </channel>

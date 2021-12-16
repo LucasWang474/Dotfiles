@@ -1,5 +1,4 @@
 FileManager=thunar
 TerminalEmulator=xfce4-terminal
-WebBrowser=custom-WebBrowser
-MailReader=custom-MailReader
+WebBrowser=google-chrome
 

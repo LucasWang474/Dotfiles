@@ -1,0 +1,1043 @@
+[I 2021-11-09T16:13:28.980Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-09T16:13:28.990Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-09T17:13:29.008Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-09T17:13:29.008Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-09T18:13:29.022Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-09T18:13:29.023Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-09T19:13:29.032Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-09T19:13:29.033Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-09T20:13:29.042Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-09T20:13:29.042Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-09T21:13:29.048Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-09T21:13:29.048Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-09T22:13:29.051Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-09T22:13:29.051Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-09T23:06:34.118Z snowbrush] Export image time: from 1636499194118 to 1636499194118.
+[I 2021-11-09T23:09:29.238Z snowbrush] Export image time: from 1636499369238 to 1636499369238.
+[I 2021-11-09T23:13:29.052Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-09T23:13:29.054Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-09T23:13:53.354Z snowbrush] Export image time: from 1636499633354 to 1636499633354.
+[I 2021-11-09T23:14:14.789Z snowbrush] db write {
+  'text/plain': 'PE\r\nME',
+  'text/x-array-json': [
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] }
+  ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: 'ea7a3f6d8838cc903c4649d394'
+  },
+  xapInfoMap: {}
+}
+[I 2021-11-09T23:14:29.671Z snowbrush] db write {
+  'text/plain': 'Computer Science\r\n' +
+    'Software Engineering\r\n' +
+    'Mathmatics\r\n' +
+    'Physics\r\n' +
+    'Languages\r\n' +
+    '\tEnglish\r\n' +
+    '\t\tGoal\r\n' +
+    '\t\t\tFluent\r\n' +
+    '\tGerman\r\n' +
+    '\t\tGoal\r\n' +
+    '\t\t\tFluent\r\n' +
+    '\tJapanese\r\n' +
+    '\t\tGoal\r\n' +
+    '\t\t\tFluent',
+  'text/x-array-json': [
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] }
+  ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: 'ea7a3f6d8838cc903c4649d394'
+  },
+  xapInfoMap: {}
+}
+[I 2021-11-09T23:20:28.435Z snowbrush] Export image time: from 1636500028435 to 1636500028435.
+[I 2021-11-09T23:30:50.681Z snowbrush] Export image time: from 1636500650681 to 1636500650681.
+[I 2021-11-09T23:30:51.144Z main:store:plugins:editors:EditorFrame] Frame 4 close
+[I 2021-11-09T23:30:51.165Z main:store:plugins:editors:EditorFrame] Not find editor view: undefined file:///opt/XMind/resources/app.asar/renderer/editor-frame.html?frameId=4&_apr=dark
+[I 2021-11-09T23:30:51.281Z main:store:plugins:editors:EditorFrame] Frame 4 close
+[I 2021-11-09T23:30:51.490Z main:store:plugins:editors:EditorFrame] Frame 4 webContents destroyed
+[E 2021-11-09T23:31:02.530Z ipc:proxy:] window has been destroyed, we should not invoke fsp.ensureDirSync)
+[E 2021-11-09T23:31:02.546Z ipc:proxy:] window has been destroyed, we should not invoke ipcRenderer.once with args (["ipc-api-reply:POST /file-cache/create:1744",null])
+[E 2021-11-09T23:31:02.547Z ipc:proxy:] window has been destroyed, we should not invoke ipcRenderer.send with args (["ipc-api:POST /file-cache/create",{"payload":{"saveType":"cache","filename":"Five-Years-Plan","snapshotId":"1968dc0b42097969512f49b4b9","fileCacheId":"a3491efaa8f97a6dd791fb028a"},"seq":1744}])
+[I 2021-11-09T23:34:00.588Z snowbrush] db write {
+  'text/plain': 'Mon, 11-08 (必须完成制定的计划) (莫名其妙从下午睡到了第二天)\r\n' +
+    '\tRecords\r\n' +
+    '\t\tI (6:00 to 10:00)\r\n' +
+    '\t\t\t6:00 to 6:20 (20 + 0 = 20)\r\n' +
+    '\t\t\t\tAnki Review\r\n' +
+    '\t\t\t\t\t01HTML+CSS\r\n' +
+    '\t\t\t6:25 to 6:55 (30 + 20  = 50)\r\n' +
+    '\t\t\t\tAnki Review\r\n' +
+    '\t\t\t\t\t02JavaScript\r\n' +
+    '\t\t\t7:10 to 7:30 (20 + 50 = 70)\r\n' +
+    '\t\t\t\tAnki Review\r\n' +
+    '\t\t\t\t\t02JavaScript\r\n' +
+    '\t\t\t7:45 to 7:55 (10 + 70 = 80)\r\n' +
+    '\t\t\t\tAnki Review\r\n' +
+    '\t\t\t\t\t02JavaScript\r\n' +
+    '\t\t\t\t\t03PC+...\r\n' +
+    '\t\t\t7:55 to 8:50 (55 + 80 = 135)\r\n' +
+    '\t\t\t\t02JS-Advanced\r\n' +
+    '\t\t\t\t\tDay35-20201019\r\n' +
+    '\t\t\t\t\tDay36-20201020\r\n' +
+    '\t\t\t9:10 to 10:00 (50 + 135 = 185)\r\n' +
+    '\t\t\t\t02JS-Advanced\r\n' +
+    '\t\t\t\t\tDay36-20201020\r\n' +
+    '\t\tII (10:00  to 18:00)\r\n' +
+    '\t\t\t10:00 to 11:55\r\n' +
+    '\t\t\t\tLunch\r\n' +
+    '\t\t\t\tBreak\r\n' +
+    '\t\t\t11:55 to 13:00 (65 + 185 = 250)\r\n' +
+    '\t\t\t\t02JS-Advanced\r\n' +
+    '\t\t\t\t\tDay36-20201020\r\n' +
+    '\t\t\t13:20 to 14:05 (45 + 250 = 295)\r\n' +
+    '\t\t\t\t02JS-Advanced\r\n' +
+    '\t\t\t\t\tDay36-20201020\r\n' +
+    '\t\t\t15:40 to 17:15 (95 + 295 = 390)\r\n' +
+    '\t\t\t\t03jQuery\r\n' +
+    '\t\t\t\t\tDay37-20201021\r\n' +
+    '\t\t\t17:45 to 18:25 (40 + 390 = 430)\r\n' +
+    '\t\tIII (18:00 to 23:00)\r\n' +
+    '\t\t\t18:40 to 19:15 (35 + 430 = 475)\r\n' +
+    '\t\t\t\t03jQuery\r\n' +
+    '\t\t\t\t\tDay37-20201021\r\n' +
+    '\t\t\t19:50 to 20:50 (60 + 475 = 535)\r\n' +
+    '\t\t\t\t03jQuery\r\n' +
+    '\t\t\t\t\tDay38-20201023\r\n' +
+    '\t\t\t21:20 to 22:10 (50 + 535 = 585)\r\n' +
+    '\t\t\t\t03jQuery\r\n' +
+    '\t\t\t\t\tDay38-20201023\r\n' +
+    '\t\tIV\r\n' +
+    '\tMUST DO\r\n' +
+    '\t\tLearning\r\n' +
+    '\t\t\t03第三阶段\r\n' +
+    '\t\t\t\t03jQuery\r\n' +
+    '\t\t\t\t\tDay38-20201023\r\n' +
+    '\t\t\t\t\tDay39-20201024\r\n' +
+    '\t\t\t\t\tDay40-20201026\r\n' +
+    '\t\tNOTES\r\n' +
+    '\t\t\t一定要完成上面的所有任务\r\n' +
+    '\t\t\t\t完不成就熬夜完成\r\n' +
+    '\t\t\t在没有完成上面的所有任务之前\r\n' +
+    '\t\t\t\t不允许访问\r\n' +
+    '\t\t\t\t\tbaidu\r\n' +
+    '\t\t\t\t\tzhihu\r\n' +
+    '\t\t\t\t\tbilibili\r\n' +
+    '\t\t\t\t\tyoutube\r\n' +
+    '\t\t\t\t\ttelegram\r\n' +
+    '\t\t\t\t\tdiscord\r\n' +
+    '\t\t\t\t\tpSyu\r\n' +
+    '\t\t\t\t\t等等\r\n' +
+    '\t\t\t\t单次休息时间不允许超过 15 分钟\r\n' +
+    '\t\t\t\t\t休息时不允许使用电脑、手机\r\n' +
+    '\t\t\t\t\t尽量睡觉\r\n' +
+    '\t\t\t\t午饭时间不允许超过 90 分钟\r\n' +
+    '\t\t\t\t晚饭时间不允许超过 30 分钟\r\n' +
+    '\tSummary\r\n' +
+    '\t\tTime\r\n' +
+    '\t\t\tLearning\r\n' +
+    '\t\t\tBreak\r\n' +
+    '\t\t\tEfficiency\r\n' +
+    '\t\tReview\r\n' +
+    '\t\tMaybe\r\n' +
+    '\t\t\t拿出高中时的坚持、努力和毅力。\n' +
+    '再加上现在的自觉和认知。\n' +
+    '天下之大，哪里去不得？\r\n' +
+    '\t\tDONE\r\n' +
+    '\t\t\tLearning\r\n' +
+    '\t\t\t\tAnki Review\r\n' +
+    '\t\t\t\t\t01HTML+CSS\r\n' +
+    '\t\t\t\t\t02JavaScript\r\n' +
+    '\t\t\t\t\t03PC+...\r\n' +
+    '\t\t\t\t03第三阶段\r\n' +
+    '\t\t\t\t\t02JS-Advanced\r\n' +
+    '\t\t\t\t\t\tDay35-20201019\r\n' +
+    '\t\t\t\t\t\tDay36-20201020\r\n' +
+    '\t\t\t\t\t03jQuery\r\n' +
+    '\t\t\t\t\t\tDay37-20201021\r\n' +
+    '\t\t\t\t\t\tDay38-20201023\r\n' +
+    '\t\t\t\t\t\tDay39-20201024\r\n' +
+    '\t\t\t\t\t\t1/3 Day40-20201026',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '870b64820698f12cdca4ab76e5'
+  },
+  xapInfoMap: {}
+}
+[I 2021-11-09T23:34:21.580Z snowbrush] db write {
+  'text/plain': 'Tue, 11-09 (必须完成制定的计划) (莫名其妙从下午睡到了第二天)\r\n' +
+    '\tRecords\r\n' +
+    '\t\tI (6:00 to 10:00)\r\n' +
+    '\t\t\t6:00 to 6:20 (20 + 0 = 20)\r\n' +
+    '\t\t\t\tAnki Review\r\n' +
+    '\t\t\t\t\t01HTML+CSS\r\n' +
+    '\t\t\t6:25 to 6:55 (30 + 20  = 50)\r\n' +
+    '\t\t\t\tAnki Review\r\n' +
+    '\t\t\t\t\t02JavaScript\r\n' +
+    '\t\t\t7:10 to 7:30 (20 + 50 = 70)\r\n' +
+    '\t\t\t\tAnki Review\r\n' +
+    '\t\t\t\t\t02JavaScript\r\n' +
+    '\t\t\t7:45 to 7:55 (10 + 70 = 80)\r\n' +
+    '\t\t\t\tAnki Review\r\n' +
+    '\t\t\t\t\t02JavaScript\r\n' +
+    '\t\t\t\t\t03PC+...\r\n' +
+    '\t\t\t7:55 to 8:50 (55 + 80 = 135)\r\n' +
+    '\t\t\t\t02JS-Advanced\r\n' +
+    '\t\t\t\t\tDay35-20201019\r\n' +
+    '\t\t\t\t\tDay36-20201020\r\n' +
+    '\t\t\t9:10 to 10:00 (50 + 135 = 185)\r\n' +
+    '\t\t\t\t02JS-Advanced\r\n' +
+    '\t\t\t\t\tDay36-20201020\r\n' +
+    '\t\tII (10:00  to 18:00)\r\n' +
+    '\t\t\t10:00 to 11:55\r\n' +
+    '\t\t\t\tLunch\r\n' +
+    '\t\t\t\tBreak\r\n' +
+    '\t\t\t11:55 to 13:00 (65 + 185 = 250)\r\n' +
+    '\t\t\t\t02JS-Advanced\r\n' +
+    '\t\t\t\t\tDay36-20201020\r\n' +
+    '\t\t\t13:20 to 14:05 (45 + 250 = 295)\r\n' +
+    '\t\t\t\t02JS-Advanced\r\n' +
+    '\t\t\t\t\tDay36-20201020\r\n' +
+    '\t\t\t15:40 to 17:15 (95 + 295 = 390)\r\n' +
+    '\t\t\t\t03jQuery\r\n' +
+    '\t\t\t\t\tDay37-20201021\r\n' +
+    '\t\t\t17:45 to 18:25 (40 + 390 = 430)\r\n' +
+    '\t\tIII (18:00 to 23:00)\r\n' +
+    '\t\t\t18:40 to 19:15 (35 + 430 = 475)\r\n' +
+    '\t\t\t\t03jQuery\r\n' +
+    '\t\t\t\t\tDay37-20201021\r\n' +
+    '\t\t\t19:50 to 20:50 (60 + 475 = 535)\r\n' +
+    '\t\t\t\t03jQuery\r\n' +
+    '\t\t\t\t\tDay38-20201023\r\n' +
+    '\t\t\t21:20 to 22:10 (50 + 535 = 585)\r\n' +
+    '\t\t\t\t03jQuery\r\n' +
+    '\t\t\t\t\tDay38-20201023\r\n' +
+    '\t\tIV\r\n' +
+    '\tMUST DO\r\n' +
+    '\t\tLearning\r\n' +
+    '\t\t\t03第三阶段\r\n' +
+    '\t\t\t\t03jQuery\r\n' +
+    '\t\t\t\t\tDay38-20201023\r\n' +
+    '\t\t\t\t\tDay39-20201024\r\n' +
+    '\t\t\t\t\tDay40-20201026\r\n' +
+    '\t\tNOTES\r\n' +
+    '\t\t\t一定要完成上面的所有任务\r\n' +
+    '\t\t\t\t完不成就熬夜完成\r\n' +
+    '\t\t\t在没有完成上面的所有任务之前\r\n' +
+    '\t\t\t\t不允许访问\r\n' +
+    '\t\t\t\t\tbaidu\r\n' +
+    '\t\t\t\t\tzhihu\r\n' +
+    '\t\t\t\t\tbilibili\r\n' +
+    '\t\t\t\t\tyoutube\r\n' +
+    '\t\t\t\t\ttelegram\r\n' +
+    '\t\t\t\t\tdiscord\r\n' +
+    '\t\t\t\t\tpSyu\r\n' +
+    '\t\t\t\t\t等等\r\n' +
+    '\t\t\t\t单次休息时间不允许超过 15 分钟\r\n' +
+    '\t\t\t\t\t休息时不允许使用电脑、手机\r\n' +
+    '\t\t\t\t\t尽量睡觉\r\n' +
+    '\t\t\t\t午饭时间不允许超过 90 分钟\r\n' +
+    '\t\t\t\t晚饭时间不允许超过 30 分钟\r\n' +
+    '\tSummary\r\n' +
+    '\t\tTime\r\n' +
+    '\t\t\tLearning\r\n' +
+    '\t\t\tBreak\r\n' +
+    '\t\t\tEfficiency\r\n' +
+    '\t\tReview\r\n' +
+    '\t\tMaybe\r\n' +
+    '\t\t\t拿出高中时的坚持、努力和毅力。\n' +
+    '再加上现在的自觉和认知。\n' +
+    '天下之大，哪里去不得？\r\n' +
+    '\t\tDONE\r\n' +
+    '\t\t\tLearning\r\n' +
+    '\t\t\t\tAnki Review\r\n' +
+    '\t\t\t\t\t01HTML+CSS\r\n' +
+    '\t\t\t\t\t02JavaScript\r\n' +
+    '\t\t\t\t\t03PC+...\r\n' +
+    '\t\t\t\t03第三阶段\r\n' +
+    '\t\t\t\t\t02JS-Advanced\r\n' +
+    '\t\t\t\t\t\tDay35-20201019\r\n' +
+    '\t\t\t\t\t\tDay36-20201020\r\n' +
+    '\t\t\t\t\t03jQuery\r\n' +
+    '\t\t\t\t\t\tDay37-20201021\r\n' +
+    '\t\t\t\t\t\tDay38-20201023\r\n' +
+    '\t\t\t\t\t\tDay39-20201024\r\n' +
+    '\t\t\t\t\t\t1/3 Day40-20201026',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '870b64820698f12cdca4ab76e5'
+  },
+  xapInfoMap: {}
+}
+[I 2021-11-09T23:34:40.777Z snowbrush] Export image time: from 1636500880777 to 1636500880777.
+[I 2021-11-09T23:35:37.563Z snowbrush] db write {
+  'text/plain': 'Tue, 11-09 (必须完成制定的计划) (莫名其妙从下午睡到了第二天)\r\n' +
+    '\tRecords\r\n' +
+    '\t\tI (6:00 to 10:00)\r\n' +
+    '\t\t\t6:00 to 6:20 (20 + 0 = 20)\r\n' +
+    '\t\t\t\tAnki Review\r\n' +
+    '\t\t\t\t\t01HTML+CSS\r\n' +
+    '\t\t\t6:25 to 6:55 (30 + 20  = 50)\r\n' +
+    '\t\t\t\tAnki Review\r\n' +
+    '\t\t\t\t\t02JavaScript\r\n' +
+    '\t\t\t7:10 to 7:30 (20 + 50 = 70)\r\n' +
+    '\t\t\t\tAnki Review\r\n' +
+    '\t\t\t\t\t02JavaScript\r\n' +
+    '\t\t\t7:45 to 7:55 (10 + 70 = 80)\r\n' +
+    '\t\t\t\tAnki Review\r\n' +
+    '\t\t\t\t\t02JavaScript\r\n' +
+    '\t\t\t\t\t03PC+...\r\n' +
+    '\t\t\t7:55 to 8:50 (55 + 80 = 135)\r\n' +
+    '\t\t\t\t02JS-Advanced\r\n' +
+    '\t\t\t\t\tDay35-20201019\r\n' +
+    '\t\t\t\t\tDay36-20201020\r\n' +
+    '\t\t\t9:10 to 10:00 (50 + 135 = 185)\r\n' +
+    '\t\t\t\t02JS-Advanced\r\n' +
+    '\t\t\t\t\tDay36-20201020\r\n' +
+    '\t\tII (10:00  to 18:00)\r\n' +
+    '\t\t\t10:00 to 11:55\r\n' +
+    '\t\t\t\tLunch\r\n' +
+    '\t\t\t\tBreak\r\n' +
+    '\t\t\t11:55 to 13:00 (65 + 185 = 250)\r\n' +
+    '\t\t\t\t02JS-Advanced\r\n' +
+    '\t\t\t\t\tDay36-20201020\r\n' +
+    '\t\t\t13:20 to 14:05 (45 + 250 = 295)\r\n' +
+    '\t\t\t\t02JS-Advanced\r\n' +
+    '\t\t\t\t\tDay36-20201020\r\n' +
+    '\t\t\t15:40 to 17:15 (95 + 295 = 390)\r\n' +
+    '\t\t\t\t03jQuery\r\n' +
+    '\t\t\t\t\tDay37-20201021\r\n' +
+    '\t\t\t17:45 to 18:25 (40 + 390 = 430)\r\n' +
+    '\t\tIII (18:00 to 23:00)\r\n' +
+    '\t\t\t18:40 to 19:15 (35 + 430 = 475)\r\n' +
+    '\t\t\t\t03jQuery\r\n' +
+    '\t\t\t\t\tDay37-20201021\r\n' +
+    '\t\t\t19:50 to 20:50 (60 + 475 = 535)\r\n' +
+    '\t\t\t\t03jQuery\r\n' +
+    '\t\t\t\t\tDay38-20201023\r\n' +
+    '\t\t\t21:20 to 22:10 (50 + 535 = 585)\r\n' +
+    '\t\t\t\t03jQuery\r\n' +
+    '\t\t\t\t\tDay38-20201023\r\n' +
+    '\t\tIV\r\n' +
+    '\tSummary (585 minutes, 9.75 hours)\r\n' +
+    '\t\tMaybe\r\n' +
+    '\t\t\t拿出高中时的坚持、努力和毅力。\n' +
+    '再加上现在的自觉和认知。\n' +
+    '天下之大，哪里去不得？\r\n' +
+    '\t\tDONE\r\n' +
+    '\t\t\tLearning\r\n' +
+    '\t\t\t\tAnki Review\r\n' +
+    '\t\t\t\t\t01HTML+CSS\r\n' +
+    '\t\t\t\t\t02JavaScript\r\n' +
+    '\t\t\t\t\t03PC+...\r\n' +
+    '\t\t\t\t03第三阶段\r\n' +
+    '\t\t\t\t\t02JS-Advanced\r\n' +
+    '\t\t\t\t\t\tDay35-20201019\r\n' +
+    '\t\t\t\t\t\tDay36-20201020\r\n' +
+    '\t\t\t\t\t03jQuery\r\n' +
+    '\t\t\t\t\t\tDay37-20201021\r\n' +
+    '\t\t\t\t\t\t4/5 Day38-20201023',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '870b64820698f12cdca4ab76e5'
+  },
+  xapInfoMap: {}
+}
+[I 2021-11-09T23:36:05.748Z snowbrush] db write {
+  'text/plain': 'Tue, 11-09 (585 minutes, 9.75 hours)\r\n' +
+    '\tRecords\r\n' +
+    '\t\tI (6:00 to 10:00)\r\n' +
+    '\t\t\t6:00 to 6:20 (20 + 0 = 20)\r\n' +
+    '\t\t\t\tAnki Review\r\n' +
+    '\t\t\t\t\t01HTML+CSS\r\n' +
+    '\t\t\t6:25 to 6:55 (30 + 20  = 50)\r\n' +
+    '\t\t\t\tAnki Review\r\n' +
+    '\t\t\t\t\t02JavaScript\r\n' +
+    '\t\t\t7:10 to 7:30 (20 + 50 = 70)\r\n' +
+    '\t\t\t\tAnki Review\r\n' +
+    '\t\t\t\t\t02JavaScript\r\n' +
+    '\t\t\t7:45 to 7:55 (10 + 70 = 80)\r\n' +
+    '\t\t\t\tAnki Review\r\n' +
+    '\t\t\t\t\t02JavaScript\r\n' +
+    '\t\t\t\t\t03PC+...\r\n' +
+    '\t\t\t7:55 to 8:50 (55 + 80 = 135)\r\n' +
+    '\t\t\t\t02JS-Advanced\r\n' +
+    '\t\t\t\t\tDay35-20201019\r\n' +
+    '\t\t\t\t\tDay36-20201020\r\n' +
+    '\t\t\t9:10 to 10:00 (50 + 135 = 185)\r\n' +
+    '\t\t\t\t02JS-Advanced\r\n' +
+    '\t\t\t\t\tDay36-20201020\r\n' +
+    '\t\tII (10:00  to 18:00)\r\n' +
+    '\t\t\t10:00 to 11:55\r\n' +
+    '\t\t\t\tLunch\r\n' +
+    '\t\t\t\tBreak\r\n' +
+    '\t\t\t11:55 to 13:00 (65 + 185 = 250)\r\n' +
+    '\t\t\t\t02JS-Advanced\r\n' +
+    '\t\t\t\t\tDay36-20201020\r\n' +
+    '\t\t\t13:20 to 14:05 (45 + 250 = 295)\r\n' +
+    '\t\t\t\t02JS-Advanced\r\n' +
+    '\t\t\t\t\tDay36-20201020\r\n' +
+    '\t\t\t15:40 to 17:15 (95 + 295 = 390)\r\n' +
+    '\t\t\t\t03jQuery\r\n' +
+    '\t\t\t\t\tDay37-20201021\r\n' +
+    '\t\t\t17:45 to 18:25 (40 + 390 = 430)\r\n' +
+    '\t\tIII (18:00 to 23:00)\r\n' +
+    '\t\t\t18:40 to 19:15 (35 + 430 = 475)\r\n' +
+    '\t\t\t\t03jQuery\r\n' +
+    '\t\t\t\t\tDay37-20201021\r\n' +
+    '\t\t\t19:50 to 20:50 (60 + 475 = 535)\r\n' +
+    '\t\t\t\t03jQuery\r\n' +
+    '\t\t\t\t\tDay38-20201023\r\n' +
+    '\t\t\t21:20 to 22:10 (50 + 535 = 585)\r\n' +
+    '\t\t\t\t03jQuery\r\n' +
+    '\t\t\t\t\tDay38-20201023\r\n' +
+    '\t\tIV\r\n' +
+    '\tSummary (585 minutes, 9.75 hours)\r\n' +
+    '\t\tMaybe\r\n' +
+    '\t\t\t拿出高中时的坚持、努力和毅力。\n' +
+    '再加上现在的自觉和认知。\n' +
+    '天下之大，哪里去不得？\r\n' +
+    '\t\tDONE\r\n' +
+    '\t\t\tLearning\r\n' +
+    '\t\t\t\tAnki Review\r\n' +
+    '\t\t\t\t\t01HTML+CSS\r\n' +
+    '\t\t\t\t\t02JavaScript\r\n' +
+    '\t\t\t\t\t03PC+...\r\n' +
+    '\t\t\t\t03第三阶段\r\n' +
+    '\t\t\t\t\t02JS-Advanced\r\n' +
+    '\t\t\t\t\t\tDay35-20201019\r\n' +
+    '\t\t\t\t\t\tDay36-20201020\r\n' +
+    '\t\t\t\t\t03jQuery\r\n' +
+    '\t\t\t\t\t\tDay37-20201021\r\n' +
+    '\t\t\t\t\t\t4/5 Day38-20201023',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '870b64820698f12cdca4ab76e5'
+  },
+  xapInfoMap: {}
+}
+[I 2021-11-09T23:36:07.973Z snowbrush] null
+[I 2021-11-09T23:36:11.494Z snowbrush] db write {
+  'text/plain': 'Tue, 11-09 (585 minutes, 9.75 hours)\r\n' +
+    '\tRecords\r\n' +
+    '\t\tI (6:00 to 10:00)\r\n' +
+    '\t\t\t6:00 to 6:20 (20 + 0 = 20)\r\n' +
+    '\t\t\t\tAnki Review\r\n' +
+    '\t\t\t\t\t01HTML+CSS\r\n' +
+    '\t\t\t6:25 to 6:55 (30 + 20  = 50)\r\n' +
+    '\t\t\t\tAnki Review\r\n' +
+    '\t\t\t\t\t02JavaScript\r\n' +
+    '\t\t\t7:10 to 7:30 (20 + 50 = 70)\r\n' +
+    '\t\t\t\tAnki Review\r\n' +
+    '\t\t\t\t\t02JavaScript\r\n' +
+    '\t\t\t7:45 to 7:55 (10 + 70 = 80)\r\n' +
+    '\t\t\t\tAnki Review\r\n' +
+    '\t\t\t\t\t02JavaScript\r\n' +
+    '\t\t\t\t\t03PC+...\r\n' +
+    '\t\t\t7:55 to 8:50 (55 + 80 = 135)\r\n' +
+    '\t\t\t\t02JS-Advanced\r\n' +
+    '\t\t\t\t\tDay35-20201019\r\n' +
+    '\t\t\t\t\tDay36-20201020\r\n' +
+    '\t\t\t9:10 to 10:00 (50 + 135 = 185)\r\n' +
+    '\t\t\t\t02JS-Advanced\r\n' +
+    '\t\t\t\t\tDay36-20201020\r\n' +
+    '\t\tII (10:00  to 18:00)\r\n' +
+    '\t\t\t10:00 to 11:55\r\n' +
+    '\t\t\t\tLunch\r\n' +
+    '\t\t\t\tBreak\r\n' +
+    '\t\t\t11:55 to 13:00 (65 + 185 = 250)\r\n' +
+    '\t\t\t\t02JS-Advanced\r\n' +
+    '\t\t\t\t\tDay36-20201020\r\n' +
+    '\t\t\t13:20 to 14:05 (45 + 250 = 295)\r\n' +
+    '\t\t\t\t02JS-Advanced\r\n' +
+    '\t\t\t\t\tDay36-20201020\r\n' +
+    '\t\t\t15:40 to 17:15 (95 + 295 = 390)\r\n' +
+    '\t\t\t\t03jQuery\r\n' +
+    '\t\t\t\t\tDay37-20201021\r\n' +
+    '\t\t\t17:45 to 18:25 (40 + 390 = 430)\r\n' +
+    '\t\tIII (18:00 to 23:00)\r\n' +
+    '\t\t\t18:40 to 19:15 (35 + 430 = 475)\r\n' +
+    '\t\t\t\t03jQuery\r\n' +
+    '\t\t\t\t\tDay37-20201021\r\n' +
+    '\t\t\t19:50 to 20:50 (60 + 475 = 535)\r\n' +
+    '\t\t\t\t03jQuery\r\n' +
+    '\t\t\t\t\tDay38-20201023\r\n' +
+    '\t\t\t21:20 to 22:10 (50 + 535 = 585)\r\n' +
+    '\t\t\t\t03jQuery\r\n' +
+    '\t\t\t\t\tDay38-20201023\r\n' +
+    '\t\tIV\r\n' +
+    '\tSummary (585 minutes, 9.75 hours)\r\n' +
+    '\t\tMaybe\r\n' +
+    '\t\t\t拿出高中时的坚持、努力和毅力。\n' +
+    '再加上现在的自觉和认知。\n' +
+    '天下之大，哪里去不得？\r\n' +
+    '\t\tDONE\r\n' +
+    '\t\t\tLearning\r\n' +
+    '\t\t\t\tAnki Review\r\n' +
+    '\t\t\t\t\t01HTML+CSS\r\n' +
+    '\t\t\t\t\t02JavaScript\r\n' +
+    '\t\t\t\t\t03PC+...\r\n' +
+    '\t\t\t\t03第三阶段\r\n' +
+    '\t\t\t\t\t02JS-Advanced\r\n' +
+    '\t\t\t\t\t\tDay35-20201019\r\n' +
+    '\t\t\t\t\t\tDay36-20201020\r\n' +
+    '\t\t\t\t\t03jQuery\r\n' +
+    '\t\t\t\t\t\tDay37-20201021\r\n' +
+    '\t\t\t\t\t\t4/5 Day38-20201023',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '870b64820698f12cdca4ab76e5'
+  },
+  xapInfoMap: {}
+}
+[I 2021-11-09T23:36:49.545Z snowbrush] Export image time: from 1636501009545 to 1636501009545.
+[I 2021-11-09T23:36:56.222Z snowbrush] Export image time: from 1636501016222 to 1636501016222.
+[I 2021-11-09T23:36:59.889Z snowbrush] Export image time: from 1636501019889 to 1636501019889.
+[I 2021-11-09T23:37:28.113Z snowbrush] Export image time: from 1636501048113 to 1636501048113.
+[I 2021-11-09T23:38:15.135Z snowbrush] db write {
+  'text/plain': '04Bootstrap',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '870b64820698f12cdca4ab76e5'
+  },
+  xapInfoMap: {}
+}
+[I 2021-11-09T23:38:32.075Z snowbrush] db write {
+  'text/plain': 'Learning\r\n' +
+    '\tAnki Review\r\n' +
+    '\t\t01HTML+CSS\r\n' +
+    '\t\t02JavaScript\r\n' +
+    '\t\t03PC+...\r\n' +
+    '\t03第三阶段\r\n' +
+    '\t\t03jQuery\r\n' +
+    '\t\t\t5/5 Day38-20201023\r\n' +
+    '\t\t\tDay39-20201024\r\n' +
+    '\t\t\tDay40-20201026\r\n' +
+    '\t\t04Bootstrap\r\n' +
+    '\t\t\tDay41-20201027\r\n' +
+    '\t\t\tDay42-20201028\r\n' +
+    '\t\t\tDay43-20201030',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '870b64820698f12cdca4ab76e5'
+  },
+  xapInfoMap: {}
+}
+[W 2021-11-09T23:39:41.122Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-09T23:39:42.037Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[I 2021-11-09T23:41:42.889Z snowbrush] db write {
+  'text/plain': 'Anki Review\r\n\t01HTML+CSS\r\n\t02JavaScript\r\n\t03PC+...',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '870b64820698f12cdca4ab76e5'
+  },
+  xapInfoMap: {}
+}
+[I 2021-11-09T23:42:01.161Z snowbrush] Export image time: from 1636501321160 to 1636501321161.
+[I 2021-11-09T23:47:49.330Z snowbrush] Export image time: from 1636501669330 to 1636501669330.
+[I 2021-11-10T00:13:29.111Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-10T00:13:29.111Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-10T00:15:15.711Z snowbrush] db write {
+  'text/plain': 'Anki Review\r\n\t01HTML+CSS\r\n\t02JavaScript\r\n\t03PC+...',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '870b64820698f12cdca4ab76e5'
+  },
+  xapInfoMap: {}
+}
+[I 2021-11-10T00:15:30.964Z snowbrush] db write {
+  'text/plain': 'Anki Review\r\n\t02JavaScript\r\n\t03PC+...',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '870b64820698f12cdca4ab76e5'
+  },
+  xapInfoMap: {}
+}
+[I 2021-11-10T00:15:35.978Z snowbrush] Export image time: from 1636503335978 to 1636503335978.
+[I 2021-11-10T00:15:41.020Z snowbrush] db write {
+  'text/plain': '03PC+...',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '870b64820698f12cdca4ab76e5'
+  },
+  xapInfoMap: {}
+}
+[I 2021-11-10T00:37:49.851Z snowbrush] Export image time: from 1636504669839 to 1636504669839.
+[I 2021-11-10T00:38:06.052Z snowbrush] Export image time: from 1636504686052 to 1636504686052.
+[I 2021-11-10T00:39:12.933Z snowbrush] Export image time: from 1636504752933 to 1636504752933.
+[I 2021-11-10T00:39:45.032Z snowbrush] Export image time: from 1636504785032 to 1636504785032.
+[I 2021-11-10T00:40:02.123Z snowbrush] Export image time: from 1636504802123 to 1636504802123.
+[I 2021-11-10T00:55:23.888Z snowbrush] Export image time: from 1636505723875 to 1636505723875.
+[I 2021-11-10T01:13:29.153Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-10T01:13:29.154Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-10T01:26:52.031Z main:store:plugins:editors:EditorFrame] Frame 3 close
+[I 2021-11-10T01:26:52.071Z main:store:plugins:editors:EditorFrame] Not find editor view: undefined file:///opt/XMind/resources/app.asar/renderer/editor-frame.html?frameId=3&_apr=dark#
+[I 2021-11-10T01:26:52.211Z main:store:plugins:editors:EditorFrame] Frame 3 close
+[I 2021-11-10T01:26:52.380Z main:store:plugins:editors:EditorFrame] Frame 3 webContents destroyed
+[I 2021-11-10T01:26:53.762Z main:store:plugins:editors:EditorFrame] Frame 1 close
+[I 2021-11-10T01:26:55.873Z snowbrush] Export image time: from 1636507615873 to 1636507615873.
+[I 2021-11-10T01:26:56.953Z main:store:plugins:editors:EditorFrame] Not find editor view: undefined file:///opt/XMind/resources/app.asar/renderer/editor-frame.html?frameId=1&_apr=dark
+[I 2021-11-10T01:26:57.106Z main:store:plugins:editors:EditorFrame] Frame 1 close
+[I 2021-11-10T01:26:57.282Z main:store:plugins:electron] Application is intended to quit.
+[I 2021-11-10T01:26:57.282Z main:store:plugins:electron] Asking all editors to close their documents...
+[I 2021-11-10T01:26:57.355Z main:store:plugins:editors:EditorFrame] Frame 1 webContents destroyed
+[I 2021-11-10T01:26:57.388Z main:store:plugins:electron] All documents are closed.
+[I 2021-11-10T01:26:57.389Z main:store:plugins:activation-updater] Stop updating per-machine license information periodically.
+[I 2021-11-10T01:26:57.389Z main:store:plugins:activation-updater] Stop updating subscription information periodically.
+[I 2021-11-10T01:26:57.395Z main:store:plugins:electron] Application is intended to quit.
+[I 2021-11-10T01:26:57.395Z main:store:plugins:electron] Application will quit.
+[I 2021-11-10T01:26:57.395Z main:store:plugins:electron] Application quitted.
+
+-------- SESSION 2021-11-10T01:27:36.500Z (11.0.1+202106220606, linux, x64, 16173617152, XMind Ltd., vana_linux) --------
+[I 2021-11-10T01:27:36.669Z main:store:plugins:iap] The user is not allowed to make in-app purchase.
+[I 2021-11-10T01:27:37.250Z main:store:plugins:electron] Application will finish launching.
+[I 2021-11-10T01:27:37.252Z main:store:plugins:electron] Application arguments: ["/opt/XMind/xmind"]
+[I 2021-11-10T01:27:37.294Z main:store:plugins:electron] Application is ready.
+[I 2021-11-10T01:27:37.334Z main:store:plugins:open-handler] Recover: Map {}
+[I 2021-11-10T01:27:37.343Z main:store:plugins:activation-updater] Start updating subscription information periodically.
+[I 2021-11-10T01:27:37.344Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-11-10T01:27:37.344Z main:store:plugins:activation-updater] Start updating per-machine license information periodically.
+[I 2021-11-10T01:27:37.344Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-11-10T01:27:37.557Z main:store:plugins:electron] Device ID: 0a4e2b8c-1b20-4415-a313-3910912c6df7
+[W 2021-11-10T01:28:12.029Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:28:12.051Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:28:12.052Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:28:12.054Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:28:12.056Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:28:12.056Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:28:12.378Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:28:12.430Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:28:12.488Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:28:12.488Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:28:12.489Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:28:12.489Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:28:12.490Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:28:12.490Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:28:12.491Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:28:12.491Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:28:12.493Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:28:12.493Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:28:12.496Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:28:12.496Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:28:12.962Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:28:13.393Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[I 2021-11-10T01:28:37.345Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-10T01:28:37.346Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+
+-------- SESSION 2021-11-10T01:29:58.966Z (11.0.1+202106220606, linux, x64, 16173617152, XMind Ltd., vana_linux) --------
+[I 2021-11-10T01:29:59.137Z main:store:plugins:iap] The user is not allowed to make in-app purchase.
+[I 2021-11-10T01:29:59.647Z main:store:plugins:electron] Application will finish launching.
+[I 2021-11-10T01:29:59.648Z main:store:plugins:electron] Application arguments: ["/opt/XMind/xmind"]
+[I 2021-11-10T01:29:59.652Z main:store:plugins:electron] Application is ready.
+[I 2021-11-10T01:29:59.689Z main:store:plugins:open-handler] Recover: Map {
+  '1' => [
+    {
+      source: 'file:///home/lucas/Codes/My-Front-end-Learning/SGG-Front-end-Learning-Challenge.xmind',
+      editorId: '9ef876d46b3a3158b4caca5d32'
+    }
+  ],
+  '2' => [
+    {
+      source: 'file:///home/lucas/Codes/My-Front-end-Learning/03-PC+JS+jQuery+Bootstrap/Notes/03-jQuery/jQuery.xmind',
+      editorId: 'c7b92eda5f1a710a466cc9472c'
+    }
+  ]
+}
+[I 2021-11-10T01:29:59.702Z main:store:plugins:activation-updater] Start updating subscription information periodically.
+[I 2021-11-10T01:29:59.706Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-11-10T01:29:59.706Z main:store:plugins:activation-updater] Start updating per-machine license information periodically.
+[I 2021-11-10T01:29:59.706Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-11-10T01:30:00.324Z main:store:plugins:electron] Device ID: 0a4e2b8c-1b20-4415-a313-3910912c6df7
+[W 2021-11-10T01:30:03.366Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:30:03.376Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:30:03.379Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:30:03.380Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:30:03.382Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:30:03.382Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:30:03.730Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:30:03.787Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:30:03.860Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:30:03.861Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:30:03.862Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:30:03.862Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:30:03.863Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:30:03.864Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:30:03.865Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:30:03.866Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:30:03.867Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:30:03.868Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:30:03.871Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:30:03.871Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:30:04.374Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:30:04.833Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[I 2021-11-10T01:31:00.287Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-10T01:31:00.288Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+
+-------- SESSION 2021-11-10T01:33:17.494Z (11.0.1+202106220606, linux, x64, 16173617152, XMind Ltd., vana_linux) --------
+[I 2021-11-10T01:33:17.659Z main:store:plugins:iap] The user is not allowed to make in-app purchase.
+[I 2021-11-10T01:33:18.177Z main:store:plugins:electron] Application will finish launching.
+[I 2021-11-10T01:33:18.178Z main:store:plugins:electron] Application arguments: ["/opt/XMind/xmind"]
+[I 2021-11-10T01:33:18.188Z main:store:plugins:electron] Application is ready.
+[I 2021-11-10T01:33:18.227Z main:store:plugins:open-handler] Recover: Map {
+  '1' => [
+    {
+      source: 'file:///home/lucas/Codes/My-Front-end-Learning/SGG-Front-end-Learning-Challenge.xmind',
+      editorId: '9ef876d46b3a3158b4caca5d32'
+    }
+  ],
+  '2' => [
+    {
+      source: 'file:///home/lucas/Codes/My-Front-end-Learning/03-PC+JS+jQuery+Bootstrap/Notes/03-jQuery/jQuery.xmind',
+      editorId: 'c7b92eda5f1a710a466cc9472c'
+    }
+  ]
+}
+[I 2021-11-10T01:33:18.236Z main:store:plugins:activation-updater] Start updating subscription information periodically.
+[I 2021-11-10T01:33:18.236Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-11-10T01:33:18.236Z main:store:plugins:activation-updater] Start updating per-machine license information periodically.
+[I 2021-11-10T01:33:18.236Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-11-10T01:33:19.041Z main:store:plugins:electron] Device ID: 0a4e2b8c-1b20-4415-a313-3910912c6df7
+[W 2021-11-10T01:33:22.621Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:33:22.627Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:33:22.627Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:33:22.628Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:33:22.629Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:33:22.630Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:33:22.970Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:33:23.024Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:33:23.085Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:33:23.086Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:33:23.087Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:33:23.087Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:33:23.087Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:33:23.088Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:33:23.088Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:33:23.088Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:33:23.089Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:33:23.089Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:33:23.092Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:33:23.092Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:33:23.558Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:33:23.926Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[I 2021-11-10T01:34:18.237Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-10T01:34:18.238Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+
+-------- SESSION 2021-11-10T01:38:14.445Z (11.0.1+202106220606, linux, x64, 16173617152, XMind Ltd., vana_linux) --------
+[I 2021-11-10T01:38:14.615Z main:store:plugins:iap] The user is not allowed to make in-app purchase.
+[I 2021-11-10T01:38:15.157Z main:store:plugins:electron] Application will finish launching.
+[I 2021-11-10T01:38:15.158Z main:store:plugins:electron] Application arguments: ["/opt/XMind/xmind"]
+[I 2021-11-10T01:38:15.185Z main:store:plugins:electron] Application is ready.
+[I 2021-11-10T01:38:15.231Z main:store:plugins:open-handler] Recover: Map {
+  '1' => [
+    {
+      source: 'file:///home/lucas/Codes/My-Front-end-Learning/SGG-Front-end-Learning-Challenge.xmind',
+      editorId: '9ef876d46b3a3158b4caca5d32'
+    }
+  ],
+  '2' => [
+    {
+      source: 'file:///home/lucas/Codes/My-Front-end-Learning/03-PC+JS+jQuery+Bootstrap/Notes/03-jQuery/jQuery.xmind',
+      editorId: 'c7b92eda5f1a710a466cc9472c'
+    }
+  ]
+}
+[I 2021-11-10T01:38:15.249Z main:store:plugins:activation-updater] Start updating subscription information periodically.
+[I 2021-11-10T01:38:15.249Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-11-10T01:38:15.250Z main:store:plugins:activation-updater] Start updating per-machine license information periodically.
+[I 2021-11-10T01:38:15.250Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-11-10T01:38:16.046Z main:store:plugins:electron] Device ID: 0a4e2b8c-1b20-4415-a313-3910912c6df7
+[W 2021-11-10T01:38:19.761Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:38:19.772Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:38:19.772Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:38:19.773Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:38:19.774Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:38:19.775Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:38:20.074Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:38:20.126Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:38:20.182Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:38:20.183Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:38:20.184Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:38:20.184Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:38:20.185Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:38:20.185Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:38:20.185Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:38:20.186Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:38:20.186Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:38:20.187Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:38:20.189Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:38:20.189Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:38:20.672Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:38:20.982Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+
+-------- SESSION 2021-11-10T01:38:35.492Z (11.0.1+202106220606, linux, x64, 16173617152, XMind Ltd., vana_linux) --------
+[I 2021-11-10T01:38:35.667Z main:store:plugins:iap] The user is not allowed to make in-app purchase.
+[I 2021-11-10T01:38:36.221Z main:store:plugins:electron] Application will finish launching.
+[I 2021-11-10T01:38:36.222Z main:store:plugins:electron] Application arguments: ["/opt/XMind/xmind"]
+[I 2021-11-10T01:38:36.238Z main:store:plugins:electron] Application is ready.
+[I 2021-11-10T01:38:36.273Z main:store:plugins:open-handler] Recover: Map {
+  '1' => [
+    {
+      source: 'file:///home/lucas/Codes/My-Front-end-Learning/SGG-Front-end-Learning-Challenge.xmind',
+      editorId: '9ef876d46b3a3158b4caca5d32'
+    }
+  ],
+  '2' => [
+    {
+      source: 'file:///home/lucas/Codes/My-Front-end-Learning/03-PC+JS+jQuery+Bootstrap/Notes/03-jQuery/jQuery.xmind',
+      editorId: 'c7b92eda5f1a710a466cc9472c'
+    }
+  ]
+}
+[I 2021-11-10T01:38:36.281Z main:store:plugins:activation-updater] Start updating subscription information periodically.
+[I 2021-11-10T01:38:36.281Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-11-10T01:38:36.281Z main:store:plugins:activation-updater] Start updating per-machine license information periodically.
+[I 2021-11-10T01:38:36.281Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-11-10T01:38:36.951Z main:store:plugins:electron] Device ID: 0a4e2b8c-1b20-4415-a313-3910912c6df7
+[W 2021-11-10T01:38:40.132Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:38:40.138Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:38:40.138Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:38:40.139Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:38:40.141Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:38:40.141Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:38:40.462Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:38:40.517Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:38:40.571Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:38:40.572Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:38:40.573Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:38:40.573Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:38:40.573Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:38:40.574Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:38:40.574Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:38:40.574Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:38:40.575Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:38:40.575Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:38:40.578Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:38:40.578Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:38:41.049Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:38:41.466Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+
+-------- SESSION 2021-11-10T01:38:59.396Z (11.0.1+202106220606, linux, x64, 16173617152, XMind Ltd., vana_linux) --------
+[I 2021-11-10T01:38:59.569Z main:store:plugins:iap] The user is not allowed to make in-app purchase.
+[I 2021-11-10T01:39:00.089Z main:store:plugins:electron] Application will finish launching.
+[I 2021-11-10T01:39:00.090Z main:store:plugins:electron] Application arguments: ["/opt/XMind/xmind"]
+[I 2021-11-10T01:39:00.107Z main:store:plugins:electron] Application is ready.
+[I 2021-11-10T01:39:00.133Z main:store:plugins:open-handler] Recover: Map {
+  '1' => [
+    {
+      source: 'file:///home/lucas/Codes/My-Front-end-Learning/SGG-Front-end-Learning-Challenge.xmind',
+      editorId: '9ef876d46b3a3158b4caca5d32'
+    }
+  ],
+  '2' => [
+    {
+      source: 'file:///home/lucas/Codes/My-Front-end-Learning/03-PC+JS+jQuery+Bootstrap/Notes/03-jQuery/jQuery.xmind',
+      editorId: 'c7b92eda5f1a710a466cc9472c'
+    }
+  ]
+}
+[I 2021-11-10T01:39:00.138Z main:store:plugins:activation-updater] Start updating subscription information periodically.
+[I 2021-11-10T01:39:00.139Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-11-10T01:39:00.139Z main:store:plugins:activation-updater] Start updating per-machine license information periodically.
+[I 2021-11-10T01:39:00.139Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-11-10T01:39:00.863Z main:store:plugins:electron] Device ID: 0a4e2b8c-1b20-4415-a313-3910912c6df7
+[W 2021-11-10T01:39:04.357Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:39:04.363Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:39:04.363Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:39:04.364Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:39:04.366Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:39:04.366Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:39:04.670Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:39:04.729Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:39:04.789Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:39:04.789Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:39:04.790Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:39:04.791Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:39:04.791Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:39:04.791Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:39:04.791Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:39:04.791Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:39:04.792Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:39:04.792Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:39:04.796Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:39:04.796Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:39:05.256Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:39:05.597Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+
+-------- SESSION 2021-11-10T01:39:29.715Z (11.0.1+202106220606, linux, x64, 16173617152, XMind Ltd., vana_linux) --------
+[I 2021-11-10T01:39:29.908Z main:store:plugins:iap] The user is not allowed to make in-app purchase.
+[I 2021-11-10T01:39:30.439Z main:store:plugins:electron] Application will finish launching.
+[I 2021-11-10T01:39:30.440Z main:store:plugins:electron] Application arguments: ["/opt/XMind/xmind"]
+[I 2021-11-10T01:39:30.452Z main:store:plugins:electron] Application is ready.
+[I 2021-11-10T01:39:30.489Z main:store:plugins:open-handler] Recover: Map {
+  '1' => [
+    {
+      source: 'file:///home/lucas/Codes/My-Front-end-Learning/SGG-Front-end-Learning-Challenge.xmind',
+      editorId: '9ef876d46b3a3158b4caca5d32'
+    }
+  ],
+  '2' => [
+    {
+      source: 'file:///home/lucas/Codes/My-Front-end-Learning/03-PC+JS+jQuery+Bootstrap/Notes/03-jQuery/jQuery.xmind',
+      editorId: 'c7b92eda5f1a710a466cc9472c'
+    }
+  ]
+}
+[I 2021-11-10T01:39:30.503Z main:store:plugins:activation-updater] Start updating subscription information periodically.
+[I 2021-11-10T01:39:30.503Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-11-10T01:39:30.503Z main:store:plugins:activation-updater] Start updating per-machine license information periodically.
+[I 2021-11-10T01:39:30.503Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-11-10T01:39:31.080Z main:store:plugins:electron] Device ID: 0a4e2b8c-1b20-4415-a313-3910912c6df7
+[W 2021-11-10T01:39:34.885Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:39:34.891Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:39:34.891Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:39:34.892Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:39:34.894Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:39:34.894Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:39:35.193Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:39:35.246Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:39:35.306Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:39:35.306Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:39:35.308Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:39:35.308Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:39:35.308Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:39:35.308Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:39:35.309Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:39:35.309Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:39:35.310Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:39:35.310Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:39:35.313Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:39:35.313Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:39:35.864Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:39:36.239Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[I 2021-11-10T01:40:30.504Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-10T01:40:30.504Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+
+-------- SESSION 2021-11-10T01:42:31.199Z (11.0.1+202106220606, linux, x64, 16173617152, XMind Ltd., vana_linux) --------
+[I 2021-11-10T01:42:31.402Z main:store:plugins:iap] The user is not allowed to make in-app purchase.
+[I 2021-11-10T01:42:31.944Z main:store:plugins:electron] Application will finish launching.
+[I 2021-11-10T01:42:31.944Z main:store:plugins:electron] Application arguments: ["/opt/XMind/xmind"]
+[I 2021-11-10T01:42:31.953Z main:store:plugins:electron] Application is ready.
+[I 2021-11-10T01:42:31.978Z main:store:plugins:open-handler] Recover: Map {
+  '1' => [
+    {
+      source: 'file:///home/lucas/Codes/My-Front-end-Learning/SGG-Front-end-Learning-Challenge.xmind',
+      editorId: '9ef876d46b3a3158b4caca5d32'
+    }
+  ],
+  '2' => [
+    {
+      source: 'file:///home/lucas/Codes/My-Front-end-Learning/03-PC+JS+jQuery+Bootstrap/Notes/03-jQuery/jQuery.xmind',
+      editorId: 'c7b92eda5f1a710a466cc9472c'
+    }
+  ]
+}
+[I 2021-11-10T01:42:31.986Z main:store:plugins:activation-updater] Start updating subscription information periodically.
+[I 2021-11-10T01:42:31.986Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-11-10T01:42:31.987Z main:store:plugins:activation-updater] Start updating per-machine license information periodically.
+[I 2021-11-10T01:42:31.987Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-11-10T01:42:32.690Z main:store:plugins:electron] Device ID: 0a4e2b8c-1b20-4415-a313-3910912c6df7
+[W 2021-11-10T01:42:36.124Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:42:36.138Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:42:36.139Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:42:36.141Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:42:36.144Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:42:36.145Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:42:36.471Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:42:36.521Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:42:36.582Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:42:36.583Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:42:36.584Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:42:36.585Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:42:36.585Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:42:36.586Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:42:36.586Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:42:36.587Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:42:36.588Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:42:36.588Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:42:36.592Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:42:36.592Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:42:37.083Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[W 2021-11-10T01:42:37.346Z snowbrush] Unsupported topic shape class: org.xmind.topicShape.fishhead.right
+[I 2021-11-10T01:43:31.987Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-10T01:43:31.988Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-10T02:43:32.000Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-10T02:43:32.000Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-10T03:43:32.052Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-10T03:43:32.052Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-10T04:43:32.101Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-10T04:43:32.101Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-10T05:43:32.148Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-10T05:43:32.149Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-10T06:43:32.179Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-10T06:43:32.180Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-10T07:43:32.220Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-10T07:43:32.220Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-10T08:43:32.224Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-10T08:43:32.224Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-10T09:43:32.261Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-10T09:43:32.261Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-10T10:43:32.293Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-10T10:43:32.293Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-10T11:43:32.322Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-10T11:43:32.323Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-10T12:43:32.331Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-10T12:43:32.332Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-10T13:43:32.355Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-10T13:43:32.355Z main:store:plugins:activation-updater] Schedule refresh timeout(null).

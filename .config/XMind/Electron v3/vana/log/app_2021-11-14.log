@@ -1,0 +1,1524 @@
+[I 2021-11-13T16:31:58.496Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-13T16:31:58.499Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-13T17:31:58.517Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-13T17:31:58.517Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-13T18:31:58.533Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-13T18:31:58.533Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-13T19:31:58.546Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-13T19:31:58.547Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-13T20:31:58.557Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-13T20:31:58.558Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-13T21:31:58.559Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-13T21:31:58.559Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-13T22:31:58.565Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-13T22:31:58.565Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-13T23:31:58.568Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-13T23:31:58.569Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-13T23:40:05.300Z snowbrush] Export image time: from 1636846805299 to 1636846805300.
+[I 2021-11-13T23:40:59.508Z snowbrush] db write {
+  'text/plain': 'NOTES\r\n' +
+    '\t休息之前，看看下面的内容。\r\n' +
+    '\t只要你能保持突破，或者保持追求突破，你就是自己的神！\n' +
+    '牢记使命，保持突破。\r\n' +
+    '\t完全突破了昨日吗？没有就好好专心突破自己。\r\n' +
+    '\t休息的时候就专心休息，不要搞这搞那。\n' +
+    '休息的时候就专心休息，不要搞这搞那。\n' +
+    '休息的时候就专心休息，不要搞这搞那。',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '870b64820698f12cdca4ab76e5'
+  },
+  xapInfoMap: {}
+}
+[I 2021-11-13T23:42:27.071Z snowbrush] Export image time: from 1636846947071 to 1636846947071.
+[I 2021-11-13T23:42:43.397Z snowbrush] Export image time: from 1636846963397 to 1636846963397.
+[I 2021-11-13T23:42:52.551Z snowbrush] Export image time: from 1636846972551 to 1636846972551.
+[I 2021-11-13T23:42:54.224Z snowbrush] db write {
+  'text/plain': 'Sat, 11-13 (550 minutes, 9 hours)\r\n' +
+    '\tRecords\r\n' +
+    '\t\tLearning\r\n' +
+    '\t\t\tAnki Review (65)\r\n' +
+    '\t\t\t\t01HTML+CSS (15)\r\n' +
+    '\t\t\t\t\t31 old cards\r\n' +
+    '\t\t\t\t\t9:20 to 9:35 (15 + 0 = 15)\r\n' +
+    '\t\t\t\t02JavaScript (25)\r\n' +
+    '\t\t\t\t\t72 old cards\r\n' +
+    '\t\t\t\t\t9:35 to 10:00 (25 + 15 = 40)\r\n' +
+    '\t\t\t\t\t10:00 to 10:15 (B 15 + 0 = 15)\r\n' +
+    '\t\t\t\t03PC+JS+jQuery+Bootstrap (10)\r\n' +
+    '\t\t\t\t\t47 old cards\r\n' +
+    '\t\t\t\t\t10:15 to 10:25 (10 + 40 = 50)\r\n' +
+    '\t\t\t\t04git+ES6+nodeJS+... (15)\r\n' +
+    '\t\t\t\t\t34 old cards\r\n' +
+    '\t\t\t\t\t10:25 to 10:40 (15 + 50 = 65)\r\n' +
+    '\t\t\t04git+ES6+nodeJS+http+npm+express+mongoDB\r\n' +
+    '\t\t\t\t01git\r\n' +
+    '\t\t\t\t\tDay45-20201102 (135)\r\n' +
+    '\t\t\t\t\t\t3 hours\r\n' +
+    '\t\t\t\t\t\t10:40 to 11:35 (55 + 65 = 120)\r\n' +
+    '\t\t\t\t\t\t11:35 to 11:55 (B 20 + 15 = 35)\r\n' +
+    '\t\t\t\t\t\t\tWash up\r\n' +
+    '\t\t\t\t\t\t11:55 to 14:00 (B 125 + 35 = 160)\r\n' +
+    '\t\t\t\t\t\t\tLunch\r\n' +
+    '\t\t\t\t\t\t\tShower\r\n' +
+    '\t\t\t\t\t\t\tBreak\r\n' +
+    '\t\t\t\t\t\t14:00 to 15:15 (75 + 120 = 195)\r\n' +
+    '\t\t\t\t\t\t15:15 to 15:30 (B 15 + 160 = 175)\r\n' +
+    '\t\t\t\t\t\t15:30 to 15:35 (5 + 195 = 200)\r\n' +
+    '\t\t\t\t\t\t\tAnki Review\r\n' +
+    '\t\t\t\t02ES6+nodeJS\r\n' +
+    '\t\t\t\t\tDay46-20201103 (230)\r\n' +
+    '\t\t\t\t\t\t3.5 hours\r\n' +
+    '\t\t\t\t\t\t15:35 to 17:10 (95 + 200 = 295)\r\n' +
+    '\t\t\t\t\t\t17:10 to 17:35 (B 25 + 175 = 200)\r\n' +
+    '\t\t\t\t\t\t17:35 to 18:50 (75 + 295 = 370)\r\n' +
+    '\t\t\t\t\t\t18:50 to 19:15 (B 25 + 200 = 225)\r\n' +
+    '\t\t\t\t\t\t19:15 to 20:25 (60 + 370 = 430)\r\n' +
+    '\t\t\t\t\t\t20:25 to 20:45 (B 20 + 225 = 245)\r\n' +
+    '\t\t\t\t\t\t20:45 to 21:15 (30 + 430 = 460)\r\n' +
+    '\t\t\t\t\t\t\tAnki Review\r\n' +
+    '\t\t\t\t\tDay47-20201104 (90)\r\n' +
+    '\t\t\t\t\t\t3.5 hours\r\n' +
+    '\t\t\t\t\t\t21:15 to 22:15 (60 + 460 = 520)\r\n' +
+    '\t\t\t\t\t\t22:15 to 23:05 (B 50 + 245 = 295)\r\n' +
+    '\t\t\t\t\t\t23:05 to 23:35 (30 + 520 = 550)\r\n' +
+    '\t\t\t\t\t\t23:35 to 7:35\r\n' +
+    '\t\t\t\t\t\t\tSleep\r\n' +
+    '\t\t\t\t\t\t\tWash up\r\n' +
+    '\t\t\t\t\t\t\t这种倒床上立刻就睡着的状态，我非常喜欢，非常怀念。\r\n' +
+    '\t\tSummary\r\n' +
+    '\t\t\tTime\r\n' +
+    '\t\t\t\t550 minutes in total\r\n' +
+    '\t\t\t\tFrom\r\n' +
+    '\t\t\t\t\t9:20\r\n' +
+    '\t\t\t\tTo\r\n' +
+    '\t\t\t\t\t23:35\r\n' +
+    '\t\t\t总体来说你还可以做的更好，牢记自己的理想，专注、坚持、保持突破。\r\n' +
+    '\tReflection\r\n' +
+    '\t\tThoughts\r\n' +
+    '\t\t\t拿出高中时的坚持、努力和毅力。再加上现在的自觉和认知。天下之大，哪里去不得？\r\n' +
+    '\t\t\t最近又开始变得松懈了，事实证明不自由之后才有更多的自由。\r\n' +
+    '\t\t\t松懈的一个重大原因就是你没有好好地量化计划、明确参考物。\r\n' +
+    '\t\t\t\t以后总是以昨日为参考\r\n' +
+    '\t\t\t\t以任务为导向，而不是时间\r\n' +
+    '\t\tNOTES\r\n' +
+    '\t\t\t休息之前，看看下面的内容。\r\n' +
+    '\t\t\t只要你能保持突破，或者保持追求突破，你就是自己的神！\n' +
+    '牢记使命，保持突破。\r\n' +
+    '\t\t\t完全突破了昨日吗？没有就好好专心突破自己。\r\n' +
+    '\t\t\t休息的时候就专心休息，不要搞这搞那。\n' +
+    '休息的时候就专心休息，不要搞这搞那。\n' +
+    '休息的时候就专心休息，不要搞这搞那。',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '870b64820698f12cdca4ab76e5'
+  },
+  xapInfoMap: {}
+}
+[I 2021-11-13T23:44:59.203Z snowbrush] Export image time: from 1636847099203 to 1636847099203.
+[I 2021-11-13T23:45:28.381Z snowbrush] db write {
+  'text/plain': 'NOTES\r\n' +
+    '\t休息之前，看看下面的内容。\r\n' +
+    '\t只要你能保持突破，或者保持追求突破，你就是自己的神！\n' +
+    '牢记使命，保持突破。\r\n' +
+    '\t完全突破了昨日吗？没有就好好专心突破自己。\r\n' +
+    '\t休息的时候就专心休息，不要搞这搞那。\n' +
+    '休息的时候就专心休息，不要搞这搞那。\n' +
+    '休息的时候就专心休息，不要搞这搞那。',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [ [Object] ],
+    summary: [],
+    sheetId: '870b64820698f12cdca4ab76e5'
+  },
+  xapInfoMap: {}
+}
+[I 2021-11-13T23:45:41.925Z snowbrush] Export image time: from 1636847141925 to 1636847141925.
+[I 2021-11-13T23:47:39.888Z snowbrush] Export image time: from 1636847259888 to 1636847259888.
+[I 2021-11-13T23:51:27.769Z snowbrush] Export image time: from 1636847487768 to 1636847487769.
+[I 2021-11-13T23:53:16.137Z snowbrush] Export image time: from 1636847596137 to 1636847596137.
+[I 2021-11-13T23:55:47.842Z snowbrush] Export image time: from 1636847747842 to 1636847747842.
+[I 2021-11-13T23:57:24.363Z snowbrush] db write {
+  'text/plain': 'Day49-20201107\r\n\t3 hours',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '870b64820698f12cdca4ab76e5'
+  },
+  xapInfoMap: {}
+}
+[I 2021-11-13T23:57:32.885Z snowbrush] db write {
+  'text/plain': '1/3 Day51-20201110\r\n\t3 hours',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '870b64820698f12cdca4ab76e5'
+  },
+  xapInfoMap: {}
+}
+[I 2021-11-14T00:00:05.750Z snowbrush] Export image time: from 1636848005750 to 1636848005750.
+[I 2021-11-14T00:00:15.216Z snowbrush] Export image time: from 1636848015216 to 1636848015216.
+[I 2021-11-14T00:01:11.574Z snowbrush] null
+[I 2021-11-14T00:01:12.250Z snowbrush] null
+[I 2021-11-14T00:03:02.514Z snowbrush] Export image time: from 1636848182501 to 1636848182502.
+[I 2021-11-14T00:04:36.062Z snowbrush] Export image time: from 1636848276061 to 1636848276062.
+[I 2021-11-14T00:07:23.611Z snowbrush] Export image time: from 1636848443611 to 1636848443611.
+[I 2021-11-14T00:07:29.975Z snowbrush] db write {
+  'text/plain': '01HTML+CSS (15)\r\n\t31 old cards\r\n\t9:20 to 9:35 (15 + 0 = 15)',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '870b64820698f12cdca4ab76e5'
+  },
+  xapInfoMap: {}
+}
+[I 2021-11-14T00:08:09.571Z snowbrush] Export image time: from 1636848489571 to 1636848489571.
+[I 2021-11-14T00:18:40.203Z snowbrush] Export image time: from 1636849120199 to 1636849120199.
+[I 2021-11-14T00:31:58.570Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-14T00:31:58.571Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-14T00:34:16.331Z snowbrush] db write {
+  'text/plain': 'SGG-Front-end-Learning-Challenge\r\n' +
+    '\t10 (3 days, 660 minutes or 11 hours per day)\r\n' +
+    '\t\tWeek 0\r\n' +
+    '\t\t\t10-29 (470 minutes, 7.83 hours)\r\n' +
+    '\t\t\t\tRecords\r\n' +
+    '\t\t\t\t\t19:45 to 20:10 (25 + 0 = 25)\r\n' +
+    '\t\t\t\t\t\tAnki Review\r\n' +
+    '\t\t\t\t\t\t\t01HTML+CSS\r\n' +
+    '\t\t\t\t\t\t\t\tDay01 to Day09\r\n' +
+    '\t\t\t\t\t20:15 to 22:00 (105 + 25 = 130)\r\n' +
+    '\t\t\t\t\t\tAnki Review\r\n' +
+    '\t\t\t\t\t\t\t01HTML+CSS\r\n' +
+    '\t\t\t\t\t\t\t\tDay10\r\n' +
+    '\t\t\t\t\t\t01HTML+CSS\r\n' +
+    '\t\t\t\t\t\t\t20200908\r\n' +
+    '\t\t\t\t\t\t\t20200909\r\n' +
+    '\t\t\t\t\t22:00 to 22:10\r\n' +
+    '\t\t\t\t\t\tWorkout\r\n' +
+    '\t\t\t\t\t\t\tSquats\r\n' +
+    '\t\t\t\t\t\t\t\t40\r\n' +
+    '\t\t\t\t\t22:10 to 0:00 (110 + 130 = 240)\r\n' +
+    '\t\t\t\t\t\tLearning\r\n' +
+    '\t\t\t\t\t\t\tAnki Review\r\n' +
+    '\t\t\t\t\t\t\t\t01HTML+CSS\r\n' +
+    '\t\t\t\t\t\t\t\t\tDay11_20200909\r\n' +
+    '\t\t\t\t\t\t\t01HTML+CSS\r\n' +
+    '\t\t\t\t\t\t\t\t20200911\r\n' +
+    '\t\t\t\t\t0:00 to 0:10\r\n' +
+    '\t\t\t\t\t\tWorkout\r\n' +
+    '\t\t\t\t\t\t\tPushups\r\n' +
+    '\t\t\t\t\t\t\t\t12\r\n' +
+    '\t\t\t\t\t0:10 to 1:00 (50 + 240 = 290)\r\n' +
+    '\t\t\t\t\t\tLearning\r\n' +
+    '\t\t\t\t\t\t\tAnki Review\r\n' +
+    '\t\t\t\t\t\t\t\t01HTML+CSS\r\n' +
+    '\t\t\t\t\t\t\t\t\tDay12_20200911\r\n' +
+    '\t\t\t\t\t\t\t\t\t1/3 OLD\r\n' +
+    '\t\t\t\t\t\t\t01HTML+CSS\r\n' +
+    '\t\t\t\t\t1:00 to 1:15\r\n' +
+    '\t\t\t\t\t\tBreak\r\n' +
+    '\t\t\t\t\t\tLinux tuning\r\n' +
+    '\t\t\t\t\t1:15 to 2:30 (75 + 290 = 365)\r\n' +
+    '\t\t\t\t\t\tLearning\r\n' +
+    '\t\t\t\t\t\t\t01HTML+CSS\r\n' +
+    '\t\t\t\t\t\t\t\t1/2 Day12_20200911\r\n' +
+    '\t\t\t\t\t2:30 to 2:40\r\n' +
+    '\t\t\t\t\t\tBreak\r\n' +
+    '\t\t\t\t\t2:40 to 4:25 (105 + 365  = 470)\r\n' +
+    '\t\t\t\t\t\tLearning\r\n' +
+    '\t\t\t\t\t\t\t01HTML+CSS\r\n' +
+    '\t\t\t\t\t\t\t\tDay12_20200911\r\n' +
+    '\t\t\t\t\t\t\t\tDay13_20200912\r\n' +
+    '\t\t\t\t\t4:25 to 4:35\r\n' +
+    '\t\t\t\t\t\tBreak\r\n' +
+    '\t\t\t\t\t4:35 to 6:15 (100)\r\n' +
+    '\t\t\t\t\t\tMake detailed plans\r\n' +
+    '\t\t\t\t\t6:15 to 6:50\r\n' +
+    '\t\t\t\t\t\tBreak\r\n' +
+    '\t\t\t\t\t\tEntertainment\r\n' +
+    '\t\t\t\t\t\t牢记使命\r\n' +
+    '\t\t\t\t\t6:50 to \r\n' +
+    '\t\t\t\t\t\tSummary\r\n' +
+    '\t\t\t\tSummary\r\n' +
+    '\t\t\t\t\t470 minutes in total\r\n' +
+    '\t\t\t10-30 (885 minutes, 14.75 hours)\r\n' +
+    '\t\t\t\tRecords\r\n' +
+    '\t\t\t\t\t7:00 to 7:35 (35 + 0 = 35)\r\n' +
+    '\t\t\t\t\t\tLearning\r\n' +
+    '\t\t\t\t\t\t\tAnki Review\r\n' +
+    '\t\t\t\t\t\t\t\t01HTML+CSS\r\n' +
+    '\t\t\t\t\t7:35 to 9:05 (90 + 35 = 125)\r\n' +
+    '\t\t\t\t\t\tLearning\r\n' +
+    '\t\t\t\t\t\t\t01HTML+CSS\r\n' +
+    '\t\t\t\t\t\t\t\t1/2 Day14_20200914\r\n' +
+    '\t\t\t\t\t9:05 to 9:15\r\n' +
+    '\t\t\t\t\t\tBreak\r\n' +
+    '\t\t\t\t\t9:15 to 10:50 (95 + 125 = 220)\r\n' +
+    '\t\t\t\t\t\tLearning\r\n' +
+    '\t\t\t\t\t\t\t01HTML+CSS\r\n' +
+    '\t\t\t\t\t\t\t\t2/2 Day14_20200914\r\n' +
+    '\t\t\t\t\t10:50 to 11:10 (20)\r\n' +
+    '\t\t\t\t\t\tWash up\r\n' +
+    '\t\t\t\t\t11:10 to 11:25\r\n' +
+    '\t\t\t\t\t\tBreak\r\n' +
+    '\t\t\t\t\t11:25 to 12:25 (60 + 220 = 280)\r\n' +
+    '\t\t\t\t\t\tLearning\r\n' +
+    '\t\t\t\t\t\t\t01HTML+CSS\r\n' +
+    '\t\t\t\t\t\t\t\t1/4 Day15_20200915\r\n' +
+    '\t\t\t\t\t12:25 to 17:30\r\n' +
+    '\t\t\t\t\t\tBreak\r\n' +
+    '\t\t\t\t\t\tSleep\r\n' +
+    '\t\t\t\t\t\tDinner\r\n' +
+    '\t\t\t\t\t17:30 to 20:45 (195 + 280 = 475)\r\n' +
+    '\t\t\t\t\t\tLearning\r\n' +
+    '\t\t\t\t\t\t\t01HTML+CSS\r\n' +
+    '\t\t\t\t\t\t\t\tDay15_20200915\r\n' +
+    '\t\t\t\t\t20:45 to 21:05 (20)\r\n' +
+    '\t\t\t\t\t\tBreak\r\n' +
+    '\t\t\t\t\t21:05 to 21:35 (30 + 475 = 505)\r\n' +
+    '\t\t\t\t\t\tLearning\r\n' +
+    '\t\t\t\t\t\t\tAnki Review\r\n' +
+    '\t\t\t\t\t\t\t\tAll of 01HTML+CSS\r\n' +
+    '\t\t\t\t\t21:35 to 22:10\r\n' +
+    '\t\t\t\t\t\tBreak\r\n' +
+    '\t\t\t\t\t\tGetting ready for next challenge\r\n' +
+    '\t\t\t\t\t22:10 to 23:40 (90 + 505 = 595)\r\n' +
+    '\t\t\t\t\t\tLearning\r\n' +
+    '\t\t\t\t\t\t\t02JavaScript\r\n' +
+    '\t\t\t\t\t\t\t\tDay16_20200916\r\n' +
+    '\t\t\t\t\t\t\tAnki Review\r\n' +
+    '\t\t\t\t\t\t\t\tDay16_20200916\r\n' +
+    '\t\t\t\t\t23:40 to 0:05\r\n' +
+    '\t\t\t\t\t\tBreak\r\n' +
+    '\t\t\t\t\t\tEntertainment\r\n' +
+    '\t\t\t\t\t0:05 to 1:05 (60 + 595 = 655)\r\n' +
+    '\t\t\t\t\t\tLearning\r\n' +
+    '\t\t\t\t\t\t\t02JavaScript\r\n' +
+    '\t\t\t\t\t\t\t\tDay17_20200918\r\n' +
+    '\t\t\t\t\t\t\tAnki Review\r\n' +
+    '\t\t\t\t\t\t\t\tDay17_20200918\r\n' +
+    '\t\t\t\t\t1:05 to 1:15\r\n' +
+    '\t\t\t\t\t\tBreak\r\n' +
+    '\t\t\t\t\t1:15 to 2:30 (75 + 655 = 730)\r\n' +
+    '\t\t\t\t\t\tLearning\r\n' +
+    '\t\t\t\t\t\t\t02JavaScript\r\n' +
+    '\t\t\t\t\t\t\t\tDay18_20200919\r\n' +
+    '\t\t\t\t\t\t\t\tDay19_20200921\r\n' +
+    '\t\t\t\t\t\t\tAnki Review\r\n' +
+    '\t\t\t\t\t\t\t\tDay18_20200919\r\n' +
+    '\t\t\t\t\t\t\t\tDay19_20200921\r\n' +
+    '\t\t\t\t\t2:30 to 2:55\r\n' +
+    '\t\t\t\t\t\tBreak\r\n' +
+    '\t\t\t\t\t2:55 to 4:35 (100 + 730 = 830)\r\n' +
+    '\t\t\t\t\t\tLearning\r\n' +
+    '\t\t\t\t\t\t\t02JavaScript\r\n' +
+    '\t\t\t\t\t\t\t\tDay20_20200922\r\n' +
+    '\t\t\t\t\t4:35 to 5:15\r\n' +
+    '\t\t\t\t\t\tBreak\r\n' +
+    '\t\t\t\t\t5:15 to 6:10 (55 + 830 = 885)\r\n' +
+    '\t\t\t\t\t\tLearning\r\n' +
+    '\t\t\t\t\t\t\tAnki Review\r\n' +
+    '\t\t\t\t\t\t\t\tDay20_20200922\r\n' +
+    '\t\t\t\tSummary\r\n' +
+    '\t\t\t\t\t885 minutes, 14 hours and 45 minutes\r\n' +
+    '\t\t\t\t\tLearning\r\n' +
+    '\t\t\t\t\t\tAnki Review\r\n' +
+    '\t\t\t\t\t\t\t01HTML+CSS\r\n' +
+    '\t\t\t\t\t\t01HTML+CSS\r\n' +
+    '\t\t\t\t\t\t\tDay14_20200914\r\n' +
+    '\t\t\t\t\t\t\tDay15_20200915\r\n' +
+    '\t\t\t\t\t\t02JavaScript\r\n' +
+    '\t\t\t\t\t\t\tDay16_20200916\r\n' +
+    '\t\t\t\t\t\t\tDay17_20200918\r\n' +
+    '\t\t\t\t\t\t\tDay18_20200919\r\n' +
+    '\t\t\t\t\t\t\tDay19_20200921\r\n' +
+    '\t\t\t\t\t\t\tDay20_20200922\r\n' +
+    '\t\t\t10-31 (610 minutes, 10.17 hours)\r\n' +
+    '\t\t\t\tRecords\r\n' +
+    '\t\t\t\t\t7:00 to 7:25 (25 + 0 = 25)\r\n' +
+    '\t\t\t\t\t\tLearning\r\n' +
+    '\t\t\t\t\t\t\tAnki Review\r\n' +
+    '\t\t\t\t\t\t\t\t01HTML+CSS\r\n' +
+    '\t\t\t\t\t7:25 to 7:45 (20 + 25 = 45)\r\n' +
+    '\t\t\t\t\t\tLearning\r\n' +
+    '\t\t\t\t\t\t\tAnki Review\r\n' +
+    '\t\t\t\t\t\t\t\t02JavaScript\r\n' +
+    '\t\t\t\t\t7:50 to 9:25 (95 + 45 = 140)\r\n' +
+    '\t\t\t\t\t\tLearning\r\n' +
+    '\t\t\t\t\t\t\t02JavaScript\r\n' +
+    '\t\t\t\t\t\t\t\tDay21-20200923\r\n' +
+    '\t\t\t\t\t9:25 to 10:55 (90)\r\n' +
+    '\t\t\t\t\t\tBreak\r\n' +
+    '\t\t\t\t\t\tMake lunch\r\n' +
+    '\t\t\t\t\t\tLunch\r\n' +
+    '\t\t\t\t\t10:55 to 11:10 (15 + 140 = 155)\r\n' +
+    '\t\t\t\t\t\tLearning\r\n' +
+    '\t\t\t\t\t\t\tAnki Review\r\n' +
+    '\t\t\t\t\t\t\t\tDay21-20200923\r\n' +
+    '\t\t\t\t\t11:10 to 19:10\r\n' +
+    '\t\t\t\t\t\tSleep\r\n' +
+    '\t\t\t\t\t19:10 to 19:30\r\n' +
+    '\t\t\t\t\t\tGetting ready\r\n' +
+    '\t\t\t\t\t\tChat\r\n' +
+    '\t\t\t\t\t19:30 to 22:05 (155 + 155 = 310)\r\n' +
+    '\t\t\t\t\t\tLearning\r\n' +
+    '\t\t\t\t\t\t\t02JavaScript\r\n' +
+    '\t\t\t\t\t\t\t\t4/5 Day22-20200924\r\n' +
+    '\t\t\t\t\t22:05 to 23:10 (65)\r\n' +
+    '\t\t\t\t\t\tBreak\r\n' +
+    '\t\t\t\t\t23:10 to 23:55 (45 + 310 = 355)\r\n' +
+    '\t\t\t\t\t\tLearning\r\n' +
+    '\t\t\t\t\t\t\t02JavaScript\r\n' +
+    '\t\t\t\t\t\t\t\t5/5 Day22-20200924\r\n' +
+    '\t\t\t\t\t\t\tAnki Review\r\n' +
+    '\t\t\t\t\t\t\t\t02JavaScript\r\n' +
+    '\t\t\t\t\t\t\t\t\tDay22-20200924\r\n' +
+    '\t\t\t\t\t0:05 to 0:15 (15 + 355 = 370)\r\n' +
+    '\t\t\t\t\t\tLearning\r\n' +
+    '\t\t\t\t\t\t\tAnki Review\r\n' +
+    '\t\t\t\t\t\t\t\t02JavaScript\r\n' +
+    '\t\t\t\t\t\t\t\t\tDay23-20200925\r\n' +
+    '\t\t\t\t\t0:15 to 1:25 (70 + 370 = 440)\r\n' +
+    '\t\t\t\t\t\tLearning\r\n' +
+    '\t\t\t\t\t\t\t02JavaScript\r\n' +
+    '\t\t\t\t\t\t\t\tDay23-20200925\r\n' +
+    '\t\t\t\t\t1:25 to 4:00\r\n' +
+    '\t\t\t\t\t\tBreak\r\n' +
+    '\t\t\t\t\t\tOthers\r\n' +
+    '\t\t\t\t\t\tLOL semi-final: EDG VS GEN\r\n' +
+    '\t\t\t\t\t4:00 to 5:40 (100 + 440 = 540)\r\n' +
+    '\t\t\t\t\t\tLearning\r\n' +
+    '\t\t\t\t\t\t\tAnki Review\r\n' +
+    '\t\t\t\t\t\t\t\t02JavaScript\r\n' +
+    '\t\t\t\t\t\t\t\t\tDay24-20200927\r\n' +
+    '\t\t\t\t\t\t\t02JavaScript\r\n' +
+    '\t\t\t\t\t\t\t\tDay24-20200927\r\n' +
+    '\t\t\t\t\t5:40 to 6:30\r\n' +
+    '\t\t\t\t\t\tBreak\r\n' +
+    '\t\t\t\t\t\tSearching for front-end telegram groups\r\n' +
+    '\t\t\t\t\t6:30 to 7:40 (70 + 540 = 610)\r\n' +
+    '\t\t\t\t\t\tLearning\r\n' +
+    '\t\t\t\t\t\t\tAnki Review\r\n' +
+    '\t\t\t\t\t\t\t\t02JavaScript\r\n' +
+    '\t\t\t\t\t\t\t\t\tDay24-20200927\r\n' +
+    '\t\t\t\t\t\t\t02JavaScript\r\n' +
+    '\t\t\t\t\t\t\t\tDay24-20200927\r\n' +
+    '\t\t\t\tSummary (610 minutes, 10.17 hours)\r\n' +
+    '\t\t\t\t\tFrom\r\n' +
+    '\t\t\t\t\t\t7:00\r\n' +
+    '\t\t\t\t\tTo\r\n' +
+    '\t\t\t\t\t\t7:40 (the next day)\r\n' +
+    '\t\t\t\t\tSleep\r\n' +
+    '\t\t\t\t\t\t11:10 to 19:10 (8 hours)\r\n' +
+    '\t\t\t\t\tMaybe\r\n' +
+    '\t\t\t\t\t\t4 to 6 hours\r\n' +
+    '\t\t\t\t\tDONE\r\n' +
+    '\t\t\t\t\t\tLearning\r\n' +
+    '\t\t\t\t\t\t\tAnki Review\r\n' +
+    '\t\t\t\t\t\t\t\t01HTML+CSS\r\n' +
+    '\t\t\t\t\t\t\t\t02JavaScript\r\n' +
+    '\t\t\t\t\t\t\t02JavaScript\r\n' +
+    '\t\t\t\t\t\t\t\tDay21-20200923\r\n' +
+    '\t\t\t\t\t\t\t\tDay22-20200924\r\n' +
+    '\t\t\t\t\t\t\t\tDay23-20200925\r\n' +
+    '\t\t\t\t\t\t\t\tDay24-20200927\r\n' +
+    '\t11\r\n' +
+    '\t\tWeek 1 AVG(540 minutes, 9 hours)\r\n' +
+    '\t\t\tMon, 11-01 (450 minutes, 7.5 hours) (调整作息)\r\n' +
+    '\t\t\t\tRecords\r\n' +
+    '\t\t\t\t\t12:10 to 19:10\r\n' +
+    '\t\t\t\t\t\tSleep\r\n' +
+    '\t\t\t\t\t19:10 to 20:00\r\n' +
+    '\t\t\t\t\t\tLinux\r\n' +
+    '\t\t\t\t\t20:00 to 20:55 (55 + 0 = 55)\r\n' +
+    '\t\t\t\t\t\tLearning\r\n' +
+    '\t\t\t\t\t\t\tAnki Review\r\n' +
+    '\t\t\t\t\t\t\t\t01HTML+CSS\r\n' +
+    '\t\t\t\t\t\t\t\t02JavaScript\r\n' +
+    '\t\t\t\t\t20:55 to 21:10 (15)\r\n' +
+    '\t\t\t\t\t\tBreak\r\n' +
+    '\t\t\t\t\t21:10 to 22:45 (95 + 55 = 150)\r\n' +
+    '\t\t\t\t\t\tLearning\r\n' +
+    '\t\t\t\t\t\t\tAlgorithms\r\n' +
+    '\t\t\t\t\t\t\t\t3/4 01基础班/P2 1.认识复杂度和简单排序算法.mp4\r\n' +
+    '\t\t\t\t\t22:45 to 23:15 (30)\r\n' +
+    '\t\t\t\t\t\tBreal\r\n' +
+    '\t\t\t\t\t\tSnack\r\n' +
+    '\t\t\t\t\t23:15 to 0:15 (60 + 150 = 210)\r\n' +
+    '\t\t\t\t\t\tLearning\r\n' +
+    '\t\t\t\t\t\t\tAlgorithms\r\n' +
+    '\t\t\t\t\t\t\t\t4/4 01基础班/P2 1.认识复杂度和简单排序算法.mp4\r\n' +
+    '\t\t\t\t\t0:15 to 0:30\r\n' +
+    '\t\t\t\t\t\tBreak\r\n' +
+    '\t\t\t\t\t0:30 to 0:45 (15 + 210 = 235)\r\n' +
+    '\t\t\t\t\t\tLearning\r\n' +
+    '\t\t\t\t\t\t\tAnki Review\r\n' +
+    '\t\t\t\t\t\t\t\t01基础班/P2 1.认识复杂度和简单排序算法.mp4\r\n' +
+    '\t\t\t\t\t0:45 to 2:10 (85 + 235 = 320)\r\n' +
+    '\t\t\t\t\t\tLearning\r\n' +
+    '\t\t\t\t\t\t\t02JavaScript\r\n' +
+    '\t\t\t\t\t\t\t\t2/3 Day25-20200928\r\n' +
+    '\t\t\t\t\t2:10 to 2:25\r\n' +
+    '\t\t\t\t\t\tBreak\r\n' +
+    '\t\t\t\t\t2:25 to 3:45 (80 + 320 = 400)\r\n' +
+    '\t\t\t\t\t\tLearning\r\n' +
+    '\t\t\t\t\t\t\t02JavaScript\r\n' +
+    '\t\t\t\t\t\t\t\t3/3 Day25-20200928\r\n' +
+    '\t\t\t\t\t3:45 to 4:05\r\n' +
+    '\t\t\t\t\t\tBreak\r\n' +
+    '\t\t\t\t\t4:10 to 5:00 (50 + 400 = 450) \r\n' +
+    '\t\t\t\t\t\tLearning\r\n' +
+    '\t\t\t\t\t\t\tAnki Review\r\n' +
+    '\t\t\t\t\t\t\t\tDay25-20200928\r\n' +
+    '\t\t\t\tSummary (450 minutes, 7.5 hours)\r\n' +
+    '\t\t\t\t\tFrom\r\n' +
+    '\t\t\t\t\t\t19:10\r\n' +
+    '\t\t\t\t\tTo\r\n' +
+    '\t\t\t\t\t\t5:00\r\n' +
+    '\t\t\t\t\tSleep\r\n' +
+    '\t\t\t\t\t\t12:10 to 19:10\r\n' +
+    '\t\t\t\t\tMaybe\r\n' +
+    '\t\t\t\t\t\tAlmost perfect\r\n' +
+    '\t\t\t\t\tDONE\r\n' +
+    '\t\t\t\t\t\tLearning\r\n' +
+    '\t\t\t\t\t\t\tAnki Review\r\n' +
+    '\t\t\t\t\t\t\t\t01HTML+CSS\r\n' +
+    '\t\t\t\t\t\t\t\t02JavaScript\r\n' +
+    '\t\t\t\t\t\t\tAlgorithms\r\n' +
+    '\t\t\t\t\t\t\t\t01基础班/P2 1.认识复杂度和简单排序算法.mp4\r\n' +
+    '\t\t\t\t\t\t\t02JavaScript\r\n' +
+    '\t\t\t\t\t\t\t\tDay25-20200928\r\n' +
+    '\t\t\tTue, 11-02 (660 minutes, 11 hours) (7:00 to 3:10) (今天必须要把作息调整过来，不能会继续恶心循环)\r\n' +
+    '\t\t\t\tRecords\r\n' +
+    '\t\t\t\t\t7:00 to 7:30 (30 + 0 = 30)\r\n' +
+    '\t\t\t\t\t\tLearning\r\n' +
+    '\t\t\t\t\t\t\tAnki Review\r\n' +
+    '\t\t\t\t\t\t\t\t01HTML+CSS\r\n' +
+    '\t\t\t\t\t7:30 to 8:05 (35 + 30 = 65)\r\n' +
+    '\t\t\t\t\t\tLearning\r\n' +
+    '\t\t\t\t\t\t\tAnki Review\r\n' +
+    '\t\t\t\t\t\t\t\t02JavaScript\r\n' +
+    '\t\t\t\t\t8:05 to 8:15 (B 10 + 0 = 10)\r\n' +
+    '\t\t\t\t\t\tBreak\r\n' +
+    '\t\t\t\t\t8:15 to 8:55 (40 + 65 = 105)\r\n' +
+    '\t\t\t\t\t\tLearning\r\n' +
+    '\t\t\t\t\t\t\tAnki Review\r\n' +
+    '\t\t\t\t\t\t\t\tZCY-Algorithms\r\n' +
+    '\t\t\t\t\t8:55 to 9:45 (50 + 105 = 155)\r\n' +
+    '\t\t\t\t\t\tLearning\r\n' +
+    '\t\t\t\t\t\t\tAlgorithms\r\n' +
+    '\t\t\t\t\t\t\t\tZCY-Algorithms 01基础班/P3 2.认识O(NlogN)的排序.mp4\r\n' +
+    '\t\t\t\t\t9:45 to 10:00 (B 15 + 10 = 25)\r\n' +
+    '\t\t\t\t\t10:00 to 12:15 (135 + 155 = 290)\r\n' +
+    '\t\t\t\t\t\tLearning\r\n' +
+    '\t\t\t\t\t\t\tCopilot testing\r\n' +
+    '\t\t\t\t\t\t\t02JavaScript\r\n' +
+    '\t\t\t\t\t\t\t\tDay26-20200929\r\n' +
+    '\t\t\t\t\t12:15 to 20:00\r\n' +
+    '\t\t\t\t\t\tSleep\r\n' +
+    '\t\t\t\t\t\tBreak\r\n' +
+    '\t\t\t\t\t20:00 to 21:10 (70 + 290 = 360)\r\n' +
+    '\t\t\t\t\t\tLearning\r\n' +
+    '\t\t\t\t\t\t\tCopilot testing\r\n' +
+    "\t\t\t\t\t\t\t\tIt's awesome.\r\n" +
+    '\t\t\t\t\t\t\t02JavaScript\r\n' +
+    '\t\t\t\t\t\t\t\tDay26-20200929\r\n' +
+    '\t\t\t\t\t21:10 to 21:20 (B 10 + 25 = 35)\r\n' +
+    '\t\t\t\t\t21:20 to 23:00 (100 + 360 = 460)\r\n' +
+    '\t\t\t\t\t\tLearning\r\n' +
+    '\t\t\t\t\t\t\tCopilot testing\r\n' +
+    "\t\t\t\t\t\t\t\tIt's awesome.\r\n" +
+    '\t\t\t\t\t\t\t02JavaScript\r\n' +
+    '\t\t\t\t\t\t\t\tDay26-20200929 left part\r\n' +
+    '\t\t\t\t\t23:00 to 23:10 (B 10 + 35 = 45)\r\n' +
+    '\t\t\t\t\t23:10 to 23:25 (15 + 460 = 475)\r\n' +
+    '\t\t\t\t\t\tLearning\r\n' +
+    '\t\t\t\t\t\t\tAnki Review\r\n' +
+    '\t\t\t\t\t\t\t\tDay26-20200929\r\n' +
+    '\t\t\t\t\t23:25 to 0:10 (45 + 475 = 520)\r\n' +
+    '\t\t\t\t\t\tLearning\r\n' +
+    '\t\t\t\t\t\t\t02JavaScript\r\n' +
+    '\t\t\t\t\t\t\t\t1/2 Day27-20200930\r\n' +
+    '\t\t\t\t\t0:10 to 0:50 (B 40 + 45 = 85)\r\n' +
+    '\t\t\t\t\t\tBREAK\r\n' +
+    '\t\t\t\t\t0:50 to 3:10 (140 + 520 = 660)\r\n' +
+    '\t\t\t\t\t\tLearning\r\n' +
+    '\t\t\t\t\t\t\t02JavaScript\r\n' +
+    '\t\t\t\t\t\t\t\t2/2 Day27-20200930\r\n' +
+    '\t\t\t\tSummary (660 minutes, 11 hours)\r\n' +
+    '\t\t\t\t\tFrom\r\n' +
+    '\t\t\t\t\t\t7:00\r\n' +
+    '\t\t\t\t\tTo\r\n' +
+    '\t\t\t\t\t\t3:10\r\n' +
+    '\t\t\t\t\tSleep\r\n' +
+    '\t\t\t\t\t\t12:15 to 20:00\r\n' +
+    '\t\t\t\t\t\t\tSleep\r\n' +
+    '\t\t\t\t\t\t\tBreak\r\n' +
+    '\t\t\t\t\tMaybe\r\n' +
+    '\t\t\t\t\t\t绝对要调整好作息\r\n' +
+    '\t\t\t\t\tDONE\r\n' +
+    '\t\t\t\t\t\tLearning\r\n' +
+    '\t\t\t\t\t\t\tAnki Review\r\n' +
+    '\t\t\t\t\t\t\t\t01HTML+CSS\r\n' +
+    '\t\t\t\t\t\t\t\t02JavaScript\r\n' +
+    '\t\t\t\t\t\t\t\tZCY-Algorithms\r\n' +
+    '\t\t\t\t\t\t\tAlgorithms\r\n' +
+    '\t\t\t\t\t\t\t\tZCY-Algorithms 01基础班/P3 2.认识O(NlogN)的排序.mp4 1/2\r\n' +
+    '\t\t\t\t\t\t\t02JavaScript\r\n' +
+    '\t\t\t\t\t\t\t\tDay26-20200929\r\n' +
+    '\t\t\t\t\t\t\t\tDay27-20200930\r\n' +
+    '\t\t\tWed, 11-03 (335 minutes, 5.5 hours) (调整作息最重要) (6:00 to 17:30)\r\n' +
+    '\t\t\t\tRecords\r\n' +
+    '\t\t\t\t\tI\r\n' +
+    '\t\t\t\t\t\t6:00 to 6:30 (30 + 0 = 30)\r\n' +
+    '\t\t\t\t\t\t\tLearning\r\n' +
+    '\t\t\t\t\t\t\t\tAnki Review\r\n' +
+    '\t\t\t\t\t\t\t\t\t01HTML+CSS\r\n' +
+    '\t\t\t\t\t\t6:30 to 6:50 (20 + 30 = 50)\r\n' +
+    '\t\t\t\t\t\t\tLearning\r\n' +
+    '\t\t\t\t\t\t\t\tAnki Review\r\n' +
+    '\t\t\t\t\t\t\t\t\t02JavaScript\r\n' +
+    '\t\t\t\t\t\t6:50 to 7:05 (B 15 + 0 = 15)\r\n' +
+    '\t\t\t\t\t\t\tBreak\r\n' +
+    '\t\t\t\t\t\t7:05 to 7:55 (50 + 50 = 100)\r\n' +
+    '\t\t\t\t\t\t\tLearning\r\n' +
+    '\t\t\t\t\t\t\t\tAnki Review\r\n' +
+    '\t\t\t\t\t\t\t\t\t02JavaScript\r\n' +
+    '\t\t\t\t\t\t7:55 to 8:10 (B 15 + 15 = 30)\r\n' +
+    '\t\t\t\t\t\t\tBreak\r\n' +
+    '\t\t\t\t\t\t8:10 to 9:00 (50 + 100 = 150)\r\n' +
+    '\t\t\t\t\t\t\tLearning\r\n' +
+    '\t\t\t\t\t\t\t\t02JavaScript\r\n' +
+    '\t\t\t\t\t\t\t\t\tDay28_20201009\r\n' +
+    '\t\t\t\t\t\t9:00 to 9:40 (B 40 + 30 = 70)\r\n' +
+    '\t\t\t\t\t\t\tBreak\r\n' +
+    '\t\t\t\t\t\t\t突然出大汗，吓我一跳\r\n' +
+    '\t\t\t\t\t\t9:40 to 10:30 (50 + 150 = 200)\r\n' +
+    '\t\t\t\t\t\t\tLearning\r\n' +
+    '\t\t\t\t\t\t\t\t02JavaScript\r\n' +
+    '\t\t\t\t\t\t\t\t\tDay28_20201009\r\n' +
+    '\t\t\t\t\t\t\t身体似乎有点不舒服\r\n' +
+    '\t\t\t\t\t\t\t小命重要\r\n' +
+    '\t\t\t\t\t\t10:30 to 11:00 (B 30 + 70 = 100)\r\n' +
+    '\t\t\t\t\t\t\tWash up\r\n' +
+    '\t\t\t\t\t\t11:00 to 15:00 (B 240 + 100 = 340)\r\n' +
+    '\t\t\t\t\t\t\tLunch\r\n' +
+    '\t\t\t\t\t\t\tBreak\r\n' +
+    '\t\t\t\t\t\t\tTired\r\n' +
+    '\t\t\t\t\t\t\tBut way better than yesterday\r\n' +
+    '\t\t\t\t\t\t15:00 to 16:35 (95 + 200 = 295)\r\n' +
+    '\t\t\t\t\t\t\tLearning\r\n' +
+    '\t\t\t\t\t\t\t\t02JavaScript\r\n' +
+    '\t\t\t\t\t\t\t\t\tDay28_20201009\r\n' +
+    '\t\t\t\t\t\t\t\t\tMade a most beautiful slider\r\n' +
+    '\t\t\t\t\t\t16:35 to 16:50 (B 15 + 340 = 355)\r\n' +
+    '\t\t\t\t\t\t16:50 to 17:30 (40 + 295 = 335)\r\n' +
+    '\t\t\t\t\t\t\tGitHub Markdown\r\n' +
+    '\t\t\t\t\t\t\tLearning\r\n' +
+    '\t\t\t\t\t\t\t\tAnki Review\r\n' +
+    '\t\t\t\t\t\t\t\t\tDay28_20201009\r\n' +
+    '\t\t\t\t\t\t\t\t02JavaScript\r\n' +
+    '\t\t\t\t\t\t\t\t\tDay29_20201010\r\n' +
+    '\t\t\t\t\t\t17:30 to 7:30\r\n' +
+    '\t\t\t\t\t\t\tSleep\r\n' +
+    '\t\t\t\t\t\t\t恢复作息，小命重要\r\n' +
+    '\t\t\t\tSummary (335 minutes, 5.5 hours)\r\n' +
+    '\t\t\t\t\tFrom\r\n' +
+    '\t\t\t\t\t\t6:00\r\n' +
+    '\t\t\t\t\tTo\r\n' +
+    '\t\t\t\t\t\t17:30\r\n' +
+    '\t\t\t\t\tSleep\r\n' +
+    '\t\t\t\t\t\t不到 0:00，绝对不要睡觉，不然你还得继续恶性循环。\r\n' +
+    '\t\t\t\t\t\t加油，你决定可以做到。\r\n' +
+    '\t\t\t\t\tMaybe\r\n' +
+    '\t\t\t\t\t\t拿出高中时的坚持、努力和毅力。\n' +
+    '再加上现在的自觉和认知。\n' +
+    '天下之大，哪里去不得？\r\n' +
+    '\t\t\t\t\t\t今天做的很好，理智地选择了按时睡觉。\r\n' +
+    '\t\t\t\t\tDONE\r\n' +
+    '\t\t\t\t\t\tLearning\r\n' +
+    '\t\t\t\t\t\t\tAnki Review\r\n' +
+    '\t\t\t\t\t\t\t\t01HTML+CSS\r\n' +
+    '\t\t\t\t\t\t\t\t02JavaScript\r\n' +
+    '\t\t\t\t\t\t\t02JavaScript\r\n' +
+    '\t\t\t\t\t\t\t\tDay28_20201009\r\n' +
+    '\t\t\tThur, 11-04 (760 minutes, 12.7 hours, 71%) (AWESOME YOU)\r\n' +
+    '\t\t\t\tRecords\r\n' +
+    '\t\t\t\t\tI (7:50 to 10:00)\r\n' +
+    '\t\t\t\t\t\t7:50 to 8:05 (15 + 0 = 15)\r\n' +
+    '\t\t\t\t\t\t\tAnki Review\r\n' +
+    '\t\t\t\t\t\t\t\t01HTML+CSS\r\n' +
+    '\t\t\t\t\t\t8:05 to 9:20 (75 + 15 = 90)\r\n' +
+    '\t\t\t\t\t\t\tAnki Review\r\n' +
+    '\t\t\t\t\t\t\t\t02JavaScript\r\n' +
+    '\t\t\t\t\t\t9:20 to 9:40 (B 20 + 0 = 20)\r\n' +
+    '\t\t\t\t\t\t9:40 to 10:00 (20 + 90 = 110)\r\n' +
+    '\t\t\t\t\t\t\t02JavaScript\r\n' +
+    '\t\t\t\t\t\t\t\tDay29_20201010\r\n' +
+    '\t\t\t\t\tII (10:00  to 18:00)\r\n' +
+    '\t\t\t\t\t\t10:00 to 11:30 (B 90 + 20 = 110)\r\n' +
+    '\t\t\t\t\t\t\tWash up\r\n' +
+    '\t\t\t\t\t\t\tLunch\r\n' +
+    '\t\t\t\t\t\t\tBreak\r\n' +
+    '\t\t\t\t\t\t11:30 to 12:25 (55 + 110 = 165)\r\n' +
+    '\t\t\t\t\t\t\t02JavaScript\r\n' +
+    '\t\t\t\t\t\t\t\tDay29_20201010\r\n' +
+    '\t\t\t\t\t\t12:25 to 12:40 (B 15 + 110 = 125)\r\n' +
+    '\t\t\t\t\t\t12:40 to 13:30 (50 + 165  = 215)\r\n' +
+    '\t\t\t\t\t\t\t02JavaScript\r\n' +
+    '\t\t\t\t\t\t\t\tDay29_20201010\r\n' +
+    '\t\t\t\t\t\t13:30 to 13:45 (B 15 + 125 = 140)\r\n' +
+    '\t\t\t\t\t\t13:45 to 14:15 (30 + 215 = 245)\r\n' +
+    '\t\t\t\t\t\t\tSearch\r\n' +
+    '\t\t\t\t\t\t\tNews\r\n' +
+    '\t\t\t\t\t\t\t科技爱好者周刊（第 180 期）：你想住在中国哪里？\r\n' +
+    '\t\t\t\t\t\t14:15 to 15:10 (55 + 245 = 300)\r\n' +
+    '\t\t\t\t\t\t\t02JavaScript\r\n' +
+    '\t\t\t\t\t\t\t\tDay30_20201012\r\n' +
+    '\t\t\t\t\t\t15:10 to 15:35 (B 25 + 140 = 165)\r\n' +
+    '\t\t\t\t\t\t15:35 to 18:05 (150 + 300 = 450)\r\n' +
+    '\t\t\t\t\t\t\t02JavaScript\r\n' +
+    '\t\t\t\t\t\t\t\tDay30_20201012\r\n' +
+    '\t\t\t\t\tIII (18:00 to 23:00)\r\n' +
+    '\t\t\t\t\t\t18:05 to 18:25 (B 20 + 165 = 185)\r\n' +
+    '\t\t\t\t\t\t\tDinner\r\n' +
+    '\t\t\t\t\t\t18:25 to 20:25 (120 + 450 = 570)\r\n' +
+    '\t\t\t\t\t\t\t02JavaScript\r\n' +
+    '\t\t\t\t\t\t\t\tDay30_20201012\r\n' +
+    '\t\t\t\t\t\t\t\t遇到 BUG，不要光看着空想。\r\n' +
+    '\t\t\t\t\t\t\t\t\t说出来，写出来，画出来。\r\n' +
+    '\t\t\t\t\t\t\t\t\tDebug 调试。\r\n' +
+    '\t\t\t\t\t\t\t\t\t空想是最最低效率的。\r\n' +
+    '\t\t\t\t\t\t20:25 to 21:25 (B 60 + 185 = 245)\r\n' +
+    '\t\t\t\t\t\t21:25 to 21:50 (25 + 570 = 595)\r\n' +
+    '\t\t\t\t\t\t\t02JavaScript\r\n' +
+    '\t\t\t\t\t\t\t\tDay30_20201012\r\n' +
+    '\t\t\t\t\t\t21:50 to 22:25 (B 35 + 245 = 280)\r\n' +
+    '\t\t\t\t\t\t\t太吉尔困了\r\n' +
+    '\t\t\t\t\t\t22:25 to 0:00 (95 + 595 = 690)\r\n' +
+    '\t\t\t\t\t\t\t02JavaScript\r\n' +
+    '\t\t\t\t\t\t\t\tDay30_20201012\r\n' +
+    '\t\t\t\t\t\t0:00 to 0:30  (B 30 + 280 = 310)\r\n' +
+    '\t\t\t\t\t\t0:30 to 1:40 (70 + 690 = 760)\r\n' +
+    '\t\t\t\t\t\t\t02JavaScript\r\n' +
+    '\t\t\t\t\t\t\t\t练习题 1\r\n' +
+    '\t\t\t\t\t\t\t\t练习题 2\r\n' +
+    '\t\t\t\tSummary (760 minutes, 12.7 hours, 71%)\r\n' +
+    '\t\t\t\t\tFrom\r\n' +
+    '\t\t\t\t\t\t7:50\r\n' +
+    '\t\t\t\t\tTo\r\n' +
+    '\t\t\t\t\t\t1:40\r\n' +
+    '\t\t\t\t\tTime\r\n' +
+    '\t\t\t\t\t\tLearning\r\n' +
+    '\t\t\t\t\t\t\t760\r\n' +
+    '\t\t\t\t\t\tBreak\r\n' +
+    '\t\t\t\t\t\t\t310\r\n' +
+    '\t\t\t\t\t\tEfficiency\r\n' +
+    '\t\t\t\t\t\t\t71%\r\n' +
+    '\t\t\t\t\tSleep\r\n' +
+    '\t\t\t\t\t\t2:\r\n' +
+    '\t\t\t\t\tReview\r\n' +
+    '\t\t\t\t\t\t今天做的很棒！！！\r\n' +
+    '\t\t\t\t\tMaybe\r\n' +
+    '\t\t\t\t\t\t拿出高中时的坚持、努力和毅力。\n' +
+    '再加上现在的自觉和认知。\n' +
+    '天下之大，哪里去不得？\r\n' +
+    '\t\t\t\t\tDONE\r\n' +
+    '\t\t\t\t\t\tLearning\r\n' +
+    '\t\t\t\t\t\t\tAnki Review\r\n' +
+    '\t\t\t\t\t\t\t\tHTML+CSS\r\n' +
+    '\t\t\t\t\t\t\t\tJavaScript\r\n' +
+    '\t\t\t\t\t\t\t02JavaScript\r\n' +
+    '\t\t\t\t\t\t\t\t练习题 1\r\n' +
+    '\t\t\t\t\t\t\t\t练习题 2\r\n' +
+    '\t\t\t\t\t\t\t\tDay30_20201012\r\n' +
+    '\t\t\t\t\t\t\t\tDay29_20201010\r\n' +
+    '\t\t\tFri, 11-05 (400 minutes, 6.7 hours, 65%) (睡的很舒服，但也提供了足够的精力) (7:25 to 18:00)\r\n' +
+    '\t\t\t\tRecords\r\n' +
+    '\t\t\t\t\tI (7:25 to 10:00)\r\n' +
+    '\t\t\t\t\t\t7:25 to 7:55 (30 + 0 = 30)\r\n' +
+    '\t\t\t\t\t\t\tAnki Review\r\n' +
+    '\t\t\t\t\t\t\t\tHTML+CSS\r\n' +
+    '\t\t\t\t\t\t\t\tJavaScript\r\n' +
+    '\t\t\t\t\t\t7:55 to 8:00 (B 5 + 0 = 5)\r\n' +
+    '\t\t\t\t\t\t8:00 to 8:30 (30 + 30 = 60)\r\n' +
+    '\t\t\t\t\t\t\tAnki Review\r\n' +
+    '\t\t\t\t\t\t\t\tJavaScript\r\n' +
+    '\t\t\t\t\t\t8:30 to 8:45 (B 15 + 5 = 20)\r\n' +
+    '\t\t\t\t\t\t8:45 to 9:20 (35 + 60 = 95)\r\n' +
+    '\t\t\t\t\t\t\tAnki Review\r\n' +
+    '\t\t\t\t\t\t\t\tJavaScript\r\n' +
+    '\t\t\t\t\t\t9:20 to 10:00 (40 + 95 = 135)\r\n' +
+    '\t\t\t\t\t\t\t03第三阶段\r\n' +
+    '\t\t\t\t\t\t\t\t01PC-Project\r\n' +
+    '\t\t\t\t\t\t\t\t\tDay31-20201013\r\n' +
+    '\t\t\t\t\tII (10:00  to 18:00)\r\n' +
+    '\t\t\t\t\t\t10:00 to 12:30 (B 150 + 20 = 170)\r\n' +
+    '\t\t\t\t\t\t\tLunch\r\n' +
+    '\t\t\t\t\t\t12:30 to 14:30 (90 + 135 = 225)\r\n' +
+    '\t\t\t\t\t\t\t03第三阶段\r\n' +
+    '\t\t\t\t\t\t\t\t01PC-Project\r\n' +
+    '\t\t\t\t\t\t\t\t\tDay31-20201013\r\n' +
+    '\t\t\t\t\t\t14:30 to 14:45 (B 25 + 170 = 195)\r\n' +
+    '\t\t\t\t\t\t14:45 to 16:05 (80 + 225 = 305)\r\n' +
+    '\t\t\t\t\t\t\t03第三阶段\r\n' +
+    '\t\t\t\t\t\t\t\t01PC-Project\r\n' +
+    '\t\t\t\t\t\t\t\t\tDay31-20201013\r\n' +
+    '\t\t\t\t\t\t16:05 to 16:20 (B 15 + 195 = 210)\r\n' +
+    '\t\t\t\t\t\t16:20 to 16:55 (35 + 305 = 340)\r\n' +
+    '\t\t\t\t\t\t\t03第三阶段\r\n' +
+    '\t\t\t\t\t\t\t\t01PC-Project\r\n' +
+    '\t\t\t\t\t\t\t\t\tDay31-20201013\r\n' +
+    '\t\t\t\t\t\t\tAnki Review\r\n' +
+    '\t\t\t\t\t\t\t\t01PC-Project\r\n' +
+    '\t\t\t\t\t\t\t\t\tDay31-20201013\r\n' +
+    '\t\t\t\t\t\t16:55 to 17:00 (B 5 + 210 = 215)\r\n' +
+    '\t\t\t\t\t\t17:00 to 18:00 (60 + 340 = 400)\r\n' +
+    '\t\t\t\t\t\t\t03第三阶段\r\n' +
+    '\t\t\t\t\t\t\t\t01PC-Project\r\n' +
+    '\t\t\t\t\t\t\t\t\tDay32-20201014\r\n' +
+    '\t\t\t\t\tIII (18:00 to 23:00)\r\n' +
+    '\t\t\t\t\t\t18:00 to 19:00\r\n' +
+    '\t\t\t\t\t\t\tDinner\r\n' +
+    '\t\t\t\t\t\t19:00 to 4:30\r\n' +
+    '\t\t\t\t\t\t\tSleep\r\n' +
+    '\t\t\t\tSummary\r\n' +
+    '\t\t\t\t\tFrom\r\n' +
+    '\t\t\t\t\t\t7:25\r\n' +
+    '\t\t\t\t\tTo\r\n' +
+    '\t\t\t\t\t\t18:00\r\n' +
+    '\t\t\t\t\tTime\r\n' +
+    '\t\t\t\t\t\tLearning\r\n' +
+    '\t\t\t\t\t\t\t400\r\n' +
+    '\t\t\t\t\t\tBreak\r\n' +
+    '\t\t\t\t\t\t\t215\r\n' +
+    '\t\t\t\t\t\tEfficiency\r\n' +
+    '\t\t\t\t\t\t\t65%\r\n' +
+    '\t\t\t\t\tSleep\r\n' +
+    '\t\t\t\t\t\t19:00 to 4:30\r\n' +
+    '\t\t\t\t\tReview\r\n' +
+    '\t\t\t\t\t\t早点睡觉总比躺床上玩手机好。\r\n' +
+    '\t\t\t\t\t\t睡觉还能恢复精力，玩手机只会消耗精力。\r\n' +
+    '\t\t\t\t\t\t没事的，慢慢来，我相信你能做得更好。\r\n' +
+    '\t\t\t\t\tMaybe\r\n' +
+    '\t\t\t\t\t\t拿出高中时的坚持、努力和毅力。\n' +
+    '再加上现在的自觉和认知。\n' +
+    '天下之大，哪里去不得？\r\n' +
+    '\t\t\t\t\t\t你还可以做的更好\r\n' +
+    '\t\t\t\t\t\t\t没事别看 telegram\r\n' +
+    '\t\t\t\t\t\t\t没事别 pSyu\r\n' +
+    '\t\t\t\t\t\t\t没事别进 baidu, bilibili, youtube\r\n' +
+    '\t\t\t\t\t\t\t理性想想，集中处理和多次处理你觉得哪个效率高？\r\n' +
+    '\t\t\t\t\t\t\t理性相信，你配吗？\r\n' +
+    '\t\t\t\t\t\t做饭时搞快点，别浪费时间。\r\n' +
+    '\t\t\t\t\tDONE\r\n' +
+    '\t\t\t\t\t\tLearning\r\n' +
+    '\t\t\t\t\t\t\tAnki Review\r\n' +
+    '\t\t\t\t\t\t\t\tHTML+CSS\r\n' +
+    '\t\t\t\t\t\t\t\tJavaScript\r\n' +
+    '\t\t\t\t\t\t\t03第三阶段\r\n' +
+    '\t\t\t\t\t\t\t\t01PC-Project\r\n' +
+    '\t\t\t\t\t\t\t\t\tDay31-20201013\r\n' +
+    '\t\t\tSat, 11-06 (BREAK) (420 minutes, 7 hours)\r\n' +
+    '\t\t\t\tRecords\r\n' +
+    '\t\t\t\t\tI (5:00 to 10:00)\r\n' +
+    '\t\t\t\t\t\t5:00 to 5:30 (30 + 0 = 30)\r\n' +
+    '\t\t\t\t\t\t\tAnki Review\r\n' +
+    '\t\t\t\t\t\t\t\tHTML+CSS\r\n' +
+    '\t\t\t\t\t\t\t\tJavaScript\r\n' +
+    '\t\t\t\t\t\t5:30 to 5:40 (B 10 +  0 = 10)\r\n' +
+    '\t\t\t\t\t\t5:40 to 6:00 (20 + 30 = 50)\r\n' +
+    '\t\t\t\t\t\t\tAnki Review\r\n' +
+    '\t\t\t\t\t\t\t\tJavaScript\r\n' +
+    '\t\t\t\t\t\t6:00 to 6:10 (10 + 50 = 60)\r\n' +
+    '\t\t\t\t\t\t\tAnki Review\r\n' +
+    '\t\t\t\t\t\t\t\t03PC+...\r\n' +
+    '\t\t\t\t\t\t6:10 to 7:20 (70 + 60 = 130)\r\n' +
+    '\t\t\t\t\t\t\t01PC-Project\r\n' +
+    '\t\t\t\t\t\t\t\tDay32-20201014\r\n' +
+    '\t\t\t\t\t\t7:20 to 7:30 (B 10 + 10 = 20)\r\n' +
+    '\t\t\t\t\t\t7:30 to 9:35 (125 + 130 = 255)\r\n' +
+    '\t\t\t\t\t\t\t01PC-Project\r\n' +
+    '\t\t\t\t\t\t\t\tDay32-20201014\r\n' +
+    '\t\t\t\t\t\t9:35 to 9:50 (B 15 + 20 = 35)\r\n' +
+    '\t\t\t\t\tII (10:00  to 18:00)\r\n' +
+    '\t\t\t\t\t\t9:50 to 10:20 (B 30 + 35 = 65)\r\n' +
+    '\t\t\t\t\t\t\tLunch\r\n' +
+    '\t\t\t\t\t\t10:20 to 13:15 (175 + 65 = 240)\r\n' +
+    '\t\t\t\t\t\t\t01PC-Project\r\n' +
+    '\t\t\t\t\t\t\t\tDay32-20201014\r\n' +
+    '\t\t\t\t\t\t13:15 to 13:45 (B 30 + 65 = 95)\r\n' +
+    '\t\t\t\t\t\t13:45 to 14:10 (25 + 240 = 265)\r\n' +
+    '\t\t\t\t\t\t\t01PC-Project\r\n' +
+    '\t\t\t\t\t\t\t\tDay32-20201014\r\n' +
+    '\t\t\t\t\t\t14:10 to 16:45 (165 + 265 = 430)\r\n' +
+    '\t\t\t\t\t\t\tSwitching to VSCode\r\n' +
+    '\t\t\t\t\t\t\tSetting up VSCode\r\n' +
+    '\t\t\t\t\tIII (18:00 to 23:00)\r\n' +
+    '\t\t\t\t\t\t???\r\n' +
+    '\t\t\t\t\t\t\tDinner\r\n' +
+    '\t\t\t\t\t\t\tLOL EDG VS DWG\r\n' +
+    '\t\t\tSun, 11-07 (790 minutes, 13.2 hours)\r\n' +
+    '\t\t\t\tRecords\r\n' +
+    '\t\t\t\t\tI (5:35 to 10:00)\r\n' +
+    '\t\t\t\t\t\t5:35 to 5:55 (20 + 0 = 20)\r\n' +
+    '\t\t\t\t\t\t\tAnki Review\r\n' +
+    '\t\t\t\t\t\t\t\t01HTML+CSS\r\n' +
+    '\t\t\t\t\t\t5:55 to 6:06 (15 + 20 = 35)\r\n' +
+    '\t\t\t\t\t\t\tAnki Review\r\n' +
+    '\t\t\t\t\t\t\t\t02JavaScript\r\n' +
+    '\t\t\t\t\t\t6:06 to 11:05 (B)\r\n' +
+    '\t\t\t\t\t\t\tSleep\r\n' +
+    '\t\t\t\t\t\t\t昨晚熬夜看比赛的后遗症\r\n' +
+    '\t\t\t\t\t\t\t该睡觉的时候一定要睡觉，不该睡觉的时候一定要撑住不睡\r\n' +
+    '\t\t\t\t\tII (10:00  to 18:00)\r\n' +
+    '\t\t\t\t\t\t11:05 to 13:00 (B)\r\n' +
+    '\t\t\t\t\t\t\tWash up\r\n' +
+    '\t\t\t\t\t\t\tShower\r\n' +
+    '\t\t\t\t\t\t\tLunch\r\n' +
+    '\t\t\t\t\t\t13:00 to 13:25 (25 + 35 = 60)\r\n' +
+    '\t\t\t\t\t\t\tAnki Review\r\n' +
+    '\t\t\t\t\t\t\t\t02JavaScript\r\n' +
+    '\t\t\t\t\t\t\t\t03PC+...\r\n' +
+    '\t\t\t\t\t\t13:25 to 13:30 (B)\r\n' +
+    '\t\t\t\t\t\t13:30 to 16:55 (205 + 60 = 265)\r\n' +
+    '\t\t\t\t\t\t\t01PC-Project\r\n' +
+    '\t\t\t\t\t\t\t\tDay33-20201016\r\n' +
+    '\t\t\t\t\t\t16:55 to 17:05 (B)\r\n' +
+    '\t\t\t\t\tIII (18:00 to 23:00)\r\n' +
+    '\t\t\t\t\t\t17:05 to 19:15 (B)\r\n' +
+    '\t\t\t\t\t\t\tDinner\r\n' +
+    '\t\t\t\t\t\t\tBreak\r\n' +
+    '\t\t\t\t\t\t19:15 to 20:50 (95 + 265 =360)\r\n' +
+    '\t\t\t\t\t\t\t01PC-Project\r\n' +
+    '\t\t\t\t\t\t\t\tDay33-20201016\r\n' +
+    '\t\t\t\t\t\t20:50 to 22:40\r\n' +
+    '\t\t\t\t\t\t\tSearching for better Copilot in Jetbrains\r\n' +
+    '\t\t\t\t\t\t22:40 to 0:25 (105 + 360 = 465)\r\n' +
+    '\t\t\t\t\t\t\t01PC-Project\r\n' +
+    '\t\t\t\t\t\t\t\tDay34-20201017\r\n' +
+    '\t\t\t\t\t\t1:20 to 4:05 (165 + 465 = 630)\r\n' +
+    '\t\t\t\t\t\t\t01PC-Project\r\n' +
+    '\t\t\t\t\t\t\t\tDay34-20201017\r\n' +
+    '\t\t\t\t\t\t4:40 to 7:20 (160 + 630 = 790)\r\n' +
+    '\t\t\t\t\t\t\t01PC-Project\r\n' +
+    '\t\t\t\t\t\t\t\tDay34-20201017\r\n' +
+    '\t\t\t\tSummary (790 minutes, 13.2 hours)\r\n' +
+    '\t\t\t\t\tFrom\r\n' +
+    '\t\t\t\t\tTo\r\n' +
+    '\t\t\t\t\tTime\r\n' +
+    '\t\t\t\t\t\tLearning\r\n' +
+    '\t\t\t\t\t\tBreak\r\n' +
+    '\t\t\t\t\t\tEfficiency\r\n' +
+    '\t\t\t\t\tSleep\r\n' +
+    '\t\t\t\t\tReview\r\n' +
+    '\t\t\t\t\t\t早点睡觉总比躺床上玩手机好。\r\n' +
+    '\t\t\t\t\t\t睡觉还能恢复精力，玩手机只会消耗精力。\r\n' +
+    '\t\t\t\t\t\t没事的，慢慢来，我相信你能做得更好。\r\n' +
+    '\t\t\t\t\tMaybe\r\n' +
+    '\t\t\t\t\t\t拿出高中时的坚持、努力和毅力。\n' +
+    '再加上现在的自觉和认知。\n' +
+    '天下之大，哪里去不得？\r\n' +
+    '\t\t\t\t\t\t你还可以做的更好\r\n' +
+    '\t\t\t\t\t\t\t没事别看 telegram\r\n' +
+    '\t\t\t\t\t\t\t没事别 pSyu\r\n' +
+    '\t\t\t\t\t\t\t没事别进 baidu, zhihu, bilibili, youtube\r\n' +
+    '\t\t\t\t\t\t\t理性想想，集中处理和多次重复处理你觉得哪个效率高？\r\n' +
+    '\t\t\t\t\t\t\t一天集中看一次不够吗？\r\n' +
+    '\t\t\t\t\t\t\t理性想想，你配吗？\r\n' +
+    '\t\t\t\t\t\t做饭时搞快点，别浪费时间。\r\n' +
+    '\t\t\t\t\tDONE\r\n' +
+    '\t\t\t\t\t\tLearning\r\n' +
+    '\t\t\t\t\t\t\tAnki Review\r\n' +
+    '\t\t\t\t\t\t\t\t01HTML+CSS\r\n' +
+    '\t\t\t\t\t\t\t\t02JavaScript\r\n' +
+    '\t\t\t\t\t\t\t\t03PC+...\r\n' +
+    '\t\t\t\t\t\t\t03第三阶段\r\n' +
+    '\t\t\t\t\t\t\t\t01PC-Project\r\n' +
+    '\t\t\t\t\t\t\t\t\tDay33-20201016\r\n' +
+    '\t\t\t\t\t\t\t\t\tDay34-20201017\r\n' +
+    '\t\tWeek 2\r\n' +
+    '\t\t\tMon, 11-08 (莫名其妙从下午睡到了第二天)  (130 minutes, 2 hours)\r\n' +
+    '\t\t\t\tRecords\r\n' +
+    '\t\t\t\t\tII (10:00  to 18:00)\r\n' +
+    '\t\t\t\t\t\t12:45 to 14:25 (100)\r\n' +
+    '\t\t\t\t\t\t\t01PC-Project\r\n' +
+    '\t\t\t\t\t\t\t\tRefactor\r\n' +
+    '\t\t\t\t\t\t15:50 to 16:20 (30 + 100 = 130)\r\n' +
+    '\t\t\t\t\t\t\tAnki Review\r\n' +
+    '\t\t\t\t\t\t\t\t01HTML+CSS\r\n' +
+    '\t\t\t\t\t\t\t\t02JavaScript\r\n' +
+    '\t\t\t\t\t\t\t\t03PC+...\r\n' +
+    '\t\t\tTue, 11-09 (585 minutes, 9.75 hours)\r\n' +
+    '\t\t\t\tRecords\r\n' +
+    '\t\t\t\t\tI (6:00 to 10:00)\r\n' +
+    '\t\t\t\t\t\t6:00 to 6:20 (20 + 0 = 20)\r\n' +
+    '\t\t\t\t\t\t\tAnki Review\r\n' +
+    '\t\t\t\t\t\t\t\t01HTML+CSS\r\n' +
+    '\t\t\t\t\t\t6:25 to 6:55 (30 + 20  = 50)\r\n' +
+    '\t\t\t\t\t\t\tAnki Review\r\n' +
+    '\t\t\t\t\t\t\t\t02JavaScript\r\n' +
+    '\t\t\t\t\t\t7:10 to 7:30 (20 + 50 = 70)\r\n' +
+    '\t\t\t\t\t\t\tAnki Review\r\n' +
+    '\t\t\t\t\t\t\t\t02JavaScript\r\n' +
+    '\t\t\t\t\t\t7:45 to 7:55 (10 + 70 = 80)\r\n' +
+    '\t\t\t\t\t\t\tAnki Review\r\n' +
+    '\t\t\t\t\t\t\t\t02JavaScript\r\n' +
+    '\t\t\t\t\t\t\t\t03PC+...\r\n' +
+    '\t\t\t\t\t\t7:55 to 8:50 (55 + 80 = 135)\r\n' +
+    '\t\t\t\t\t\t\t02JS-Advanced\r\n' +
+    '\t\t\t\t\t\t\t\tDay35-20201019\r\n' +
+    '\t\t\t\t\t\t\t\tDay36-20201020\r\n' +
+    '\t\t\t\t\t\t9:10 to 10:00 (50 + 135 = 185)\r\n' +
+    '\t\t\t\t\t\t\t02JS-Advanced\r\n' +
+    '\t\t\t\t\t\t\t\tDay36-20201020\r\n' +
+    '\t\t\t\t\tII (10:00  to 18:00)\r\n' +
+    '\t\t\t\t\t\t10:00 to 11:55\r\n' +
+    '\t\t\t\t\t\t\tLunch\r\n' +
+    '\t\t\t\t\t\t\tBreak\r\n' +
+    '\t\t\t\t\t\t11:55 to 13:00 (65 + 185 = 250)\r\n' +
+    '\t\t\t\t\t\t\t02JS-Advanced\r\n' +
+    '\t\t\t\t\t\t\t\tDay36-20201020\r\n' +
+    '\t\t\t\t\t\t13:20 to 14:05 (45 + 250 = 295)\r\n' +
+    '\t\t\t\t\t\t\t02JS-Advanced\r\n' +
+    '\t\t\t\t\t\t\t\tDay36-20201020\r\n' +
+    '\t\t\t\t\t\t15:40 to 17:15 (95 + 295 = 390)\r\n' +
+    '\t\t\t\t\t\t\t03jQuery\r\n' +
+    '\t\t\t\t\t\t\t\tDay37-20201021\r\n' +
+    '\t\t\t\t\t\t17:45 to 18:25 (40 + 390 = 430)\r\n' +
+    '\t\t\t\t\tIII (18:00 to 23:00)\r\n' +
+    '\t\t\t\t\t\t18:40 to 19:15 (35 + 430 = 475)\r\n' +
+    '\t\t\t\t\t\t\t03jQuery\r\n' +
+    '\t\t\t\t\t\t\t\tDay37-20201021\r\n' +
+    '\t\t\t\t\t\t19:50 to 20:50 (60 + 475 = 535)\r\n' +
+    '\t\t\t\t\t\t\t03jQuery\r\n' +
+    '\t\t\t\t\t\t\t\tDay38-20201023\r\n' +
+    '\t\t\t\t\t\t21:20 to 22:10 (50 + 535 = 585)\r\n' +
+    '\t\t\t\t\t\t\t03jQuery\r\n' +
+    '\t\t\t\t\t\t\t\tDay38-20201023\r\n' +
+    '\t\t\t\t\tIV\r\n' +
+    '\t\t\t\tSummary (585 minutes, 9.75 hours)\r\n' +
+    '\t\t\t\t\tMaybe\r\n' +
+    '\t\t\t\t\t\t拿出高中时的坚持、努力和毅力。\n' +
+    '再加上现在的自觉和认知。\n' +
+    '天下之大，哪里去不得？\r\n' +
+    '\t\t\t\t\tDONE\r\n' +
+    '\t\t\t\t\t\tLearning\r\n' +
+    '\t\t\t\t\t\t\tAnki Review\r\n' +
+    '\t\t\t\t\t\t\t\t01HTML+CSS\r\n' +
+    '\t\t\t\t\t\t\t\t02JavaScript\r\n' +
+    '\t\t\t\t\t\t\t\t03PC+...\r\n' +
+    '\t\t\t\t\t\t\t03第三阶段\r\n' +
+    '\t\t\t\t\t\t\t\t02JS-Advanced\r\n' +
+    '\t\t\t\t\t\t\t\t\tDay35-20201019\r\n' +
+    '\t\t\t\t\t\t\t\t\tDay36-20201020\r\n' +
+    '\t\t\t\t\t\t\t\t03jQuery\r\n' +
+    '\t\t\t\t\t\t\t\t\tDay37-20201021\r\n' +
+    '\t\t\t\t\t\t\t\t\t4/5 Day38-20201023\r\n' +
+    '\t\t\tWed, 11-10 (45 minutes, 休息，生病了，头疼欲裂) (今日不算在数据统计里)\r\n' +
+    '\t\t\t\tRecords\r\n' +
+    '\t\t\t\t\tI (7:50 to 10:00)\r\n' +
+    '\t\t\t\t\t\t7:50 to 8:15 (25 + 0 = 25)\r\n' +
+    '\t\t\t\t\t\t\tAnki Review\r\n' +
+    '\t\t\t\t\t\t\t\t01HTML+CSS\r\n' +
+    '\t\t\t\t\t\t\t\t02JavaScript\r\n' +
+    '\t\t\t\t\t\t\t\t03PC+...\r\n' +
+    '\t\t\t\t\t\t8:15 to 8:20 (B 5 + 0 = 5)\r\n' +
+    '\t\t\t\t\t\t8:20 to 8:40 (20 + 25 = 45)\r\n' +
+    '\t\t\t\t\t\t\tAnki Review\r\n' +
+    '\t\t\t\t\t\t\t\t02JavaScript\r\n' +
+    '\t\t\t\t\t\t8:40 to 8:55 (B 15 + 5 = 20)\r\n' +
+    '\t\t\tThur, 11-11 (605 minutes, 10 hours)\r\n' +
+    '\t\t\t\tRecords\r\n' +
+    '\t\t\t\t\tI (6:35 to 10:00)\r\n' +
+    '\t\t\t\t\t\t6:35 to 7:15 (40 + 0 = 40)\r\n' +
+    '\t\t\t\t\t\t\tAnki Review\r\n' +
+    '\t\t\t\t\t\t\t\t01HTML+CSS\r\n' +
+    '\t\t\t\t\t\t\t\t02JavaScript\r\n' +
+    '\t\t\t\t\t\t7:15 to 7:25 (B 10 + 0 = 10)\r\n' +
+    '\t\t\t\t\t\t7:25 to 8:55 (B 90 + 10 = 100)\r\n' +
+    '\t\t\t\t\t\t\tHeadache\r\n' +
+    '\t\t\t\t\t\t\tBreak\r\n' +
+    '\t\t\t\t\t\t8:55 to 9:15 (20 + 40 = 60)\r\n' +
+    '\t\t\t\t\t\t\tAnki Review\r\n' +
+    '\t\t\t\t\t\t\t\t03PC+...\r\n' +
+    '\t\t\t\t\t\t9:15 to 10:15 (B 60 + 100 = 160)\r\n' +
+    '\t\t\t\t\tII (10:00  to 18:00)\r\n' +
+    '\t\t\t\t\t\t10:15 to 10:40 (25 + 60 = 85)\r\n' +
+    '\t\t\t\t\t\t\tAnki Review\r\n' +
+    '\t\t\t\t\t\t\t\t03PC+...\r\n' +
+    '\t\t\t\t\t\t10:40 to 11:05 (B 25 + 160 = 185)\r\n' +
+    '\t\t\t\t\t\t11:05 to 11:25 (20 + 85 = 105)\r\n' +
+    '\t\t\t\t\t\t\tAnki Review\r\n' +
+    '\t\t\t\t\t\t\t\t03PC+...\r\n' +
+    '\t\t\t\t\t\t11:25 to 13:30 (B 125 + 185 = 310)\r\n' +
+    '\t\t\t\t\t\t\tLunch\r\n' +
+    '\t\t\t\t\t\t\tBreak\r\n' +
+    '\t\t\t\t\t\t\tMuch better\r\n' +
+    '\t\t\t\t\t\t13:30 to 15:25 (115 + 105 = 220)\r\n' +
+    '\t\t\t\t\t\t\t03jQuery (8.5 hours)\r\n' +
+    '\t\t\t\t\t\t\t\t5/5 Day38-20201023\r\n' +
+    '\t\t\t\t\t\t15:25 to 15:40 (B 15 + 310 = 345)\r\n' +
+    '\t\t\t\t\t\t15:40 to 17:20 (100 + 220 = 320)\r\n' +
+    '\t\t\t\t\t\t\tAnki Review\r\n' +
+    '\t\t\t\t\t\t\t\tDay38-20201023\r\n' +
+    '\t\t\t\t\t\t\t03jQuery\r\n' +
+    '\t\t\t\t\t\t\t\tDay39-20201024\r\n' +
+    '\t\t\t\t\t\t\tAnki Review\r\n' +
+    '\t\t\t\t\t\t\t\tDay39-20201024\r\n' +
+    '\t\t\t\t\tIII (18:00 to 23:00)\r\n' +
+    '\t\t\t\t\t\t17:20 to 18:10 (B 50 + 345 = 395)\r\n' +
+    '\t\t\t\t\t\t\tDinner\r\n' +
+    '\t\t\t\t\t\t18:10 to 19:40 (90 + 320 = 410)\r\n' +
+    '\t\t\t\t\t\t\t03jQuery\r\n' +
+    '\t\t\t\t\t\t\t\tDay40-20201026\r\n' +
+    '\t\t\t\t\t\t19:40 to 20:20 (B 40 + 395 = 435)\r\n' +
+    '\t\t\t\t\t\t20:20 to 22:05 (105 + 410 = 515)\r\n' +
+    '\t\t\t\t\t\t\tAnki Review\r\n' +
+    '\t\t\t\t\t\t\t\tDay40-20201026\r\n' +
+    '\t\t\t\t\t\t\t04Bootstrap\r\n' +
+    '\t\t\t\t\t\t\t\tDay41-20201027\r\n' +
+    '\t\t\t\t\t\t22:05 to 22:40 (B 35 + 435 = 470)\r\n' +
+    '\t\t\t\t\t\t22:40 to 0:10 (90 + 515 = 605)\r\n' +
+    '\t\t\t\t\t\t\t04Bootstrap\r\n' +
+    '\t\t\t\t\t\t\t\t4/5 Day41-20201027\r\n' +
+    '\t\t\t\t\t\t\tAnki Review\r\n' +
+    '\t\t\t\t\t\t\t\tDay41-20201027\r\n' +
+    '\t\t\t\tSummary (605 minutes, 10 hours)\r\n' +
+    '\t\t\t\t\tMaybe\r\n' +
+    '\t\t\t\t\t\t拿出高中时的坚持、努力和毅力。\n' +
+    '再加上现在的自觉和认知。\n' +
+    '天下之大，哪里去不得？\r\n' +
+    '\t\t\t\t\t\t最近又开始变得松懈了，事实证明不自由之后才有更多的自由。\r\n' +
+    '\t\t\t\t\t\t松懈的一个重大原因就是你没有好好地量化计划、明确参考物。\r\n' +
+    '\t\t\t\t\t\t\t以后总是以昨日为参考\r\n' +
+    '\t\t\t\t\t\t\t以任务为导向，而不是时间\r\n' +
+    '\t\t\t\t\tDONE\r\n' +
+    '\t\t\t\t\t\tLearning\r\n' +
+    '\t\t\t\t\t\t\tAnki Review\r\n' +
+    '\t\t\t\t\t\t\t\t01HTML+CSS\r\n' +
+    '\t\t\t\t\t\t\t\t02JavaScript\r\n' +
+    '\t\t\t\t\t\t\t\t03PC+...\r\n' +
+    '\t\t\t\t\t\t\t03第三阶段\r\n' +
+    '\t\t\t\t\t\t\t\t03jQuery\r\n' +
+    '\t\t\t\t\t\t\t\t\t5/5 Day38-20201023\r\n' +
+    '\t\t\t\t\t\t\t\t\tDay39-20201024\r\n' +
+    '\t\t\t\t\t\t\t\t\tDay40-20201026\r\n' +
+    '\t\t\t\t\t\t\t\t04Bootstrap\r\n' +
+    '\t\t\t\t\t\t\t\t\t4/5 Day41-20201027\r\n' +
+    '\t\t\tFri, 11-12 (600 minutes, 10 hours)\r\n' +
+    '\t\t\t\tRecords\r\n' +
+    '\t\t\t\t\tLearning\r\n' +
+    '\t\t\t\t\t\tAnki Review (80)\r\n' +
+    '\t\t\t\t\t\t\t01HTML+CSS (15)\r\n' +
+    '\t\t\t\t\t\t\t\t10:15 to 10:30 (15 + 0 = 15)\r\n' +
+    '\t\t\t\t\t\t\t02JavaScript (25)\r\n' +
+    '\t\t\t\t\t\t\t\t10:30 to 10:55 (25 + 15 = 40)\r\n' +
+    '\t\t\t\t\t\t\t03PC+JS+jQuery+Bootstrap (40)\r\n' +
+    '\t\t\t\t\t\t\t\t10:55 to 11:25 (30 + 40 = 70)\r\n' +
+    '\t\t\t\t\t\t\t\t11:25 to 11:35 (B 10 + 0 = 10)\r\n' +
+    '\t\t\t\t\t\t\t\t11:35 to 11:45 (10 + 70 = 80)\r\n' +
+    '\t\t\t\t\t\t03PC+JS+jQuery+Bootstrap (310)\r\n' +
+    '\t\t\t\t\t\t\t04Bootstrap\r\n' +
+    '\t\t\t\t\t\t\t\t5/5 Day41-20201027 (35)\r\n' +
+    '\t\t\t\t\t\t\t\t\t25 minutes\r\n' +
+    '\t\t\t\t\t\t\t\t\t11:45 to 12:20 (35 + 80 = 115)\r\n' +
+    '\t\t\t\t\t\t\t\tDay42-20201028 (230)\r\n' +
+    '\t\t\t\t\t\t\t\t\t3 hours\r\n' +
+    '\t\t\t\t\t\t\t\t\t12:20 to 13:40 (80 + 115 = 195)\r\n' +
+    '\t\t\t\t\t\t\t\t\t13:40 to 13:50 (B 10 + 10 = 20)\r\n' +
+    '\t\t\t\t\t\t\t\t\t13:50 to 16:20 (150 + 195 = 345)\r\n' +
+    '\t\t\t\t\t\t\t\tDay43-20201030 (45)\r\n' +
+    '\t\t\t\t\t\t\t\t\t16:20 to 16:55 (B 35 + 20 = 55)\r\n' +
+    '\t\t\t\t\t\t\t\t\t16:55 to 17:25 (30 + 345 = 375)\r\n' +
+    '\t\t\t\t\t\t\t\t\t17:25 to 18:15 (B 50 + 55 = 105)\r\n' +
+    '\t\t\t\t\t\t\t\t\t\tDinner\r\n' +
+    '\t\t\t\t\t\t\t\t\t18:15 to 18:30 (15 + 375 = 390)\r\n' +
+    '\t\t\t\t\t\t\t\t\t\tAnki Review\r\n' +
+    '\t\t\t\t\t\t04git+ES6+nodeJS+http+npm+express+mongoDB\r\n' +
+    '\t\t\t\t\t\t\t01git\r\n' +
+    '\t\t\t\t\t\t\t\tDay44-20201031 (160)\r\n' +
+    '\t\t\t\t\t\t\t\t\t3 hours\r\n' +
+    '\t\t\t\t\t\t\t\t\t18:30 to 20:30 (120 + 390 = 510)\r\n' +
+    '\t\t\t\t\t\t\t\t\t20:30 to 21:05 (B 35 + 105 = 140)\r\n' +
+    '\t\t\t\t\t\t\t\t\t21:05 to 21:30 (25 + 510 = 535)\r\n' +
+    '\t\t\t\t\t\t\t\t\t21:30 to 21:45 (15 + 535 = 550)\r\n' +
+    '\t\t\t\t\t\t\t\t\t\tAnki Review\r\n' +
+    '\t\t\t\t\t\t\t\t\t21:45 to 23:10 (B 85 + 140 = 225)\r\n' +
+    '\t\t\t\t\t\t\t\tDay45-20201102\r\n' +
+    '\t\t\t\t\t\t\t\t\t2.5 hours\r\n' +
+    '\t\t\t\t\t\t\t\t\t23:10 to 0:00 (50 + 550 = 600)\r\n' +
+    '\t\t\t\t\tNOTES\r\n' +
+    '\t\t\t\t\t\t完全突破了昨日吗？没有就好好专心突破自己。\r\n' +
+    '\t\t\t\t\t\t休息的时候就专心休息，不要搞这搞那。\r\n' +
+    '\t\t\t\t\t\t牢记使命，保持突破。\r\n' +
+    '\t\t\t\t\tSummary\r\n' +
+    '\t\t\t\t\t\tTime\r\n' +
+    '\t\t\t\t\t\t\t600 minutes in total\r\n' +
+    '\t\t\t\t\t\t\tFrom\r\n' +
+    '\t\t\t\t\t\t\t\t10:15\r\n' +
+    '\t\t\t\t\t\t\tTo\r\n' +
+    '\t\t\t\t\t\t\t\t0:00\r\n' +
+    '\t\t\t\t\t\t总体来说你还可以做的更好，最少能再多学 1.5 小时。\r\n' +
+    '\t\t\t\tReflection\r\n' +
+    '\t\t\t\t\tThoughts\r\n' +
+    '\t\t\t\t\t\t拿出高中时的坚持、努力和毅力。再加上现在的自觉和认知。天下之大，哪里去不得？\r\n' +
+    '\t\t\t\t\t\t最近又开始变得松懈了，事实证明不自由之后才有更多的自由。\r\n' +
+    '\t\t\t\t\t\t松懈的一个重大原因就是你没有好好地量化计划、明确参考物。\r\n' +
+    '\t\t\t\t\t\t\t以后总是以昨日为参考\r\n' +
+    '\t\t\t\t\t\t\t以任务为导向，而不是时间\r\n' +
+    '\t\t\tSat, 11-13 (550 minutes, 9 hours)\r\n' +
+    '\t\t\t\tRecords\r\n' +
+    '\t\t\t\t\tLearning\r\n' +
+    '\t\t\t\t\t\tAnki Review (65)\r\n' +
+    '\t\t\t\t\t\t\t01HTML+CSS (15)\r\n' +
+    '\t\t\t\t\t\t\t\t31 old cards\r\n' +
+    '\t\t\t\t\t\t\t\t9:20 to 9:35 (15 + 0 = 15)\r\n' +
+    '\t\t\t\t\t\t\t02JavaScript (25)\r\n' +
+    '\t\t\t\t\t\t\t\t72 old cards\r\n' +
+    '\t\t\t\t\t\t\t\t9:35 to 10:00 (25 + 15 = 40)\r\n' +
+    '\t\t\t\t\t\t\t\t10:00 to 10:15 (B 15 + 0 = 15)\r\n' +
+    '\t\t\t\t\t\t\t03PC+JS+jQuery+Bootstrap (10)\r\n' +
+    '\t\t\t\t\t\t\t\t47 old cards\r\n' +
+    '\t\t\t\t\t\t\t\t10:15 to 10:25 (10 + 40 = 50)\r\n' +
+    '\t\t\t\t\t\t\t04git+ES6+nodeJS+... (15)\r\n' +
+    '\t\t\t\t\t\t\t\t34 old cards\r\n' +
+    '\t\t\t\t\t\t\t\t10:25 to 10:40 (15 + 50 = 65)\r\n' +
+    '\t\t\t\t\t\t04git+ES6+nodeJS+http+npm+express+mongoDB\r\n' +
+    '\t\t\t\t\t\t\t01git\r\n' +
+    '\t\t\t\t\t\t\t\tDay45-20201102 (135)\r\n' +
+    '\t\t\t\t\t\t\t\t\t3 hours\r\n' +
+    '\t\t\t\t\t\t\t\t\t10:40 to 11:35 (55 + 65 = 120)\r\n' +
+    '\t\t\t\t\t\t\t\t\t11:35 to 11:55 (B 20 + 15 = 35)\r\n' +
+    '\t\t\t\t\t\t\t\t\t\tWash up\r\n' +
+    '\t\t\t\t\t\t\t\t\t11:55 to 14:00 (B 125 + 35 = 160)\r\n' +
+    '\t\t\t\t\t\t\t\t\t\tLunch\r\n' +
+    '\t\t\t\t\t\t\t\t\t\tShower\r\n' +
+    '\t\t\t\t\t\t\t\t\t\tBreak\r\n' +
+    '\t\t\t\t\t\t\t\t\t14:00 to 15:15 (75 + 120 = 195)\r\n' +
+    '\t\t\t\t\t\t\t\t\t15:15 to 15:30 (B 15 + 160 = 175)\r\n' +
+    '\t\t\t\t\t\t\t\t\t15:30 to 15:35 (5 + 195 = 200)\r\n' +
+    '\t\t\t\t\t\t\t\t\t\tAnki Review\r\n' +
+    '\t\t\t\t\t\t\t02ES6+nodeJS\r\n' +
+    '\t\t\t\t\t\t\t\tDay46-20201103 (230)\r\n' +
+    '\t\t\t\t\t\t\t\t\t3.5 hours\r\n' +
+    '\t\t\t\t\t\t\t\t\t15:35 to 17:10 (95 + 200 = 295)\r\n' +
+    '\t\t\t\t\t\t\t\t\t17:10 to 17:35 (B 25 + 175 = 200)\r\n' +
+    '\t\t\t\t\t\t\t\t\t17:35 to 18:50 (75 + 295 = 370)\r\n' +
+    '\t\t\t\t\t\t\t\t\t18:50 to 19:15 (B 25 + 200 = 225)\r\n' +
+    '\t\t\t\t\t\t\t\t\t19:15 to 20:25 (60 + 370 = 430)\r\n' +
+    '\t\t\t\t\t\t\t\t\t20:25 to 20:45 (B 20 + 225 = 245)\r\n' +
+    '\t\t\t\t\t\t\t\t\t20:45 to 21:15 (30 + 430 = 460)\r\n' +
+    '\t\t\t\t\t\t\t\t\t\tAnki Review\r\n' +
+    '\t\t\t\t\t\t\t\tDay47-20201104 (90)\r\n' +
+    '\t\t\t\t\t\t\t\t\t3.5 hours\r\n' +
+    '\t\t\t\t\t\t\t\t\t21:15 to 22:15 (60 + 460 = 520)\r\n' +
+    '\t\t\t\t\t\t\t\t\t22:15 to 23:05 (B 50 + 245 = 295)\r\n' +
+    '\t\t\t\t\t\t\t\t\t23:05 to 23:35 (30 + 520 = 550)\r\n' +
+    '\t\t\t\t\t\t\t\t\t23:35 to 7:35\r\n' +
+    '\t\t\t\t\t\t\t\t\t\tSleep\r\n' +
+    '\t\t\t\t\t\t\t\t\t\tWash up\r\n' +
+    '\t\t\t\t\t\t\t\t\t\t这种倒床上立刻就睡着的状态，我非常喜欢，非常怀念。\r\n' +
+    '\t\t\t\t\tSummary\r\n' +
+    '\t\t\t\t\t\tTime\r\n' +
+    '\t\t\t\t\t\t\t550 minutes in total\r\n' +
+    '\t\t\t\t\t\t\tFrom\r\n' +
+    '\t\t\t\t\t\t\t\t9:20\r\n' +
+    '\t\t\t\t\t\t\tTo\r\n' +
+    '\t\t\t\t\t\t\t\t23:35\r\n' +
+    '\t\t\t\t\t\t总体来说你还可以做的更好，牢记自己的理想，专注、坚持、保持突破。\r\n' +
+    '\t\t\t\tReflection\r\n' +
+    '\t\t\t\t\tThoughts\r\n' +
+    '\t\t\t\t\t\t拿出高中时的坚持、努力和毅力。再加上现在的自觉和认知。天下之大，哪里去不得？\r\n' +
+    '\t\t\t\t\t\t最近又开始变得松懈了，事实证明不自由之后才有更多的自由。\r\n' +
+    '\t\t\t\t\t\t松懈的一个重大原因就是你没有好好地量化计划、明确参考物。\r\n' +
+    '\t\t\t\t\t\t\t以后总是以昨日为参考\r\n' +
+    '\t\t\t\t\t\t\t以任务为导向，而不是时间\r\n' +
+    '\t\t\t\t\tNOTES\r\n' +
+    '\t\t\t\t\t\t休息之前，看看下面的内容。\r\n' +
+    '\t\t\t\t\t\t只要你能保持突破，或者保持追求突破，你就是自己的神！\n' +
+    '牢记使命，保持突破。\r\n' +
+    '\t\t\t\t\t\t完全突破了昨日吗？没有就好好专心突破自己。\r\n' +
+    '\t\t\t\t\t\t休息的时候就专心休息，不要搞这搞那。\n' +
+    '休息的时候就专心休息，不要搞这搞那。\n' +
+    '休息的时候就专心休息，不要搞这搞那。\r\n' +
+    '\t\t\tSun, 11-14 (>= 780 minutes, 13 hours)\r\n' +
+    '\t\t\t\tRecords\r\n' +
+    '\t\t\t\t\tLearning\r\n' +
+    '\t\t\t\t\t\tAnki Review (65)\r\n' +
+    '\t\t\t\t\t\t\tNOTES\r\n' +
+    '\t\t\t\t\t\t\t\t休息之前，看看下面的内容。\r\n' +
+    '\t\t\t\t\t\t\t\t只要你能保持突破，或者保持追求突破，你就是自己的神！\n' +
+    '牢记使命，保持突破。\r\n' +
+    '\t\t\t\t\t\t\t\t完全突破了昨日吗？没有就好好专心突破自己。\r\n' +
+    '\t\t\t\t\t\t\t\t休息的时候就专心休息，不要搞这搞那。\n' +
+    '休息的时候就专心休息，不要搞这搞那。\n' +
+    '休息的时候就专心休息，不要搞这搞那。\r\n' +
+    '\t\t\t\t\t\t\t01HTML+CSS + 02JavaScript\r\n' +
+    '\t\t\t\t\t\t\t\t26 old cards\r\n' +
+    '\t\t\t\t\t\t\t\t52 old cards\r\n' +
+    '\t\t\t\t\t\t\t\t8:10 to 8:35 (25 + 0 = 25)\r\n' +
+    '\t\t\t\t\t\t\t03PC+JS+jQuery+Bootstrap (10)\r\n' +
+    '\t\t\t\t\t\t\t\t47 old cards\r\n' +
+    '\t\t\t\t\t\t\t\t10:15 to 10:25 (10 + 40 = 50)\r\n' +
+    '\t\t\t\t\t\t\t04git+ES6+nodeJS+... (15)\r\n' +
+    '\t\t\t\t\t\t\t\t34 old cards\r\n' +
+    '\t\t\t\t\t\t\t\t10:25 to 10:40 (15 + 50 = 65)\r\n' +
+    '\t\t\t\t\t\t04git+ES6+nodeJS+http+npm+express+mongoDB\r\n' +
+    '\t\t\t\t\t\t\t01git\r\n' +
+    '\t\t\t\t\t\t\t\tDay45-20201102 (135)\r\n' +
+    '\t\t\t\t\t\t\t\t\t3 hours\r\n' +
+    '\t\t\t\t\t\t\t\t\t10:40 to 11:35 (55 + 65 = 120)\r\n' +
+    '\t\t\t\t\t\t\t\t\t11:35 to 11:55 (B 20 + 15 = 35)\r\n' +
+    '\t\t\t\t\t\t\t\t\t\tWash up\r\n' +
+    '\t\t\t\t\t\t\t\t\t11:55 to 14:00 (B 125 + 35 = 160)\r\n' +
+    '\t\t\t\t\t\t\t\t\t\tLunch\r\n' +
+    '\t\t\t\t\t\t\t\t\t\tShower\r\n' +
+    '\t\t\t\t\t\t\t\t\t\tBreak\r\n' +
+    '\t\t\t\t\t\t\t\t\t14:00 to 15:15 (75 + 120 = 195)\r\n' +
+    '\t\t\t\t\t\t\t\t\t15:15 to 15:30 (B 15 + 160 = 175)\r\n' +
+    '\t\t\t\t\t\t\t\t\t15:30 to 15:35 (5 + 195 = 200)\r\n' +
+    '\t\t\t\t\t\t\t\t\t\tAnki Review\r\n' +
+    '\t\t\t\t\t\t\t02ES6+nodeJS\r\n' +
+    '\t\t\t\t\t\t\t\tDay46-20201103 (230)\r\n' +
+    '\t\t\t\t\t\t\t\t\t3.5 hours\r\n' +
+    '\t\t\t\t\t\t\t\t\t15:35 to 17:10 (95 + 200 = 295)\r\n' +
+    '\t\t\t\t\t\t\t\t\t17:10 to 17:35 (B 25 + 175 = 200)\r\n' +
+    '\t\t\t\t\t\t\t\t\t17:35 to 18:50 (75 + 295 = 370)\r\n' +
+    '\t\t\t\t\t\t\t\t\t18:50 to 19:15 (B 25 + 200 = 225)\r\n' +
+    '\t\t\t\t\t\t\t\t\t19:15 to 20:25 (60 + 370 = 430)\r\n' +
+    '\t\t\t\t\t\t\t\t\t20:25 to 20:45 (B 20 + 225 = 245)\r\n' +
+    '\t\t\t\t\t\t\t\t\t20:45 to 21:15 (30 + 430 = 460)\r\n' +
+    '\t\t\t\t\t\t\t\t\t\tAnki Review\r\n' +
+    '\t\t\t\t\t\t\t\tDay47-20201104 (90)\r\n' +
+    '\t\t\t\t\t\t\t\t\t3.5 hours\r\n' +
+    '\t\t\t\t\t\t\t\t\t21:15 to 22:15 (60 + 460 = 520)\r\n' +
+    '\t\t\t\t\t\t\t\t\t22:15 to 23:05 (B 50 + 245 = 295)\r\n' +
+    '\t\t\t\t\t\t\t\t\t23:05 to 23:35 (30 + 520 = 550)\r\n' +
+    '\t\t\t\t\t\t\t\t\t23:35 to 7:35\r\n' +
+    '\t\t\t\t\t\t\t\t\t\tSleep\r\n' +
+    '\t\t\t\t\t\t\t\t\t\tWash up\r\n' +
+    '\t\t\t\t\t\t\t\t\t\t这种倒床上立刻就睡着的状态，我非常喜欢，非常怀念。\r\n' +
+    '\t\t\t\t\t\t\t\tDay47-20201104\r\n' +
+    '\t\t\t\t\t\t\t\t\t1.5 hours\r\n' +
+    '\t\t\t\t\t\t\t\tDay48-20201106\r\n' +
+    '\t\t\t\t\t\t\t\t\t3.5 hours\r\n' +
+    '\t\t\t\t\t\t\t03http\r\n' +
+    '\t\t\t\t\t\t\t\tDay49-20201107\r\n' +
+    '\t\t\t\t\t\t\t\t\t3 hours\r\n' +
+    '\t\t\t\t\t\t\t\tDay50-20201109\r\n' +
+    '\t\t\t\t\t\t\t\t\t2.5 hours\r\n' +
+    '\t\t\t\t\t\t\t04npm\r\n' +
+    '\t\t\t\t\t\t\t\t1/3 Day51-20201110\r\n' +
+    '\t\t\t\t\t\t\t\t\t3 hours\r\n' +
+    '\t\t\t\t\tSummary\r\n' +
+    '\t\t\t\t\t\tTime\r\n' +
+    '\t\t\t\t\t\t\t550 minutes in total\r\n' +
+    '\t\t\t\t\t\t\tFrom\r\n' +
+    '\t\t\t\t\t\t\t\t9:20\r\n' +
+    '\t\t\t\t\t\t\tTo\r\n' +
+    '\t\t\t\t\t\t\t\t23:35\r\n' +
+    '\t\t\t\t\t\t总体来说你还可以做的更好，牢记自己的理想，专注、坚持、保持突破。\r\n' +
+    '\t\t\t\tReflection\r\n' +
+    '\t\t\t\t\tThoughts\r\n' +
+    '\t\t\t\t\t\t拿出高中时的坚持、努力和毅力。再加上现在的自觉和认知。天下之大，哪里去不得？\r\n' +
+    '\t\t\t\t\t\t最近又开始变得松懈了，事实证明不自由之后才有更多的自由。\r\n' +
+    '\t\t\t\t\t\t松懈的一个重大原因就是你没有好好地量化计划、明确参考物。\r\n' +
+    '\t\t\t\t\t\t\t以后总是以昨日为参考\r\n' +
+    '\t\t\t\t\t\t\t以任务为导向，而不是时间\r\n' +
+    '\t\t\t\t\t\t总体目标要宏大，当前目标要量化，要具体，要可行。\r\n' +
+    '\t\t\t\t\t量化标准\r\n' +
+    '\t\t\t\t\t\t最低目标\r\n' +
+    '\t\t\t\t\t\t\t> 上周的平均值，当前累计的平均值\r\n' +
+    '\t\t\t\t\t\t\t无论生病也好，必须超过上周的平均值\r\n' +
+    '\tVideo Duration\r\n' +
+    '\t\t04\r\n' +
+    '\t\t\t42 hours\r\n' +
+    '\t\t05\r\n' +
+    '\t\t\t29 hours\r\n' +
+    '\t\t06\r\n' +
+    '\t\t\t35.5 hours\r\n' +
+    '\t\t07\r\n' +
+    '\t\t\t15.5 hours\r\n' +
+    '\t\t08\r\n' +
+    '\t\t\t118 hours\r\n' +
+    '\t\t09\r\n' +
+    '\t\t\t36 hours\r\n' +
+    '\t\t10\r\n' +
+    '\t\t\t4 hours\r\n' +
+    '\t\t11\r\n' +
+    '\t\t\t29 hours',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '870b64820698f12cdca4ab76e5'
+  },
+  xapInfoMap: {}
+}
+[I 2021-11-14T00:34:24.473Z snowbrush] db write {
+  'text/plain': '04git+ES6+nodeJS+... (15)\r\n\t34 old cards\r\n\t10:25 to 10:40 (15 + 50 = 65)',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '870b64820698f12cdca4ab76e5'
+  },
+  xapInfoMap: {}
+}
+[I 2021-11-14T00:35:15.902Z snowbrush] Export image time: from 1636850115902 to 1636850115902.
+[I 2021-11-14T01:19:28.934Z snowbrush] db write {
+  'text/plain': 'NOTES\r\n' +
+    '\t休息之前，看看下面的内容。\r\n' +
+    '\t只要你能保持突破，或者保持追求突破，你就是自己的神！\n' +
+    '牢记使命，保持突破。\r\n' +
+    '\t完全突破了昨日吗？没有就好好专心突破自己。\r\n' +
+    '\t休息的时候就专心休息，不要搞这搞那。\n' +
+    '休息的时候就专心休息，不要搞这搞那。\n' +
+    '休息的时候就专心休息，不要搞这搞那。',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [ [Object] ],
+    summary: [],
+    sheetId: '870b64820698f12cdca4ab76e5'
+  },
+  xapInfoMap: {}
+}
+[I 2021-11-14T01:19:42.894Z snowbrush] Export image time: from 1636852782894 to 1636852782894.
+[I 2021-11-14T01:20:15.392Z snowbrush] Export image time: from 1636852815392 to 1636852815392.
+[I 2021-11-14T01:31:58.630Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-14T01:31:58.631Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-14T01:34:28.492Z snowbrush] Export image time: from 1636853668488 to 1636853668488.
+[I 2021-11-14T01:34:44.425Z snowbrush] db write {
+  'text/plain': '9:20 to 9:35 (B 15 + 10 = 25)',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '870b64820698f12cdca4ab76e5'
+  },
+  xapInfoMap: {}
+}
+[I 2021-11-14T02:31:58.684Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-14T02:31:58.685Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-14T02:46:24.829Z snowbrush] Export image time: from 1636857984828 to 1636857984829.
+[I 2021-11-14T02:47:07.153Z snowbrush] Export image time: from 1636858027153 to 1636858027153.
+[I 2021-11-14T02:47:46.221Z snowbrush] db write {
+  'text/plain': '10:45 to ',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '870b64820698f12cdca4ab76e5'
+  },
+  xapInfoMap: {}
+}
+[I 2021-11-14T02:48:01.964Z snowbrush] Export image time: from 1636858081963 to 1636858081964.
+[I 2021-11-14T03:31:58.724Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-14T03:31:58.725Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-14T04:31:58.733Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-14T04:31:58.734Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-14T04:41:45.178Z snowbrush] Export image time: from 1636864905174 to 1636864905174.
+[I 2021-11-14T04:42:00.597Z snowbrush] Export image time: from 1636864920597 to 1636864920597.
+[I 2021-11-14T05:31:58.748Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-14T05:31:58.749Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-14T06:31:58.766Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-14T06:31:58.767Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-14T06:38:58.205Z snowbrush] Export image time: from 1636871938204 to 1636871938205.
+[I 2021-11-14T06:39:30.213Z snowbrush] Export image time: from 1636871970213 to 1636871970213.
+[I 2021-11-14T07:31:58.810Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-14T07:31:58.811Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-14T07:44:02.946Z snowbrush] db write {
+  'text/plain': 'NOTES\r\n' +
+    '\t休息之前，看看下面的内容。\r\n' +
+    '\t只要你能保持突破，或者保持追求突破，你就是自己的神！\n' +
+    '牢记使命，保持突破。\r\n' +
+    '\t完全突破了昨日吗？没有就好好专心突破自己。\r\n' +
+    '\t休息的时候就专心休息，不要搞这搞那。\n' +
+    '休息的时候就专心休息，不要搞这搞那。\n' +
+    '休息的时候就专心休息，不要搞这搞那。',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '870b64820698f12cdca4ab76e5'
+  },
+  xapInfoMap: {}
+}
+[I 2021-11-14T07:45:24.462Z snowbrush] Export image time: from 1636875924461 to 1636875924462.
+[I 2021-11-14T08:31:58.851Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-14T08:31:58.852Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-14T09:00:11.020Z snowbrush] Export image time: from 1636880411015 to 1636880411015.
+[I 2021-11-14T09:00:49.214Z snowbrush] Export image time: from 1636880449214 to 1636880449214.
+[I 2021-11-14T09:24:11.274Z snowbrush] db write {
+  'text/plain': '再不好好休息就给自己重重地来一把掌',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '870b64820698f12cdca4ab76e5'
+  },
+  xapInfoMap: {}
+}
+[I 2021-11-14T09:24:17.130Z snowbrush] db write {
+  'text/plain': '再不好好休息就给自己重重地来一把掌',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '870b64820698f12cdca4ab76e5'
+  },
+  xapInfoMap: {}
+}
+[I 2021-11-14T09:31:58.888Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-14T09:31:58.890Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-14T10:31:58.924Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-14T10:31:58.924Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-14T10:39:49.082Z snowbrush] Export image time: from 1636886389077 to 1636886389077.
+[I 2021-11-14T11:31:58.934Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-14T11:31:58.937Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-14T12:31:58.966Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-14T12:31:58.967Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-14T12:33:41.545Z snowbrush] Export image time: from 1636893221545 to 1636893221545.
+[I 2021-11-14T12:51:10.338Z snowbrush] Export image time: from 1636894270326 to 1636894270326.
+[I 2021-11-14T13:31:58.972Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-14T13:31:58.974Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-14T14:31:58.994Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-14T14:31:58.994Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-14T15:31:59.016Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-14T15:31:59.017Z main:store:plugins:activation-updater] Schedule refresh timeout(null).

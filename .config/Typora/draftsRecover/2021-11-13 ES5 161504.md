@@ -1,0 +1,145 @@
+# ES5
+
+### 严格模式
+
+#### 介绍
+
+ES5 除了正常运行模式（又称为混杂模式），还添加了第二种运行模式："[严格模式](<https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Strict_mode>)"（strict mode）。
+
+严格模式顾名思义，就是使 JavaScript 在更严格的语法条件下运行。
+
+#### 作用
+1.  消除 JavaScript 语法的一些不合理、不严谨之处，减少一些怪异行为
+2.  消除代码运行的一些不安全之处，保证代码运行的安全
+3.  为未来新版本的 JavaScript 做好铺垫
+
+#### 使用
+
+* 在全局或函数的第一条语句定义为: `'use strict'`
+
+* 如果浏览器不支持，只解析为一条简单的语句, 没有任何副作用
+
+  ```js
+  // 全局使用严格模式
+  'use strict';
+  girl = '迪丽热巴';
+  
+  // 函数中使用严格模式
+  function main(){
+  	'use strict';
+  	boy = '吴亦凡';
+  }
+  main();
+  ```
+
+#### 语法和行为改变
+
+* 必须用 var 声明变量，不允许使用未声明的变量
+* 禁止自定义的函数中的 this 指向 window
+* 创建 eval 作用域
+* 对象不能有重名的属性（Chrome 已经修复了这个 Bug，IE 还会出现）
+* 函数不能有重复的形参
+* 新增一些保留字, 如: implements interface private protected public
+
+### Object 扩展方法
+
+#### Object.create(prototype, [descriptors])
+
+Object.create 方法可以以指定对象为原型创建新的对象，同时可以为新的对象设置属性, 并对属性进行描述
+
+* value : 指定值
+* writable : 标识当前属性值是否是可修改的, 默认为 false
+* configurable：标识当前属性是否可以被删除 默认为 false
+* enumerable：标识当前属性是否能用for in 枚举 默认为 false
+* get:   当获取当前属性时的回调函数
+* set:   当设置当前属性时
+
+```js
+//创建一个汽车的对象
+var car = {
+    name : '汽车',
+    run: function(){
+        console.log('我可以行驶！！');
+    }
+};
+
+//以 car 为原型对象创建新对象
+var aodi = Object.create(car, {
+    brand: {
+        value: '奥迪',
+        writable: false,         //是否可修改
+        configurable: false,     //是否可以删除
+        enumerable: true         //是否可以使用 for...in 遍历
+    },
+    color: {
+        value : '黑色',
+        wriable: false,
+        configurable: false,
+        enumerable: true
+    }
+});
+```
+
+#### Object.defineProperties(object, descriptors)
+
+直接在一个对象上定义新的属性或修改现有属性，并返回该对象。
+
+* object     要操作的对象
+* descriptors     属性描述
+  * get  作为该属性的 getter 函数，如果没有 getter 则为undefined。函数返回值将被用作属性的值。
+  * set  作为属性的 setter 函数，如果没有 setter 则为undefined。函数将仅接受参数赋值给该属性的新值。
+
+```js
+// 定义对象
+var star = {
+    firstName: '刘',
+    lastName : '德华'
+};
+
+// 为 star 定义额外的属性
+Object.defineProperties(star, {
+    fullName: {
+        get: function(){
+            return this.firstName + this.lastName;
+        },
+        set: function(name){
+            var res = name.split('-');
+            this.firstName = res[0];
+            this.lastName = res[1];
+        }
+    }
+});
+
+// 修改 fullName 属性值
+star.fullName = '张-学友';
+
+// 打印属性
+console.log(star.fullName);
+```
+
+### call、apply 和 bind
+
+* call 方法使用一个指定的 this 值和单独给出的一个或多个参数来调用一个函数
+
+* apply 方法调用一个具有给定 this 值的函数，以及作为一个数组（或类似数组对象）提供的参数
+
+* bind 同 call 相似，不过该方法会返回一个新的函数，而不会立即执行
+
+```js
+function main(){
+    console.log(this);
+}
+/*1. 直接调用函数*/
+main();										//  window
+/*2. 创建一个对象*/
+var company = {name: '尚硅谷', age: 10};
+/*使用这个对象调用 main 方法*/
+main.call(company);							// company
+main.apply(company);						// company
+/*bind 修改 this 的值，返回一个新的函数*/
+var fn = main.bind(company);
+fn();										// company
+```
+
+
+

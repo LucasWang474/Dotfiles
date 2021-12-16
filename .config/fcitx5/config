@@ -6,7 +6,6 @@ EnumerateSkipFirst=False
 
 [Hotkey/TriggerKeys]
 0=Alt+Shift+Shift_L
-1=Shift+Shift_L
 
 [Hotkey/AltTriggerKeys]
 0=Shift_L

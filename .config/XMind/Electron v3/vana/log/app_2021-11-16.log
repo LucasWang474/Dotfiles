@@ -1,0 +1,65 @@
+[I 2021-11-15T16:10:56.947Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-15T16:10:56.960Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-15T17:10:56.961Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-15T17:10:56.962Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-16T06:12:23.796Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-16T06:12:23.801Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-16T07:12:25.183Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-16T07:12:25.184Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-16T08:12:25.220Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-16T08:12:25.221Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-16T09:12:25.254Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-16T09:12:25.254Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-16T10:12:25.284Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-16T10:12:25.285Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-16T11:12:25.310Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-16T11:12:25.311Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-16T12:12:25.333Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-16T12:12:25.333Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-16T13:12:25.353Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-16T13:12:25.362Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-16T13:35:46.946Z main:store:plugins:electron] Application is intended to quit.
+[I 2021-11-16T13:35:46.947Z main:store:plugins:electron] Asking all editors to close their documents...
+
+-------- SESSION 2021-11-16T13:36:14.127Z (11.0.1+202106220606, linux, x64, 16172244992, XMind Ltd., vana_linux) --------
+[I 2021-11-16T13:36:14.380Z main:store:plugins:iap] The user is not allowed to make in-app purchase.
+[I 2021-11-16T13:36:15.325Z main:store:plugins:electron] Application will finish launching.
+[I 2021-11-16T13:36:15.329Z main:store:plugins:electron] Application arguments: ["/opt/XMind/xmind"]
+[I 2021-11-16T13:36:15.361Z main:store:plugins:electron] Application is ready.
+[I 2021-11-16T13:36:15.402Z main:store:plugins:open-handler] Recover: Map {
+  '1' => [
+    {
+      source: 'file:///home/lucas/Codes/My-Front-end-Learning/SGG-Front-end-Learning-Challenge.xmind',
+      editorId: 'aeeab391d98a80aa8e814b362c'
+    }
+  ]
+}
+[I 2021-11-16T13:36:15.427Z main:store:plugins:activation-updater] Start updating subscription information periodically.
+[I 2021-11-16T13:36:15.427Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-11-16T13:36:15.427Z main:store:plugins:activation-updater] Start updating per-machine license information periodically.
+[I 2021-11-16T13:36:15.428Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-11-16T13:36:15.922Z main:store:plugins:electron] Device ID: 0a4e2b8c-1b20-4415-a313-3910912c6df7
+[W 2021-11-16T13:36:35.937Z main:store:plugins:electron] Failed to load pricing: Error: Request to https://www.xmind.net/_res/get-zen-price?p=vana_linux&v=11.0.1.202106220606&os=linux&ar=x64&nl=en-US failed, reason: net::ERR_NAME_NOT_RESOLVED
+    at ClientRequest.<anonymous> (/opt/XMind/resources/app.asar/main/main.js:30:139579)
+    at ClientRequest.emit (events.js:315:20)
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21)
+[E 2021-11-16T13:36:35.944Z Notification] Error: Request to https://www.xmind.net/_api/events?p=vana_linux&v=11.0.1.202106220606&ar=x64&nl=en-US&ac=trial&lic=&ts0=1635506832607&ts1=1636680478181&ts2=1636681254367&ts3=1636763458303&os=linux&version=11.0.1&buildid=11.0.1.202106220606&arch=x64&distrib=vana_linux&account_type=trial&license_info=&firstStartTimestamp=1635506832607&startTimestamp1=1636680478181&startTimestamp2=1636681254367&startTimestamp3=1636763458303 failed, reason: net::ERR_NAME_NOT_RESOLVED
+    at ClientRequest.<anonymous> (/opt/XMind/resources/app.asar/main/main.js:30:139579)
+    at ClientRequest.emit (events.js:315:20)
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21)
+[I 2021-11-16T13:37:15.429Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-16T13:37:15.430Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-16T13:37:37.657Z main:store:plugins:editors:EditorFrame] Frame 1 close
+[I 2021-11-16T13:37:37.793Z main:store:plugins:editors:EditorFrame] Not find editor view: undefined file:///opt/XMind/resources/app.asar/renderer/editor-frame.html?frameId=1&_apr=dark
+[I 2021-11-16T13:37:37.994Z main:store:plugins:editors:EditorFrame] Frame 1 close
+[I 2021-11-16T13:37:38.139Z main:store:plugins:electron] Application is intended to quit.
+[I 2021-11-16T13:37:38.139Z main:store:plugins:electron] Asking all editors to close their documents...
+[I 2021-11-16T13:37:38.217Z main:store:plugins:editors:EditorFrame] Frame 1 webContents destroyed
+[I 2021-11-16T13:37:38.300Z main:store:plugins:electron] All documents are closed.
+[I 2021-11-16T13:37:38.300Z main:store:plugins:activation-updater] Stop updating per-machine license information periodically.
+[I 2021-11-16T13:37:38.301Z main:store:plugins:activation-updater] Stop updating subscription information periodically.
+[I 2021-11-16T13:37:38.312Z main:store:plugins:electron] Application is intended to quit.
+[I 2021-11-16T13:37:38.313Z main:store:plugins:electron] Application will quit.
+[I 2021-11-16T13:37:38.313Z main:store:plugins:electron] Application quitted.

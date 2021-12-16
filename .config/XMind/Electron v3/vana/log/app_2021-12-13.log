@@ -1,0 +1,613 @@
+[I 2021-12-12T16:11:44.964Z snowbrush] Export image time: from 1639325504963 to 1639325504964.
+[I 2021-12-12T16:11:52.146Z snowbrush] Export image time: from 1639325512146 to 1639325512146.
+[I 2021-12-12T16:15:32.729Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-12T16:15:32.729Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-12T16:27:18.084Z snowbrush] Export image time: from 1639326438084 to 1639326438084.
+[I 2021-12-12T16:30:06.359Z snowbrush] Export image time: from 1639326606359 to 1639326606359.
+[I 2021-12-12T16:50:01.918Z snowbrush] Export image time: from 1639327801918 to 1639327801918.
+[I 2021-12-12T16:50:07.625Z snowbrush] Export image time: from 1639327807625 to 1639327807625.
+[I 2021-12-12T17:15:32.749Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-12T17:15:32.749Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-12T17:59:57.627Z snowbrush] Export image time: from 1639331997627 to 1639331997627.
+[I 2021-12-12T18:15:32.764Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-12T18:15:32.765Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-12T18:29:10.065Z snowbrush] Export image time: from 1639333750065 to 1639333750065.
+[I 2021-12-12T19:15:32.778Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-12T19:15:32.778Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-12T20:15:32.786Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-12T20:15:32.786Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-13T04:02:22.285Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-13T04:02:22.289Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-13T05:02:22.570Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-13T05:02:22.570Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-13T05:48:17.017Z snowbrush] Export image time: from 1639374497017 to 1639374497017.
+[I 2021-12-13T05:48:30.258Z snowbrush] db write {
+  'text/plain': '12, Sun (>= 360 minutes, 6 hours)\r\n' +
+    '\tRecords\r\n' +
+    '\t\tAnki Review\r\n' +
+    '\t\t\t01HTML+CSS (20 + 0 = 20)\r\n' +
+    '\t\t\t\t35 old cards\r\n' +
+    '\t\t\t\t16:10 to 16:30 (20 + 0 = 20)\r\n' +
+    '\t\t\t\t16:30 to 16:45 (15)\r\n' +
+    '\t\t\t\t\t前后鼻音纠正\r\n' +
+    '\t\t\t02JavaScript\r\n' +
+    '\t\t\t\t424 old cards\r\n' +
+    '\t\t\t\t\tMUST FINISH ALL OLD CARDS\r\n' +
+    '\t\t\t\t16:45 to 17:05 (20 + 20 = 40)\r\n' +
+    '\t\t\t\t17:05 to 17:15 (B 10 + 0 = 10)\r\n' +
+    '\t\t\t\t17:15 to 17:50 (35 + 40 = 75)\r\n' +
+    '\t\t\t\t17:50 to 19:00 (B 70 + 10 = 80)\r\n' +
+    '\t\t\t\t\tDinner\r\n' +
+    '\t\t\t\t19:00 to 19:25 (25 + 75 = 100)\r\n' +
+    '\t\t\t\t19:25 to 19:30 (B 5 + 80 = 85)\r\n' +
+    '\t\t\t\t19:30 to 19:45 (15 + 100 = 115)\r\n' +
+    '\t\t\t\t19:45 to 20:00 (15 + 115 = 130)\r\n' +
+    '\t\t\t\t20:00 to 20:25 (B 25 + 85 = 110)\r\n' +
+    '\t\t\t\t20:25 to 21:10 (45 + 130 = 175)\r\n' +
+    '\t\t\t\t\t221 left\r\n' +
+    '\t\t\t\t21:10 to 21:25 (B 15 + 110 = 125)\r\n' +
+    '\t\t\t\t21:25 to 22:05 (40 + 175 = 215)\r\n' +
+    '\t\t\t\t\t154 left\r\n' +
+    '\t\t\t\t22:05 to 22:40 (B 35 + 125 = 160)\r\n' +
+    '\t\t\t\t\tBreak\r\n' +
+    '\t\t\t\t\tExercise\r\n' +
+    '\t\t\t\t22:40 to 23:20 (40 + 215 = 255)\r\n' +
+    '\t\t\t\t\t98 left\r\n' +
+    '\t\t\t\t23:20 to 0:50 (B 90 + 160 = 250)\r\n' +
+    '\t\t\t\t\tBreak\r\n' +
+    '\t\t\t\t\t一不小心又被诱惑了\r\n' +
+    '\t\t\t\t\t下一次再遇到这种情况首先开启 block，然后开启 30 分钟冷静期\r\n' +
+    '\t\t\t\t0:50 to 2:00 (70 + 255 = 325)\r\n' +
+    '\t\t\t\t\t47 left\r\n' +
+    '\t\t\t\t2:00 to \r\n' +
+    '\t\t\t03PC+JS+jQuery+Bootstrap\r\n' +
+    '\t\t\t\t177 old cards\r\n' +
+    '\t\t\t04git+ES6+nodeJS+http+npm+express+mongoDB\r\n' +
+    '\t\t\t\t181 old cards\r\n' +
+    '\t\tLearning\r\n' +
+    '\t\tPE\r\n' +
+    '\t\t\t至少一组，必须超过昨日\r\n' +
+    '\t\t\tConvict Conditioning\r\n' +
+    '\t\t\t\tFlat Full Leg Raises\r\n' +
+    '\t\t\t\t\t15\r\n' +
+    '\t\t\t\tFull Pull-ups\r\n' +
+    '\t\t\t\t\t4\r\n' +
+    '\t\t\t\tAided One Legged Squats\r\n' +
+    '\t\t\t\t\t6 + 0\r\n' +
+    '\t\t\t\t\t10 + 10\r\n' +
+    '\t\t\t\tFull Push-ups\r\n' +
+    '\t\t\t\t\t6\r\n' +
+    '\t\t\t\t\tSubtopic 2\r\n' +
+    '\t\t\t\tWall Walking Bridges Down and Up \r\n' +
+    '\t\t\t\t\t1\r\n' +
+    '\t\t\t\t\tSubtopic 2\r\n' +
+    '\t\tRituals\r\n' +
+    '\t\t\tDinner\r\n' +
+    '\t\t\t\t<= 1 hour\r\n' +
+    '\t\t\t\t70 minutes\r\n' +
+    '\t\t\t美团优选\r\n' +
+    '\t\t\t\tGet 大宝\r\n' +
+    '\t\t\tClean up your room\r\n' +
+    '\t\t\t\tFloor\r\n' +
+    '\t\t\tMake plans\r\n' +
+    '\t\t\t\tTomorrow\r\n' +
+    '\t\t\t\tSchedule\r\n' +
+    '\t\t\tME\r\n' +
+    '\t\t\t\tReflection\r\n' +
+    '\t\t\t\tDiary\r\n' +
+    '\t\t\tBrush your teeth before sleep\r\n' +
+    '\t\t\tSleep\r\n' +
+    '\t\t\t\tMUST BEFORE 2:00\r\n' +
+    '\t\t\tGet up\r\n' +
+    '\t\t\t\tMUST BEFORE 9:00',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '88e95695d88963905151980128'
+  },
+  xapInfoMap: {}
+}
+[I 2021-12-13T05:50:11.230Z snowbrush] Export image time: from 1639374611229 to 1639374611229.
+[I 2021-12-13T05:53:42.794Z snowbrush] db write {
+  'text/plain': 'MUST FINISH ALL CARDS',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '88e95695d88963905151980128'
+  },
+  xapInfoMap: {}
+}
+[I 2021-12-13T06:02:22.580Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-13T06:02:22.582Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-13T06:39:27.181Z snowbrush] null
+[I 2021-12-13T06:39:30.161Z snowbrush] Export image time: from 1639377570161 to 1639377570161.
+[I 2021-12-13T06:42:23.411Z snowbrush] Export image time: from 1639377743411 to 1639377743411.
+[I 2021-12-13T07:02:22.594Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-13T07:02:22.594Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-13T07:52:15.632Z snowbrush] Export image time: from 1639381935631 to 1639381935632.
+[I 2021-12-13T08:02:22.634Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-13T08:02:22.636Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-13T08:14:51.531Z snowbrush] Export image time: from 1639383291530 to 1639383291530.
+[I 2021-12-13T08:51:10.764Z snowbrush] Export image time: from 1639385470764 to 1639385470764.
+[I 2021-12-13T09:02:22.656Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-13T09:02:22.657Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-13T10:02:22.692Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-13T10:02:22.694Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-13T11:02:22.724Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-13T11:02:22.724Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-13T11:44:31.407Z snowbrush] Export image time: from 1639395871400 to 1639395871400.
+[I 2021-12-13T11:46:10.236Z snowbrush] db write {
+  'text/plain': '听力\r\n\t7.5\r\n阅读\r\n\t7.5\r\n写作\r\n\t6\r\n口语\r\n\t6',
+  'text/x-array-json': [
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] }
+  ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '0999a53b1779edcc976c38633e'
+  },
+  xapInfoMap: {}
+}
+[I 2021-12-13T11:46:29.892Z snowbrush] db write {
+  'text/plain': '听力\r\n\t8\r\n阅读\r\n\t8\r\n写作\r\n\t7\r\n口语\r\n\t7',
+  'text/x-array-json': [
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] }
+  ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '0999a53b1779edcc976c38633e'
+  },
+  xapInfoMap: {}
+}
+[I 2021-12-13T11:52:01.789Z snowbrush] null
+[I 2021-12-13T11:58:08.670Z snowbrush] Export image time: from 1639396688670 to 1639396688670.
+[I 2021-12-13T11:58:16.565Z snowbrush] db write {
+  'text/plain': '听力\r\n\t8.5\r\n阅读\r\n\t8.5\r\n写作\r\n\t7\r\n口语\r\n\t7.5',
+  'text/x-array-json': [
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] }
+  ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '0999a53b1779edcc976c38633e'
+  },
+  xapInfoMap: {}
+}
+[I 2021-12-13T12:01:02.336Z snowbrush] db write {
+  'text/plain': '雅思 8\r\n\t听力\r\n\t\t8.5\r\n\t阅读\r\n\t\t8.5\r\n\t写作\r\n\t\t7\r\n\t口语\r\n\t\t7.5',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '0999a53b1779edcc976c38633e'
+  },
+  xapInfoMap: {}
+}
+[I 2021-12-13T12:01:09.011Z snowbrush] Export image time: from 1639396869010 to 1639396869010.
+[I 2021-12-13T12:02:22.725Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-13T12:02:22.726Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-13T12:07:19.525Z snowbrush] Export image time: from 1639397239524 to 1639397239525.
+[I 2021-12-13T12:12:57.287Z snowbrush] Export image time: from 1639397577286 to 1639397577287.
+[I 2021-12-13T12:13:00.206Z main:store:plugins:editors:EditorFrame] Frame 2 close
+[I 2021-12-13T12:13:00.233Z main:store:plugins:editors:EditorFrame] Not find editor view: undefined file:///opt/XMind/resources/app.asar/renderer/editor-frame.html?frameId=2&_apr=dark
+[E 2021-12-13T12:13:00.334Z error:main] TypeError: this.view.destroy is not a function
+    at y.destroy (/opt/XMind/resources/app.asar/main/main.js:7:106494)
+    at async y.close (/opt/XMind/resources/app.asar/main/main.js:7:106148)
+    at async v.close (/opt/XMind/resources/app.asar/main/main.js:30:111567)
+[I 2021-12-13T12:13:11.042Z main:store:plugins:editors:EditorFrame] Frame 2 close
+[I 2021-12-13T12:13:11.043Z main:store:plugins:editors:EditorFrame] Frame 2 close
+[I 2021-12-13T12:13:11.160Z main:store:plugins:editors:EditorFrame] Frame 2 webContents destroyed
+[I 2021-12-13T12:13:24.759Z snowbrush] Export image time: from 1639397604759 to 1639397604759.
+[I 2021-12-13T12:13:25.110Z main:store:plugins:editors:EditorFrame] Frame 1 close
+[I 2021-12-13T12:13:26.807Z main:store:plugins:editors:EditorFrame] Not find editor view: undefined file:///opt/XMind/resources/app.asar/renderer/editor-frame.html?frameId=1&_apr=dark
+[E 2021-12-13T12:13:26.853Z error:main] TypeError: this.view.destroy is not a function
+    at y.destroy (/opt/XMind/resources/app.asar/main/main.js:7:106494)
+    at async y.close (/opt/XMind/resources/app.asar/main/main.js:7:106148)
+    at async v.close (/opt/XMind/resources/app.asar/main/main.js:30:111567)
+[I 2021-12-13T12:13:29.053Z main:store:plugins:editors:EditorFrame] Frame 1 close
+[I 2021-12-13T12:13:29.054Z main:store:plugins:editors:EditorFrame] Frame 1 close
+[I 2021-12-13T12:13:29.067Z main:store:plugins:electron] Application is intended to quit.
+[I 2021-12-13T12:13:29.068Z main:store:plugins:electron] Asking all editors to close their documents...
+[W 2021-12-13T12:13:29.068Z main:store:plugins:editors:EditorView] Caught error on destroy: Error: No such API: "DESTROY /editors/9ddb2e01d5b867f421ac5af9d6"
+    at Object.f [as fetch] (/opt/XMind/resources/app.asar/main/main.js:1:17670)
+    at y.destroy (/opt/XMind/resources/app.asar/main/main.js:7:106351)
+    at y.destroy (/opt/XMind/resources/app.asar/main/main.js:1:52188)
+    at /opt/XMind/resources/app.asar/main/main.js:30:107558
+    at /opt/XMind/resources/app.asar/main/main.js:1:17771
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async App.<anonymous> (/opt/XMind/resources/app.asar/main/main.js:30:81915) {
+  code: 'IPC_ENOAPI'
+}
+[E 2021-12-13T12:13:29.070Z error:main] TypeError: this.view.destroy is not a function
+    at y.destroy (/opt/XMind/resources/app.asar/main/main.js:7:106494)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async /opt/XMind/resources/app.asar/main/main.js:30:107550
+[I 2021-12-13T12:13:29.241Z main:store:plugins:editors:EditorFrame] Frame 1 webContents destroyed
+[I 2021-12-13T12:13:30.457Z main:store:plugins:electron] Application is intended to quit.
+[I 2021-12-13T12:13:30.457Z main:store:plugins:electron] Asking all editors to close their documents...
+[W 2021-12-13T12:13:30.458Z main:store:plugins:editors:EditorView] Caught error on destroy: Error: No such API: "DESTROY /editors/9ddb2e01d5b867f421ac5af9d6"
+    at Object.f [as fetch] (/opt/XMind/resources/app.asar/main/main.js:1:17670)
+    at y.destroy (/opt/XMind/resources/app.asar/main/main.js:7:106351)
+    at y.destroy (/opt/XMind/resources/app.asar/main/main.js:1:52188)
+    at /opt/XMind/resources/app.asar/main/main.js:30:107558
+    at /opt/XMind/resources/app.asar/main/main.js:1:17771
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async App.<anonymous> (/opt/XMind/resources/app.asar/main/main.js:30:81915) {
+  code: 'IPC_ENOAPI'
+}
+[E 2021-12-13T12:13:30.466Z error:main] TypeError: this.view.destroy is not a function
+    at y.destroy (/opt/XMind/resources/app.asar/main/main.js:7:106494)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async /opt/XMind/resources/app.asar/main/main.js:30:107550
+[I 2021-12-13T12:13:32.539Z main:store:plugins:electron] Application is intended to quit.
+[I 2021-12-13T12:13:32.539Z main:store:plugins:electron] Asking all editors to close their documents...
+[W 2021-12-13T12:13:32.540Z main:store:plugins:editors:EditorView] Caught error on destroy: Error: No such API: "DESTROY /editors/9ddb2e01d5b867f421ac5af9d6"
+    at Object.f [as fetch] (/opt/XMind/resources/app.asar/main/main.js:1:17670)
+    at y.destroy (/opt/XMind/resources/app.asar/main/main.js:7:106351)
+    at y.destroy (/opt/XMind/resources/app.asar/main/main.js:1:52188)
+    at /opt/XMind/resources/app.asar/main/main.js:30:107558
+    at /opt/XMind/resources/app.asar/main/main.js:1:17771
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async App.<anonymous> (/opt/XMind/resources/app.asar/main/main.js:30:81915) {
+  code: 'IPC_ENOAPI'
+}
+[E 2021-12-13T12:13:32.540Z error:main] TypeError: this.view.destroy is not a function
+    at y.destroy (/opt/XMind/resources/app.asar/main/main.js:7:106494)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async /opt/XMind/resources/app.asar/main/main.js:30:107550
+[I 2021-12-13T12:13:34.106Z main:store:plugins:electron] Application is intended to quit.
+[I 2021-12-13T12:13:34.106Z main:store:plugins:electron] Asking all editors to close their documents...
+[W 2021-12-13T12:13:34.106Z main:store:plugins:editors:EditorView] Caught error on destroy: Error: No such API: "DESTROY /editors/9ddb2e01d5b867f421ac5af9d6"
+    at Object.f [as fetch] (/opt/XMind/resources/app.asar/main/main.js:1:17670)
+    at y.destroy (/opt/XMind/resources/app.asar/main/main.js:7:106351)
+    at y.destroy (/opt/XMind/resources/app.asar/main/main.js:1:52188)
+    at /opt/XMind/resources/app.asar/main/main.js:30:107558
+    at /opt/XMind/resources/app.asar/main/main.js:1:17771
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async App.<anonymous> (/opt/XMind/resources/app.asar/main/main.js:30:81915) {
+  code: 'IPC_ENOAPI'
+}
+[E 2021-12-13T12:13:34.107Z error:main] TypeError: this.view.destroy is not a function
+    at y.destroy (/opt/XMind/resources/app.asar/main/main.js:7:106494)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async /opt/XMind/resources/app.asar/main/main.js:30:107550
+[I 2021-12-13T12:13:38.917Z main:store:plugins:electron] Application is intended to quit.
+[I 2021-12-13T12:13:38.918Z main:store:plugins:electron] Asking all editors to close their documents...
+[W 2021-12-13T12:13:38.918Z main:store:plugins:editors:EditorView] Caught error on destroy: Error: No such API: "DESTROY /editors/9ddb2e01d5b867f421ac5af9d6"
+    at Object.f [as fetch] (/opt/XMind/resources/app.asar/main/main.js:1:17670)
+    at y.destroy (/opt/XMind/resources/app.asar/main/main.js:7:106351)
+    at y.destroy (/opt/XMind/resources/app.asar/main/main.js:1:52188)
+    at /opt/XMind/resources/app.asar/main/main.js:30:107558
+    at /opt/XMind/resources/app.asar/main/main.js:1:17771
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async App.<anonymous> (/opt/XMind/resources/app.asar/main/main.js:30:81915) {
+  code: 'IPC_ENOAPI'
+}
+[E 2021-12-13T12:13:38.918Z error:main] TypeError: this.view.destroy is not a function
+    at y.destroy (/opt/XMind/resources/app.asar/main/main.js:7:106494)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async /opt/XMind/resources/app.asar/main/main.js:30:107550
+
+-------- SESSION 2021-12-13T12:13:43.357Z (10.3.1+202101132117, linux, x64, 16171720704, XMind Ltd., vana_linux_64) --------
+[I 2021-12-13T12:13:43.478Z main:store:plugins:iap] The user is not allowed to make in-app purchase.
+[I 2021-12-13T12:13:43.864Z main:store:plugins:electron] Application will finish launching.
+[I 2021-12-13T12:13:43.865Z main:store:plugins:electron] Application arguments: ["/opt/XMind/xmind"]
+[I 2021-12-13T12:13:43.874Z main:store:plugins:electron] Application is ready.
+[I 2021-12-13T12:13:43.895Z main:store:plugins:open-handler] Recover: Map {}
+[I 2021-12-13T12:13:43.903Z main:store:plugins:activation-updater] Start updating subscription information periodically.
+[I 2021-12-13T12:13:43.904Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-12-13T12:13:43.904Z main:store:plugins:activation-updater] Start updating per-machine license information periodically.
+[I 2021-12-13T12:13:43.904Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-12-13T12:13:44.042Z main:store:plugins:electron] Device ID: 0a4e2b8c-1b20-4415-a313-3910912c6df7
+[I 2021-12-13T12:14:43.911Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-13T12:14:43.912Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-13T12:21:13.106Z snowbrush] Export image time: from 1639398073106 to 1639398073106.
+[I 2021-12-13T12:22:06.532Z snowbrush] Export image time: from 1639398126531 to 1639398126531.
+[I 2021-12-13T12:22:24.935Z snowbrush] Export image time: from 1639398144935 to 1639398144935.
+[I 2021-12-13T12:24:18.148Z snowbrush] db write {
+  'text/plain': 'HTML\r\nCSS\r\nJavaScriot',
+  'text/x-array-json': [
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] }
+  ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '0999a53b1779edcc976c38633e'
+  },
+  xapInfoMap: {}
+}
+[I 2021-12-13T12:24:54.289Z snowbrush] db write {
+  'text/plain': 'Tools',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '0999a53b1779edcc976c38633e'
+  },
+  xapInfoMap: {}
+}
+[I 2021-12-13T12:25:39.435Z snowbrush] Export image time: from 1639398339434 to 1639398339434.
+[I 2021-12-13T12:26:05.238Z snowbrush] Export image time: from 1639398365238 to 1639398365238.
+[I 2021-12-13T12:26:59.043Z snowbrush] db write {
+  'text/plain': 'Front-end\r\n' +
+    '\t完成尚硅谷前端剩下的所有内容\r\n' +
+    '\t\tFrom\r\n' +
+    '\t\t\t04git+ES6+nodeJS+.../03http/Day50_20201109\r\n' +
+    '\t\tTo\r\n' +
+    '\t\t\t11-Interview/Day112_20200305\r\n' +
+    '\t\tSummary\r\n' +
+    '\t\t\t>= 62 days\r\n' +
+    '\t\t\tFinish at least 3.5 days per day\r\n' +
+    '\tInterview Preparation\r\n' +
+    '\t\t完成掘金上的面试总结\r\n' +
+    '\t\t完成牛客网的面试总结\r\n' +
+    '\t\t完成 Front-End-Interview-Notebook\r\n' +
+    '\t\t准备面试台词并流利背诵\r\n' +
+    '\t\t准备简历\r\n' +
+    '\t\t准备找人内推',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '0999a53b1779edcc976c38633e'
+  },
+  xapInfoMap: {}
+}
+[I 2021-12-13T12:29:13.196Z snowbrush] Export image time: from 1639398553196 to 1639398553196.
+[I 2021-12-13T12:35:32.961Z snowbrush] Export image time: from 1639398932952 to 1639398932952.
+[I 2021-12-13T12:35:35.056Z main:store:plugins:electron] Application is intended to quit.
+[I 2021-12-13T12:35:35.057Z main:store:plugins:electron] Asking all editors to close their documents...
+[I 2021-12-13T12:35:35.058Z main:store:plugins:editors:EditorFrame] Not find editor view: undefined file:///opt/XMind/resources/app.asar/renderer/editor-frame.html?frameId=1&_apr=dark
+
+-------- SESSION 2021-12-13T12:36:00.676Z (10.3.1+202101132117, linux, x64, 16171720704, XMind Ltd., vana_linux_64) --------
+[I 2021-12-13T12:36:00.861Z main:store:plugins:iap] The user is not allowed to make in-app purchase.
+[I 2021-12-13T12:36:01.320Z main:store:plugins:electron] Application will finish launching.
+[I 2021-12-13T12:36:01.322Z main:store:plugins:electron] Application arguments: ["/opt/XMind/xmind"]
+[I 2021-12-13T12:36:01.340Z main:store:plugins:electron] Application is ready.
+[I 2021-12-13T12:36:01.363Z main:store:plugins:open-handler] Recover: Map {
+  '2' => [
+    {
+      source: 'file:///home/lucas/Documents/My/Records.xmind',
+      editorId: '8958f675b4eba6cdb0bc187e17'
+    }
+  ],
+  '1' => [
+    {
+      source: 'file:///home/lucas/Documents/My/Plans.xmind',
+      editorId: 'a21aee1364d996bf1537db9b1b'
+    }
+  ]
+}
+[I 2021-12-13T12:36:01.371Z main:store:plugins:activation-updater] Start updating subscription information periodically.
+[I 2021-12-13T12:36:01.371Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-12-13T12:36:01.371Z main:store:plugins:activation-updater] Start updating per-machine license information periodically.
+[I 2021-12-13T12:36:01.371Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-12-13T12:36:01.926Z main:store:plugins:electron] Device ID: 0a4e2b8c-1b20-4415-a313-3910912c6df7
+[I 2021-12-13T12:37:01.372Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-13T12:37:01.373Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-13T13:27:29.946Z snowbrush] Export image time: from 1639402049940 to 1639402049940.
+[I 2021-12-13T13:29:36.765Z snowbrush] db write {
+  'text/plain': '英语\r\n\t单词\r\n\t\t4000 Essential English Words\r\n\t\t\t10 cards per day',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '0999a53b1779edcc976c38633e'
+  },
+  xapInfoMap: {}
+}
+[I 2021-12-13T13:29:39.489Z snowbrush] db write {
+  'text/plain': 'LeetCode\r\n\tExactly 2 problems per day',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '0999a53b1779edcc976c38633e'
+  },
+  xapInfoMap: {}
+}
+[I 2021-12-13T13:29:42.132Z snowbrush] db write {
+  'text/plain': 'Interview Preparation\r\n' +
+    '\t每天至少花 30 分钟准备面试\r\n' +
+    '\t完成掘金上的面试总结\r\n' +
+    '\t完成牛客网的面试总结\r\n' +
+    '\t完成 Front-End-Interview-Notebook\r\n' +
+    '\t准备面试台词并流利背诵\r\n' +
+    '\t准备简历\r\n' +
+    '\t准备找人内推',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '0999a53b1779edcc976c38633e'
+  },
+  xapInfoMap: {}
+}
+[I 2021-12-13T13:29:57.930Z snowbrush] db write {
+  'text/plain': '完成 Front-End-Interview-Notebook',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '88e95695d88963905151980128'
+  },
+  xapInfoMap: {}
+}
+[I 2021-12-13T13:30:13.103Z snowbrush] db write {
+  'text/plain': '4000 Essential English Words\r\n\t10 cards per day',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '88e95695d88963905151980128'
+  },
+  xapInfoMap: {}
+}
+[I 2021-12-13T13:30:20.192Z snowbrush] Export image time: from 1639402220191 to 1639402220192.
+[I 2021-12-13T13:32:55.874Z snowbrush] Export image time: from 1639402375874 to 1639402375874.
+[I 2021-12-13T13:33:00.962Z snowbrush] Export image time: from 1639402380962 to 1639402380962.
+[I 2021-12-13T13:37:00.721Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-13T13:37:00.721Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-13T14:37:00.775Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-13T14:37:00.777Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-13T14:38:38.424Z snowbrush] db write {
+  'text/plain': '4000 Essential English Words\r\n' +
+    '\t10 cards per day\r\n' +
+    '\t21:55 to 22:30 (35 + 0 = 35)',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '88e95695d88963905151980128'
+  },
+  xapInfoMap: {}
+}
+[I 2021-12-13T14:39:13.077Z snowbrush] Export image time: from 1639406353077 to 1639406353077.
+[I 2021-12-13T15:00:35.872Z snowbrush] db write {
+  'text/plain': 'Anki Review\r\n' +
+    '\t01HTML+CSS + 02JavaScript (90 + 0 = 90)\r\n' +
+    '\t\t163 old cards\r\n' +
+    '\t\t\tMUST FINISH ALL CARDS\r\n' +
+    '\t\t14:00 to 14:40 (40 + 0 = 40)\r\n' +
+    '\t\t\t85 left\r\n' +
+    '\t\t14:40 to 15:10 (B 30 + 0 = 30)\r\n' +
+    '\t\t\tSleep\r\n' +
+    '\t\t15:10 to 15:50 (40 + 40 = 80)\r\n' +
+    '\t\t\t31 left\r\n' +
+    '\t\t15:50 to 16:00 (B 10 + 30 = 40)\r\n' +
+    '\t\t16:00 to 16:10 (10 + 80 = 90)\r\n' +
+    '\t02JavaScript\r\n' +
+    '\t\t21:25 to 22:05 (40 + 175 = 215)\r\n' +
+    '\t\t\t154 left\r\n' +
+    '\t\t22:05 to 22:40 (B 35 + 125 = 160)\r\n' +
+    '\t\t\tBreak\r\n' +
+    '\t\t\tExercise\r\n' +
+    '\t\t22:40 to 23:20 (40 + 215 = 255)\r\n' +
+    '\t\t\t98 left\r\n' +
+    '\t\t23:20 to 0:50 (B 90 + 160 = 250)\r\n' +
+    '\t\t\tBreak\r\n' +
+    '\t\t\t一不小心又被诱惑了\r\n' +
+    '\t\t\t下一次再遇到这种情况首先开启 block，然后开启 30 分钟冷静期\r\n' +
+    '\t\t0:50 to 2:00 (70 + 255 = 325)\r\n' +
+    '\t\t\t47 left\r\n' +
+    '\t03PC+JS+jQuery+Bootstrap\r\n' +
+    '\t\t177 old cards\r\n' +
+    '\t\t\tMUST FINISH ALL CARDS\r\n' +
+    '\t\tPC (20)\r\n' +
+    '\t\t\t22\r\n' +
+    '\t\t\t16:10 to 16:15 (B 5 + 40 = 45)\r\n' +
+    '\t\t\t16:15 to 16:35 (20 + 90 = 110)\r\n' +
+    '\t\tJS-Advanced (30)\r\n' +
+    '\t\t\t52\r\n' +
+    '\t\t\t16:35  to 16:50 (15 + 110 = 125)\r\n' +
+    '\t\t\t16:50 to 17:00 (B 10 + 45 = 55)\r\n' +
+    '\t\t\t17:00 to 17:15 (15 + 125 = 140)\r\n' +
+    '\t\tjQuery\r\n' +
+    '\t\t\t60\r\n' +
+    '\t\t\t17:15 to 17:30 (15 + 125 = 140)\r\n' +
+    '\t\t\t17:30 to 19:10 (B 100 + 45 = 145)\r\n' +
+    '\t\t\t\tDinner\r\n' +
+    '\t\t\t\tBreak\r\n' +
+    '\t\t\t19:10 to 21:55 (B 165 + 145 = 310)\r\n' +
+    '\t\t\t\tPlans\r\n' +
+    '\t\t\t\tBreak\r\n' +
+    '\t\t\tSubtopic 5\r\n' +
+    '\t\tBootstrap\r\n' +
+    '\t\t\t43\r\n' +
+    '\t04git+ES6+nodeJS+http+npm+express+mongoDB\r\n' +
+    '\t\t181 old cards\r\n' +
+    '\t\t\t这一部分需要好好地复习\r\n' +
+    '\t\tgit\r\n' +
+    '\t\t\t46\r\n' +
+    '\t\tES6+nodeJS\r\n' +
+    '\t\t\t95\r\n' +
+    '\t\thttp\r\n' +
+    '\t\t\t40',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '88e95695d88963905151980128'
+  },
+  xapInfoMap: {}
+}
+[I 2021-12-13T15:00:53.482Z snowbrush] db write {
+  'text/plain': 'PE\r\n' +
+    '\t由于之前的运动量很小，今天依然可以做至少一组\r\n' +
+    '\tConvict Conditioning\r\n' +
+    '\t\tFlat Full Leg Raises\r\n' +
+    '\t\t\t15\r\n' +
+    '\t\t\t>= 20\r\n' +
+    '\t\tFull Pull-ups\r\n' +
+    '\t\t\t4\r\n' +
+    '\t\t\t>= 5\r\n' +
+    '\t\tAided One Legged Squats\r\n' +
+    '\t\t\t10 + 10\r\n' +
+    '\t\t\t>= 11 + 11\r\n' +
+    '\t\tFull Push-ups\r\n' +
+    '\t\t\t6\r\n' +
+    '\t\t\t>= 8\r\n' +
+    '\t\tWall Walking Bridges Down and Up \r\n' +
+    '\t\t\t1\r\n' +
+    '\t\t\t>= 5',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '88e95695d88963905151980128'
+  },
+  xapInfoMap: {}
+}
+[I 2021-12-13T15:06:28.621Z snowbrush] Export image time: from 1639407988621 to 1639407988621.
+[I 2021-12-13T15:07:04.678Z snowbrush] Export image time: from 1639408024678 to 1639408024678.
+[I 2021-12-13T15:09:32.767Z snowbrush] Export image time: from 1639408172767 to 1639408172767.
+[I 2021-12-13T15:37:00.781Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-12-13T15:37:00.783Z main:store:plugins:activation-updater] Schedule refresh timeout(null).

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mime-type xmlns="http://www.freedesktop.org/standards/shared-mime-info" type="application/wps-office.et">
+  <!--Created automatically by update-mime-database. DO NOT EDIT!-->
+  <comment>WPS Spreadsheets Workbook</comment>
+  <comment xml:lang="zh_CN">WPS表格 工作簿</comment>
+  <generic-icon name="wps-office-et"/>
+  <glob pattern="*.et" weight="100"/>
+  <glob pattern="*.etx" weight="100"/>
+</mime-type>

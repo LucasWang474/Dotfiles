@@ -1,0 +1,659 @@
+[I 2021-11-13T00:29:31.571Z snowbrush] Export image time: from 1636763371570 to 1636763371571.
+[I 2021-11-13T00:29:33.430Z main:store:plugins:editors:EditorFrame] Frame 1 close
+[I 2021-11-13T00:29:33.542Z main:store:plugins:editors:EditorFrame] Not find editor view: undefined file:///opt/XMind/resources/app.asar/renderer/editor-frame.html?frameId=1&_apr=dark
+[I 2021-11-13T00:29:33.668Z main:store:plugins:editors:EditorFrame] Frame 1 close
+[I 2021-11-13T00:29:33.787Z main:store:plugins:electron] Application is intended to quit.
+[I 2021-11-13T00:29:33.787Z main:store:plugins:electron] Asking all editors to close their documents...
+[I 2021-11-13T00:29:33.860Z main:store:plugins:editors:EditorFrame] Frame 1 webContents destroyed
+[I 2021-11-13T00:29:33.898Z main:store:plugins:electron] All documents are closed.
+[I 2021-11-13T00:29:33.899Z main:store:plugins:activation-updater] Stop updating per-machine license information periodically.
+[I 2021-11-13T00:29:33.899Z main:store:plugins:activation-updater] Stop updating subscription information periodically.
+[I 2021-11-13T00:29:33.906Z main:store:plugins:electron] Application is intended to quit.
+[I 2021-11-13T00:29:33.906Z main:store:plugins:electron] Application will quit.
+[I 2021-11-13T00:29:33.906Z main:store:plugins:electron] Application quitted.
+
+-------- SESSION 2021-11-13T00:30:56.312Z (11.0.1+202106220606, linux, x64, 16172249088, XMind Ltd., vana_linux) --------
+[I 2021-11-13T00:30:56.500Z main:store:plugins:iap] The user is not allowed to make in-app purchase.
+[I 2021-11-13T00:30:57.209Z main:store:plugins:electron] Application will finish launching.
+[I 2021-11-13T00:30:57.211Z main:store:plugins:electron] Application arguments: ["/opt/XMind/xmind"]
+[I 2021-11-13T00:30:57.248Z main:store:plugins:electron] Application is ready.
+[I 2021-11-13T00:30:57.269Z main:store:plugins:open-handler] Recover: Map {}
+[I 2021-11-13T00:30:57.282Z main:store:plugins:activation-updater] Start updating subscription information periodically.
+[I 2021-11-13T00:30:57.282Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-11-13T00:30:57.282Z main:store:plugins:activation-updater] Start updating per-machine license information periodically.
+[I 2021-11-13T00:30:57.282Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-11-13T00:30:57.569Z main:store:plugins:electron] Device ID: 0a4e2b8c-1b20-4415-a313-3910912c6df7
+[I 2021-11-13T00:31:57.282Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-13T00:31:57.284Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-13T01:00:07.759Z snowbrush] db write {
+  'text/plain': 'Fri, 11-12 (>= 720 minutes, 12 hours)\r\n' +
+    '\tRecords\r\n' +
+    '\t\tLearning\r\n' +
+    '\t\t\tAnki Review (80)\r\n' +
+    '\t\t\t\t01HTML+CSS (15)\r\n' +
+    '\t\t\t\t\t10:15 to 10:30 (15 + 0 = 15)\r\n' +
+    '\t\t\t\t02JavaScript (25)\r\n' +
+    '\t\t\t\t\t10:30 to 10:55 (25 + 15 = 40)\r\n' +
+    '\t\t\t\t03PC+JS+jQuery+Bootstrap (40)\r\n' +
+    '\t\t\t\t\t10:55 to 11:25 (30 + 40 = 70)\r\n' +
+    '\t\t\t\t\t11:25 to 11:35 (B 10 + 0 = 10)\r\n' +
+    '\t\t\t\t\t11:35 to 11:45 (10 + 70 = 80)\r\n' +
+    '\t\t\t03PC+JS+jQuery+Bootstrap (310)\r\n' +
+    '\t\t\t\t04Bootstrap\r\n' +
+    '\t\t\t\t\t5/5 Day41-20201027 (35)\r\n' +
+    '\t\t\t\t\t\t25 minutes\r\n' +
+    '\t\t\t\t\t\t11:45 to 12:20 (35 + 80 = 115)\r\n' +
+    '\t\t\t\t\tDay42-20201028 (230)\r\n' +
+    '\t\t\t\t\t\t3 hours\r\n' +
+    '\t\t\t\t\t\t12:20 to 13:40 (80 + 115 = 195)\r\n' +
+    '\t\t\t\t\t\t13:40 to 13:50 (B 10 + 10 = 20)\r\n' +
+    '\t\t\t\t\t\t13:50 to 16:20 (150 + 195 = 345)\r\n' +
+    '\t\t\t\t\tDay43-20201030 (45)\r\n' +
+    '\t\t\t\t\t\t16:20 to 16:55 (B 35 + 20 = 55)\r\n' +
+    '\t\t\t\t\t\t16:55 to 17:25 (30 + 345 = 375)\r\n' +
+    '\t\t\t\t\t\t17:25 to 18:15 (B 50 + 55 = 105)\r\n' +
+    '\t\t\t\t\t\t\tDinner\r\n' +
+    '\t\t\t\t\t\t18:15 to 18:30 (15 + 375 = 390)\r\n' +
+    '\t\t\t\t\t\t\tAnki Review\r\n' +
+    '\t\t\t04git+ES6+nodeJS+http+npm+express+mongoDB\r\n' +
+    '\t\t\t\t01git\r\n' +
+    '\t\t\t\t\tDay44-20201031 (160)\r\n' +
+    '\t\t\t\t\t\t3 hours\r\n' +
+    '\t\t\t\t\t\t18:30 to 20:30 (120 + 390 = 510)\r\n' +
+    '\t\t\t\t\t\t20:30 to 21:05 (B 35 + 105 = 140)\r\n' +
+    '\t\t\t\t\t\t21:05 to 21:30 (25 + 510 = 535)\r\n' +
+    '\t\t\t\t\t\t21:30 to 21:45 (15 + 535 = 550)\r\n' +
+    '\t\t\t\t\t\t\tAnki Review\r\n' +
+    '\t\t\t\t\t\t21:45 to 23:10 (B 85 + 140 = 225)\r\n' +
+    '\t\t\t\t\tDay45-20201102\r\n' +
+    '\t\t\t\t\t\t2.5 hours\r\n' +
+    '\t\t\t\t\t\t23:10 to 23:00 (50 + 550 = 600)\r\n' +
+    '\t\tOthers\r\n' +
+    '\t\t\t在完成任务之前，不允许 pSyu, 访问 baidu, zhihu, bilibili, youtube, telegram 等平台；访问什么就卸载什么\r\n' +
+    '\t\tSummary\r\n' +
+    '\tReflection\r\n' +
+    '\t\tThoughts\r\n' +
+    '\t\t\t拿出高中时的坚持、努力和毅力。再加上现在的自觉和认知。天下之大，哪里去不得？\r\n' +
+    '\t\t\t最近又开始变得松懈了，事实证明不自由之后才有更多的自由。\r\n' +
+    '\t\t\t松懈的一个重大原因就是你没有好好地量化计划、明确参考物。\r\n' +
+    '\t\t\t\t以后总是以昨日为参考\r\n' +
+    '\t\t\t\t以任务为导向，而不是时间',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '870b64820698f12cdca4ab76e5'
+  },
+  xapInfoMap: {}
+}
+[I 2021-11-13T01:05:41.078Z snowbrush] Export image time: from 1636765541066 to 1636765541066.
+[I 2021-11-13T01:08:01.819Z snowbrush] db write {
+  'text/plain': 'Fri, 11-12 (600 minutes, 10 hours)\r\n' +
+    '\tRecords\r\n' +
+    '\t\tLearning\r\n' +
+    '\t\t\tAnki Review (80)\r\n' +
+    '\t\t\t\t01HTML+CSS (15)\r\n' +
+    '\t\t\t\t\t10:15 to 10:30 (15 + 0 = 15)\r\n' +
+    '\t\t\t\t02JavaScript (25)\r\n' +
+    '\t\t\t\t\t10:30 to 10:55 (25 + 15 = 40)\r\n' +
+    '\t\t\t\t03PC+JS+jQuery+Bootstrap (40)\r\n' +
+    '\t\t\t\t\t10:55 to 11:25 (30 + 40 = 70)\r\n' +
+    '\t\t\t\t\t11:25 to 11:35 (B 10 + 0 = 10)\r\n' +
+    '\t\t\t\t\t11:35 to 11:45 (10 + 70 = 80)\r\n' +
+    '\t\t\t03PC+JS+jQuery+Bootstrap (310)\r\n' +
+    '\t\t\t\t04Bootstrap\r\n' +
+    '\t\t\t\t\t5/5 Day41-20201027 (35)\r\n' +
+    '\t\t\t\t\t\t25 minutes\r\n' +
+    '\t\t\t\t\t\t11:45 to 12:20 (35 + 80 = 115)\r\n' +
+    '\t\t\t\t\tDay42-20201028 (230)\r\n' +
+    '\t\t\t\t\t\t3 hours\r\n' +
+    '\t\t\t\t\t\t12:20 to 13:40 (80 + 115 = 195)\r\n' +
+    '\t\t\t\t\t\t13:40 to 13:50 (B 10 + 10 = 20)\r\n' +
+    '\t\t\t\t\t\t13:50 to 16:20 (150 + 195 = 345)\r\n' +
+    '\t\t\t\t\tDay43-20201030 (45)\r\n' +
+    '\t\t\t\t\t\t16:20 to 16:55 (B 35 + 20 = 55)\r\n' +
+    '\t\t\t\t\t\t16:55 to 17:25 (30 + 345 = 375)\r\n' +
+    '\t\t\t\t\t\t17:25 to 18:15 (B 50 + 55 = 105)\r\n' +
+    '\t\t\t\t\t\t\tDinner\r\n' +
+    '\t\t\t\t\t\t18:15 to 18:30 (15 + 375 = 390)\r\n' +
+    '\t\t\t\t\t\t\tAnki Review\r\n' +
+    '\t\t\t04git+ES6+nodeJS+http+npm+express+mongoDB\r\n' +
+    '\t\t\t\t01git\r\n' +
+    '\t\t\t\t\tDay44-20201031 (160)\r\n' +
+    '\t\t\t\t\t\t3 hours\r\n' +
+    '\t\t\t\t\t\t18:30 to 20:30 (120 + 390 = 510)\r\n' +
+    '\t\t\t\t\t\t20:30 to 21:05 (B 35 + 105 = 140)\r\n' +
+    '\t\t\t\t\t\t21:05 to 21:30 (25 + 510 = 535)\r\n' +
+    '\t\t\t\t\t\t21:30 to 21:45 (15 + 535 = 550)\r\n' +
+    '\t\t\t\t\t\t\tAnki Review\r\n' +
+    '\t\t\t\t\t\t21:45 to 23:10 (B 85 + 140 = 225)\r\n' +
+    '\t\t\t\t\tDay45-20201102\r\n' +
+    '\t\t\t\t\t\t2.5 hours\r\n' +
+    '\t\t\t\t\t\t23:10 to 0:00 (50 + 550 = 600)\r\n' +
+    '\t\tNOTES\r\n' +
+    '\t\t\t完全突破了昨日吗？没有就好好专心突破自己。\r\n' +
+    '\t\t\t休息的时候就专心休息，不要搞这搞那。\r\n' +
+    '\t\t\t牢记使命，保持突破。\r\n' +
+    '\t\tSummary\r\n' +
+    '\t\t\tTime\r\n' +
+    '\t\t\t\t600 minutes in total\r\n' +
+    '\t\t\t\tFrom\r\n' +
+    '\t\t\t\t\t10:15\r\n' +
+    '\t\t\t\tTo\r\n' +
+    '\t\t\t\t\t0:0-\r\n' +
+    '\t\t\t总体来说你还可以做的更好，最少能再多学 1.5 小时。\r\n' +
+    '\tReflection\r\n' +
+    '\t\tThoughts\r\n' +
+    '\t\t\t拿出高中时的坚持、努力和毅力。再加上现在的自觉和认知。天下之大，哪里去不得？\r\n' +
+    '\t\t\t最近又开始变得松懈了，事实证明不自由之后才有更多的自由。\r\n' +
+    '\t\t\t松懈的一个重大原因就是你没有好好地量化计划、明确参考物。\r\n' +
+    '\t\t\t\t以后总是以昨日为参考\r\n' +
+    '\t\t\t\t以任务为导向，而不是时间',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '870b64820698f12cdca4ab76e5'
+  },
+  xapInfoMap: {}
+}
+[I 2021-11-13T01:08:08.743Z snowbrush] Export image time: from 1636765688743 to 1636765688743.
+[I 2021-11-13T01:08:16.018Z snowbrush] Export image time: from 1636765696018 to 1636765696018.
+[I 2021-11-13T01:10:19.023Z snowbrush] db write {
+  'text/plain': '10-29 (470 minutes, 7.83 hours)\r\n' +
+    '\tRecords\r\n' +
+    '\t\t19:45 to 20:10 (25 + 0 = 25)\r\n' +
+    '\t\t\tAnki Review\r\n' +
+    '\t\t\t\t01HTML+CSS\r\n' +
+    '\t\t\t\t\tDay01 to Day09\r\n' +
+    '\t\t20:15 to 22:00 (105 + 25 = 130)\r\n' +
+    '\t\t\tAnki Review\r\n' +
+    '\t\t\t\t01HTML+CSS\r\n' +
+    '\t\t\t\t\tDay10\r\n' +
+    '\t\t\t01HTML+CSS\r\n' +
+    '\t\t\t\t20200908\r\n' +
+    '\t\t\t\t20200909\r\n' +
+    '\t\t22:00 to 22:10\r\n' +
+    '\t\t\tWorkout\r\n' +
+    '\t\t\t\tSquats\r\n' +
+    '\t\t\t\t\t40\r\n' +
+    '\t\t22:10 to 0:00 (110 + 130 = 240)\r\n' +
+    '\t\t\tLearning\r\n' +
+    '\t\t\t\tAnki Review\r\n' +
+    '\t\t\t\t\t01HTML+CSS\r\n' +
+    '\t\t\t\t\t\tDay11_20200909\r\n' +
+    '\t\t\t\t01HTML+CSS\r\n' +
+    '\t\t\t\t\t20200911\r\n' +
+    '\t\t0:00 to 0:10\r\n' +
+    '\t\t\tWorkout\r\n' +
+    '\t\t\t\tPushups\r\n' +
+    '\t\t\t\t\t12\r\n' +
+    '\t\t0:10 to 1:00 (50 + 240 = 290)\r\n' +
+    '\t\t\tLearning\r\n' +
+    '\t\t\t\tAnki Review\r\n' +
+    '\t\t\t\t\t01HTML+CSS\r\n' +
+    '\t\t\t\t\t\tDay12_20200911\r\n' +
+    '\t\t\t\t\t\t1/3 OLD\r\n' +
+    '\t\t\t\t01HTML+CSS\r\n' +
+    '\t\t1:00 to 1:15\r\n' +
+    '\t\t\tBreak\r\n' +
+    '\t\t\tLinux tuning\r\n' +
+    '\t\t1:15 to 2:30 (75 + 290 = 365)\r\n' +
+    '\t\t\tLearning\r\n' +
+    '\t\t\t\t01HTML+CSS\r\n' +
+    '\t\t\t\t\t1/2 Day12_20200911\r\n' +
+    '\t\t2:30 to 2:40\r\n' +
+    '\t\t\tBreak\r\n' +
+    '\t\t2:40 to 4:25 (105 + 365  = 470)\r\n' +
+    '\t\t\tLearning\r\n' +
+    '\t\t\t\t01HTML+CSS\r\n' +
+    '\t\t\t\t\tDay12_20200911\r\n' +
+    '\t\t\t\t\tDay13_20200912\r\n' +
+    '\t\t4:25 to 4:35\r\n' +
+    '\t\t\tBreak\r\n' +
+    '\t\t4:35 to 6:15 (100)\r\n' +
+    '\t\t\tMake detailed plans\r\n' +
+    '\t\t6:15 to 6:50\r\n' +
+    '\t\t\tBreak\r\n' +
+    '\t\t\tEntertainment\r\n' +
+    '\t\t\t牢记使命\r\n' +
+    '\t\t6:50 to \r\n' +
+    '\t\t\tSummary\r\n' +
+    '\tSummary\r\n' +
+    '\t\t470 minutes in total\r\n' +
+    '10-30 (885 minutes, 14.75 hours)\r\n' +
+    '\tRecords\r\n' +
+    '\t\t7:00 to 7:35 (35 + 0 = 35)\r\n' +
+    '\t\t\tLearning\r\n' +
+    '\t\t\t\tAnki Review\r\n' +
+    '\t\t\t\t\t01HTML+CSS\r\n' +
+    '\t\t7:35 to 9:05 (90 + 35 = 125)\r\n' +
+    '\t\t\tLearning\r\n' +
+    '\t\t\t\t01HTML+CSS\r\n' +
+    '\t\t\t\t\t1/2 Day14_20200914\r\n' +
+    '\t\t9:05 to 9:15\r\n' +
+    '\t\t\tBreak\r\n' +
+    '\t\t9:15 to 10:50 (95 + 125 = 220)\r\n' +
+    '\t\t\tLearning\r\n' +
+    '\t\t\t\t01HTML+CSS\r\n' +
+    '\t\t\t\t\t2/2 Day14_20200914\r\n' +
+    '\t\t10:50 to 11:10 (20)\r\n' +
+    '\t\t\tWash up\r\n' +
+    '\t\t11:10 to 11:25\r\n' +
+    '\t\t\tBreak\r\n' +
+    '\t\t11:25 to 12:25 (60 + 220 = 280)\r\n' +
+    '\t\t\tLearning\r\n' +
+    '\t\t\t\t01HTML+CSS\r\n' +
+    '\t\t\t\t\t1/4 Day15_20200915\r\n' +
+    '\t\t12:25 to 17:30\r\n' +
+    '\t\t\tBreak\r\n' +
+    '\t\t\tSleep\r\n' +
+    '\t\t\tDinner\r\n' +
+    '\t\t17:30 to 20:45 (195 + 280 = 475)\r\n' +
+    '\t\t\tLearning\r\n' +
+    '\t\t\t\t01HTML+CSS\r\n' +
+    '\t\t\t\t\tDay15_20200915\r\n' +
+    '\t\t20:45 to 21:05 (20)\r\n' +
+    '\t\t\tBreak\r\n' +
+    '\t\t21:05 to 21:35 (30 + 475 = 505)\r\n' +
+    '\t\t\tLearning\r\n' +
+    '\t\t\t\tAnki Review\r\n' +
+    '\t\t\t\t\tAll of 01HTML+CSS\r\n' +
+    '\t\t21:35 to 22:10\r\n' +
+    '\t\t\tBreak\r\n' +
+    '\t\t\tGetting ready for next challenge\r\n' +
+    '\t\t22:10 to 23:40 (90 + 505 = 595)\r\n' +
+    '\t\t\tLearning\r\n' +
+    '\t\t\t\t02JavaScript\r\n' +
+    '\t\t\t\t\tDay16_20200916\r\n' +
+    '\t\t\t\tAnki Review\r\n' +
+    '\t\t\t\t\tDay16_20200916\r\n' +
+    '\t\t23:40 to 0:05\r\n' +
+    '\t\t\tBreak\r\n' +
+    '\t\t\tEntertainment\r\n' +
+    '\t\t0:05 to 1:05 (60 + 595 = 655)\r\n' +
+    '\t\t\tLearning\r\n' +
+    '\t\t\t\t02JavaScript\r\n' +
+    '\t\t\t\t\tDay17_20200918\r\n' +
+    '\t\t\t\tAnki Review\r\n' +
+    '\t\t\t\t\tDay17_20200918\r\n' +
+    '\t\t1:05 to 1:15\r\n' +
+    '\t\t\tBreak\r\n' +
+    '\t\t1:15 to 2:30 (75 + 655 = 730)\r\n' +
+    '\t\t\tLearning\r\n' +
+    '\t\t\t\t02JavaScript\r\n' +
+    '\t\t\t\t\tDay18_20200919\r\n' +
+    '\t\t\t\t\tDay19_20200921\r\n' +
+    '\t\t\t\tAnki Review\r\n' +
+    '\t\t\t\t\tDay18_20200919\r\n' +
+    '\t\t\t\t\tDay19_20200921\r\n' +
+    '\t\t2:30 to 2:55\r\n' +
+    '\t\t\tBreak\r\n' +
+    '\t\t2:55 to 4:35 (100 + 730 = 830)\r\n' +
+    '\t\t\tLearning\r\n' +
+    '\t\t\t\t02JavaScript\r\n' +
+    '\t\t\t\t\tDay20_20200922\r\n' +
+    '\t\t4:35 to 5:15\r\n' +
+    '\t\t\tBreak\r\n' +
+    '\t\t5:15 to 6:10 (55 + 830 = 885)\r\n' +
+    '\t\t\tLearning\r\n' +
+    '\t\t\t\tAnki Review\r\n' +
+    '\t\t\t\t\tDay20_20200922\r\n' +
+    '\tSummary\r\n' +
+    '\t\t885 minutes, 14 hours and 45 minutes\r\n' +
+    '\t\tLearning\r\n' +
+    '\t\t\tAnki Review\r\n' +
+    '\t\t\t\t01HTML+CSS\r\n' +
+    '\t\t\t01HTML+CSS\r\n' +
+    '\t\t\t\tDay14_20200914\r\n' +
+    '\t\t\t\tDay15_20200915\r\n' +
+    '\t\t\t02JavaScript\r\n' +
+    '\t\t\t\tDay16_20200916\r\n' +
+    '\t\t\t\tDay17_20200918\r\n' +
+    '\t\t\t\tDay18_20200919\r\n' +
+    '\t\t\t\tDay19_20200921\r\n' +
+    '\t\t\t\tDay20_20200922\r\n' +
+    '10-31 (610 minutes, 10.17 hours)\r\n' +
+    '\tRecords\r\n' +
+    '\t\t7:00 to 7:25 (25 + 0 = 25)\r\n' +
+    '\t\t\tLearning\r\n' +
+    '\t\t\t\tAnki Review\r\n' +
+    '\t\t\t\t\t01HTML+CSS\r\n' +
+    '\t\t7:25 to 7:45 (20 + 25 = 45)\r\n' +
+    '\t\t\tLearning\r\n' +
+    '\t\t\t\tAnki Review\r\n' +
+    '\t\t\t\t\t02JavaScript\r\n' +
+    '\t\t7:50 to 9:25 (95 + 45 = 140)\r\n' +
+    '\t\t\tLearning\r\n' +
+    '\t\t\t\t02JavaScript\r\n' +
+    '\t\t\t\t\tDay21-20200923\r\n' +
+    '\t\t9:25 to 10:55 (90)\r\n' +
+    '\t\t\tBreak\r\n' +
+    '\t\t\tMake lunch\r\n' +
+    '\t\t\tLunch\r\n' +
+    '\t\t10:55 to 11:10 (15 + 140 = 155)\r\n' +
+    '\t\t\tLearning\r\n' +
+    '\t\t\t\tAnki Review\r\n' +
+    '\t\t\t\t\tDay21-20200923\r\n' +
+    '\t\t11:10 to 19:10\r\n' +
+    '\t\t\tSleep\r\n' +
+    '\t\t19:10 to 19:30\r\n' +
+    '\t\t\tGetting ready\r\n' +
+    '\t\t\tChat\r\n' +
+    '\t\t19:30 to 22:05 (155 + 155 = 310)\r\n' +
+    '\t\t\tLearning\r\n' +
+    '\t\t\t\t02JavaScript\r\n' +
+    '\t\t\t\t\t4/5 Day22-20200924\r\n' +
+    '\t\t22:05 to 23:10 (65)\r\n' +
+    '\t\t\tBreak\r\n' +
+    '\t\t23:10 to 23:55 (45 + 310 = 355)\r\n' +
+    '\t\t\tLearning\r\n' +
+    '\t\t\t\t02JavaScript\r\n' +
+    '\t\t\t\t\t5/5 Day22-20200924\r\n' +
+    '\t\t\t\tAnki Review\r\n' +
+    '\t\t\t\t\t02JavaScript\r\n' +
+    '\t\t\t\t\t\tDay22-20200924\r\n' +
+    '\t\t0:05 to 0:15 (15 + 355 = 370)\r\n' +
+    '\t\t\tLearning\r\n' +
+    '\t\t\t\tAnki Review\r\n' +
+    '\t\t\t\t\t02JavaScript\r\n' +
+    '\t\t\t\t\t\tDay23-20200925\r\n' +
+    '\t\t0:15 to 1:25 (70 + 370 = 440)\r\n' +
+    '\t\t\tLearning\r\n' +
+    '\t\t\t\t02JavaScript\r\n' +
+    '\t\t\t\t\tDay23-20200925\r\n' +
+    '\t\t1:25 to 4:00\r\n' +
+    '\t\t\tBreak\r\n' +
+    '\t\t\tOthers\r\n' +
+    '\t\t\tLOL semi-final: EDG VS GEN\r\n' +
+    '\t\t4:00 to 5:40 (100 + 440 = 540)\r\n' +
+    '\t\t\tLearning\r\n' +
+    '\t\t\t\tAnki Review\r\n' +
+    '\t\t\t\t\t02JavaScript\r\n' +
+    '\t\t\t\t\t\tDay24-20200927\r\n' +
+    '\t\t\t\t02JavaScript\r\n' +
+    '\t\t\t\t\tDay24-20200927\r\n' +
+    '\t\t5:40 to 6:30\r\n' +
+    '\t\t\tBreak\r\n' +
+    '\t\t\tSearching for front-end telegram groups\r\n' +
+    '\t\t6:30 to 7:40 (70 + 540 = 610)\r\n' +
+    '\t\t\tLearning\r\n' +
+    '\t\t\t\tAnki Review\r\n' +
+    '\t\t\t\t\t02JavaScript\r\n' +
+    '\t\t\t\t\t\tDay24-20200927\r\n' +
+    '\t\t\t\t02JavaScript\r\n' +
+    '\t\t\t\t\tDay24-20200927\r\n' +
+    '\tSummary (610 minutes, 10.17 hours)\r\n' +
+    '\t\tFrom\r\n' +
+    '\t\t\t7:00\r\n' +
+    '\t\tTo\r\n' +
+    '\t\t\t7:40 (the next day)\r\n' +
+    '\t\tSleep\r\n' +
+    '\t\t\t11:10 to 19:10 (8 hours)\r\n' +
+    '\t\tMaybe\r\n' +
+    '\t\t\t4 to 6 hours\r\n' +
+    '\t\tDONE\r\n' +
+    '\t\t\tLearning\r\n' +
+    '\t\t\t\tAnki Review\r\n' +
+    '\t\t\t\t\t01HTML+CSS\r\n' +
+    '\t\t\t\t\t02JavaScript\r\n' +
+    '\t\t\t\t02JavaScript\r\n' +
+    '\t\t\t\t\tDay21-20200923\r\n' +
+    '\t\t\t\t\tDay22-20200924\r\n' +
+    '\t\t\t\t\tDay23-20200925\r\n' +
+    '\t\t\t\t\tDay24-20200927',
+  'text/x-array-json': [
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] }
+  ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '870b64820698f12cdca4ab76e5'
+  },
+  xapInfoMap: {}
+}
+[I 2021-11-13T01:11:00.880Z snowbrush] Export image time: from 1636765860879 to 1636765860880.
+[I 2021-11-13T01:12:30.292Z snowbrush] db write {
+  'text/plain': 'NOTES\r\n\t完全突破了昨日吗？没有就好好专心突破自己。\r\n\t休息的时候就专心休息，不要搞这搞那。\r\n\t牢记使命，保持突破。',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '870b64820698f12cdca4ab76e5'
+  },
+  xapInfoMap: {}
+}
+[I 2021-11-13T01:13:24.782Z snowbrush] Export image time: from 1636766004782 to 1636766004782.
+[I 2021-11-13T01:15:29.701Z snowbrush] Export image time: from 1636766129701 to 1636766129701.
+[I 2021-11-13T01:15:33.751Z snowbrush] Export image time: from 1636766133751 to 1636766133751.
+[I 2021-11-13T01:16:31.744Z snowbrush] db write {
+  'text/plain': 'Anki Review (80)\r\n' +
+    '\t01HTML+CSS (15)\r\n' +
+    '\t\t10:15 to 10:30 (15 + 0 = 15)\r\n' +
+    '\t02JavaScript (25)\r\n' +
+    '\t\t10:30 to 10:55 (25 + 15 = 40)\r\n' +
+    '\t03PC+JS+jQuery+Bootstrap (40)\r\n' +
+    '\t\t10:55 to 11:25 (30 + 40 = 70)\r\n' +
+    '\t\t11:25 to 11:35 (B 10 + 0 = 10)\r\n' +
+    '\t\t11:35 to 11:45 (10 + 70 = 80)\r\n' +
+    '\tNOTES\r\n' +
+    '\t\t完全突破了昨日吗？没有就好好专心突破自己。\r\n' +
+    '\t\t休息的时候就专心休息，不要搞这搞那。\r\n' +
+    '\t\t牢记使命，保持突破。',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '870b64820698f12cdca4ab76e5'
+  },
+  xapInfoMap: {}
+}
+[I 2021-11-13T01:16:43.843Z snowbrush] Export image time: from 1636766203843 to 1636766203843.
+[I 2021-11-13T01:17:04.917Z snowbrush] db write {
+  'text/plain': '3.5 hours',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '870b64820698f12cdca4ab76e5'
+  },
+  xapInfoMap: {}
+}
+[I 2021-11-13T01:17:13.438Z snowbrush] db write {
+  'text/plain': '3.5 hours',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '870b64820698f12cdca4ab76e5'
+  },
+  xapInfoMap: {}
+}
+[I 2021-11-13T01:18:37.229Z snowbrush] Export image time: from 1636766317228 to 1636766317229.
+[I 2021-11-13T01:19:20.500Z snowbrush] db write {
+  'text/plain': 'Day46-20201103\r\n' +
+    '\t3.5 hours\r\n' +
+    'Day47-20201104\r\n' +
+    '\t3.5 hours\r\n' +
+    'Day48-20201106\r\n' +
+    '\t3.5 hours',
+  'text/x-array-json': [
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] }
+  ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '870b64820698f12cdca4ab76e5'
+  },
+  xapInfoMap: {}
+}
+[I 2021-11-13T01:19:47.525Z snowbrush] db write {
+  'text/plain': '1/4 Day49-20201107\r\n\t3 hours',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '870b64820698f12cdca4ab76e5'
+  },
+  xapInfoMap: {}
+}
+[I 2021-11-13T01:20:23.537Z snowbrush] Export image time: from 1636766423537 to 1636766423537.
+[I 2021-11-13T01:23:16.599Z snowbrush] Export image time: from 1636766596599 to 1636766596599.
+[I 2021-11-13T01:31:58.138Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-13T01:31:58.139Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-13T02:31:58.162Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-13T02:31:58.163Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-13T02:38:46.743Z snowbrush] db write {
+  'text/plain': 'NOTES\r\n\t完全突破了昨日吗？没有就好好专心突破自己。\r\n\t休息的时候就专心休息，不要搞这搞那。\r\n\t牢记使命，保持突破。',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [ [Object] ],
+    summary: [],
+    sheetId: '870b64820698f12cdca4ab76e5'
+  },
+  xapInfoMap: {}
+}
+[I 2021-11-13T02:39:30.851Z snowbrush] Export image time: from 1636771170850 to 1636771170851.
+[I 2021-11-13T02:40:02.822Z snowbrush] Export image time: from 1636771202821 to 1636771202822.
+[I 2021-11-13T03:31:58.177Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-13T03:31:58.177Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-13T03:35:41.709Z snowbrush] Export image time: from 1636774541697 to 1636774541697.
+[I 2021-11-13T03:58:13.328Z snowbrush] Export image time: from 1636775893315 to 1636775893316.
+[I 2021-11-13T04:31:58.195Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-13T04:31:58.196Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-13T05:31:58.241Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-13T05:31:58.241Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-13T06:01:36.372Z snowbrush] Export image time: from 1636783296359 to 1636783296360.
+[I 2021-11-13T06:01:59.522Z snowbrush] Export image time: from 1636783319522 to 1636783319522.
+[I 2021-11-13T06:31:58.274Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-13T06:31:58.275Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-13T07:06:38.844Z snowbrush] Export image time: from 1636787198844 to 1636787198844.
+[I 2021-11-13T07:06:57.404Z snowbrush] Export image time: from 1636787217404 to 1636787217404.
+[I 2021-11-13T07:16:48.806Z snowbrush] db write {
+  'text/plain': 'NOTES\r\n\t完全突破了昨日吗？没有就好好专心突破自己。\r\n\t休息的时候就专心休息，不要搞这搞那。\r\n\t牢记使命，保持突破。',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [ [Object] ],
+    summary: [],
+    sheetId: '870b64820698f12cdca4ab76e5'
+  },
+  xapInfoMap: {}
+}
+[I 2021-11-13T07:17:34.837Z snowbrush] db write {
+  'text/plain': '15:15 to ',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '870b64820698f12cdca4ab76e5'
+  },
+  xapInfoMap: {}
+}
+[I 2021-11-13T07:18:04.650Z snowbrush] Export image time: from 1636787884650 to 1636787884650.
+[I 2021-11-13T07:31:58.318Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-13T07:31:58.318Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-13T07:34:14.824Z snowbrush] Export image time: from 1636788854819 to 1636788854819.
+[I 2021-11-13T07:34:36.464Z snowbrush] Export image time: from 1636788876464 to 1636788876464.
+[I 2021-11-13T07:42:44.836Z snowbrush] Export image time: from 1636789364836 to 1636789364836.
+[I 2021-11-13T08:31:58.357Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-13T08:31:58.357Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-13T09:31:58.396Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-13T09:31:58.399Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-13T10:31:58.432Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-13T10:31:58.433Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-13T10:50:00.182Z snowbrush] Export image time: from 1636800600182 to 1636800600182.
+[I 2021-11-13T10:51:51.308Z snowbrush] Export image time: from 1636800711308 to 1636800711308.
+[I 2021-11-13T10:51:57.297Z snowbrush] Export image time: from 1636800717297 to 1636800717297.
+[I 2021-11-13T10:52:17.562Z snowbrush] db write {
+  'text/plain': '牢记使命，保持突破。',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '870b64820698f12cdca4ab76e5'
+  },
+  xapInfoMap: {}
+}
+[I 2021-11-13T10:52:22.326Z snowbrush] Export image time: from 1636800742326 to 1636800742326.
+[I 2021-11-13T10:52:49.506Z snowbrush] Export image time: from 1636800769506 to 1636800769506.
+[I 2021-11-13T10:53:27.243Z snowbrush] Export image time: from 1636800807242 to 1636800807243.
+[I 2021-11-13T11:13:39.622Z snowbrush] Export image time: from 1636802019610 to 1636802019611.
+[I 2021-11-13T11:31:58.462Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-13T11:31:58.464Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-13T12:27:42.893Z snowbrush] Export image time: from 1636806462881 to 1636806462881.
+[I 2021-11-13T12:28:40.694Z snowbrush] Export image time: from 1636806520694 to 1636806520694.
+[I 2021-11-13T12:31:58.466Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-13T12:31:58.467Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-13T12:44:24.272Z snowbrush] db write {
+  'text/plain': 'Anki Review',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '870b64820698f12cdca4ab76e5'
+  },
+  xapInfoMap: {}
+}
+[I 2021-11-13T13:19:12.521Z snowbrush] db write {
+  'text/plain': 'NOTES\r\n' +
+    '\t只要你能保持突破，或者保持追求突破，你就是自己的神！\n' +
+    '牢记使命，保持突破。\r\n' +
+    '\t完全突破了昨日吗？没有就好好专心突破自己。\r\n' +
+    '\t休息的时候就专心休息，不要搞这搞那。',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: '870b64820698f12cdca4ab76e5'
+  },
+  xapInfoMap: {}
+}
+[I 2021-11-13T13:19:16.254Z snowbrush] Export image time: from 1636809556254 to 1636809556254.
+[I 2021-11-13T13:19:27.639Z snowbrush] Export image time: from 1636809567639 to 1636809567639.
+[I 2021-11-13T13:31:58.478Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-13T13:31:58.480Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-13T13:57:55.813Z snowbrush] Export image time: from 1636811875813 to 1636811875813.
+[I 2021-11-13T14:16:14.077Z snowbrush] Export image time: from 1636812974065 to 1636812974066.
+[I 2021-11-13T14:16:26.319Z snowbrush] Export image time: from 1636812986318 to 1636812986319.
+[I 2021-11-13T14:17:01.435Z snowbrush] Export image time: from 1636813021435 to 1636813021435.
+[I 2021-11-13T14:31:58.482Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-13T14:31:58.482Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-13T15:05:01.362Z snowbrush] Export image time: from 1636815901353 to 1636815901354.
+[I 2021-11-13T15:31:58.487Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-13T15:31:58.490Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-11-13T15:36:22.438Z snowbrush] Export image time: from 1636817782426 to 1636817782427.
+[I 2021-11-13T15:36:45.345Z snowbrush] Export image time: from 1636817805345 to 1636817805345.

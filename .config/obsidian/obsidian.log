@@ -1,0 +1,21 @@
+2021-12-15 15:20:43 Loading main app package /opt/obsidian/resources/obsidian.asar
+2021-12-15 15:20:43 Checking for update using Github
+2021-12-15 15:20:43 Failed to check for update using Github (net::ERR_CONNECTION_REFUSED)
+2021-12-15 15:20:43 Checking for update using obsidian.md
+2021-12-15 15:20:44 Success.
+2021-12-15 15:20:44 Latest version is 0.12.19
+2021-12-15 15:20:44 App is up to date.
+2021-12-16 06:14:16 Loading main app package /opt/obsidian/resources/obsidian.asar
+2021-12-16 06:14:17 Checking for update using Github
+2021-12-16 06:14:17 Failed to check for update using Github (net::ERR_CONNECTION_REFUSED)
+2021-12-16 06:14:17 Checking for update using obsidian.md
+2021-12-16 06:14:17 Success.
+2021-12-16 06:14:17 Latest version is 0.12.19
+2021-12-16 06:14:17 App is up to date.
+2021-12-16 06:24:36 Loading main app package /opt/obsidian/resources/obsidian.asar
+2021-12-16 06:24:37 Checking for update using Github
+2021-12-16 06:24:37 Failed to check for update using Github (net::ERR_CONNECTION_REFUSED)
+2021-12-16 06:24:37 Checking for update using obsidian.md
+2021-12-16 06:24:37 Success.
+2021-12-16 06:24:37 Latest version is 0.12.19
+2021-12-16 06:24:37 App is up to date.

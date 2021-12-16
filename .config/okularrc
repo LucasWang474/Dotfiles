@@ -11,17 +11,33 @@ shouldShowToolBarComingFromFullScreen=false
 
 [MainWindow]
 MenuBar=Disabled
-State=AAAA/wAAAAD9AAAAAAAAB3oAAAQVAAAABAAAAAQAAAAIAAAACPwAAAACAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAAAAAAAgAAAAEAAAAiAGEAbgBuAG8AdABhAHQAaQBvAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAAB3oAAAQWAAAABAAAAAQAAAAIAAAACPwAAAADAAAAAQAAAAEAAAAsAHEAdQBpAGMAawBBAG4AbgBvAHQAYQB0AGkAbwBuAFQAbwBvAGwAQgBhAHICAAAAAP////8AAAAAAAAAAAAAAAIAAAABAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIAAAAAAP////8AAAAAAAAAAAAAAAIAAAABAAAAIgBhAG4AbgBvAHQAYQB0AGkAbwBuAFQAbwBvAGwAQgBhAHIAAAAAAP////8AAAAAAAAAAA==
 ToolBarsMovable=Disabled
-eDP HDMI-A-0 Height 1920x1080=1045
+eDP HDMI-A-0 Height 1920x1080=1046
 eDP HDMI-A-0 Width 1920x1080=1914
 eDP HDMI-A-0 XPosition 1920x1080=3
-eDP HDMI-A-0 YPosition 1920x1080=32
+eDP HDMI-A-0 YPosition 1920x1080=31
 eDP Height 1920x1080=1047
 eDP Width 1920x1080=1916
 eDP XPosition 1920x1080=2
 eDP YPosition 1920x1080=31
 
 [Recent Files]
-File1[$e]=$HOME/Downloads/BaiduNetdiskDownloads/Courses/SGG-Front-end-Videos/01第一阶段/html5+css3刘志远/20200914html5+css3/尚硅谷web前端HTML+CSS笔记.pdf
-Name1[$e]=尚硅谷web前端HTML+CSS笔记.pdf
+File1[$e]=$HOME/Documents/Computer_Science/Algorithms/Courses/ZCY01/Notes/基础/算法基础入门班第一课.pdf
+File2[$e]=$HOME/Documents/Computer_Science/Algorithms/Courses/ZCY00/Notes/03中级班/1.1 课前预习（课件+源码）/算法中级班第一课.pdf
+File3[$e]=$HOME/Documents/Computer_Science/Algorithms/Courses/ZCY00/Notes/04高级班/1.1 课前预习（课件+源码）/算法高级班第一课.pdf
+File4[$e]=$HOME/Documents/Computer_Science/Algorithms/Courses/ZCY00/Notes/01基础班/算法基础入门班第二课.pdf
+File5[$e]=$HOME/Codes/My-Front-end-Learning/02-JavaScript-Basics/Notes/js基础题.pdf
+File6[$e]=$HOME/Codes/My-Front-end-Learning/02-JavaScript-Basics/Notes/前端第二阶段考试题(四).pdf
+File7[$e]=$HOME/Downloads/BaiduNetdiskDownloads/Courses/SGG-Front-end-Videos/Front End Developer Guide 2021.pdf
+File8[$e]=$HOME/Codes/My-Front-end-Learning/04-git+ES6+nodeJS+http+npm+express+mongoDB/Notes/02ES6/2-ES6/尚硅谷前端_ES6.pdf
+File9[$e]=$HOME/Documents/Linux/Books/The-Linux-Command-Line-A-Complete-Introduction.pdf
+Name1[$e]=算法基础入门班第一课.pdf
+Name2[$e]=算法中级班第一课.pdf
+Name3[$e]=算法高级班第一课.pdf
+Name4[$e]=算法基础入门班第二课.pdf
+Name5[$e]=js基础题.pdf
+Name6[$e]=前端第二阶段考试题(四).pdf
+Name7[$e]=Front End Developer Guide 2021.pdf
+Name8[$e]=尚硅谷前端_ES6.pdf
+Name9[$e]=The-Linux-Command-Line-A-Complete-Introduction.pdf
